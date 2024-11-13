@@ -23,7 +23,7 @@ jobs:
               with:
                   node-version: '20.x'
             - run: npm init -y
-            name: Install modules
+            - name: Install modules
             - run: npm i puppeteer
             - name: Run script
               run: |
