@@ -26,6 +26,8 @@ jobs:
             - name: Run script
               run: |
                   npm i puppeteer && node src/index.js
+              env:
+                  WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
             - name: set email
               run: |
                   git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"

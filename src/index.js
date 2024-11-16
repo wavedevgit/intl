@@ -1,5 +1,6 @@
 import puppeteer from 'puppeteer';
 import fs from 'fs/promises';
+import { sendToWebhook } from './comments.js';
 
 const browser = await puppeteer.launch();
 const page = await browser.newPage();
@@ -31,5 +32,7 @@ const strings = await req.json();
 const sortedStrings = {};
 const storedKeys = Object.keys(strings).sort();
 for (let key of storedKeys) sortedStrings[key] = strings[key];
+const beforeStrings = JSON.parse(await fs.readFile('./data/strings.json', 'utf-8'));
 await fs.writeFile('./data/strings.json', JSON.stringify(sortedStrings, null, 4), 'utf-8');
 await browser.close();
+sendToWebhook(beforeStrings, sortedStrings);
