@@ -17,6 +17,7 @@ const stringsUnformatted = await page.evaluate(() => {
         );
     return chunks.map((chunkId) => wreq(chunkId).default);
 });
+console.log(stringsUnformatted.length);
 const apiUrl = 'https://intl-stuff.wavedev.lol/api/parse';
 const req = await fetch(apiUrl, {
     method: 'POST',
@@ -27,5 +28,8 @@ const req = await fetch(apiUrl, {
     body: JSON.stringify(stringsUnformatted),
 });
 const strings = await req.json();
-await fs.writeFile('./data/strings.json', JSON.stringify(strings, null, 4), 'utf-8');
+const sortedStrings = {};
+const storedKeys = Object.keys(strings).sort();
+for (let key of storedKeys) sortedStrings[key] = strings[key];
+await fs.writeFile('./data/strings.json', JSON.stringify(sortedStrings, null, 4), 'utf-8');
 await browser.close();
