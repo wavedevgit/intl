@@ -39,7 +39,7 @@ if (
     Object.key(beforeStrings) === Object.keys(sortedStrings)
 ) {
     console.log('No changes');
-    save = true;
+    save = false;
 }
 if (save) await fs.writeFile('./data/strings.json', JSON.stringify(sortedStrings, null, 4), 'utf-8');
 await browser.close();
