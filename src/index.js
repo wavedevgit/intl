@@ -33,6 +33,15 @@ const sortedStrings = {};
 const storedKeys = Object.keys(strings).sort();
 for (let key of storedKeys) sortedStrings[key] = strings[key];
 const beforeStrings = JSON.parse(await fs.readFile('./data/strings.json', 'utf-8'));
-await fs.writeFile('./data/strings.json', JSON.stringify(sortedStrings, null, 4), 'utf-8');
+let save = true;
+if (
+    Object.values(beforeStrings) === Object.values(sortedStrings) &&
+    Object.key(beforeStrings) === Object.keys(sortedStrings)
+) {
+    console.log('No changes');
+    save = true;
+}
+if (save) await fs.writeFile('./data/strings.json', JSON.stringify(sortedStrings, null, 4), 'utf-8');
 await browser.close();
-sendToWebhook(beforeStrings, sortedStrings);
+
+if (save) sendToWebhook(beforeStrings, sortedStrings);
