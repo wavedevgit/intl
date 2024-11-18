@@ -20,7 +20,14 @@ const stringsUnformatted = await page.evaluate(() => {
     return chunks.map((chunkId) => wreq(chunkId).default);
 });
 console.log(stringsUnformatted.length);
-const strings = new Strings(stringsUnformatted).parseStrings();
+let strings = new Strings(stringsUnformatted).parseStrings();
+const mappings = await (
+    await fetch('https://raw.githubusercontent.com/happyendermangit/intl/refs/heads/main/mappings.json')
+).json();
+for (let key in strings) {
+    // @ts-ignore
+    strings[mappings[key] ?? key] = strings[key];
+}
 const sortedStrings = {};
 const storedKeys = Object.keys(strings).sort();
 for (let key of storedKeys) sortedStrings[key] = strings[key];
