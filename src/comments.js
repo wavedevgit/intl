@@ -10,10 +10,7 @@ export function generateDiff(a, b) {
         // added
         if (a[key] === undefined) result.added.push(`+ ${key}: "${b[key]}"`);
     }
-    let resultString = `\`\`\`diff\n${result.added.length ? '# Added:\n' + result.added.join('\n') : ''}
-    ${result.removed.length ? '# Removed:\n' + result.removed.join('\n') : ''}
-    ${result.updated.length ? '# Updated:\n' + result.updated.join('\n') : ''}\n\`\`\`
-    `;
+    let resultString = `\`\`\`diff\n${result.added.length ? '# Added:\n' + result.added.join('\n') : ''}${result.removed.length ? '\n# Removed:\n' + result.removed.join('\n') : ''}${result.updated.length ? '\n# Updated:\n' + result.updated.join('\n') : ''}\n\`\`\``;
     if (!result.removed.length && !result.added.length && !result.updated.length) return null;
     return resultString;
 }
