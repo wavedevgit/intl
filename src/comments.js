@@ -4,7 +4,8 @@ export function generateDiff(a, b) {
         // removed
         if (b[key] === undefined) result.removed.push(`- ${key}: "${a[key]}"`);
         // updated
-        if (a[key] !== b[key]) result.updated.push(`- ${key}: "${a[key]}"\n+ ${key}: "${b[key]}"`);
+        if (a[key] !== b[key] && b[key] !== undefined)
+            result.updated.push(`- ${key}: "${a[key]}"\n+ ${key}: "${b[key]}"`);
     }
     for (let key in b) {
         // added
