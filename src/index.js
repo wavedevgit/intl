@@ -1,6 +1,7 @@
 import puppeteer from 'puppeteer';
 import fs from 'fs/promises';
 import { sendToWebhook } from './comments.js';
+import Strings from './Strings.js';
 
 const browser = await puppeteer.launch();
 const page = await browser.newPage();
@@ -19,16 +20,7 @@ const stringsUnformatted = await page.evaluate(() => {
     return chunks.map((chunkId) => wreq(chunkId).default);
 });
 console.log(stringsUnformatted.length);
-const apiUrl = 'https://intl-stuff.wavedev.lol/api/parse';
-const req = await fetch(apiUrl, {
-    method: 'POST',
-    headers: {
-        'Content-Type': 'application/json',
-        'User-Agent': 'ScraperBot/1.0',
-    },
-    body: JSON.stringify(stringsUnformatted),
-});
-const strings = await req.json();
+const strings = new Strings(stringsUnformatted).parseStrings();
 const sortedStrings = {};
 const storedKeys = Object.keys(strings).sort();
 for (let key of storedKeys) sortedStrings[key] = strings[key];
@@ -36,7 +28,7 @@ const beforeStrings = JSON.parse(await fs.readFile('./data/strings.json', 'utf-8
 let save = true;
 if (
     Object.values(beforeStrings) === Object.values(sortedStrings) &&
-    Object.key(beforeStrings) === Object.keys(sortedStrings)
+    Object.keys(beforeStrings) === Object.keys(sortedStrings)
 ) {
     console.log('No changes');
     save = true;

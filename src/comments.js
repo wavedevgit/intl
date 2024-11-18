@@ -34,6 +34,7 @@ export function sendToWebhook(a, b) {
             },
         ],
     });
+    console.log(diff)
     fetch(process.env.WEBHOOK_URL, {
         method: 'POST',
         headers: {
