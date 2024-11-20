@@ -27,7 +27,7 @@ export async function sendToWebhook(a, b) {
     }
     const buildInfo = JSON.parse(await fs.readFile('./data/buildInfo.json', 'utf-8'));
     const body = JSON.stringify({
-        content: null,
+        content: "<@1308863534213369967>",
         embeds: [
             {
                 color: 16737792,
