@@ -1,3 +1,5 @@
+import fs from 'fs/promises';
+
 export function generateDiff(a, b) {
     let result = { added: [], removed: [], updated: [] };
     for (let key in a) {
@@ -17,12 +19,13 @@ export function generateDiff(a, b) {
     if (!result.removed.length && !result.added.length && !result.updated.length) return [null, null];
     return [resultString, result];
 }
-export function sendToWebhook(a, b) {
+export async function sendToWebhook(a, b) {
     const [diff, data] = generateDiff(a, b);
     if (!diff) {
         console.log('No changes');
         return;
     }
+    const buildInfo = JSON.parse(await fs.readFile('./data/buildInfo.json', 'utf-8'));
     const body = JSON.stringify({
         content: null,
         embeds: [
@@ -31,6 +34,11 @@ export function sendToWebhook(a, b) {
                 title: `Strings (${data.added.length} (++) ${data.removed.length} (--) ${data.updated.length} (-+) )`,
                 // slice the string if its length is bigger then the limit of discord embeds description length
                 description: diff.length > 4096 ? diff.slice(0, 3999) + '...\n```' : diff,
+            },
+            {
+                color: 16737792,
+                title: 'Build info:',
+                description: `👽️ **\`Version Hash\`:** \`${buildInfo.versionHash}\`\n**\`Build Number\`:** \`${buildInfo.buildNumber}\``,
             },
         ],
     });
