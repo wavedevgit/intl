@@ -29,11 +29,11 @@ export default class Strings {
     }
     parseTagAsMarkdown(tagChildren, tagValue) {
         // bold tag
-        if (tagValue === 'b') {
+        if (tagValue === '$b') {
             return '**' + this.parseString(tagChildren) + '**';
         }
         // italic tag
-        if (tagValue === 'i') {
+        if (tagValue === '$i') {
             return '*' + this.parseString(tagChildren) + '*';
         }
         // code block tag
