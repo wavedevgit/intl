@@ -45,7 +45,10 @@ for (let strings of stringsUnformatted) {
         ast[mappings[key] || key] = strings[key];
     }
 }
-if (Object.values(ast) === Object.values(ast) && Object.keys(ast) === Object.keys(ast)) {
+if (
+    Object.values(sortedStrings) === Object.values(sortedStrings) &&
+    Object.keys(sortedStrings) === Object.keys(sortedStrings)
+) {
     console.log('No changes');
     save = false;
 }
