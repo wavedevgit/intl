@@ -4610,6 +4610,7 @@
     "DURATION_YEARS_AGO": "{years} {years, plural, =1 {year} other {years} } ago",
     "DURATION_YEARS_CAPITALIZE": "{years, plural, =1 {1 Year} other {!!{years}!! Years} }",
     "DURATION_YEARS_SHORT": "{years, plural, =1 {1y} other {!!{years}!!y} }",
+    "DV47Gx": "!!{gamePublisher}!! and !!{cosponsorName}!! are trying to reach certain kinds of Discord users. Based on what you’ve told us or other information we’ve collected, the following information was used to tell you about this Quest:",
     "E2EE_ANONYMOUS_DEVICE_TAG": "Device !!{index}!!",
     "E2EE_CALL_VERIFICATION_FOOTER_TEXT": "A new code is generated when people join or leave this call. Learn more about end-to-end encryption.",
     "E2EE_CALL_VERIFICATION_SUBTITLE": "Compare the numbers below with your friends. If they match, this call is end-to-end encrypted.",
