@@ -1,6 +1,7 @@
 {
     "+2QBZW": "Hmmm, we weren't able to load Shop Gifts. Check back later.",
     "+BJTcH": "Too much?",
+    "+WbSn5": "Accept Request",
     "+c5xtb": "Successfully updated",
     "+joqrK": "!!{username}!! ignored",
     "+o/sOj": "24-hour",
@@ -19598,6 +19599,7 @@
     "r91W/v": "{numberOfBlockedUsers, plural, one {1 account} other { accounts} }",
     "rJGMXV": "You have left the server",
     "rK4Gqq": "Go",
+    "rQSndn": "Ignore Request",
     "rTQZY2": "Full Screen",
     "rXUeOj": "{numberOfIgnoredUsers, plural, one {1 account} other { accounts} }",
     "rZEEvb": "Turn up the fun with Soundmoji [Beta]",
