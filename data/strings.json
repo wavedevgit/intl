@@ -10155,7 +10155,7 @@
     "ICYMI_SERVER_DISABLE_WARNING": "Turning this off means no content from this server will be shown.",
     "ICYMI_SERVER_SETTINGS": "Server Preferences",
     "ICYMI_SERVER_SETTINGS_CHANNELS_SUBTITLE": "Adjust how much content would you like to see from each channel.",
-    "ICYMI_SERVER_SETTINGS_SUBTITLE": "How much content would you like to see from !!{guildName} overall?",
+    "ICYMI_SERVER_SETTINGS_SUBTITLE": "How much content would you like to see from !!{guildName}!! overall?",
     "ICYMI_SETTING_NAME": "Hide ICYMI tab",
     "ICYMI_SHARE_ACTIVITY": "Share Activity",
     "ICYMI_SHARE_CONVO_SUMMARY": "Share Conversation",
