@@ -12771,6 +12771,7 @@
     "NUX_VALUE_PROPS_WELCOME_CARD_TITLE": "Welcome to Discord!",
     "NZDuBg": "[!!{actorName}!!]({{actorHook}}) unlocked HD streaming quality for the next {num, plural, one { hour} other { hours} }. Learn more",
     "N_DAYS": "{days, plural, one {1 day} other {!!{days}!! days} }",
+    "Na2lFx": "Client Info",
     "NjmXNj": "Don't show this alert again",
     "O+kBIC": "Unread Mentions",
     "OAUTH2_ADD_TO_GUILD": "Add to server:",
