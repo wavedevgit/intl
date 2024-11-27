@@ -3,6 +3,7 @@ import fs from 'fs/promises';
 export function generateDiff(a, b) {
     let result = { added: [], removed: [], updated: [] };
     for (let key in a) {
+        if (key === "PLAYSTATION") continue;
         // removed
         if (b[key] === undefined) result.removed.push(`- ${key}: "${a[key]}"`);
         // updated
@@ -10,6 +11,7 @@ export function generateDiff(a, b) {
             result.updated.push(`- ${key}: "${a[key]}"\n+ ${key}: "${b[key]}"`);
     }
     for (let key in b) {
+        if (key === "PLAYSTATION") continue;
         // added
         if (a[key] === undefined) result.added.push(`+ ${key}: "${b[key]}"`);
     }
