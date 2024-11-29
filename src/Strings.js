@@ -33,24 +33,30 @@ export default class Strings {
             return '**' + this.parseString(tagChildren) + '**';
         }
         // italic tag
-        if (tagValue === '$i') {
+        else if (tagValue === '$i') {
             return '*' + this.parseString(tagChildren) + '*';
         }
+        // paragraph
+        else if (tagValue === '$p') {
+            return this.parseString(tagChildren) + '\n\n';
+        }
         // code block tag
-        if (tagValue === 'code') {
+        else if (tagValue === '$code') {
             return '``' + this.parseString(tagChildren) + '``';
         }
         // link tag
-        if (tagValue === 'link') {
+        else if (tagValue === '$link') {
             // link name is always last children
             const linkName = this.parseString([[...tagChildren].pop()]);
             // link url is always first children
             const linkURL = this.parseString([tagChildren[0]]);
             return `[${linkName}](${linkURL})`;
-        }
-        // hooks
-        if (tagValue.endsWith('Hook')) {
-            return `[${this.parseString(tagChildren)}]({{${tagValue}}})`;
+        } else {
+            /**
+             * "Any other tag name is a hook, which just adds the `$[` on a link tag."
+             * https://github.com/discord/discord-intl/blob/main/packages/intl/src/message.ts#L137
+             */
+            return `$[${this.parseString(tagChildren)}]({{${tagValue}}})`;
         }
         return this.parseString(tagChildren);
     }
