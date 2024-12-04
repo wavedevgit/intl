@@ -3560,7 +3560,7 @@
     "CONTENT_INVENTORY_OVERLAY_INVITE_MESSAGE": "Want to play?",
     "CONTENT_INVENTORY_REACTION_USER_PLAYED": "{countOthers, plural, =0 {!!{user1}!!} =1 {!!{user1}!! and !!{user2}!!} other {!!{user1}!! and !!{countOthers}!! others} } played **!!{gameName}!!**",
     "CONTENT_INVENTORY_REACTION_USER_PLAYING": "{countOthers, plural, =0 {!!{user1}!! is playing} =1 {!!{user1}!! and !!{user2}!! are playing} other {!!{user1}!! and !!{countOthers}!! others are playing} } **!!{gameName}!!**",
-    "CONTENT_INVENTORY_REPLY_WITH_EMOJI": "Reply with !!{emojiName}!!",
+    "CONTENT_INVENTORY_REPLY_WITH_EMOJI": "Reply with :!!{emojiName}!!:",
     "CONTENT_INVENTORY_SWITCH_SEND_MESSAGE_TO_USER": "Switch to direct message",
     "CONTENT_INVENTORY_SWITCH_SHARE_TO_CHANNEL": "Switch to channel message",
     "CONTENT_INVENTORY_VIEW_ACTIVITY": "View Activity",
