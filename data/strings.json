@@ -68,7 +68,7 @@
     "5amppa": "{number, plural, =1 { account you ignored is} other { accounts you ignored are} } in this Stage.",
     "5nrJDA": "Boost Purchasing Currently Unavailable",
     "5yfN+v": "They won't know you ignored them",
-    "66UdFh": "{unreadsCount, plural, one { more unread} other {!!{unreadsCount}!! more unreads} }",
+    "66UdFh": "{unreadsCount, plural, one {!!{unreadsCount}!! more mention} other {!!{unreadsCount}!! more mentions} }",
     "67ZE+/": "$[]({{usernameHook1}}) and $[]({{usernameHook2}}) and 1 other person is here",
     "6AKLRk": "If you leave, they will still be ignored.",
     "6I1F3t": "Removed",
