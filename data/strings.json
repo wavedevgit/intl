@@ -9780,6 +9780,7 @@
     "HELP_ROLE_LOCKED": "Role is locked because it is a higher rank than your highest role.",
     "HELP_ROLE_LOCKED_MINE": "Role is locked because it is your highest ranked role. Please ask a higher rank or Server Owner for help.",
     "HELP_SINGULAR_PERMISSION": "You cannot modify this permission because removing it would remove it from you.",
+    "HGVrIy": "Add a non-server rules question to enable Apply to Join.",
     "HIDDEN_SPAM_MESSAGE_COUNT": "{count, plural, one {1 message hidden from likely spammer.} other {!!{count}!! messages hidden from likely spammer.} }",
     "HIDE": "Hide",
     "HIDE_CHAT": "Hide chat",
