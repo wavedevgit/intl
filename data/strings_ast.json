@@ -56083,7 +56083,7 @@
             ]
         ]
     ],
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
@@ -87981,6 +87981,28 @@
     "ICYMI_SHORT_TITLE": "ICYMI",
     "ICYMI_SHOW_NEGATIVE": "Show negative scored content",
     "ICYMI_SHOW_NSFW": "Show NSFW content",
+    "JiNPo6": [
+        "and ",
+        [
+            6,
+            "attachmentsCount",
+            {
+                "one": [
+                    "1 attachment"
+                ],
+                "other": [
+                    [
+                        1,
+                        "attachmentsCount"
+                    ],
+                    " attachments"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "6ojWOz": "What's on your mind?",
     "ICYMI_TITLE": "In Case You Missed It",
     "ICYMI_TOPICS_SUBTITLE": "Select at least one topic for improved server recommendations.",
     "ICYMI_TOPICS_TITLE": "What are some topics you’re interested in?",
