@@ -77421,6 +77421,8 @@
         ]
     ],
     "SWITCH_AUDIO_OUTPUT": "Change Audio Output",
+    "7YZ/Sk": "Switch to back camera",
+    "/R1SBw": "Switch to front camera",
     "SWITCH_HARDWARE_ACCELERATION": "Change Hardware Acceleration",
     "SWITCH_HARDWARE_ACCELERATION_BODY": "Changing the hardware acceleration setting will quit and re-launch Discord.\nAre you sure you want to do this?",
     "SWITCH_PIP_TO_ACTIVITY": "Switch to Activity",
