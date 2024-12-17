@@ -46553,7 +46553,13 @@
     "LEADERBOARD_LAST_WEEKS_CHAMPION": "Last Week",
     "LEADERBOARD_MODAL_CONNECT_RIOT": "Connect your Riot Account",
     "LEADERBOARD_MODAL_SUBTITLE": "The top score for wins gets to wear the crown.",
-    "LEADERBOARD_MODAL_TITLE": "League of Legends Leaderboard",
+    "3BZonp": [
+        [
+            1,
+            "applicationName"
+        ],
+        " Leaderboard"
+    ],
     "LEADERBOARD_POPOUT_PREVIEW_SHOW_FULL_LEADERBOARD": "View Full Leaderboard",
     "LEADERBOARD_POPOUT_TITLE": [
         [
