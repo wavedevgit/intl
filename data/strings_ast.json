@@ -55712,6 +55712,8 @@
     "PAYMENT_SOURCE_ACCOUNT_HOLDER_NAME": "Account Holder Name",
     "PAYMENT_SOURCE_ADD_SUCCESS_TOAST": "Payment Method saved!",
     "PAYMENT_SOURCE_APPLE": "Apple",
+    "WoXvJC": "Continue with Apple Pay",
+    "iv8pQU": "Follow the steps to continue with Apple Pay.",
     "PAYMENT_SOURCE_BANCONTACT": "Bancontact",
     "PAYMENT_SOURCE_CARD_ENDING": [
         [
@@ -55841,6 +55843,7 @@
     "PAYMENT_SOURCE_MAKE_DEFAULT": "Make this my default payment method.",
     "PAYMENT_SOURCE_MOMO_WALLET": "MoMo Wallet",
     "PAYMENT_SOURCE_NAME_ERROR_REQUIRED": "Name is required.",
+    "xdGS1t": "Apple Pay",
     "PAYMENT_SOURCE_PAYMENT_REQUEST_BUTTON_GENERIC": "Autofill from Browser",
     "PAYMENT_SOURCE_PAYMENT_REQUEST_BUTTON_GPAY": "Google Pay",
     "PAYMENT_SOURCE_PAYMENT_REQUEST_INFO_CREATING": [
