@@ -40148,7 +40148,7 @@
             "count",
             {
                 "one": [
-                    "application"
+                    "1 application"
                 ],
                 "other": [
                     [
@@ -40211,6 +40211,7 @@
         ],
         ")"
     ],
+    "GPGPDw": "Turning off manual applications will automatically approve all pending applications.",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_PREVIEW": "Preview",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_PREVIEW_DESCRIPTION": [
         "New members can browse the server before meeting the requirements. We recommend keeping this enabled so they can see what your community is like. If disabled, new members can’t view any contents of the server until they meet the requirements. ",
