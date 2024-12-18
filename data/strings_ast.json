@@ -56098,7 +56098,7 @@
             ]
         ]
     ],
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
@@ -67671,6 +67671,14 @@
         ],
         "!"
     ],
+    "HcnqXF": [
+        "Watch the video to earn: ",
+        [
+            1,
+            "rewardNameWithArticle"
+        ],
+        "."
+    ],
     "LcS+Dw": [
         "Watch the video to get: ",
         [
@@ -67701,6 +67709,7 @@
         "!"
     ],
     "QUESTS_VIDEO_QUESTBAR_SUBTITLE": "Watch to earn rewards!",
+    "PIg0kJ": "Watch the video to earn rewards",
     "QUESTS_VIDEO_QUEST_PAUSE_MESSAGE": "We paused the video while you were away. Resume to continue progress.",
     "QUESTS_VIDEO_REWARD_TOOLTIP": [
         "Reward: ",
@@ -67730,6 +67739,44 @@
     "QUESTS_VIEW_MORE_ACCOUNTS": "View more accounts",
     "Ws2Bl5": "View More Quests",
     "QUESTS_VIEW_QUEST": "View Quest",
+    "W/HkLC": [
+        "Watch the video to unlock ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "rewardNameWithArticle"
+                ]
+            ]
+        ],
+        " for ",
+        [
+            1,
+            "duration"
+        ],
+        "."
+    ],
+    "RhYPqq": [
+        "Watch the video to unlock ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "rewardNameWithArticle"
+                ]
+            ]
+        ],
+        " for ",
+        [
+            1,
+            "duration"
+        ],
+        ". Use it for even longer with Nitro!"
+    ],
     "QUESTS_WATCH_VIDEO_TASK": [
         "Watch the ",
         [
