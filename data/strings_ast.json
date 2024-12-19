@@ -86333,7 +86333,6 @@
     "KUFsLi": "¡El cambio fue hecho!",
     "jM7sUl": "No",
     "QkGMPz": "Sí",
-    "cgdAs7": "(Will open in a new tab)",
     "ACCESS_RATE_ACTION_AUDIT": "Audit your server's onboarding as a new member. Look for any broken or confusing steps.",
     "ACCESS_RATE_ACTION_BOTS": [
         "If your server is using ",
@@ -88761,5 +88760,6 @@
             0,
             "cardinal"
         ]
-    ]
+    ],
+    "cgdAs7": "(Will open in a new tab)"
 }
