@@ -6428,6 +6428,7 @@
     "GDM_SINGLE_BLOCKED_USER_WARNING_HEADER_BANNER": "Someone you've blocked is here. Leave group?",
     "GDM_SINGLE_BLOCKED_USER_WARNING_HEADER_MODAL": "Someone you’ve blocked is here.",
     "GDM_SINGLE_BLOCKED_USER_WARNING_PRESENCE": "!!{userName}!! is in here",
+    "GEAQ+v": "**You may be buying a limited license to use this item only within the creator’s server. Learn more [here](here).** This purchase is non-refundable.",
     "GENERAL_PERMISSIONS": "General Permissions",
     "GENERATE_A_NEW_LINK": "Generate a New Link",
     "GENERIC_ACTIONS_MENU_LABEL": "Actions",
