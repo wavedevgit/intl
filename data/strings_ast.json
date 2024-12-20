@@ -138,6 +138,7 @@
     "ACCEPT_SPAM_DM_HEADER": "This might be spam",
     "ACCEPT_SPAM_DM_SUBTEXT": "Message content hidden just to be safe. You can still reply.",
     "ACCEPT_SPAM_DM_SUBTEXT_MOBILE": "Message content hidden just to be safe. You can still reply.\nMessages marked as not spam will help improve our spam filters.",
+    "+hFV+P": "Access",
     "ACCESSIBILITY": "Accessibility",
     "ACCESSIBILITY_DARK_SIDEBAR": "Dark Sidebar",
     "ACCESSIBILITY_EXAMPLE_BUTTON_LABEL": "Example Button",
@@ -46164,12 +46165,25 @@
     "EOwiEh": "Do you play any of the same games as us?",
     "I5q8vr": "What makes you unique?",
     "83ZsRU": "Why do you want to join our server?",
+    "sm+75u": [
+        "Questions (",
+        [
+            2,
+            "currentCount"
+        ],
+        "/",
+        [
+            2,
+            "maxCount"
+        ],
+        ")"
+    ],
     "AHJddH": "Join Application",
     "kJj2oK": "People must submit an application and be approved to join",
     "dUXCFh": "Not available for Discoverable Servers",
     "LrFEYW": "Apply to Join",
     "pqQylZ": "Anyone can join your server directly through Server Discovery",
-    "5TQ+eH": "Only available to communities that meet requirements",
+    "5TQ+eH": "Enable Community to access Server Discovery",
     "lhOHLy": "Discoverable",
     "KzXzFR": "People can join your server directly with an invite",
     "HQVS/P": "Invite Only",
