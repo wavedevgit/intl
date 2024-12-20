@@ -11031,17 +11031,61 @@
             "price"
         ]
     ],
-    "COLLECTIBLES_PURCHASE_DISCLAIMER_GIFT_PAYMENT": "This purchase is non-refundable. Once you complete your purchase, the item will be sent to the recipient and can be accessed in their User Profile settings.",
-    "COLLECTIBLES_PURCHASE_DISCLAIMER_PAYMENT": "Hey! This purchase is non-refundable. Once you complete your purchase, the item will be available for use immediately and can be accessed in your User Profile settings. Note that Nitro subscriptions become non-refundable once you’ve purchased an item.",
+    "COLLECTIBLES_PURCHASE_DISCLAIMER_GIFT_PAYMENT": [
+        [
+            8,
+            "$b",
+            [
+                "Buying an item from the Shop means you’re buying a limited license to use this item on Discord. Learn more in the “Virtual Goods” section ",
+                [
+                    8,
+                    "$link",
+                    [
+                        "here"
+                    ],
+                    [
+                        [
+                            1,
+                            "paidURL"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        ". This purchase is non-refundable. Once you complete your purchase, the item will be available for use immediately and can be accessed in the recipient's User Profile settings. Note that Nitro subscriptions become non-refundable once you’ve purchased an item."
+    ],
+    "COLLECTIBLES_PURCHASE_DISCLAIMER_PAYMENT": [
+        [
+            8,
+            "$b",
+            [
+                "Buying an item from the Shop means you’re buying a limited license to use this item on Discord. Learn more in the “Virtual Goods” section ",
+                [
+                    8,
+                    "$link",
+                    [
+                        "here"
+                    ],
+                    [
+                        [
+                            1,
+                            "paidURL"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        ". This purchase is non-refundable. Once you complete your purchase, the item will be available for use immediately and can be accessed in your User Profile settings. Note that Nitro subscriptions become non-refundable once you’ve purchased an item."
+    ],
     "COLLECTIBLES_PURCHASE_DISCLAIMER_PAYMENT_MOBILE": [
-        "By Clicking ",
+        "By clicking ",
         "\"",
         [
             1,
             "buyButtonLabel"
         ],
-        "\" ",
-        "you agree to the ",
+        "\"",
+        ", you agree to the ",
         [
             8,
             "$link",
@@ -11055,7 +11099,28 @@
                 ]
             ]
         ],
-        ". This purchase is non-refundable. Once you complete your purchase, the item will be added to your collection and can be used anytime. Note that Nitro subscriptions become non-refundable once you've purchased an item."
+        ". ",
+        [
+            8,
+            "$b",
+            [
+                "Buying an item from the Shop means you’re buying a limited license to use this item on Discord. Learn more in the “Virtual Goods” section ",
+                [
+                    8,
+                    "$link",
+                    [
+                        "here"
+                    ],
+                    [
+                        [
+                            1,
+                            "paidServiceTermURL"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        ". This purchase is non-refundable. Once you complete your purchase, the item will be available for use immediately and can be accessed in your User Profile settings. Note that Nitro subscriptions become non-refundable once you’ve purchased an item."
     ],
     "COLLECTIBLES_QUEUING_UP": "Queuing up",
     "COLLECTIBLES_ROBERT_COACHTIP_DESCRIPTION": "Immerse yourself in the world of Bikini Bottom",
