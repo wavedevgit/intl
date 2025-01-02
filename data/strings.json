@@ -17575,7 +17575,7 @@
     "SUSPICIOUS_DOWNLOAD_WARNING_TITLE": "Potential Dangerous Download",
     "SWIPE_TO_REPLY": "Swipe to Reply",
     "SWIPE_TO_REPLY_COACHMARK": "If you prefer to swipe to reply to a message, you can change the default behavior in [Settings](Settings).",
-    "SWIPE_TO_REPLY_HINT": "Currently, swiping right-to-left opens Member List. Toggle to enable swiping to reply to a message.",
+    "SWIPE_TO_REPLY_HINT": "By default, swiping right-to-left opens the Member List. Turning this on will enable swiping to reply to a message instead.",
     "SWITCH_ACCOUNTS_ACTION_LOG_IN": "Log in",
     "SWITCH_ACCOUNTS_ACTION_SWITCH": "Switch",
     "SWITCH_ACCOUNTS_ACTIVE_ACCOUNT": "Active account",
