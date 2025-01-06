@@ -73461,6 +73461,40 @@
         ],
         " of Nitro. Try out custom profiles, animated emoji, and more!"
     ],
+    "mVzEGx": [
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " gave you ",
+        [
+            8,
+            "$b",
+            [
+                "2 weeks"
+            ]
+        ],
+        " of Nitro. Try out custom profiles, animated emoji, and more! ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more"
+            ],
+            [
+                [
+                    1,
+                    "helpdeskArticle"
+                ]
+            ]
+        ]
+    ],
     "SHARE_NITRO_EMBEDDED_MESSAGE_BODY_SHORT": [
         [
             1,
