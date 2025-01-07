@@ -67235,6 +67235,19 @@
         ],
         "."
     ],
+    "QUESTS_REWARD_AVATAR_DECORATION_BODY_WITH_EXPIRATION_EXTENDABLE": [
+        "You just earned the ",
+        [
+            1,
+            "rewardName"
+        ],
+        "! It’s yours to show off for the next ",
+        [
+            1,
+            "duration"
+        ],
+        ". If you think it’s extra cool, keep it even longer while on Nitro."
+    ],
     "QUESTS_REWARD_AVATAR_DECORATION_BODY_WITH_EXPIRATION_EXTENDED": [
         "You just earned the ",
         [

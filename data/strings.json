@@ -15060,6 +15060,7 @@
     "QUESTS_PSN_ONLINE_ID_V2": "PSN online ID",
     "QUESTS_REWARD_AVATAR_DECORATION_BODY": "!!{decorationName}!! is now yours FOR-EV-ERRRR! You can use it anytime on your profile page.",
     "QUESTS_REWARD_AVATAR_DECORATION_BODY_WITH_EXPIRATION": "You just leveled up your avatar game with this !!{decorationName}!!. It’s yours to show off on your profile for the next !!{duration}!!.",
+    "QUESTS_REWARD_AVATAR_DECORATION_BODY_WITH_EXPIRATION_EXTENDABLE": "You just earned the !!{rewardName}!!! It’s yours to show off for the next !!{duration}!!. If you think it’s extra cool, keep it even longer while on Nitro.",
     "QUESTS_REWARD_AVATAR_DECORATION_BODY_WITH_EXPIRATION_EXTENDED": "You just earned the !!{rewardName}!!! Normally it’d expire in !!{duration}!!, but you can keep it longer as long as you have Nitro.",
     "QUESTS_REWARD_AVATAR_DECORATION_HEADER": "Congratulations!",
     "QUESTS_REWARD_CODE_CLAIMED_REWARD_TILE_SUBHEADER": "You Claimed This",
