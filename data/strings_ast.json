@@ -46200,6 +46200,24 @@
     "LrFEYW": "Apply to Join",
     "pqQylZ": "Anyone can join your server directly through Server Discovery",
     "5TQ+eH": "Enable Community to access Server Discovery",
+    "Qgaw3d": "Your server failed to meet the requirements below. Don't worry, you can rejoin once the server meets all the requirements again. Activity requirements are recalculated weekly.",
+    "n1LDQE": [
+        "Your server has been ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    8,
+                    "removedHook",
+                    [
+                        "removed"
+                    ]
+                ]
+            ]
+        ],
+        " from Discovery."
+    ],
     "lhOHLy": "Discoverable",
     "LIZgwM": "Only server administrators can turn off Server Discovery",
     "iBpXPj": "Only server administrators can turn on Server Discovery",
