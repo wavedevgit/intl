@@ -29616,6 +29616,13 @@
         ],
         " was rejected."
     ],
+    "fU5PPD": [
+        "Reason: ",
+        [
+            1,
+            "rejectionReason"
+        ]
+    ],
     "GUILD_JOIN_REQUEST_STATUS_TOOLTIP_APPROVED": "Membership Approved",
     "GUILD_JOIN_REQUEST_STATUS_TOOLTIP_PENDING": "Membership In Review",
     "GUILD_JOIN_REQUEST_STATUS_TOOLTIP_REJECTED": "Membership Rejected",
