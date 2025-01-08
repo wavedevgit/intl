@@ -50171,7 +50171,22 @@
         ],
         " is awaiting review!"
     ],
+    "2eayRE": "Enter your answer",
     "MEMBER_VERIFICATION_APPLICATION_REAPPLY": "Reapply",
+    "3smSPD": "The server admin will get back to you shortly after you submit.",
+    "cgX47e": [
+        "Answer a few questions to join ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "guildName"
+                ]
+            ]
+        ]
+    ],
     "MEMBER_VERIFICATION_APPLICATION_REJECTED_ICON": "Stylized image of a clipboard with an X",
     "MEMBER_VERIFICATION_APPLICATION_REJECTED_NOTICE_TITLE": "Your application has been rejected.",
     "MEMBER_VERIFICATION_APPLICATION_REJECTED_REASON": "Reason:",
