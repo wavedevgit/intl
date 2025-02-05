@@ -3,7 +3,7 @@ import fs from 'fs/promises';
 import { sendToWebhook } from './comments.js';
 import Strings from './Strings.js';
 
-const browser = await puppeteer.launch();
+const browser = await puppeteer.launch({  args: ['--no-sandbox', '--disable-setuid-sandbox']});
 const page = await browser.newPage();
 
 await page.goto('https://canary.discord.com/login');
