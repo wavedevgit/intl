@@ -3,27 +3,34 @@ import fs from 'fs/promises';
 import { sendToWebhook } from './comments.js';
 import Strings from './Strings.js';
 
-const browser = await puppeteer.launch({  args: ['--no-sandbox', '--disable-setuid-sandbox']});
+const browser = await puppeteer.launch({ args: ['--no-sandbox', '--disable-setuid-sandbox'] });
 const page = await browser.newPage();
 
 await page.goto('https://canary.discord.com/login');
-const [stringsUnformatted, buildInfo] = await page.evaluate(() => {
+const result = await page.evaluate(async () => {
     let wreq;
     webpackChunkdiscord_app.push([[Symbol()], {}, (r) => (wreq = r)]);
     const chunks = Object.keys(wreq.m)
         .filter((key) => wreq.m[key].toString().includes('let{createLoader:'))
         .map(
             (e) =>
-                wreq.m[e].toString().match(/("|')en-US("|'):\(\)=>.+?\(("|')\d+.+\.then\(.+bind\(.,(?<chunkEnUS>\d+)\)/)
-                    ?.groups?.chunkEnUS,
+                wreq.m[e]
+                    .toString()
+                    .match(/("|')en-US("|'):\(\)=>.+?\(("|')(?<chunkEnUS1>\d+).+\.then\(.+bind\(.,(?<chunkEnUS2>\d+)\)/)
+                    ?.groups,
         );
+    for (let mod of chunks) {
+        await wreq.e(mod.chunkEnUS1);
+    }
     return [
-        chunks.map((chunkId) => wreq(chunkId).default),
+        chunks.map((mod) => wreq(mod.chunkEnUS2).default),
         Object.values(
             wreq(Object.keys(wreq.m).filter((c) => wreq.m[c].toString().includes('versionHash:"', 'buildNumber:"'))[0]),
         )[0](),
     ];
 });
+
+const [stringsUnformatted, buildInfo] = await result;
 console.log(stringsUnformatted.length);
 const stringsHashed = new Strings(stringsUnformatted).parseStrings();
 let strings = {};
