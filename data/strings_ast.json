@@ -19679,6 +19679,25 @@
         " with"
     ],
     "EMBEDDED_ACTIVITIES_SHARE_EMPTY_LOGS_ERROR_MESSAGE": "Unable to share empty logs",
+    "dZJpdH": [
+        "-# Shared from ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "applicationName"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "link"
+                ]
+            ]
+        ]
+    ],
     "EMBEDDED_ACTIVITIES_SHARE_LIMIT_WARNING": [
         "You can only share up to ",
         [
