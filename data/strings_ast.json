@@ -5119,6 +5119,8 @@
     "AUTO_TOGGLE_STREAMER_MODE_DESCRIPTION": "Automatically enable/disable Streamer Mode if OBS or XSplit are running on this computer.",
     "AUTO_TOGGLE_STREAMER_MODE_LABEL": "Automatically Enable/Disable",
     "AVATAR_ACTIONS_MENU_LABEL": "Avatar Actions",
+    "ncsliY": "Boom",
+    "p5Z3Oj": "Cherry",
     "AVATAR_CONVERT_FAILURE_MOBILE": [
         "Unable to convert avatar to data URL. ",
         [
@@ -5149,6 +5151,9 @@
     "AVATAR_IN_ONBOARDING_SKIP_FOR_NOW": "Skip for now",
     "AVATAR_IN_ONBOARDING_SKIP_STEP_ALERT_SUBTITLE": "You can always upload a profile picture later within Settings.",
     "AVATAR_IN_ONBOARDING_SKIP_STEP_ALERT_TITLE": "Skip uploading a picture?",
+    "g5Dump": "Locke",
+    "SbKDHh": "Mallow",
+    "LMSo+P": "Phibi",
     "AVATAR_PROFILE_BANNER_MARKETING": "Animated avatar, profile banner, and custom tag",
     "AVATAR_SIZE_OPTION_LARGE": "Large",
     "AVATAR_SIZE_OPTION_SMALL": "Small",
@@ -11380,6 +11385,7 @@
     ],
     "COLLECTIBLES_SFA_TITLE": "The Shop is now open to you!",
     "COLLECTIBLES_SHOP": "Shop",
+    "yzW/fX": "Admins",
     "COLLECTIBLES_SHOP_ALL": "Shop All",
     "COLLECTIBLES_SHOP_AUTUMN_EQUINOX_COLLECTION": "Shop the Autumn Equinox Collection",
     "COLLECTIBLES_SHOP_CATEGORY_COLLECTION": [
@@ -11399,6 +11405,7 @@
     "COLLECTIBLES_SHOP_GIFT_MODAL_SELECT_HEADER": "Send a gift",
     "COLLECTIBLES_SHOP_HERO_BANNER_SUBTITLE_ALT": "Charming. Fierce. Hungry. Whatever your vibe, buy and collect your favorite styles for your profile for any occasion.",
     "COLLECTIBLES_SHOP_HERO_BANNER_TITLE": "Ready for a new look?",
+    "NG43//": "Online",
     "q6uIys": "Orbs",
     "COLLECTIBLES_SHOP_THE_VAULT_COLLECTION": "Shop the Vault Collection",
     "COLLECTIBLES_SHOP_VIEW_ALL": "View all",
@@ -57565,7 +57572,7 @@
             ]
         ]
     ],
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
