@@ -19119,6 +19119,7 @@
         "\""
     ],
     "EMBEDDED_ACTIVITIES_DEVELOPER_SHELF_SUBTITLE": "You are using the \"Developer Activity Shelf\". So fancy!",
+    "JfA7IC": "Developer Shelf Activity Override Enabled",
     "EMBEDDED_ACTIVITIES_DISALLOWED_NAVIGATION_ALERT_BODY": "The activity was closed because it tried to open a disallowed web page.",
     "EMBEDDED_ACTIVITIES_DISMISS_ACTIVITY_MESSAGE": [
         "Dismiss message for joining ",
@@ -57562,7 +57563,7 @@
             ]
         ]
     ],
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
