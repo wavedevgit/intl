@@ -1920,7 +1920,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -59155,6 +59155,7 @@
     "OVERLAY_LINK_ALERT_BODY": "You're about to open this link in an external browser. Do you want to continue?",
     "OVERLAY_LINK_ALERT_SECONDARY": "Open and don't bother me again.",
     "OVERLAY_LINK_ALERT_TITLE": "Hold Up!",
+    "OKnWyc": "Login to the Discord app to enable this feature.",
     "OVERLAY_MENU_GET_INVITE": "Get Invite Link",
     "OVERLAY_MENU_OPEN_DISCORD": "Open Discord",
     "OVERLAY_MENU_SWITCH_CHANNELS": "Switch Channels",
