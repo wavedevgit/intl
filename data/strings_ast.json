@@ -1920,7 +1920,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -45036,6 +45036,7 @@
     "GUILD_SETTINGS_STICKERS_UPSELL_DESCRIPTION": "Enjoy stickers and more perks by boosting your server to Level 1. Each Level unlocks more sticker slots and new benefits for everyone.",
     "GUILD_SETTINGS_STICKERS_UPSELL_DESCRIPTION_FREE_SLOTS": "Enjoy more stickers and other perks by boosting your server to Level 1. Each Level unlocks more sticker slots and new benefits for everyone.",
     "GUILD_SETTINGS_STICKERS_UPSELL_TITLE": "Get Boosted",
+    "FOYxgo": "Channel Summaries",
     "GUILD_SETTINGS_SUMMARIES_TOGGLE": "Enable Channel Summaries",
     "GUILD_SETTINGS_SUMMARIES_TOGGLE_DESCRIPTION": [
         "Enable Channel Summaries for this server to help your members catch up and dive into discussions. In text channels, members will be able to see a list of topics being discussed and which members are involved. ",
