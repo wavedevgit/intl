@@ -22055,6 +22055,14 @@
             "numUsers"
         ]
     ],
+    "z8EAJS": [
+        "1-",
+        [
+            1,
+            "count"
+        ],
+        " Players"
+    ],
     "EMBEDDED_ACTIVITIES_NVM": "Never mind",
     "EMBEDDED_ACTIVITIES_ONE_TO_N_PARTICIPANTS": [
         "1 - ",
@@ -22194,6 +22202,7 @@
     "EMBEDDED_ACTIVITIES_UNKNOWN_ACTIVITY_NAME": "Unknown",
     "EMBEDDED_ACTIVITIES_UNLIMITED_PARTICIPANTS": "Unlimited participants",
     "EMBEDDED_ACTIVITIES_UNLIMITED_PARTICIPANTS_SHORT": "Unlimited",
+    "RjceQU": "Unlimited Players",
     "EMBEDDED_ACTIVITIES_UNLOCK_ACTIVITIES": [
         "Unlock ",
         [
