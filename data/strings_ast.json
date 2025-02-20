@@ -1920,7 +1920,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -43375,6 +43375,7 @@
     "6TAHb2": "Engagement",
     "XCGZFh": "Manage settings that help keep your server active.",
     "Cv6ANz": "System Messages",
+    "dNn/1t": "Embed an HTML widget on your website to display your online members, voice channels, and invite link.",
     "GUILD_SETTINGS_EXAMPLE_TOOLTIP": "Here's an example!",
     "GUILD_SETTINGS_FILTERED_ACTION": "Action Filter:",
     "GUILD_SETTINGS_FILTERED_USER": "User Filter:",
