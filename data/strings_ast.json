@@ -2031,10 +2031,6 @@
     "ROLE_PERMISSIONS_USE_EMBEDDED_ACTIVITIES_DESCRIPTION_THREADS": "Allows members to use Activities in this channel's threads.",
     "ROLE_PERMISSIONS_USE_EXTERNAL_APPS_DESCRIPTION_THREADS": "Allows members to use External Apps in this channel's threads.",
     "ROLE_PERMISSIONS_USE_VAD_DESCRIPTION_THREADS": "Allows members to speak in this channel's threads by simply talking. If this permission is disabled, members are required to use Push-to-talk. Good for controlling background noise or noisy members.",
-    "g8usuL": "View Settings",
-    "GnhKNz": "Allow others to see your activities. View more in Settings.",
-    "ObD1w8": "Share What You Play",
-    "drIYTU": "Share Activity",
     "SAFETY_HUB_CLASSIFICATIONS_TABLE_COLUMN_HEADER_DATE": "DATE",
     "SAFETY_HUB_CLASSIFICATIONS_TABLE_COLUMN_HEADER_EXPIRES": "EXPIRES",
     "SAFETY_HUB_CLASSIFICATIONS_TABLE_COLUMN_HEADER_STATUS": "STATUS",
@@ -3574,7 +3570,7 @@
     "Wspazs": "All Activity Sharing",
     "eVdoIy": "Allow friends to join your game",
     "IjucAA": "Allow friends to join your game without sending a request.",
-    "JW4KKS": "Allow others to see your activities. View more in Settings.",
+    "JW4KKS": "Allow others to see your games and activities.",
     "tuKl+v": "Allow voice channel participants to join your game",
     "oCONqK": "Allow anyone in a shared voice channel to join your game without sending a request. This feature only works in non-Community enabled servers.",
     "XXksWl": "Blocked people do not see your shared activity",
@@ -34398,6 +34394,10 @@
         " total."
     ],
     "GUILD_PRODUCT_UPLOAD_FILE_BUTTON": "Upload file",
+    "7XdMW1": "Apply to Join",
+    "d6r93d": "Join Server",
+    "4yfIDg": "View Application",
+    "IRoQXl": "Go to Server",
     "zb2Q5+": [
         "Est. ",
         [
