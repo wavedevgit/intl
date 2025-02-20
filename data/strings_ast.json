@@ -1920,7 +1920,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -42770,6 +42770,7 @@
         ],
         "."
     ],
+    "UKgg5O": "Boost Perks",
     "GUILD_SETTINGS_CHANNEL_SETTINGS": "Channel Settings",
     "GUILD_SETTINGS_COMMUNITY": "Community Settings",
     "GUILD_SETTINGS_COMMUNITY_ADMINISTRATOR_ONLY": "Only server administrators are allowed to do this",
