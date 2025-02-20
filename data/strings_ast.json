@@ -1920,7 +1920,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -34422,6 +34422,7 @@
     "S6JNrq": "Traits",
     "fjHWen": "Hide Profile in Public",
     "DmIUGB": "Unknown Server",
+    "zCGuJy": "By enabling the widget, your server profile will be visible to others outside of your server members.",
     "GUILD_PROGRESS_CTA": "Set up your server",
     "GUILD_PROGRESS_CURRENT_STEP": [
         "Step ",
