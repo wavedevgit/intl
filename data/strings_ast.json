@@ -2393,28 +2393,6 @@
     "USER_SETTINGS_APPEARANCE_CHANNEL_LIST_LAYOUT_MINIMAL": "Minimal",
     "USER_SETTINGS_OTHER_QUICK_ACTIONS": "Other Actions",
     "USER_SETTINGS_QUICK_ACTION_FORCE_NEW_USER_ONBOARDING": "Force new user onboarding flow",
-    "VZsY3t": "Daily Free Voices",
-    "XMDm8/": [
-        "Unlock all voices with ",
-        [
-            8,
-            "$link",
-            [
-                [
-                    1,
-                    "nitroTierName"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "onClick"
-                ]
-            ]
-        ]
-    ],
-    "3hj4kZ": "Choose from a variety of additional voices to express yourself with and have even more fun during calls.",
-    "YqknLi": "Unlock more Voice Filters with Nitro!",
     "XBOX": "Xbox",
     "YEAR": [
         [
@@ -34403,6 +34381,7 @@
         " total."
     ],
     "GUILD_PRODUCT_UPLOAD_FILE_BUTTON": "Upload file",
+    "2Ab4IS": "By creating an announcement channel, your server profile will be visible to others outside of your server members.",
     "7XdMW1": "Apply to Join",
     "d6r93d": "Join Server",
     "4yfIDg": "View Application",
@@ -89861,6 +89840,7 @@
     "VOICE_CONTROLS_SHEET_TOOLTIP_SWIPE_UP": "Swipe up",
     "WW5DAA": "Voice filter",
     "OpqAoq": "All Voices",
+    "VZsY3t": "Daily free filters in:",
     "UvMx7O": "Disable voice filter",
     "r+uZYW": [
         "Preparing Voices — ",
@@ -89871,6 +89851,26 @@
         "%"
     ],
     "gtet9P": "Favorites",
+    "XMDm8/": [
+        "Unlock more filters with ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "nitroTierName"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "onClick"
+                ]
+            ]
+        ]
+    ],
+    "Dx9kLi": "Go back",
     "1n6QXF": "Equip a voice filter, say something, and let the fun begin!",
     "bNpaiI": "Your voice, reimagined.",
     "l+lSLi": "Transform your voice to express yourself and have even more fun during calls!",
@@ -89894,6 +89894,9 @@
         ],
         " or restart Discord."
     ],
+    "3hj4kZ": "Choose from a variety of additional voices to express yourself and have even more fun during calls.",
+    "YqknLi": "Unlock more voice filters with Nitro!",
+    "ZzukHh": "No Voice Filters match your search.",
     "Hapb4O": "Voice Filters & More",
     "bHZ6pa": "Once you join a call, you’ll be able to hear yourself with a Voice Filter.",
     "UqDSMT": "Be in on the fun, with Playback!",
