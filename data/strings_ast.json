@@ -72790,23 +72790,7 @@
         " more recent avatar uploads}"
     ],
     "O8YHNT": "Unlock more recent avatars",
-    "Xs2Otb": [
-        "Unlock more with ",
-        [
-            8,
-            "$link",
-            [
-                "Nitro"
-            ],
-            [
-                [
-                    1,
-                    "onClick"
-                ]
-            ]
-        ],
-        "."
-    ],
+    "Xs2Otb": "Customize with ease, only with Nitro.",
     "8W2HOz": [
         "You have room for ",
         [
