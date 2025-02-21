@@ -1920,7 +1920,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -2388,6 +2388,8 @@
     "rHZFsL": "They're quick and easy",
     "nkO4Ly": "Follow the steps",
     "Vk6xpK": "Verify",
+    "5B+npK": "Loreum Ipsum",
+    "u/xqhY": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
     "TOP_CHANNELS": "Top Channels",
     "UPCOMING_GUILD_STAGE_INSTANCE_DISCOVERY_EMPTY_STATE_SUB_TITLE": "Let people know what’s happening by scheduling an upcoming Stage.\nIt will show up here for everyone in this server.",
     "USER_SETTINGS_APPEARANCE_CHANNEL_LIST_LAYOUT_MINIMAL": "Minimal",
