@@ -1920,7 +1920,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -7209,6 +7209,8 @@
             "date"
         ]
     ],
+    "NkwaBg": "Mute Direct Messages",
+    "JSptKy": "Turn off notications for this app’s DMs",
     "AUTHORIZED_APPS_PRIVACY_POLICY": "Privacy Policy",
     "AUTHORIZED_APPS_TERMS_OF_SERVICE": "Terms of Service",
     "AUTHORIZED_APP_IS_CONNECTED_ACCOUNT": [
@@ -34412,15 +34414,18 @@
     "8mfCqa": "The server has limited who can see this profile.",
     "93S9Gx": "Choose your server’s banner or banner colors.",
     "BSVog4": "Banner",
+    "r3Jdsb": "Change Server Icon",
     "pw0MIi": "How did your server get started, and what makes your crew special?",
     "Z27SCQ": "Description",
     "MobxiI": "What games are your server members playing?",
     "bFGpub": "Games Y'all Play",
     "BR68vL": "Games Played",
+    "FkQnxM": "Server Icon",
     "w3ND8P": "Retry",
     "DwKFKS": "We couldn't load the profile for this server.",
     "/n9Boa": "Something went wrong",
     "X56QcH": "Server Name",
+    "x8AlTk": "Remove Icon",
     "l7Ig5e": "Show off your server’s interests and personality with fun traits.",
     "S6JNrq": "Traits",
     "fjHWen": "Hide Profile in Public",
@@ -57002,6 +57007,13 @@
     "NOTIFICATION_MESSAGE_SEND_FAILED_BODY": "Tap this notification to return to the message and retry.",
     "NOTIFICATION_MESSAGE_SEND_FAILED_TITLE": "Your message failed to send!",
     "NOTIFICATION_MUTE_1_HOUR": "Mute 1H",
+    "y2oJvL": [
+        "Mute ",
+        [
+            1,
+            "app"
+        ]
+    ],
     "NOTIFICATION_NOT_ENABLED_PROMPT_CTA": "Don't miss out, enable notifications!",
     "NOTIFICATION_OVERRIDES": "Notification Overrides",
     "NOTIFICATION_PENDING_FRIEND_REQUEST": "Sent a friend request.",
@@ -89842,6 +89854,7 @@
     "VOICE_CONNECTION_ERROR_GENERIC": "We are having problems connecting you to this Channel. Please try later.",
     "VOICE_CONTROLS_SHEET_TOOLTIP_SWIPE_UP": "Swipe up",
     "WW5DAA": "Voice filter",
+    "VlC1dX": "Voice Filter is active!",
     "OpqAoq": "All Voices",
     "VZsY3t": "Daily free filters in:",
     "UvMx7O": "Disable voice filter",
