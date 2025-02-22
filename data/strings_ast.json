@@ -1920,7 +1920,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -76418,7 +76418,6 @@
     ],
     "SCREENSHARE_FRAME_RATE": "Frame Rate",
     "SCREENSHARE_INCLUDE_AUDIO": "Share Audio",
-    "f2MUfX": "Mute Stream Audio",
     "SCREENSHARE_QUALITY_TOOLTIP_NORMAL": "Streaming quality",
     "SCREENSHARE_QUALITY_TOOLTIP_PREMIUM": "Nitro streaming quality",
     "SCREENSHARE_QUALITY_TOOLTIP_REDUCED": "Experiencing reduced quality",
@@ -76430,6 +76429,7 @@
         "p"
     ],
     "SCREENSHARE_SCREEN": "Your Entire Screen",
+    "af2Tw8": "Share Stream Audio",
     "SCREENSHARE_SOURCE": "Source",
     "SCREENSHARE_STREAM_GIFTING_BODY": "Help a buddy out (and their viewers too!) by gifting higher stream quality.",
     "SCREENSHARE_STREAM_GIFTING_CTA": "Gift Nitro",
