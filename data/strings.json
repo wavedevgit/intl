@@ -13659,7 +13659,7 @@
     "PLATFORM_WINDOWS": "Windows",
     "PLAY": "Play",
     "PLAYING_GAME": "Playing **!!{game}!!**",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
@@ -15139,6 +15139,7 @@
     "Q+eyqq": "{count, plural, one { thing} other {!!{count}!! things} }",
     "Q1+/cX": "Plans start at only !!{cheapestMonthlyPrice}!!/month. Cancel Anytime.",
     "Q26diI": "Got it!",
+    "Q2K5pa": "Orb Exclusive",
     "Q42xe3": "Manage connections",
     "Q4_DROP_WHATS_NEW_EARLY_ACCESS_CARD_DESCRIPTION_NON_SUB": "Get Nitro to get in on the inside scoop.",
     "Q4_DROP_WHATS_NEW_EARLY_ACCESS_CARD_DESCRIPTION_SUB": "Nitro members, get ready to get your hands on the latest and greatest before everyone else.",
@@ -20381,6 +20382,7 @@
     "zh-TW": "Chinese, Taiwan",
     "zlA23N": "Automatically reduce stream volume when people are talking.",
     "zmcRl5": "You can now share a Nitro trial with up to 3 friends.",
+    "zqh7ZG": "Insufficient Orbs",
     "zqv4nZ": "Looking for accounts you've blocked or ignored? $[Go to settings]({{hook}})",
     "zus71N": "Watch !!{videoTitle}!! for {targetMinutes} minutes"
 }
