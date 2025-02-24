@@ -89505,6 +89505,7 @@
         ],
         " Orbs!"
     ],
+    "Rtlm19": "Earn Orbs in Quests",
     "4YgBe3": "Orbs are stored here. Earn and spend them however you want.",
     "lA7CLi": [
         "You earned ",
@@ -89543,6 +89544,15 @@
             "redeemedItemDescription"
         ]
     ],
+    "TcvbUl": [
+        "Open Discover to navigate to Quests Home for your first ",
+        [
+            1,
+            "quantity"
+        ],
+        " Orbs!"
+    ],
+    "9ItSXV": "AND if you earn. spend here",
     "bcmcCg": "Unlock exclusive Orbs rewards in the Shop",
     "VISITORS_INFO": "A member who has clicked into the server and viewed a channel.",
     "VISIT_COMMUNITY": "Visit Community",
