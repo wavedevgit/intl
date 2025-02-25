@@ -1935,7 +1935,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -24327,6 +24327,8 @@
     "FORM_HELP_SYSTEM_CHANNEL_PREMIUM_SUBSCRIPTION_MESSAGES": "Send a message when someone boosts this server.",
     "FORM_HELP_SYSTEM_CHANNEL_ROLE_SUBSCRIPTION_PURCHASE_MESSAGES": "Send a message when someone purchases a Server Product or Server Subscription",
     "FORM_HELP_SYSTEM_CHANNEL_ROLE_SUBSCRIPTION_PURCHASE_MESSAGE_REPLIES": "Prompt members to reply to Server Subscription congratulation messages with a sticker",
+    "ZhOdpa": "This is the channel we send system event messages to.",
+    "qxIcra": "Configure system event messages sent to your server.",
     "FORM_HELP_TEMPORARY": "Members are automatically kicked when they disconnect unless a role is assigned.",
     "FORM_HELP_THREAD_INVITABLE": "When disabled, only moderators and the thread creator can add new members to this thread.",
     "FORM_HELP_USER_LIMIT": [
