@@ -1935,7 +1935,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -71709,10 +71709,25 @@
         ],
         " for ",
         [
-            2,
-            "targetMinutes"
-        ],
-        " minutes"
+            6,
+            "targetMinutes",
+            {
+                "one": [
+                    [
+                        7
+                    ],
+                    " minute"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " minutes"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
     ],
     "NmzoDg": [
         "Play ",
@@ -71722,10 +71737,25 @@
         ],
         " for ",
         [
-            2,
-            "targetMinutes"
-        ],
-        " minutes"
+            6,
+            "targetMinutes",
+            {
+                "one": [
+                    [
+                        7
+                    ],
+                    " minute"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " minutes"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
     ],
     "zus71N": [
         "Watch ",
@@ -71735,10 +71765,25 @@
         ],
         " for ",
         [
-            2,
-            "targetMinutes"
-        ],
-        " minutes"
+            6,
+            "targetMinutes",
+            {
+                "one": [
+                    [
+                        7
+                    ],
+                    " minute"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " minutes"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
     ],
     "f/J8v7": "Watch the video",
     "QUEST_MOBILE_QUEST_BAR_DISMISS_TOAST": [

@@ -13047,7 +13047,7 @@
     "NjmXNj": "Don't show this alert again",
     "NkwaBg": "Mute Direct Messages",
     "NmbfHx": "Sébastien",
-    "NmzoDg": "Play !!{gameTitle}!! for {targetMinutes} minutes",
+    "NmzoDg": "Play !!{gameTitle}!! for {targetMinutes, plural, one { minute} other { minutes} }",
     "NsowVV": "The current game is running as administrator. Please relaunch Discord as an administrator in order to enable the overlay hotkey.",
     "O+kBIC": "Unread Mentions",
     "O1Nbjo": "Any notifications you receive while in game will go here.",
@@ -13666,7 +13666,7 @@
     "PLATFORM_WINDOWS": "Windows",
     "PLAY": "Play",
     "PLAYING_GAME": "Playing **!!{game}!!**",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
@@ -19977,7 +19977,7 @@
     "gc/wxc": "Block !!{username}!!",
     "gj3l2d": "Choose Decoration",
     "gnKWdX": "Notifications",
-    "goA6o6": "Play !!{gameTitle}!! for {targetMinutes} minutes",
+    "goA6o6": "Play !!{gameTitle}!! for {targetMinutes, plural, one { minute} other { minutes} }",
     "gp+Yt7": "Potential spam",
     "gpF6QU": "HD streaming unlocked",
     "gs+qcH": "Edit Note (only visible to you)",
@@ -20413,5 +20413,5 @@
     "zmcRl5": "You can now share a Nitro trial with up to 3 friends.",
     "zqh7ZG": "Insufficient Orbs",
     "zqv4nZ": "Looking for accounts you've blocked or ignored? $[Go to settings]({{hook}})",
-    "zus71N": "Watch !!{videoTitle}!! for {targetMinutes} minutes"
+    "zus71N": "Watch !!{videoTitle}!! for {targetMinutes, plural, one { minute} other { minutes} }"
 }
