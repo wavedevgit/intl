@@ -1935,7 +1935,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -34476,7 +34476,19 @@
     "x8AlTk": "Remove Icon",
     "l7Ig5e": "Show off your server’s interests and personality with fun traits.",
     "S6JNrq": "Traits",
-    "fjHWen": "Hide Profile in Public",
+    "J1YOV1": "When enabled, only server members will be able to see your profile description, traits, and games.",
+    "YtCViY": "People can view your profile through server invite links, server tags, and published Announcement Channel messages.",
+    "R8jY9v": [
+        "Discoverable servers cannot have their content hidden. You can change this setting in ",
+        [
+            8,
+            "accessLink",
+            [
+                "Access"
+            ]
+        ]
+    ],
+    "fjHWen": "Hide Profile Content",
     "DmIUGB": "Unknown Server",
     "zCGuJy": "By enabling the widget, your server profile will be visible to others outside of your server members.",
     "GUILD_PROGRESS_CTA": "Set up your server",
@@ -49674,6 +49686,19 @@
     "qjtt/v": "List on Discovery",
     "TEXwRk": "You cannot set your server to Discoverable because it does not meet requirements.",
     "HGVrIy": "Add a non-server rules question to enable Apply to Join.",
+    "3TSZYG": "Allow people who see your server profile to apply.",
+    "Bk0VOj": [
+        "You can't enable Apply from Profile if your server has “Hide profile content” enabled. You can change this setting in the ",
+        [
+            8,
+            "profileLink",
+            [
+                "Profile tab"
+            ]
+        ],
+        "."
+    ],
+    "N/0239": "Apply from Profile",
     "Y/jYws": [
         "Keep your server private, or open it up for more people to join. ",
         [
