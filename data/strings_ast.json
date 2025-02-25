@@ -29654,9 +29654,11 @@
         " button, then choose a window, application, or screen to Go Live using your system menu."
     ],
     "GO_LIVE_MODAL_DESCRIPTION_SELECT_SOURCE": "Select something to stream and have your friends grab a seat!",
+    "MhJ43N": "Devices",
     "GO_LIVE_MODAL_DISABLE_STREAM_PREVIEWS": "Hide stream preview. Users will not be able to see a preview of your stream before joining.",
     "GO_LIVE_MODAL_ENABLE_APP_SOUNDSHARE_LABEL": "Also share application audio.",
     "GO_LIVE_MODAL_ENABLE_SCREEN_SOUNDSHARE_LABEL": "Also share system audio.",
+    "slM8rK": "Entire Screen",
     "GO_LIVE_MODAL_HARDWARE_WARNING_INFOBOX": [
         "Discord relies on the video hardware encoder of your graphics card for optimal system performance and visual quality. ",
         [
@@ -29766,12 +29768,14 @@
     "GO_LIVE_MODAL_SELECT_CHANNEL_FORM_TITLE": "Select a voice channel",
     "GO_LIVE_MODAL_SYSTEM_PICKER_COACHMARK_CONTENT": "New for Mac: We've updated the screen sharing experience!",
     "GO_LIVE_MODAL_TITLE": "Screen Share",
+    "ZVevCg": "Stream in HD resolution with Nitro",
     "GO_LIVE_MODAL_WINDOW": "Single Window",
     "GO_LIVE_MODAL_WINDOW_CTA": "Share a window",
     "GO_LIVE_SCREENSHARE_NO_SOUND": "Sound may not be available when sharing a screen on your device.",
     "GO_LIVE_SCREENSHARE_UPDATE_MACOS_FOR_SOUNDSHARE": "Audio sharing may not work on your device. Please upgrade to at least macOS 10.15.",
     "GO_LIVE_SCREENSHARE_UPDATE_WINDOWS_FOR_SOUNDSHARE": "Audio sharing may not work on your Windows version. Please upgrade to the latest Windows 10.",
     "GO_LIVE_SHARE_SCREEN": "Screen",
+    "z7WGho": "Share Screen",
     "GO_LIVE_SUBTITLE": "Screensharing",
     "GO_LIVE_TILE_SCREEN": [
         [
@@ -80309,6 +80313,7 @@
     "STREAM_FULL_MODAL_BODY": "Sorry, this stream has the max number of viewers.",
     "STREAM_FULL_MODAL_HEADER": "Stream is Full",
     "STREAM_HIDDEN": "This stream has been hidden.",
+    "b0+Ira": "Mute Stream Audio",
     "STREAM_NETWORK_QUALITY_ERROR": "Your network connection may be causing a decrease in video and audio quality. To improve voice audio, disable the stream.",
     "STREAM_NO_PERMISSION_CTA": "No permission",
     "STREAM_NO_PREVIEW": "Stream just started. Get in here!",
@@ -80449,6 +80454,8 @@
         ],
         " FPS)."
     ],
+    "srMKU1": "Gaming",
+    "rCa/jI": "Screenshare",
     "STREAM_PRESET_VIDEO": "Smoother Video",
     "STREAM_PREVIEW_LOADING": "Generating preview...",
     "STREAM_PREVIEW_PAUSED": "Your stream is still running!",
