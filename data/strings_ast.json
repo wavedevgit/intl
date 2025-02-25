@@ -89560,6 +89560,7 @@
     "VIEW_THREAD": "View Thread",
     "XKlAys": "Discord Orbs",
     "C1TOOD": "Introducing",
+    "SCCqXF": "Apprentice",
     "iEw2Nz": "Browse Orb Rewards",
     "EDUOIC": "Great work, let’s get spending.",
     "rtV7xM": [
@@ -89600,6 +89601,15 @@
     "3B4+wM": "Find Orbs in Discover",
     "c7MXqK": "Get Orbs through completing Quests",
     "7f4H7O": "Learn about Orbs",
+    "ElYQFR": "Orbs",
+    "okNhDw": [
+        "Ponderer since ",
+        [
+            3,
+            "date",
+            "short"
+        ]
+    ],
     "7gHWra": [
         "Error redeeming ",
         [
@@ -89634,6 +89644,7 @@
     ],
     "9ItSXV": "AND if you earn. spend here",
     "bcmcCg": "Unlock exclusive Orbs rewards in the Shop",
+    "o/NCfn": "Use Orbs to earn yours",
     "VISITORS_INFO": "A member who has clicked into the server and viewed a channel.",
     "VISIT_COMMUNITY": "Visit Community",
     "VISIT_THE_SHOP_CTA": "Visit the Shop",
