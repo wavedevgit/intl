@@ -7250,6 +7250,35 @@
     ],
     "NkwaBg": "Mute Direct Messages",
     "JSptKy": "Turn off notications for this app’s DMs",
+    "nZOS8v": [
+        [
+            6,
+            "numPermissions",
+            {
+                "=0": [
+                    [
+                        7
+                    ],
+                    " Permissions"
+                ],
+                "one": [
+                    [
+                        7
+                    ],
+                    " Permission"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " Permissions"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        " enabled"
+    ],
     "AUTHORIZED_APPS_PRIVACY_POLICY": "Privacy Policy",
     "AUTHORIZED_APPS_TERMS_OF_SERVICE": "Terms of Service",
     "AUTHORIZED_APP_IS_CONNECTED_ACCOUNT": [
