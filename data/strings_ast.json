@@ -78293,7 +78293,6 @@
     "SOUNDBOARD_OPEN_SOUNDBOARD": "Open Soundboard",
     "SOUNDBOARD_OPEN_SOUNDBOARD_ERROR_GUILD_MUTE": "Soundboard disabled when server muted",
     "SOUNDBOARD_OPEN_SOUNDBOARD_ERROR_SUPPRESSED": "Soundboard disabled when suppressed",
-    "qAsyjI": "Cannot play this sound on Safari. Use another browser or the Discord app.",
     "SOUNDBOARD_PLAY_SOUND": [
         "Play ",
         [
