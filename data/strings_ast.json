@@ -89,27 +89,6 @@
     "CHANNEL_PROMPT_UPLOAD_IMAGE_CTA": "Upload a picture",
     "CLANS": "Guilds",
     "CLAN_ADOPT_CLAN_IDENTITY": "Adopt Guild Identity",
-    "CLAN_APPLICATION_CANT_REMOVE_FIELD": "Applications must have at least one question.",
-    "CLAN_APPLICATION_GDM_CONSENT": "By applying, you give the guild admins permission to message you regarding your application.",
-    "CLAN_APPLICATION_MAX_MEMBER_LIMIT_TOOLTIP": "Guild is at maximum member limit",
-    "CLAN_APPLICATION_MISSING_PERMISSION": "You don't have permission to join this Guild",
-    "CLAN_APPLICATION_RATE_LIMITED_BODY": "You've been sending too many Guild applications.",
-    "CLAN_APPLICATION_RATE_LIMITED_BUTTON": "Enter the chill zone",
-    "CLAN_APPLICATION_RATE_LIMITED_HEADER": "WOAH THERE. WAY TOO SPICY",
-    "CLAN_APPLICATION_SETUP_HEADER": [
-        "Set up the member screening application for ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "guildName"
-                ]
-            ]
-        ],
-        " here. The application must have at least one Short Answer, Paragraph, or Multiple Choice section."
-    ],
     "CLAN_BADGE": "Badge",
     "CLAN_BADGE_ALT": [
         "[",
@@ -154,7 +133,6 @@
     "CLAN_DISCOVERY_PROFILE_SUBTITLE": "You'll get notified when there's an update.",
     "CLAN_DISCOVERY_PROFILE_TITLE": "Fill out the application to join.",
     "CLAN_DISCOVERY_UNKNOWN_PLAYSTYLE": "Unknown",
-    "CLAN_DM_APPLICANT": "DM Applicant",
     "CLAN_GAMEPLAY_ACTIVITY_HIGH": "Very Active",
     "CLAN_JOIN_SUCCESS_MAIN_CTA": "Let's Go",
     "CLAN_JOIN_SUCCESS_SUBTITLE": "Rep your Guild, make new friends, and play some games. Get in and say hi to your new guildmates.",
@@ -177,51 +155,6 @@
     "CLAN_LOOK_BRAND_COLOR": "Brand Color",
     "CLAN_LOOK_PRESET_BADGE": "Badge",
     "CLAN_LOOK_PRESET_CUSTOM": "Custom",
-    "CLAN_MAX_MEMBER_LIMIT_WARNING": [
-        [
-            8,
-            "$p",
-            [
-                "Your Guild is at the ",
-                [
-                    1,
-                    "count"
-                ],
-                " member maximum and cannot accept new applications."
-            ]
-        ],
-        [
-            8,
-            "$p",
-            [
-                "Prune inactive members or wait until there's space for more members."
-            ]
-        ]
-    ],
-    "CLAN_MEMBER_APPLICATION_REPORT_BAN": [
-        "Ban ",
-        [
-            1,
-            "username"
-        ],
-        " from this server. This will reject the current application."
-    ],
-    "CLAN_MEMBER_APPLICATION_REPORT_CTA": "Report Applicant",
-    "CLAN_MEMBER_APPLICATION_REPORT_DESCRIPTION": [
-        "Report ",
-        [
-            1,
-            "username"
-        ],
-        "'s application for the following reason:"
-    ],
-    "CLAN_MEMBER_APPLICATION_REPORT_MODAL_HEADER": "Report Application",
-    "CLAN_MEMBER_APPLICATION_REPORT_REASON_ABUSIVE": "Abuse or harassment",
-    "CLAN_MEMBER_APPLICATION_REPORT_REASON_HARM": "Harmful misinformation or glorifying violence",
-    "CLAN_MEMBER_APPLICATION_REPORT_REASON_OTHER": "Something else",
-    "CLAN_MEMBER_APPLICATION_REPORT_REASON_OTHER_PLACEHOLDER": "Please provide more details",
-    "CLAN_MEMBER_APPLICATION_REPORT_REASON_PII": "Exposing private identifying information",
-    "CLAN_MEMBER_APPLICATION_REPORT_REASON_SPAM": "Spam",
     "CLAN_OVERVIEW_LABEL_CLAN_TAG": "Guild Tag",
     "CLAN_OVERVIEW_LIST_MULTIPLE_ITEMS": [
         [
@@ -267,8 +200,6 @@
     ],
     "CLAN_PALETTE_PICKER_CUSTOM_COLORS": "Custom Colors",
     "CLAN_SETTINGS": "Guild Settings",
-    "CLAN_SETTINGS_APPLICATION_SUBTITLE": "",
-    "CLAN_SETTINGS_APPLICATION_TITLE": "Edit questions for prospective members to answer.",
     "CLAN_SETTINGS_BASIC_INFO": "Basic Info",
     "CLAN_SETTINGS_CLAN_BADGE": "Guild Badge",
     "CLAN_SETTINGS_CLAN_PROFILE": "Guild Profile",
@@ -1869,14 +1800,6 @@
     "IYCMI_NEW_POSTS": "New Content",
     "KEYBIND_NOTIFICATION_DESCRIPTION": "Now you can see your keybind for toggling mute in the overlay.",
     "AWKKgY": "Add Likely ATO Warning (Experimental)",
-    "MEMBER_VERIFICATION_ANSWER_PLACEHOLDER": "Enter your answer",
-    "MEMBER_VERIFICATION_USERS_APPLICATION": [
-        [
-            1,
-            "username"
-        ],
-        "'s application"
-    ],
     "MESSAGE_STEP_TITLE": "Send your first message",
     "MFA_REQUIRED_FOR_STAFF": "Multi-factor authentication is required for staff.",
     "MOBILE_APP_DOWNLOAD_CTA": "Get our mobile app",
@@ -1935,7 +1858,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -30249,6 +30172,27 @@
     "GUILD_ANTIRAID_UPSELL_CTA": "Set Up",
     "GUILD_ANTIRAID_UPSELL_DISMISSAL": "No Thanks",
     "GUILD_ANTIRAID_UPSELL_HEADER": "Get Notified of Raids",
+    "FoxyPT": "Applications must have at least one question.",
+    "VjgH0d": "By applying, you give the server admins permission to message you regarding your application.",
+    "cdPGbG": "Server is at maximum member limit",
+    "8T1rxM": "You don't have permission to join this server",
+    "yjpDQ0": "You've been sending too many Guild applications.",
+    "XNGT1N": "Enter the chill zone",
+    "MmIrpa": "WOAH THERE. WAY TOO SPICY",
+    "Ty8RcH": [
+        "Set up the member screening application for ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "guildName"
+                ]
+            ]
+        ],
+        " here. The application must have at least one Short Answer, Paragraph, or Multiple Choice section."
+    ],
     "GUILD_AUTOMOD_ACTIONS_BLOCK_MESSAGE_CUSTOM_MESSAGE_CTA": "Edit Custom Message",
     "GUILD_AUTOMOD_ACTIONS_BLOCK_MESSAGE_CUSTOM_MESSAGE_HELPER": "A custom error message can be shown to members.",
     "GUILD_AUTOMOD_ACTIONS_BLOCK_MESSAGE_DESCRIPTION": "Block messages containing these words from being posted.",
@@ -32289,6 +32233,7 @@
     ],
     "GUILD_DISCOVERY_TOOLTIP": "Explore Discoverable Servers",
     "GUILD_DMS_DISABLE_ACTION_SHEET_DESCRIPTION": "Temporarily stop new direct messages from being sent between members in your server. Friends can still DM each other, moderators can still DM members, and your Apps can still DM members.",
+    "x2UVBA": "DM Applicant",
     "GUILD_DOCK": "Server Dock",
     "GUILD_DOCK_LABEL": "Use server dock navigation",
     "GUILD_ENABLE_COMMUNICATION_CTA": [
@@ -33149,6 +33094,27 @@
     "GUILD_LIST_EDIT_MODAL_FOLDERS_A11Y_LABEL": "Customize your folders",
     "GUILD_LIST_EDIT_MODAL_PLACEHOLDER": "Enter a name for your folder",
     "GUILD_LIST_EDIT_MODAL_SERVERS_A11Y_LABEL": "Customize your servers",
+    "h10yUl": [
+        [
+            8,
+            "$p",
+            [
+                "Your server is at the ",
+                [
+                    1,
+                    "count"
+                ],
+                " member maximum and cannot accept new applications."
+            ]
+        ],
+        [
+            8,
+            "$p",
+            [
+                "Prune inactive members or wait until there's space for more members."
+            ]
+        ]
+    ],
     "GUILD_MEMBERS": "Server Members",
     "GUILD_MEMBERSHIP_AUTOMATION_VERFICATION_EXPIRED": "Verification link has expired.",
     "GUILD_MEMBERSHIP_AUTOMATION_VERFICATION_VERIFIED": "Verification success.",
@@ -33161,6 +33127,30 @@
         " members"
     ],
     "GUILD_MEMBERS_SEARCH_NO_RESULT": "No members were found.",
+    "1kdfnZ": [
+        "Ban ",
+        [
+            1,
+            "username"
+        ],
+        " from this server. This will reject the current application."
+    ],
+    "KnIQtb": "Report Applicant",
+    "0CVj1t": [
+        "Report ",
+        [
+            1,
+            "username"
+        ],
+        "'s application for the following reason:"
+    ],
+    "4uon39": "Report Application",
+    "CY25rq": "Abuse or harassment",
+    "3dHiMT": "Harmful misinformation or glorifying violence",
+    "2J2mKC": "Something else",
+    "AqO4+P": "Please provide more details",
+    "eDyWCA": "Exposing private identifying information",
+    "vGSLTk": "Spam",
     "GUILD_MEMBER_MOD_VIEW_AGREE_TO_RULES": "Agreed to Rules",
     "GUILD_MEMBER_MOD_VIEW_AUDIT_LOG_SOURCE_USER": "Member who initiated this action.",
     "GUILD_MEMBER_MOD_VIEW_DISCORD_JOIN_DATE": "Discord Join Date",
@@ -37104,6 +37094,7 @@
             "guildName"
         ]
     ],
+    "YJlvBA": "Access",
     "GUILD_SETTINGS_ACTION_FILTER_APPLICATION_COMMAND_PERMISSION_UPDATE": "Update Command Permissions",
     "GUILD_SETTINGS_ACTION_FILTER_AUTOMOD_RULE_CREATE": "Create AutoMod Rule",
     "GUILD_SETTINGS_ACTION_FILTER_AUTOMOD_RULE_DELETE": "Cancel AutoMod Rule",
@@ -53777,6 +53768,7 @@
     "MEMBER_VERIFICATION_ADD_QUESTIONS_DESCRIPTION": "Use questions to manually approve new members before they can talk in your server.",
     "MEMBER_VERIFICATION_ADD_RULE": "Add a rule",
     "MEMBER_VERIFICATION_AGREED_TO_RULES": "Agreed to Rules",
+    "MEMBER_VERIFICATION_ANSWER_PLACEHOLDER": "Enter your answer",
     "0UQVDA": "The server admin will get back to you soon.",
     "4r+amZ": "Got it",
     "0YV0YG": "Your application is pending!",
@@ -54120,6 +54112,13 @@
     "MEMBER_VERIFICATION_RULE_SAFE": "Help keep things safe",
     "MEMBER_VERIFICATION_RULE_SAFE_FULL": "If you see something against the rules or something that makes you feel unsafe, let staff know. We want this server to be a welcoming space!",
     "MEMBER_VERIFICATION_RULE_TOOLTIP": "You've already added rules",
+    "MEMBER_VERIFICATION_USERS_APPLICATION": [
+        [
+            1,
+            "username"
+        ],
+        "'s application"
+    ],
     "MEMBER_VERIFICATION_VERIFICATION_FIELD_SETTINGS_TOOLTIP": "New members will also be required to pass your verification level requirements.",
     "MEMBER_VERIFICATION_VERIFICATION_ICON": "Stylized image of a sparkle for emphasis",
     "MEMBER_VERIFICATION_VERIFIED": "Verified",
