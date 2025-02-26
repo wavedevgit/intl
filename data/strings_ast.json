@@ -29668,6 +29668,7 @@
     "GO_LIVE_FORM_LABEL_AUDIO_DEVICE": "Audio Device",
     "GO_LIVE_FORM_LABEL_VIDEO_DEVICE": "Video Device",
     "GO_LIVE_HEY": "Hey!",
+    "H3Qjqa": "Hide stream preview",
     "GO_LIVE_LISTEN": "Listen!",
     "GO_LIVE_LOOK": "Look!",
     "GO_LIVE_MODAL_ANY": "A window, screen, or app",
@@ -29808,6 +29809,7 @@
     "ZVevCg": "Stream in HD resolution with Nitro",
     "GO_LIVE_MODAL_WINDOW": "Single Window",
     "GO_LIVE_MODAL_WINDOW_CTA": "Share a window",
+    "SiHtX1": "Notify my friends in the server",
     "GO_LIVE_SCREENSHARE_NO_SOUND": "Sound may not be available when sharing a screen on your device.",
     "GO_LIVE_SCREENSHARE_UPDATE_MACOS_FOR_SOUNDSHARE": "Audio sharing may not work on your device. Please upgrade to at least macOS 10.15.",
     "GO_LIVE_SCREENSHARE_UPDATE_WINDOWS_FOR_SOUNDSHARE": "Audio sharing may not work on your Windows version. Please upgrade to the latest Windows 10.",
@@ -34466,9 +34468,9 @@
     "GUILD_PRODUCT_UPLOAD_FILE_BUTTON": "Upload file",
     "2Ab4IS": "By creating an announcement channel, your server profile will be visible to others outside of your server members.",
     "7XdMW1": "Apply to Join",
-    "d6r93d": "Join Server",
     "4yfIDg": "View Application",
     "IRoQXl": "Go to Server",
+    "eb9gDA": "Join Server",
     "zb2Q5+": [
         "Est. ",
         [
@@ -34496,7 +34498,7 @@
     "pw0MIi": "How did your server get started, and what makes your crew special?",
     "Z27SCQ": "Description",
     "MobxiI": "What games are your server members playing?",
-    "bFGpub": "Games Y'all Play",
+    "bFGpub": "Your Members Play",
     "BR68vL": "Games Played",
     "FkQnxM": "Server Icon",
     "w3ND8P": "Retry",
@@ -72928,6 +72930,7 @@
         ]
     ],
     "lsU63N": "Your recent avatars",
+    "2ZhEh4": "Customize with ease, only with Nitro",
     "MW3mAg": [
         "Access up to ",
         [
@@ -72966,7 +72969,23 @@
         " more recent avatar uploads}"
     ],
     "O8YHNT": "Unlock more recent avatars",
-    "Xs2Otb": "Customize with ease, only with Nitro.",
+    "Xs2Otb": [
+        "Unlock more with ",
+        [
+            8,
+            "$link",
+            [
+                "Nitro"
+            ],
+            [
+                [
+                    1,
+                    "onClick"
+                ]
+            ]
+        ],
+        "."
+    ],
     "8W2HOz": [
         "You have room for ",
         [
@@ -80376,7 +80395,7 @@
     "STREAM_FULL_MODAL_BODY": "Sorry, this stream has the max number of viewers.",
     "STREAM_FULL_MODAL_HEADER": "Stream is Full",
     "STREAM_HIDDEN": "This stream has been hidden.",
-    "b0+Ira": "Mute Stream Audio",
+    "b0+Ira": "Mute stream audio",
     "STREAM_NETWORK_QUALITY_ERROR": "Your network connection may be causing a decrease in video and audio quality. To improve voice audio, disable the stream.",
     "STREAM_NO_PERMISSION_CTA": "No permission",
     "STREAM_NO_PREVIEW": "Stream just started. Get in here!",
