@@ -39231,6 +39231,31 @@
         ],
         " the Boost progress bar"
     ],
+    "04b5KC": "Updated profile banner",
+    "qe9mgI": "Updated profile banner color",
+    "nsUZKS": "Updated server description",
+    "8BOT39": "Updated profile games played",
+    "dEy9WF": "Updated profile traits",
+    "Ed6hFx": [
+        [
+            8,
+            "userHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "user"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        " updated server profile settings"
+    ],
+    "bCl1Eh": "Updated profile visibility",
     "GUILD_SETTINGS_AUDIT_LOG_GUILD_REGION_CHANGE": [
         "Set the voice region to ",
         [
