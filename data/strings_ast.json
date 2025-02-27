@@ -1858,7 +1858,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -3504,6 +3504,23 @@
     "NOIHs7": "Currently Sharing",
     "C2uz/v": "Customize Settings",
     "VN4Spq": "You can customize these settings based on games, connections, or servers you want share with.",
+    "nEgjjo": [
+        "Allow friends and server members to see the detected games and activities you play. View more in ",
+        [
+            8,
+            "$link",
+            [
+                "Settings"
+            ],
+            [
+                [
+                    1,
+                    "onClickSettings"
+                ]
+            ]
+        ],
+        "."
+    ],
     "CQkyMj": "Desktop Games",
     "YjQQjo": "Disable Activity Sharing",
     "3k4hTU": "Disable Activity Sharing?",
@@ -3559,7 +3576,7 @@
     "KY0ilp": "Share Activity",
     "BzqoHB": "Share Details",
     "RgzRPD": "Details like song tracks or game streaks are shared to your profile, status, and activity feeds.",
-    "PRjSRk": "Share What You Play",
+    "PRjSRk": "Share What You Play with Friends",
     "gbo4l5": "Specific Servers",
     "nUsCOj": [
         "Manage which specific servers you share with in each server's privacy settings. ",
