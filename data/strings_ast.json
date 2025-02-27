@@ -1858,7 +1858,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -1897,6 +1897,8 @@
     "PURCHASE_REVIEW_TAX_LABEL": "Tax",
     "QR_CODE_DOWNLOAD_CTA": "Scan this QR code for an easy download link for our iOS or Android apps.",
     "nuWSYW": "You're not eligible for this quest. Check out the Quests tab in Discovery for available Quests!",
+    "ii4mJi": "Sorry! You're not eligible for this quest right now. Tap here to view other quests available to you.",
+    "Dd6Da2": "This quest isn't available here",
     "QUESTS_NITRO_ENROLL_FAILURE_TOAST": "Something went wrong. You may not be eligible to enroll in this Quest.",
     "QUESTS_NITRO_REWARD_MODAL_BACKGROUND_IMAGE_ALT": "Rocket Ships fly over a starry galaxy.",
     "QUESTS_NITRO_REWARD_MODAL_ERROR_HAVE_A_SUB": "You already have Nitro! This Quest reward is only available to users who aren't subscribed to Nitro.",
