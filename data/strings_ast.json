@@ -1842,7 +1842,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -90153,8 +90153,8 @@
     "UqDSMT": "Be in on the fun, with Playback!",
     "UQqFCA": "Playback is Off",
     "esVyo6": "Playback is On",
-    "raWNzM": "Turn this on to hear yourself when you speak in a call.",
-    "0NnojY": "Hear yourself when you speak in a call.",
+    "raWNzM": "Turn this on to hear yourself when you speak in a call, or while browsing voice filters.",
+    "0NnojY": "Hear yourself when you speak in a call, or while browsing voice filters.",
     "ZK9aMD": "Not in a call? Try a Mic Test instead.",
     "gDzvjY": [
         "Play a preview of the ",
