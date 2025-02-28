@@ -1842,7 +1842,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -10217,7 +10217,6 @@
     ],
     "BOGO_CHANGE_LOG_FILE_SUBTITLE": "Cheer, roast, and meme like never before",
     "BOGO_CHANGE_LOG_MORE": "...and so much more!",
-    "BOGO_CHANGE_LOG_REDEEM": "Redeem Offer",
     "BOGO_CHANGE_LOG_STREAM_BODY": "With full HD resolution, every gameplay and hangout is smooth and clear for you and your friends.",
     "BOGO_CHANGE_LOG_STREAM_SUBTITLE": "Enjoy crystal clear streams",
     "BOGO_CHANGE_LOG_TITLE": "Upgrade your Discord experience with Nitro. Subscribe now and get a free month.",
