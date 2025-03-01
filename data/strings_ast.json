@@ -88367,6 +88367,7 @@
     "USER_SETTINGS_CACHES_WRITTEN": "Caches Written!",
     "USER_SETTINGS_CHANGE_AVATAR": "Change Avatar",
     "USER_SETTINGS_CHANGE_AVATAR_DECORATION": "Change Decoration",
+    "NzNLv7": "Change Nameplate",
     "USER_SETTINGS_CHANGE_PROFILE_EFFECT": "Change Effect",
     "USER_SETTINGS_CHOOSE_FROM_LIBRARY": [
         [
@@ -88515,6 +88516,10 @@
     "USER_SETTINGS_MINIMIZE_TO_TRAY_BODY": "Hitting X will make Discord sit back and relax in your system tray when you close the app.",
     "USER_SETTINGS_MINIMIZE_TO_TRAY_LABEL": "Minimize to Tray",
     "USER_SETTINGS_MY_ACCOUNT": "My Account",
+    "x5CoXV": "Nameplate",
+    "RJxLnZ": "Tap to edit Nameplate",
+    "HrCWMT": "Edit Nameplate",
+    "OwlOS0": "Edit your Nameplate on a desktop device.",
     "USER_SETTINGS_NOISE_CANCELLATION": "Noise Suppression",
     "USER_SETTINGS_NOISE_CANCELLATION_DESCRIPTION": "Suppress background noise from your mic.",
     "USER_SETTINGS_NOISE_CANCELLATION_DISABLED": "None",
@@ -88700,6 +88705,7 @@
     "USER_SETTINGS_REMOVE_AVATAR": "Remove Avatar",
     "USER_SETTINGS_REMOVE_AVATAR_DECORATION": "Remove Decoration",
     "USER_SETTINGS_REMOVE_BANNER": "Remove Banner",
+    "KMd1oK": "Remove Nameplate",
     "USER_SETTINGS_REMOVE_PER_GUILD_AVATAR_DECORATION": "Use Default",
     "USER_SETTINGS_REMOVE_PROFILE_EFFECT": "Remove Effect",
     "USER_SETTINGS_RESET_AVATAR": "Reset Avatar",
@@ -88867,6 +88873,7 @@
     "USER_SETTINGS_UPLOAD_AVATAR": "Upload Avatar",
     "USER_SETTINGS_USED_BACKUP_CODES": "Used Backup Codes",
     "USER_SETTINGS_USER_PROFILE": "User Profile",
+    "9LBDXV": "Use Default",
     "USER_SETTINGS_USE_DEFAULT_PROFILE_EFFECT": "Use Default",
     "USER_SETTINGS_VOICE_ADD_MULTIPLE": [
         "You can add multiple Push to Talk binds under ",
