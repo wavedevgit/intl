@@ -19782,6 +19782,82 @@
         ]
     ],
     "DM_VERIFICATION_TEXT_BLOCKED": "You cannot send messages to a user you have blocked.",
+    "hRCoPj": "DM Wallpaper",
+    "qOCzKi": "DM Wallpapers",
+    "GX3dSU": "NEW! DM wallpapers are here.",
+    "u7Hzjo": "Set unique wallpapers that everyone can enjoy, only with Nitro.",
+    "mA8D6O": "Uh oh! The person who set the DM wallpaper no longer has Nitro.",
+    "oUcgEB": "Uh oh! The DM wallpaper has been removed because you no longer have Nitro.",
+    "1PsqQU": "This chat needs your touch! Get Nitro to restore a unique wallpaper.",
+    "N7gnx8": "This chat needs your touch! Get Nitro to restore a unique wallpaper.",
+    "3nPvdH": "Blur",
+    "EJ4k19": "Preview a DM wallpaper",
+    "MnUZLS": "Once applied, everyone will see the updated wallpaper.",
+    "frNDKS": "If applied, everyone will see the updated wallpaper.",
+    "091BJy": "Set a unique wallpaper with Nitro",
+    "OPEemJ": "Personalize your chats",
+    "c40u29": "Set the perfect vibe with DM wallpapers that everyone can enjoy. Only with Nitro.",
+    "tEZGHh": "Join in on the fun! Switch up the wallpaper, only with Nitro.",
+    "uyO39/": "Join in on the fun! Switch up the wallpaper with Nitro.",
+    "+lKndX": [
+        [
+            1,
+            "username"
+        ],
+        " changed the DM wallpaper to ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "wallpaper_name"
+                ]
+            ]
+        ],
+        "."
+    ],
+    "z847Tk": [
+        "You changed the DM wallpaper to ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "wallpaper_name"
+                ]
+            ]
+        ],
+        "."
+    ],
+    "MC5iX1": [
+        [
+            6,
+            "numFriends",
+            {
+                "=1": [
+                    [
+                        7
+                    ],
+                    " friend has"
+                ],
+                "=2": [
+                    [
+                        7
+                    ],
+                    " friends have"
+                ],
+                "other": [
+                    "3+ friends have"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        " DM wallpapers with Nitro"
+    ],
+    "GixvUl": "Set DM wallpaper",
     "DND_DRAG_CANCELED": "Stopped dragging",
     "DND_DROP_ABOVE": [
         "Above ",
@@ -34479,30 +34555,27 @@
         ],
         " Plays"
     ],
-    "mJxa5O": "At least 128x128px recommended.",
-    "JD7DIS": "Upload Server Icon",
     "GUILD_PROFILE_JOIN_SERVER_BUTTON": "Join Server",
     "s1fAEx": "Retry Loading Server Profile",
     "tmGHjY": "Unable to load server profile",
     "8mfCqa": "The server has limited who can see this profile.",
-    "93S9Gx": "Choose your server’s banner or banner colors.",
     "BSVog4": "Banner",
     "r3Jdsb": "Change Server Icon",
-    "pw0MIi": "How did your server get started, and what makes your crew special?",
+    "pw0MIi": "How did your server get started? Why should people join?",
     "Z27SCQ": "Description",
-    "MobxiI": "What games are your server members playing?",
+    "MobxiI": "What games does your server play?",
     "bFGpub": "Your Members Play",
-    "BR68vL": "Games Played",
+    "BR68vL": "Games",
     "FkQnxM": "Icon",
+    "KjkA0d": "We recommend an image of at least 512x512.",
     "w3ND8P": "Retry",
     "DwKFKS": "We couldn't load the profile for this server.",
     "/n9Boa": "Something went wrong",
     "X56QcH": "Name",
     "x8AlTk": "Remove Icon",
-    "l7Ig5e": "Show off your server’s interests and personality with fun traits.",
+    "l7Ig5e": "Add up to 5 traits to show off your server’s interests and personality.",
     "S6JNrq": "Traits",
-    "J1YOV1": "When enabled, only server members will be able to see your profile description, traits, and games.",
-    "YtCViY": "People can view your profile through server invite links and published Announcement Channel messages.",
+    "J1YOV1": "When enabled, show a limited profile to users who see published Announcement Channel messages",
     "R8jY9v": [
         "Discoverable servers cannot have their content hidden. You can change this setting in ",
         [
@@ -34513,7 +34586,7 @@
             ]
         ]
     ],
-    "fjHWen": "Hide Profile Content",
+    "fjHWen": "Hide profile from announcements",
     "DmIUGB": "Unknown Server",
     "zCGuJy": "By enabling the widget, your server profile will be visible to others outside of your server members.",
     "GUILD_PROGRESS_CTA": "Set up your server",
@@ -44727,6 +44800,7 @@
     "GUILD_SETTINGS_PRE_JOIN_QUESTIONS_HEADER": "Pre-join Questions",
     "GUILD_SETTINGS_PRE_JOIN_QUESTIONS_SUBHEADER": "Set questions to ask every member on join. Answers will be used to assign roles and channels.",
     "txdaxc": "Server Profile",
+    "5PGZWV": "Customize how your server appears in invite links and, if enabled, in Server Discovery and Announcement Channel messages",
     "GUILD_SETTINGS_PUBLIC_NO_OPTION_SELECTED": "None Selected",
     "GUILD_SETTINGS_PUBLIC_UPDATE_FAILED": "Failed to update your settings. Please try again.",
     "GUILD_SETTINGS_PUBLIC_WELCOME": "Welcome Screen",
