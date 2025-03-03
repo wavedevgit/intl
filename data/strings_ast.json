@@ -1842,7 +1842,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -3614,7 +3614,6 @@
     "ADD_BY_USERNAME": "Add by Username",
     "ADD_CHANNEL_OR_CATEGORY": "Add a Channel or Category",
     "ADD_CHANNEL_TO_OVERRIDE": "Add a channel to override its default notification settings",
-    "tfnAkJ": "Add Discord Friend",
     "ADD_EMAIL": "Add an Email",
     "ADD_EMAIL_BANNER_TITLE": "Add an email to your account",
     "ADD_EMAIL_DESCRIPTION": "Some Discord features require your account to have a verified email.",
@@ -19499,7 +19498,6 @@
     "DISCORD": "Discord",
     "DISCORD_DESC_LONG": "Join over 100 million people who use Discord to talk and hang out with communities and friends.",
     "DISCORD_DESC_SHORT": "Imagine a place",
-    "yltuhY": "Discord Friend Request",
     "DISCORD_RICH_PRESENCE": "Discord Rich Presence",
     "DISCORD_SYSTEM_MESSAGES": "Discord system messages",
     "DISCORD_SYSTEM_MESSAGE_BOT_TAG_TOOLTIP": "System Message",
@@ -55522,19 +55520,6 @@
         ],
         " accepted your friend request."
     ],
-    "T5gdaG": [
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " accepted your Discord friend request."
-    ],
     "jXlYiI": [
         [
             8,
@@ -55547,25 +55532,6 @@
             ]
         ],
         " accepted your friend request from ",
-        [
-            8,
-            "applicationName",
-            []
-        ],
-        "."
-    ],
-    "nc+g/P": [
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " accepted your Discord friend request from ",
         [
             8,
             "applicationName",
@@ -55592,20 +55558,6 @@
         ],
         "."
     ],
-    "Iv4E6+": [
-        "You accepted ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        "’s Discord friend request."
-    ],
     "nnC1q6": [
         "You accepted ",
         [
@@ -55626,39 +55578,6 @@
         ],
         "."
     ],
-    "pXd0yc": [
-        "You accepted ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        "’s Discord friend request from ",
-        [
-            8,
-            "applicationName",
-            []
-        ],
-        "."
-    ],
-    "I6UV2N": [
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " sent you a Discord friend request."
-    ],
     "9Dgf1N": [
         [
             8,
@@ -55671,25 +55590,6 @@
             ]
         ],
         " sent you a friend request from ",
-        [
-            8,
-            "applicationName",
-            []
-        ],
-        "."
-    ],
-    "Yzf3Oz": [
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " sent you a Discord friend request from ",
         [
             8,
             "applicationName",
@@ -86690,6 +86590,7 @@
     "UPDATE_MANUALLY": "There is an update available",
     "UPDATE_PASSWORD": "Update your password",
     "YTvOU1": "Add across Discord and all games linked to this account",
+    "LAcY7u": "Upgrade to Friend",
     "UPLOAD": "Upload",
     "UPLOADED_BY": "Uploaded By",
     "UPLOADING_FILES": [
