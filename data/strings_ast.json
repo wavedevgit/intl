@@ -1842,7 +1842,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -21584,6 +21584,7 @@
     "qnFavb": "Choose Activity",
     "EMBEDDED_ACTIVITIES_ACTIVITY_ENTRY_POINT_TILE_CHOOSE_AN_ACTIVITY": "Choose an Activity",
     "EMBEDDED_ACTIVITIES_ACTIVITY_INFO_TILE_TITLE": "Get the fun started with Activities in voice!",
+    "7vb6n5": "Activity Invite",
     "EMBEDDED_ACTIVITIES_ACTIVITY_URL_OVERRIDE": "Activity URL Override",
     "EMBEDDED_ACTIVITIES_AGE_GATED_DESCRIPTION": [
         "Heads up, ",
@@ -49840,6 +49841,7 @@
         ]
     ],
     "N+GnPz": "How can people join your server?",
+    "2BP08P": "Join Server",
     "JOIN_SERVER_BUTTON_CTA": "Join a server",
     "JOIN_SERVER_BUTTON_CTA_MOBILE": "Join a Server with an Invite Link",
     "JOIN_SERVER_DESCRIPTION_MOBILE_REFRESH": "Enter an invite below to join an existing server.",
