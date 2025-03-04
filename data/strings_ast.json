@@ -1842,7 +1842,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -88991,6 +88991,8 @@
     ],
     "USER_SETTINGS_VOICE_PRIVACY_TITLE": "Voice privacy",
     "USER_SETTINGS_VOICE_SYSTEM_PICKER_LABEL": "Use operating system menus to select a screen capture source",
+    "uBd6JS": "Changing the screen capture source to use the operating system menus will quit and re-launch Discord. Are you sure you want to do this?",
+    "9jf31N": "Restart Required",
     "USER_SETTINGS_VOICE_VIDEO_CODEC_TITLE": "Video Codec",
     "USER_SETTINGS_VOICE_VIDEO_HOOK_LABEL": "Use our advanced technology to capture your screen",
     "USER_SETTINGS_WINDOWS_SETTINGS": "Windows Settings",
