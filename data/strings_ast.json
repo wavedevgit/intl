@@ -1842,7 +1842,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -72948,6 +72948,27 @@
         ]
     ],
     "Bnq9zM": "Recent Avatars",
+    "U4tZfX": [
+        "You can now access up to ",
+        [
+            1,
+            "recentAvatarsLimit"
+        ],
+        " of your most ",
+        [
+            8,
+            "$link",
+            [
+                "recent avatars"
+            ],
+            [
+                [
+                    1,
+                    "onClick"
+                ]
+            ]
+        ]
+    ],
     "+CyJu7": [
         [
             6,
