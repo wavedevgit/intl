@@ -201,6 +201,7 @@
     "7YZ/Sk": "Switch to back camera",
     "7aa9vr": "Switch to Basic",
     "7cqOLC": "**!!{username}!!** sent you a game friend request from $[]({{applicationName}}).",
+    "7eHfrq": "Preset",
     "7f4H7O": "Learn about Orbs",
     "7gHWra": "Error redeeming !!{amount}!!: !!{errorMessage}!!",
     "7gTJbm": "Active Call",
@@ -236,6 +237,7 @@
     "8uoLf3": "Manage games",
     "90AwBw": "From !!{guildName}!!.",
     "93ZDWF": "Ignored accounts",
+    "9A91tb": "Sharing audio",
     "9BGJ1t": "Reply Member List Search",
     "9DUS5u": "Overlay has been disabled for all games.",
     "9Dgf1N": "**!!{username}!!** sent you a friend request from $[]({{applicationName}}).",
@@ -13697,7 +13699,7 @@
     "PLATFORM_WINDOWS": "Windows",
     "PLAY": "Play",
     "PLAYING_GAME": "Playing **!!{game}!!**",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
@@ -20486,5 +20488,6 @@
     "zmcRl5": "You can now share a Nitro trial with up to 3 friends.",
     "zqh7ZG": "Insufficient Orbs",
     "zqv4nZ": "Looking for accounts you've blocked or ignored? $[Go to settings]({{hook}})",
-    "zus71N": "Watch !!{videoTitle}!! for {targetMinutes, plural, one { minute} other { minutes} }"
+    "zus71N": "Watch !!{videoTitle}!! for {targetMinutes, plural, one { minute} other { minutes} }",
+    "zwBQho": "Not sharing audio"
 }
