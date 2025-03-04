@@ -2288,7 +2288,7 @@
         ]
     ],
     "VLbVho": "Get Started",
-    "Cc41tb": "We use age groups to determine access to certain experiences. This process is fast and secure - here's how it works:",
+    "Cc41tb": "We use age groups to determine access to certain experiences. This process is fast and easy - here's how it works:",
     "FQ+YOD": "Verify age group",
     "mXpKND": "Learn More",
     "TYfgw8": [
@@ -2302,7 +2302,7 @@
             [
                 [
                     1,
-                    "onRequest"
+                    "handleOnRequestHook"
                 ]
             ]
         ]
@@ -2317,13 +2317,13 @@
             [
                 [
                     1,
-                    "helpUrl"
+                    "handleOnHelpUrlHook"
                 ]
             ]
         ],
         " about age groups"
     ],
-    "ldhmmp": "These are used to determine your age group, and are not stored",
+    "ldhmmp": "These are not stored after the verification is completed",
     "K0z0AA": "Take a video selfie or scan your ID",
     "rw9yFR": [
         "You'll know it's us from the offical tag. ",
@@ -2336,7 +2336,7 @@
             [
                 [
                     1,
-                    "helpUrl"
+                    "handleOnHelpUrlHook"
                 ]
             ]
         ]
