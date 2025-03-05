@@ -58420,7 +58420,9 @@
     "ONBOARDING_DEFAULT_MODE_DESCRIPTION": "Return to the regular requirements where 7 Default Channels are needed, 5 of which must be chattable.",
     "ONBOARDING_DEFAULT_MODE_HEADER": "Disabled Advanced Server Setup",
     "ONBOARDING_DEFAULT_MODE_TOGGLE": "Switch to Regular Mode",
+    "CCmhpK": "Welcome!",
     "ONBOARDING_ERROR_PAGE_TEXT": "Welcome! You must complete Onboarding to view this community.",
+    "gRAHcX": "You must complete onboarding to view this community.",
     "ONBOARDING_HELP_TEXT_ADD_CHANNELS": [
         "You will be added to ",
         [
