@@ -1842,7 +1842,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -45231,12 +45231,12 @@
         "."
     ],
     "GUILD_SETTINGS_STICKERS_UPLOAD_AUTO_RESIZE_INSTRUCTIONS": [
-        "Stickers can be static (PNG) or animated (APNG, GIF). Stickers must be exactly 320 x 320 pixels and no larger than ",
+        "Stickers can be static (JPG, PNG) or animated (APNG, GIF). Stickers must be exactly 320 x 320 pixels and no larger than ",
         [
             1,
             "fileSize"
         ],
-        ". We will automatically resize static PNG and animated GIF stickers for you."
+        ". We will automatically resize static JPG, PNG and animated GIF stickers for you."
     ],
     "GUILD_SETTINGS_STICKERS_UPSELL_BANNER_TEXT": [
         "Boost your server to Level ",
@@ -46036,7 +46036,7 @@
     ],
     "GUILD_STICKER_UNUSED_TIER": "Upload more stickers to make use of this unlocked level.",
     "GUILD_STICKER_UPLOAD_DESCRIPTION": [
-        "File should be APNG, PNG, Lottie, or GIF (",
+        "File should be APNG, JPG, PNG, Lottie, or GIF (",
         [
             1,
             "fileSize"
@@ -46044,7 +46044,7 @@
         " max)"
     ],
     "GUILD_STICKER_UPLOAD_DESCRIPTION_NO_LOTTIE": [
-        "File should be APNG, PNG, or GIF (",
+        "File should be APNG, JPG, PNG, or GIF (",
         [
             1,
             "fileSize"
