@@ -1894,7 +1894,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -59466,6 +59466,32 @@
     ],
     "gnKWdX": "Notifications",
     "O1Nbjo": "Any notifications you receive while in game will go here.",
+    "MxKRFx": "Recent & Friend Channels",
+    "nxSS09": "We couldn't find any channels or friends matching your search.",
+    "UyA6SU": "Search for channels or friends",
+    "Aq+8wM": [
+        "Found ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    [
+                        7
+                    ],
+                    " result"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " results"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "386XRk": "Streams",
     "T6+rX1": "Go Live streams are shown in a list here.",
     "UPvOiY": "Video",
@@ -76600,6 +76626,7 @@
     "SCOPE_SDK_SOCIAL_LAYER_3": "Access your Friends list and their online status",
     "SCOPE_SDK_SOCIAL_LAYER_4": "Update your activity status on Discord",
     "SCOPE_SDK_SOCIAL_LAYER_5": "Send and receive messages from Discord",
+    "syJLx8": "Send and receive game invites",
     "SCOPE_UNSUPPORTED_ON_ANDROID": "Not supported within Android app",
     "SCOPE_UNSUPPORTED_ON_ANDROID_DESCRIPTION": "This OAuth2 scope is not supported within the app yet.\nGood news though, it does work on your mobile web browser! So please open it there.",
     "SCOPE_VOICE": "Connect to voice on your behalf and see others who are in any voice channel or call",
