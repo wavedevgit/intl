@@ -1894,7 +1894,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -49064,6 +49064,7 @@
         ]
     ],
     "INVITE_BUTTON_EXPIRED": "Invite Expired",
+    "xdCLeH": "Hide Details",
     "INVITE_BUTTON_INVALID": "Invalid Invite",
     "INVITE_BUTTON_INVALID_OWNER": "Try sending a new invite!",
     "INVITE_BUTTON_RESOLVING": "Resolving Invite",
