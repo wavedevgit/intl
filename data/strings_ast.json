@@ -1842,7 +1842,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -21608,8 +21608,6 @@
     ],
     "EMAIL_VERIFICATION_INSTRUCTIONS_HEADER": "Instructions Sent",
     "EMBEDDED_ACTIVITES_THERMAL_ALERT_HEADER": "Warning",
-    "EMBEDDED_ACTIVITIES_ACTIVITIES_AVAILABLE_IN_TEXT": "Activities now available in text chats",
-    "EMBEDDED_ACTIVITIES_ACTIVITIES_OPEN_TO_EVERYONE_BANNER_A11Y_LABEL": "Learn more about how Activities are now free",
     "EMBEDDED_ACTIVITIES_ACTIVITY": "activity",
     "EMBEDDED_ACTIVITIES_ACTIVITY_ENDED": "This activity has ended",
     "qnFavb": "Choose Activity",
@@ -21633,53 +21631,9 @@
     "EMBEDDED_ACTIVITIES_AUTO_SUGGEST_ACTIVITIES_TITLE": "Suggested Activities",
     "EMBEDDED_ACTIVITIES_AUTO_SUGGEST_SEE_ALL": "See All",
     "EMBEDDED_ACTIVITIES_AVAILABLE_NOW": "Available Now!",
-    "EMBEDDED_ACTIVITIES_BOOSTING_BADGE_TOOLTIP": [
-        "Activities below require a LVL ",
-        [
-            1,
-            "tier"
-        ],
-        " Boost"
-    ],
-    "EMBEDDED_ACTIVITIES_BOOST_SUBSCRIBE_CTA": "Boost this server to access more activities!",
     "EMBEDDED_ACTIVITIES_CAREFUL": "Careful...",
     "EMBEDDED_ACTIVITIES_CHANNEL_LABEL": "Channel",
-    "EMBEDDED_ACTIVITIES_CONCURRENT_ACTIVITIES_LIMITED_UPSELL_MODAL_BODY": [
-        "Take part in up to ",
-        [
-            1,
-            "targetTierConcurrentActivities"
-        ],
-        " activities at once in one server by Boosting to Level ",
-        [
-            1,
-            "targetBoostTier"
-        ],
-        ". Level ",
-        [
-            1,
-            "unlimitedConcurrentActivitiesBoostTier"
-        ],
-        " unlocks unlimited concurrent activities!"
-    ],
-    "EMBEDDED_ACTIVITIES_CONCURRENT_ACTIVITIES_UNLIMITED_UPSELL_MODAL_BODY": [
-        "Take part in unlimited activities at once in one server by Boosting to Level ",
-        [
-            1,
-            "unlimitedConcurrentActivitiesBoostTier"
-        ],
-        "!"
-    ],
-    "EMBEDDED_ACTIVITIES_CONCURRENT_ACTIVITIES_UPSELL_MODAL_TITLE": [
-        "Launch more activities at once by Boosting to Level ",
-        [
-            1,
-            "boostingTier"
-        ],
-        "!"
-    ],
     "EMBEDDED_ACTIVITIES_CONFIGURE_DEVELOPER_ACTIVITY_SHELF": "Configure Developer Activity Shelf",
-    "EMBEDDED_ACTIVITIES_CURRENTLY_TESTING_NITRO_ACTIVITIES": "Hey, we had a great time and hope you did too. Activities are in the testing phase, but we hope to show you more soon.",
     "EMBEDDED_ACTIVITIES_DEVELOPER_ACTIVITY": "In Development",
     "EMBEDDED_ACTIVITIES_DEVELOPER_ACTIVITY_SHELF_FETCH_ERROR": "Error Fetching Developer Activity Shelf",
     "EMBEDDED_ACTIVITIES_DEVELOPER_ACTIVITY_SHELF_FILTER_ERROR": [
@@ -21709,14 +21663,6 @@
     "EMBEDDED_ACTIVITIES_EMBED_START": "Start a new one?",
     "EMBEDDED_ACTIVITIES_EMBED_TITLE_INVITED_TO_JOIN": "You've been invited to join",
     "EMBEDDED_ACTIVITIES_ENDED": "Ended",
-    "EMBEDDED_ACTIVITIES_END_ACTIVITY": [
-        "End ",
-        [
-            1,
-            "applicationName"
-        ],
-        " for everyone?"
-    ],
     "EMBEDDED_ACTIVITIES_ERROR_TITLE": [
         "Error ",
         [
@@ -21755,14 +21701,6 @@
                 ]
             ]
         ]
-    ],
-    "EMBEDDED_ACTIVITIES_FREE_FOR_EVERYONE_BANNER_TEXT": "Activities are now free",
-    "EMBEDDED_ACTIVITIES_FREE_PREVIEW_TOOLTIP": [
-        [
-            1,
-            "activity"
-        ],
-        " is unlocked for a limited time!"
     ],
     "EMBEDDED_ACTIVITIES_GAMEPLAY_ALT": [
         "Screen capture of gameplay from ",
@@ -22099,7 +22037,6 @@
     ],
     "EMBEDDED_ACTIVITIES_KEEP_THE_FUN_GOING_SUBTITLE": "This activity has ended, but you can subscribe to Nitro to start your own activities and keep the fun going!",
     "EMBEDDED_ACTIVITIES_KEEP_THE_FUN_GOING_TITLE": "Keep the fun going",
-    "EMBEDDED_ACTIVITIES_LAST_HOST_LEAVING_MODAL": "Last host leaving modal",
     "EMBEDDED_ACTIVITIES_LAUNCH": "Launch",
     "EMBEDDED_ACTIVITIES_LAUNCHING_ACTIVITY": "Launching activity",
     "EMBEDDED_ACTIVITIES_LAUNCH_ACTIVITY_IN_VOICE_CHANNEL": [
@@ -22146,14 +22083,10 @@
     "EMBEDDED_ACTIVITIES_MOBILE_NUX_HEADING": "Activities on Mobile",
     "EMBEDDED_ACTIVITIES_NITRO_BANNER_HEADER": "More Ways to Hang",
     "EMBEDDED_ACTIVITIES_NITRO_BANNER_IMG_ALT": "Two characters playing a board game",
-    "EMBEDDED_ACTIVITIES_NITRO_END_WARNING": "As the only Nitro subscriber, the activity will end for everyone else if you leave.",
     "EMBEDDED_ACTIVITIES_NITRO_PERKS_BACKGROUNDS": "Custom video backgrounds",
     "EMBEDDED_ACTIVITIES_NITRO_PERKS_BOOSTS": "2 Server Boosts for instant Level 1 perks",
     "EMBEDDED_ACTIVITIES_NITRO_PERKS_STREAMING": "Source-quality Go Live streaming",
-    "EMBEDDED_ACTIVITIES_NITRO_SUBSCRIBE_CTA": "Subscribe to Nitro to access more activities!",
     "EMBEDDED_ACTIVITIES_NOT_AVAILABLE_ON_OS": "This feature is not available on this OS at this time",
-    "EMBEDDED_ACTIVITIES_NO_ELIGIBLE_HOST_MODAL": "No eligible host modal",
-    "EMBEDDED_ACTIVITIES_NO_ELIGIBLE_HOST_UPSELL_MODAL": "No eligible host upsell modal",
     "EMBEDDED_ACTIVITIES_NUMBER_OF_MINUTES": [
         [
             1,
@@ -22224,18 +22157,6 @@
     "EMBEDDED_ACTIVITIES_POP_IN_WARNING": "If you close this window, it will refresh and you might lose your place. You sure you want to close it?",
     "EMBEDDED_ACTIVITIES_POP_OUT_WARNING": "If you pop out an Activity, it will refresh and you might lose your place. You sure you want to pop out?",
     "EMBEDDED_ACTIVITIES_PREMIUM_TIER_CUSTOM_EMOJI": "Custom Emoji",
-    "EMBEDDED_ACTIVITIES_PREMIUM_TIER_EXTRA_BOOSTS": [
-        [
-            1,
-            "nBoostsWithNitro"
-        ],
-        " Server Boosts and ",
-        [
-            1,
-            "boostDiscount"
-        ],
-        " off extra Boosts"
-    ],
     "EMBEDDED_ACTIVITIES_PREMIUM_TIER_UPLOAD_SIZE": [
         "Upload file size increase to ",
         [
@@ -22323,19 +22244,6 @@
     "EMBEDDED_ACTIVITIES_UNLIMITED_PARTICIPANTS": "Unlimited participants",
     "EMBEDDED_ACTIVITIES_UNLIMITED_PARTICIPANTS_SHORT": "Unlimited",
     "RjceQU": "Unlimited Players",
-    "EMBEDDED_ACTIVITIES_UNLOCK_ACTIVITIES": [
-        "Unlock ",
-        [
-            1,
-            "activity"
-        ],
-        " and other great Activities by Boosting to Level ",
-        [
-            1,
-            "tier"
-        ],
-        " or higher"
-    ],
     "EMBEDDED_ACTIVITIES_UNLOCK_ACTIVITIES_BOOSTING": [
         "Unlock ",
         [
