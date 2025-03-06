@@ -946,6 +946,58 @@
     "ENGLISH_LANGUAGE": "English",
     "FEATURED_CHANNELS": "Featured Channels",
     "FORM_LABEL_OVERLAY_SHOW_MUTE_DEAFEN_KEYBINDS": "Show mute and deafen keybinds",
+    "ALLTBQ": [
+        [
+            1,
+            "price"
+        ],
+        "/month after credits"
+    ],
+    "X4Fr+f": [
+        "Your Nitro plan will start on ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    3,
+                    "expirationDate",
+                    "medium"
+                ]
+            ]
+        ],
+        " once your Nitro Credits have expired!"
+    ],
+    "SAJ5Ag": [
+        "Your ",
+        [
+            8,
+            "$b",
+            [
+                "Nitro Credits"
+            ]
+        ],
+        " will end on ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    3,
+                    "expirationDate",
+                    "medium"
+                ]
+            ]
+        ],
+        ". Choose a plan to begin immediately after."
+    ],
+    "oprI4u": [
+        [
+            1,
+            "price"
+        ],
+        "/year after credits"
+    ],
     "FRIEND_INVITE_ACCEPT_CONFIRMATION": [
         "You are now friends with ",
         [
