@@ -59466,6 +59466,35 @@
     ],
     "gnKWdX": "Notifications",
     "O1Nbjo": "Any notifications you receive while in game will go here.",
+    "q7/rgo": [
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " started playing: ",
+        [
+            8,
+            "gameIcon",
+            []
+        ],
+        " ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "gameName"
+                ]
+            ]
+        ]
+    ],
     "MxKRFx": "Recent & Friend Channels",
     "nxSS09": "We couldn't find any channels or friends matching your search.",
     "UyA6SU": "Search for channels or friends",
