@@ -16756,6 +16756,14 @@
         "\""
     ],
     "CONTENT_INVENTORY_OVERLAY_INVITE_MESSAGE": "Want to play?",
+    "UVBA9v": [
+        "Want to play ",
+        [
+            1,
+            "gameName"
+        ],
+        "?"
+    ],
     "f+c48/": "Show Invite Notification",
     "W9DVVV": "Quickly message friends who also play when a game launches",
     "CONTENT_INVENTORY_REACTION_USER_PLAYED": [
