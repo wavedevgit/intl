@@ -7569,6 +7569,16 @@
             ]
         ]
     ],
+    "hyh4lp": [
+        "Age check complete! ",
+        [
+            8,
+            "loginHook",
+            [
+                "Log back in"
+            ]
+        ]
+    ],
     "yvx///": "Restore access to Discord",
     "AUTOMATIC_GAIN_CONTROL": "Automatic Gain Control",
     "AUTOMATIC_REGION": "Automatic",
@@ -21537,6 +21547,8 @@
     "EDIT_ALL_EVENTS": "Edit all Events in this Series",
     "EDIT_CATEGORY": "Edit Category",
     "EDIT_CHANNEL": "Edit Channel",
+    "YP/OUl": "Edit Current Avatar",
+    "hZDpu7": "Edit Current Banner",
     "EDIT_EVENT": "Edit Event",
     "EDIT_FOLDER": "Edit Folder",
     "EDIT_FOLDER_A11Y_LABEL": [
@@ -73013,6 +73025,23 @@
             ]
         ]
     ],
+    "YJPieH": "Avatar removed",
+    "pBzwhY": [
+        "Remove avatar ",
+        [
+            1,
+            "orderNumber"
+        ],
+        ": ",
+        [
+            1,
+            "description"
+        ]
+    ],
+    "Lh0uy8": "Remove it please!",
+    "EKmxKS": "Are you sure you want to remove this avatar?",
+    "rfaLTE": "Remove avatar",
+    "/ZNT+/": "Removing the avatar failed. Please try again later.",
     "+CyJu7": [
         [
             6,
@@ -73055,6 +73084,7 @@
             "dateTime"
         ]
     ],
+    "x0DsRU": "You have no recent avatars.",
     "lsU63N": "Your recent avatars",
     "2ZhEh4": "Customize with ease, only with Nitro",
     "MW3mAg": [
@@ -73112,6 +73142,8 @@
         ],
         "."
     ],
+    "2Ld8DA": "Protip:",
+    "Oe0xqq": "You can hold down shift when removing an avatar to bypass this confirmation entirely.",
     "8W2HOz": [
         "You have room for ",
         [
