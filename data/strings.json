@@ -209,7 +209,6 @@
     "7YZ/Sk": "Switch to back camera",
     "7aa9vr": "Switch to Basic",
     "7cqOLC": "**!!{username}!!** sent you a game friend request from $[]({{applicationName}}).",
-    "7eHfrq": "Preset",
     "7f4H7O": "Learn about Orbs",
     "7gHWra": "Error redeeming !!{amount}!!: !!{errorMessage}!!",
     "7gTJbm": "Active Call",
@@ -245,7 +244,6 @@
     "8uoLf3": "Manage games",
     "90AwBw": "From !!{guildName}!!.",
     "93ZDWF": "Ignored accounts",
-    "9A91tb": "Sharing audio",
     "9BGJ1t": "Reply Member List Search",
     "9DUS5u": "Overlay has been disabled for all games.",
     "9Dgf1N": "**!!{username}!!** sent you a friend request from $[]({{applicationName}}).",
@@ -9926,7 +9924,6 @@
     "Gs9Aam": "Start 2-Week Trial",
     "GtUrGB": "We made the overlay lighter, faster, and more powerful. Update your game graphic setting to borderless to enable the new Overlay.",
     "GwpRe3": "Watch streams directly from overlay",
-    "H3Qjqa": "Hide stream preview",
     "H57f4+": "Earn more Orbs",
     "HALLOWEEN_COACHMARK_BODY": "Beware... your $[notification sounds]({{settingsHook}}) have a chilling twist. Head to your settings if you dare to switch back.",
     "HALLOWEEN_COACHMARK_HEADER": "Halloween haunts your Discord!",
@@ -18058,7 +18055,6 @@
     "SYSTEM_PERMISSION_REQUEST_FILES": "To access **your impressive files, you'll need to grant us permission**.",
     "SbKDHh": "Mallow",
     "SgxMJi": "Syncing with **!!{applicationName}!!**",
-    "SiHtX1": "Notify my friends in the server",
     "SzpUBA": "Members must agree to rules before they can chat or interact in the server.",
     "T6+rX1": "Go Live streams are shown in a list here.",
     "TABS_FRIENDS_ACCESSIBILITY_LABEL": "Friends tab",
@@ -19912,7 +19908,6 @@
     "avyV7O": "Ignore",
     "aw0GVV": "Show your connections",
     "b+P6ra": "{numPotions, plural, one { free} other { free} }",
-    "b0+Ira": "Mute stream audio",
     "b33pLC": "Show Profile?",
     "bCl1Eh": "Updated profile visibility",
     "bF+q7e": "Plus unlock perks like custom emoji, larger file uploads, and more. [Learn more.](Learn more.)",
@@ -20537,6 +20532,5 @@
     "zmcRl5": "You can now share a Nitro trial with up to 3 friends.",
     "zqh7ZG": "Insufficient Orbs",
     "zqv4nZ": "Looking for accounts you've blocked or ignored? $[Go to settings]({{hook}})",
-    "zus71N": "Watch !!{videoTitle}!! for {targetMinutes, plural, one { minute} other { minutes} }",
-    "zwBQho": "Not sharing audio"
+    "zus71N": "Watch !!{videoTitle}!! for {targetMinutes, plural, one { minute} other { minutes} }"
 }
