@@ -1894,7 +1894,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -71462,11 +71462,6 @@
             1,
             "rewardNameWithArticle"
         ],
-        " for ",
-        [
-            1,
-            "duration"
-        ],
         ". Keep it with Nitro!"
     ],
     "QUESTS_PLAY_INSTRUCTIONS_TO_WIN_REWARD_WITH_EXPIRING_COLLECTIBLE_REWARD": [
@@ -71788,11 +71783,6 @@
                 ]
             ]
         ],
-        " for ",
-        [
-            1,
-            "duration"
-        ],
         ". Keep it with Nitro!"
     ],
     "QUESTS_STREAM_SOURCE_SELECT_NOTICE_HEADING": [
@@ -71963,11 +71953,6 @@
                     "rewardNameWithArticle"
                 ]
             ]
-        ],
-        " for ",
-        [
-            1,
-            "duration"
         ],
         ". Keep it with Nitro!"
     ],
