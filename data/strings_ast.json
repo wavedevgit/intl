@@ -1894,7 +1894,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -14823,6 +14823,13 @@
         ]
     ],
     "CONNECTED_ACCOUNT_VERIFY_FAILURE_DETAILS": "We're sorry, there was a problem connecting. You can close this window and try again.",
+    "LElyIC": [
+        "Error code: ",
+        [
+            1,
+            "errorCode"
+        ]
+    ],
     "CONNECTED_ACCOUNT_VERIFY_FAILURE_PSN_CHILD_ACCOUNT_DETAILS": "This PlayStation Network account requires communication features to be enabled by a parent account.",
     "CONNECTED_ACCOUNT_VERIFY_FAILURE_YOUTUBE_PROFILE": [
         "You need a YouTube channel to connect your account. Create one by following the steps ",
