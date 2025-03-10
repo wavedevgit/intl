@@ -1894,7 +1894,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -60347,6 +60347,8 @@
     "PLATFORM_MACOS": "MacOS",
     "PLATFORM_WINDOWS": "Windows",
     "PLAY": "Play",
+    "l2TVDA": "Unable to play video - codec not supported. Try using the Discord desktop app or a more modern web browser",
+    "VO4o6O": "Unable to play video. Try using the Discord desktop app or a more modern web browser",
     "PLAYING_GAME": [
         "Playing ",
         [
