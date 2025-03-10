@@ -1894,7 +1894,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -19218,7 +19218,7 @@
     "DELETE_THREAD": "Delete Thread",
     "DELETE_UPDATES_CHANNEL_BODY": "Community Servers are required to have a Community Updates channel where Discord can send important community server updates.",
     "DELETE_VOICE_MESSAGE": "Delete Voice Message",
-    "DESCRIPTION": "1Ts7QE",
+    "DESCRIPTION": "Description",
     "DESIGNATE_OTHER_CHANNEL": [
         "You must designate another inside ",
         [
@@ -85826,7 +85826,7 @@
         "! 👋"
     ],
     "TIP_WRITING_MESSAGES_TITLE3": "Have a Conversation",
-    "TITLE": "gnwWr6",
+    "TITLE": "Title",
     "TITLE_BAR_CLOSE_WINDOW": "Close",
     "TITLE_BAR_FULLSCREEN_WINDOW": "Full screen",
     "TITLE_BAR_MAXIMIZE_WINDOW": "Maximize",
