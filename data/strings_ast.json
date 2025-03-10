@@ -19218,7 +19218,7 @@
     "DELETE_THREAD": "Delete Thread",
     "DELETE_UPDATES_CHANNEL_BODY": "Community Servers are required to have a Community Updates channel where Discord can send important community server updates.",
     "DELETE_VOICE_MESSAGE": "Delete Voice Message",
-    "DESCRIPTION": "Description",
+    "DESCRIPTION": "1Ts7QE",
     "DESIGNATE_OTHER_CHANNEL": [
         "You must designate another inside ",
         [
@@ -50495,6 +50495,21 @@
             ]
         ]
     ],
+    "9IsGLi": [
+        [
+            8,
+            "$link",
+            [
+                "Learn more."
+            ],
+            [
+                [
+                    1,
+                    "helpdeskArticle"
+                ]
+            ]
+        ]
+    ],
     "LEAVE": "Leave",
     "LEAVE_CALL": "Leave Call",
     "LEAVE_FORUM_POST": "Unfollow Post",
@@ -60128,6 +60143,62 @@
             "percentage"
         ],
         "% since last week"
+    ],
+    "Pd7olp": [
+        "Check all decorations details in Profile Settings. ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more."
+            ],
+            [
+                [
+                    1,
+                    "learnMoreLink"
+                ]
+            ]
+        ]
+    ],
+    "57ngoq": "Earn it. Keep it.",
+    "piFFjY": "With Nitro, your Quest rewards don't fade — hold onto earned avatar decorations long after the adventure ends",
+    "3b6TER": [
+        "You just earned the ",
+        [
+            1,
+            "rewardName"
+        ],
+        "! With Nitro, you get to keep it. Enjoy!"
+    ],
+    "e0QW19": [
+        "You just earned the ",
+        [
+            1,
+            "rewardName"
+        ],
+        "! It's yours to show off for the next ",
+        [
+            1,
+            "duration"
+        ],
+        ". If you think it's extra cool, keep it with Nitro."
+    ],
+    "VHXn7O": [
+        "Upgrade to ",
+        [
+            8,
+            "$link",
+            [
+                "Nitro"
+            ],
+            [
+                [
+                    1,
+                    "onNitroClick"
+                ]
+            ]
+        ],
+        " to keep this reward."
     ],
     "PERMISSIONS": "Permissions",
     "PERMISSIONS_UNSYNCED": [
@@ -71341,6 +71412,52 @@
         ],
         "."
     ],
+    "ziB0HB": [
+        "Play ",
+        [
+            1,
+            "gameTitle"
+        ],
+        " for ",
+        [
+            2,
+            "streamingDurationRequirement"
+        ],
+        " minutes with your Discord client open to unlock ",
+        [
+            1,
+            "rewardNameWithArticle"
+        ],
+        " for ",
+        [
+            1,
+            "duration"
+        ],
+        " and keep it for longer with Nitro!"
+    ],
+    "eb/SnZ": [
+        "Play ",
+        [
+            1,
+            "gameTitle"
+        ],
+        " for ",
+        [
+            2,
+            "streamingDurationRequirement"
+        ],
+        " minutes with your Discord client open to unlock ",
+        [
+            1,
+            "rewardNameWithArticle"
+        ],
+        " for ",
+        [
+            1,
+            "duration"
+        ],
+        ". Keep it with Nitro!"
+    ],
     "QUESTS_PLAY_INSTRUCTIONS_TO_WIN_REWARD_WITH_EXPIRING_COLLECTIBLE_REWARD": [
         "Play ",
         [
@@ -71426,6 +71543,27 @@
         ],
         " is now yours FOR-EV-ERRRR! You can use it anytime on your profile page."
     ],
+    "PkyRZm": [
+        "You just earned the ",
+        [
+            1,
+            "rewardName"
+        ],
+        "! With Nitro, you get to keep it until ",
+        [
+            1,
+            "expirationDate"
+        ],
+        ". Enjoy!"
+    ],
+    "o97tNj": [
+        "You just earned the ",
+        [
+            1,
+            "rewardName"
+        ],
+        "! With Nitro you get to keep it. Enjoy!"
+    ],
     "QUESTS_REWARD_AVATAR_DECORATION_BODY_WITH_EXPIRATION": [
         "You just leveled up your avatar game with this ",
         [
@@ -71466,6 +71604,32 @@
         ", but you can keep it longer as long as you have Nitro."
     ],
     "QUESTS_REWARD_AVATAR_DECORATION_HEADER": "Congratulations!",
+    "yCpc0d": [
+        "You just earned the ",
+        [
+            1,
+            "rewardName"
+        ],
+        "! It's yours to show off for the next ",
+        [
+            1,
+            "duration"
+        ],
+        ". If you think it's extra cool, keep it for longer with Nitro."
+    ],
+    "ie4YKy": [
+        "You just earned the ",
+        [
+            1,
+            "rewardName"
+        ],
+        "! It's yours to show off for the next ",
+        [
+            1,
+            "duration"
+        ],
+        ". If you think it's extra cool, keep it with Nitro."
+    ],
     "QUESTS_REWARD_CODE_CLAIMED_REWARD_TILE_SUBHEADER": "You Claimed This",
     "QUESTS_REWARD_CODE_CONGRATS": "Congrats!",
     "QUESTS_REWARD_CODE_DONE": "Done",
@@ -71562,6 +71726,64 @@
     "QUESTS_START_QUEST": "Start Quest",
     "hyrGU1": "Start Stream Quest",
     "QUESTS_START_VIDEO_QUEST": "Start Video Quest",
+    "smG9qq": [
+        "Stream ",
+        [
+            1,
+            "gameTitle"
+        ],
+        " to a friend for ",
+        [
+            2,
+            "streamingDurationRequirement"
+        ],
+        " minutes to unlock ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "questReward"
+                ]
+            ]
+        ],
+        " for ",
+        [
+            1,
+            "duration"
+        ],
+        " and keep it for longer with Nitro!"
+    ],
+    "X8Yt//": [
+        "Stream ",
+        [
+            1,
+            "gameTitle"
+        ],
+        " to a friend for ",
+        [
+            2,
+            "streamingDurationRequirement"
+        ],
+        " minutes to unlock ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "questReward"
+                ]
+            ]
+        ],
+        " for ",
+        [
+            1,
+            "duration"
+        ],
+        ". Keep it with Nitro!"
+    ],
     "QUESTS_STREAM_SOURCE_SELECT_NOTICE_HEADING": [
         "Select ",
         [
@@ -71700,6 +71922,44 @@
     "QUESTS_VIEW_MORE_ACCOUNTS": "View more accounts",
     "Ws2Bl5": "View More Quests",
     "QUESTS_VIEW_QUEST": "View Quest",
+    "vs/xBg": [
+        "Watch the video to unlock ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "rewardNameWithArticle"
+                ]
+            ]
+        ],
+        " for ",
+        [
+            1,
+            "duration"
+        ],
+        " and keep it for longer with Nitro!"
+    ],
+    "xqX+r6": [
+        "Watch the video to unlock ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "rewardNameWithArticle"
+                ]
+            ]
+        ],
+        " for ",
+        [
+            1,
+            "duration"
+        ],
+        ". Keep it with Nitro!"
+    ],
     "W/HkLC": [
         "Watch the video to unlock ",
         [
@@ -85820,7 +86080,7 @@
         "! 👋"
     ],
     "TIP_WRITING_MESSAGES_TITLE3": "Have a Conversation",
-    "TITLE": "Title",
+    "TITLE": "gnwWr6",
     "TITLE_BAR_CLOSE_WINDOW": "Close",
     "TITLE_BAR_FULLSCREEN_WINDOW": "Full screen",
     "TITLE_BAR_MAXIMIZE_WINDOW": "Maximize",
