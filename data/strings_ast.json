@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -59654,6 +59654,8 @@
     "PLAY_AGAIN": "Play again",
     "PLAY_BUTTON_A11Y_HINT": "Double tap to play or pause.",
     "PLAY_FULL_VIDEO": "Play Full Video",
+    "cnBQPD": "Play Here",
+    "JeK1Wl": "Play in DM",
     "PLAY_NOW": "Play now",
     "PLEASE_TRY_AGAIN_LATER": "Please try again later.",
     "PLN_NAME": "Polish Złoty",
