@@ -11919,7 +11919,7 @@
     "CHANGE_FRIEND_NICKNAME": "Change Friend Nickname",
     "CHANGE_HOME_HEADER": "Change Home Header",
     "CHANGE_ICON": "Change\nIcon",
-    "CHANGE_IDENTITY": "Edit Server Profile",
+    "CHANGE_IDENTITY": "Edit Per-server Profile",
     "CHANGE_IDENTITY_BIO_PLACEHOLDER": "Tell this server a bit about yourself",
     "CHANGE_IDENTITY_MODAL_CHANGE_NICKNAME_DISABLED": "Nickname (Disabled)",
     "CHANGE_IDENTITY_MODAL_UNKNOWN_ERROR": "Unknown error",
@@ -11931,7 +11931,7 @@
             "guildName"
         ]
     ],
-    "CHANGE_IDENTITY_SERVER_PROFILE": "Server Profile",
+    "CHANGE_IDENTITY_SERVER_PROFILE": "Per-server Profile",
     "CHANGE_IDENTITY_SERVER_PROFILE_MENU_HELP": "Visible only to those in this server",
     "CHANGE_IDENTITY_UPSELL": "Unlock with Nitro",
     "CHANGE_LOG": "Change Log",
@@ -21592,7 +21592,7 @@
     "EDIT_ONBOARDING": "Edit Onboarding",
     "EDIT_OVERVIEW": "Edit Overview",
     "EDIT_PROFILE": "Edit Profile",
-    "EDIT_PROFILE_CATEGORY_GUILD_IDENTITY": "Server Profiles",
+    "EDIT_PROFILE_CATEGORY_GUILD_IDENTITY": "Per-server Profiles",
     "EDIT_PROFILE_CATEGORY_USER_PROFILE": "User Profile",
     "EDIT_ROLES": "Edit Roles",
     "EDIT_STAGE_CHANNEL_TITLE": "Edit Stage",
@@ -30512,7 +30512,7 @@
     ],
     "GUILD_AUTOMOD_ALLOW_LIST_TITLE": "Allow words and phrases (optional)",
     "GUILD_AUTOMOD_ANDROID_BACKGROUND_CONTENT_DESCRIPTION": "Dark gray background outlining all the contents of a message flagged by AutoMod",
-    "GUILD_AUTOMOD_BIO_INVALID_MODAL_DESCRIPTION_MOBILE": "Your \"About Me\" violate this server's guidelines. You'll have to update your server profile before you can start chatting.",
+    "GUILD_AUTOMOD_BIO_INVALID_MODAL_DESCRIPTION_MOBILE": "Your \"About Me\" violate this server's guidelines. You'll have to update your per-server profile before you can start chatting.",
     "GUILD_AUTOMOD_BLOCKED_MESSAGE_EDIT_NOTICE": "This message can't be edited because it contains content blocked by this community. The message may also be viewed by the community owners.",
     "GUILD_AUTOMOD_BLOCKED_MESSAGE_EDIT_POSTFIX": "reverted",
     "GUILD_AUTOMOD_BLOCKED_MESSAGE_LEARN_MORE": [
@@ -30566,9 +30566,9 @@
                 ]
             ]
         ],
-        " wants you to update your server profile so you can start chatting."
+        " wants you to update your per-server profile so you can start chatting."
     ],
-    "GUILD_AUTOMOD_CHATBLOCKER_PROFILE_INVALID_GENERAL_MOBILE": "Your server profile contains words that are not allowed.",
+    "GUILD_AUTOMOD_CHATBLOCKER_PROFILE_INVALID_GENERAL_MOBILE": "Your per-server profile contains words that are not allowed.",
     "GUILD_AUTOMOD_CUSTOM_BLOCK_MESSAGE_UPSELL_CONTENT": [
         "Add a note to educate members whenever AutoMod blocks their message in ",
         [
@@ -30917,8 +30917,8 @@
     "GUILD_AUTOMOD_ML_SPAM_FILTER_TRIGGER_HEADER": "If message is suspected of being spam...",
     "GUILD_AUTOMOD_MODERATOR_REPORT_BUTTON": "Report",
     "GUILD_AUTOMOD_NAGBAR_QUARANTINED_ACCOUNT_USERNAME_CTA": "Update Username",
-    "GUILD_AUTOMOD_NAGBAR_QUARANTINED_USER_PROFILE": "Please update your server profile to start chatting in this community.",
-    "GUILD_AUTOMOD_NAGBAR_QUARANTINED_USER_PROFILE_CTA": "Update Server Profile",
+    "GUILD_AUTOMOD_NAGBAR_QUARANTINED_USER_PROFILE": "Please update your per-server profile to start chatting in this community.",
+    "GUILD_AUTOMOD_NAGBAR_QUARANTINED_USER_PROFILE_CTA": "Update Per-server Profile",
     "GUILD_AUTOMOD_NAGBAR_QUARANTINED_USER_PROFILE_NO_PERMS": "Please update your username to start chatting in this community.",
     "GUILD_AUTOMOD_NEW_RULE_ERROR": "Encountered an issue while generating a new rule",
     "GUILD_AUTOMOD_NOTFICATION_ALERT_TITLE": "safety alert!",
@@ -31206,9 +31206,9 @@
         ],
         "."
     ],
-    "GUILD_AUTOMOD_PROFILE_INVALID_DESCRIPTION": "Please update your server profile to start chatting in this community.",
+    "GUILD_AUTOMOD_PROFILE_INVALID_DESCRIPTION": "Please update your per-server profile to start chatting in this community.",
     "GUILD_AUTOMOD_PROFILE_INVALID_MODAL_TITLE_MOBILE": [
-        "Your server profile contains words that are not allowed in ",
+        "Your per-server profile contains words that are not allowed in ",
         [
             8,
             "$b",
@@ -31477,7 +31477,7 @@
     ],
     "GUILD_AUTOMOD_UNKNOWN": "Unknown",
     "GUILD_AUTOMOD_UPDATE_ACCOUNT_USERNAME_CTA": "Update Username",
-    "GUILD_AUTOMOD_UPDATE_PROFILE_CTA": "Update Server Profile",
+    "GUILD_AUTOMOD_UPDATE_PROFILE_CTA": "Update Per-server Profile",
     "GUILD_AUTOMOD_UPSELL_ASSET_HEADER": "AutoMod",
     "GUILD_AUTOMOD_UPSELL_CONTENT": [
         "Keep your server safe by setting up rules that block messages before they are sent. Check out ",
@@ -31495,7 +31495,7 @@
     "GUILD_AUTOMOD_UPSELL_DISMISSAL": "Got it",
     "GUILD_AUTOMOD_UPSELL_HEADER": "Block words and phrases",
     "GUILD_AUTOMOD_USERNAME": "AutoMod",
-    "GUILD_AUTOMOD_USERNAME_INVALID_MODAL_DESCRIPTION_MOBILE": "Your \"Username\" violate this server's guidelines. You'll have to update your server profile before you can start chatting.",
+    "GUILD_AUTOMOD_USERNAME_INVALID_MODAL_DESCRIPTION_MOBILE": "Your \"Username\" violate this server's guidelines. You'll have to update your per-server profile before you can start chatting.",
     "GUILD_AUTOMOD_USERNAME_INVALID_NO_PERMS_MODAL_DESCRIPTION_MOBILE": "Your \"Username\" violate this server's guidelines. You'll have to change it before you can start chatting.",
     "GUILD_AUTOMOD_USER_BADGE_OFFICIAL": "OFFICIAL",
     "GUILD_AUTOMOD_USER_BADGE_TEXT": "SYSTEM",
@@ -32938,7 +32938,7 @@
             ]
         ]
     ],
-    "GUILD_IDENTITY_UPSELL_MODAL_TITLE": "Express yourself fully with server profiles",
+    "GUILD_IDENTITY_UPSELL_MODAL_TITLE": "Express yourself fully with per-server profiles",
     "GUILD_IDENTITY_UPSELL_NATIVE_MODAL_BODY": "Be who you want and use a different avatar, banner, bio in each of your servers, upgrade your profile, and more with Discord Nitro!",
     "GUILD_IDENTITY_UPSELL_NATIVE_MODAL_TITLE": "Wanna use a different avatar, banner, and bio?",
     "GUILD_IDENTITY_UPSELL_OVERLAY_DESCRIPTION_THEMES": "Customize your profile for every server, from avatar decorations to bios. Only with Nitro.",
@@ -43522,7 +43522,7 @@
     ],
     "GUILD_SETTINGS_DISCOVERY_SEARCH_KEYWORDS_TITLE": "Search Keywords",
     "GUILD_SETTINGS_DISCOVERY_SUBCATEGORY_TITLE": "Subcategories",
-    "GUILD_SETTINGS_EDIT_PROFILE_GENERIC_ERROR": "There was a problem updating your server profile...",
+    "GUILD_SETTINGS_EDIT_PROFILE_GENERIC_ERROR": "There was a problem updating your per-server profile...",
     "GUILD_SETTINGS_EMOJIS_UPSELL_BANNER_TEXT": [
         "Boost your server to Level ",
         [
@@ -51847,7 +51847,7 @@
     "MARKETING_PAGE_COMPARISON_TABLE_BOOSTS": "2 Boosts + 30% off extra Boosts",
     "MARKETING_PAGE_COMPARISON_TABLE_CLIENT_THEME_V2": "20+ app theme colors",
     "MARKETING_PAGE_COMPARISON_TABLE_CUSTOM_EMOJI_V2": "Animated and custom emojis anywhere",
-    "MARKETING_PAGE_COMPARISON_TABLE_CUSTOM_PROFILES": "Custom profiles and per-server profiles",
+    "MARKETING_PAGE_COMPARISON_TABLE_CUSTOM_PROFILES": "Custom per-server profiles",
     "MARKETING_PAGE_COMPARISON_TABLE_CUSTOM_SOUNDBOARD": "Custom Soundboard sounds anywhere",
     "MARKETING_PAGE_COMPARISON_TABLE_CUSTOM_SOUNDS_V2": "Soundboard sounds anywhere",
     "MARKETING_PAGE_COMPARISON_TABLE_EARLY_ACCESS": "Early Access",
@@ -64242,7 +64242,7 @@
     "PREMIUM_MARKETING_PERK_GRID_ITEM_HEADING_PREMIUM_SUBSCRIPTION_BADGE": "Subscriber Badge",
     "PREMIUM_MARKETING_PER_GUILD_PROFILES_PERK_TITLE": "Custom Profiles",
     "PREMIUM_MARKETING_PER_GUILD_PROFILE_THEMES_PERK_DESCRIPTION_CHECK_IT_OUT": [
-        "Use a different avatar, profile theme, banner, and bio in each of your servers. ",
+        "Use a different avatar, per-server profile theme, banner, and bio in each of your servers. ",
         [
             8,
             "$link",
@@ -64258,7 +64258,7 @@
         ]
     ],
     "PREMIUM_MARKETING_PER_GUILD_PROFILE_THEMES_PERK_DESCRIPTION_TRY_IT_OUT": [
-        "Use a different avatar, profile theme, banner, and bio in each of your servers. ",
+        "Use a different avatar, per-server profile theme, banner, and bio in each of your servers. ",
         [
             8,
             "$link",
@@ -64430,7 +64430,7 @@
     "PREMIUM_MARKETING_WHATS_NEW_REMIXING_DESCRIPTION_SUB": "Nitro members get early beta access to the Remix tool on mobile. Remix lets you create and share your own memes by adding text, emoji, and stickers to images. Head on over to your mobile app to check it out!",
     "PREMIUM_MARKETING_WHATS_NEW_REMIXING_SUBTITLE": "Media editing and meme creation, at the speed of Discord.",
     "PREMIUM_MARKETING_WHATS_NEW_REMIXING_TITLE": "Remix on Mobile",
-    "PREMIUM_MARKETING_WHATS_NEW_SERVER_PROFILES_TITLE": "Elevate Your Server Profile",
+    "PREMIUM_MARKETING_WHATS_NEW_SERVER_PROFILES_TITLE": "Elevate Your Per-server Profile",
     "PREMIUM_MARKETING_WHATS_NEW_SERVER_PRORFILES_SUBTITLE": "Personalize your presence in different servers with unique avatar decorations and profile effects.",
     "PREMIUM_MARKETING_WHATS_NEW_SO_NEW_BADGE": "SO NEW",
     "PREMIUM_MARKETING_WHATS_NEW_SPECIAL_SHOP_PERKS_SUBTITLE": "Enjoy member pricing plus Nitro exclusive items in the Shop.",
@@ -67500,7 +67500,7 @@
     "PREMIUM_TIER_0_DESKTOP_MARKETING_COMPARISON_TABLE_ROW_LABEL_PRICE": "Price",
     "PREMIUM_TIER_0_DESKTOP_MARKETING_COMPARISON_TABLE_ROW_LABEL_PROFILE_THEMES": "Animated avatar, banner, and profile theme",
     "PREMIUM_TIER_0_DESKTOP_MARKETING_COMPARISON_TABLE_ROW_LABEL_SERVER_LIMIT": "Join up to 200 servers",
-    "PREMIUM_TIER_0_DESKTOP_MARKETING_COMPARISON_TABLE_ROW_LABEL_SERVER_PROFILE": "Custom server profiles",
+    "PREMIUM_TIER_0_DESKTOP_MARKETING_COMPARISON_TABLE_ROW_LABEL_SERVER_PROFILE": "Custom per-server profiles",
     "PREMIUM_TIER_0_DESKTOP_MARKETING_COMPARISON_TABLE_ROW_LABEL_SHOP_DISCOUNTS_GENERIC": "Shop member pricing, and exclusive items",
     "PREMIUM_TIER_0_DESKTOP_MARKETING_COMPARISON_TABLE_ROW_LABEL_STICKER": "Custom stickers anywhere",
     "PREMIUM_TIER_0_DESKTOP_MARKETING_COMPARISON_TABLE_ROW_LABEL_STICKER_V2": "Custom stickers anywhere plus 300+ Nitro exclusives",
@@ -68633,7 +68633,7 @@
     "PREMIUM_TRIAL_TUTORIAL_COACHMARK_HEADER_LAST_ONE": "Last one!",
     "PREMIUM_TRIAL_TUTORIAL_COACHMARK_MARKETING_CLOSE": "Close",
     "PREMIUM_TRIAL_TUTORIAL_COACHMARK_MARKETING_REDIRECT": "See all perks",
-    "PREMIUM_TRIAL_TUTORIAL_COACHMARK_SERVER_PROFILES": "Server profiles",
+    "PREMIUM_TRIAL_TUTORIAL_COACHMARK_SERVER_PROFILES": "Per-server profiles",
     "PREMIUM_TRIAL_TUTORIAL_COACHMARK_SUB_HEADER": "Check out a few of your new perks. Choose one to get started.",
     "PREMIUM_TRIAL_TUTORIAL_COACHMARK_SUB_HEADER_CHOOSE_ANOTHER_PERK": "Choose another perk to explore.",
     "PREMIUM_TRIAL_TUTORIAL_COACHMARK_SUB_HEADER_COMPLETED": "Have fun trying out all your new perks.",
@@ -70015,7 +70015,7 @@
             8,
             "$link",
             [
-                "Learn more about Server Profiles"
+                "Learn more about per-server profiles"
             ],
             [
                 [
@@ -90086,7 +90086,7 @@
         ]
     ],
     "VIEW_REACTIONS": "View Reactions",
-    "VIEW_SERVER_PROFILE": "View Server Profile",
+    "VIEW_SERVER_PROFILE": "View Per-server Profile",
     "VIEW_SPECTATORS": "View spectators",
     "VIEW_THREAD": "View Thread",
     "XKlAys": "Discord Orbs",
