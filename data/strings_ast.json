@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -3919,6 +3919,7 @@
     ],
     "AFK_SETTINGS": "Inactive Settings",
     "4gTnU1": "Cancel",
+    "XYt3Ag": "Done",
     "tYNaXF": "Check your age",
     "AGE_GATE_AGE_VERIFIED": "Age Verified",
     "AGE_GATE_AGE_VERIFIED_BODY": "Thank you for verifying your age. This helps us to keep Discord safe.",
