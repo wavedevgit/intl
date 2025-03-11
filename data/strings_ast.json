@@ -7286,6 +7286,7 @@
         " enabled"
     ],
     "AUTHORIZED_APPS_PRIVACY_POLICY": "Privacy Policy",
+    "8msQQE": "Something off?",
     "AUTHORIZED_APPS_TERMS_OF_SERVICE": "Terms of Service",
     "AUTHORIZED_APP_IS_CONNECTED_ACCOUNT": [
         [
@@ -18970,6 +18971,7 @@
     "DEAUTHORIZE": "Deauthorize",
     "DEAUTHORIZED_APP": "This App is not Authorized",
     "DEAUTHORIZE_APP": "Deauthorize Application",
+    "gAHBAw": "Don't want to use the app anymore?",
     "DEB": "Deb",
     "DEBUG": "Debug",
     "DECLINE": "Decline",
