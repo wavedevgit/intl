@@ -18742,14 +18742,15 @@
     "CUSTOM_STATUS_OPEN_ACTION_SHEET_YOUR_STATUS_A11Y_HINT": "Tap for custom status options",
     "CUSTOM_STATUS_PLACEHOLDER": "What're you up to?",
     "3XVZ0t": "Best dad joke?",
-    "4U+EJC": "Describe your day with only emojis",
+    "4U+EJC": "Best emoji to describe your day?",
     "l3pZcn": "What’s your hot take?",
     "ylzor6": "What have you been listening to?",
-    "ofYGEx": "What have you been playing on repeat?",
+    "Xt7od3": "What have you been loving?",
+    "r5TNm5": "What have you been playing?",
     "Wf8fxM": "Shower thought?",
     "pycKi4": "Today I learned...",
     "Z3Vn/f": "What’s the most useless talent you have?",
-    "PiepBg": "If you were a video game item, what would you be?",
+    "PiepBg": "What video game item would you be?",
     "pzz9iI": "What have you been watching?",
     "CUSTOM_STATUS_SET_CUSTOM_STATUS": "Set a custom status",
     "Iuzg8f": "Set your status",
@@ -47385,6 +47386,13 @@
         ],
         " is now your friend!"
     ],
+    "MUfqsb": [
+        "Accept Friend Request from ",
+        [
+            1,
+            "name"
+        ]
+    ],
     "INCOMING_FRIEND_REQUEST_FROM": [
         "Incoming Friend Request from ",
         [
@@ -47392,7 +47400,71 @@
             "name"
         ]
     ],
+    "0OF9IC": [
+        "Ignore Friend Request from ",
+        [
+            1,
+            "name"
+        ]
+    ],
     "0eWeam": "Incoming Game Friend Request",
+    "0uVuaW": "Incoming Game Friend Requests",
+    "gRgJGR": [
+        "is now your game friend in ",
+        [
+            8,
+            "applicationNameHook",
+            []
+        ],
+        "!"
+    ],
+    "Ke6fRE": [
+        [
+            1,
+            "name"
+        ],
+        " is now your game friend in ",
+        [
+            1,
+            "applicationName"
+        ]
+    ],
+    "kMUpdH": [
+        "Accept Game Friend Request from ",
+        [
+            1,
+            "name"
+        ],
+        " in ",
+        [
+            1,
+            "applicationName"
+        ]
+    ],
+    "JED+am": [
+        "Incoming Game Friend Request from ",
+        [
+            1,
+            "name"
+        ],
+        " in ",
+        [
+            1,
+            "applicationName"
+        ]
+    ],
+    "d8Cw5e": [
+        "Ignore Game Friend Request from ",
+        [
+            1,
+            "name"
+        ],
+        " in ",
+        [
+            1,
+            "applicationName"
+        ]
+    ],
     "INCOMING_VIDEO_CALL": "Incoming Video Call",
     "INCOMING_VIDEO_CALL_ELLIPSIS": "Incoming Video Call...",
     "INCOMPATIBLE_BROWSER": [
