@@ -58880,8 +58880,10 @@
             ]
         ]
     ],
-    "MxKRFx": "Recent & Friend Channels",
+    "0lvb9P": "Active Now",
+    "lnk2NT": "Recently Visited",
     "nxSS09": "We couldn't find any channels or friends matching your search.",
+    "3ET7Aw": "Search for channels or friends to get started.",
     "UyA6SU": "Search for channels or friends",
     "Aq+8wM": [
         "Found ",
@@ -58889,7 +58891,7 @@
             6,
             "count",
             {
-                "one": [
+                "=1": [
                     [
                         7
                     ],
@@ -58905,6 +58907,14 @@
             0,
             "cardinal"
         ]
+    ],
+    "qdXiQ0": [
+        "Found +",
+        [
+            2,
+            "count"
+        ],
+        " results"
     ],
     "386XRk": "Streams",
     "T6+rX1": "Go Live streams are shown in a list here.",
