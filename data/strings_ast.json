@@ -12047,7 +12047,7 @@
     "CHANNEL_HAS_BEEN_DELETED": "Channel has been deleted.",
     "CHANNEL_HEADER_BAR_A11Y_LABEL": "Channel header",
     "CHANNEL_LINKED_LOBBY_CHANNEL_HEADER": [
-        "Syncing with ",
+        "Linked to ",
         [
             8,
             "$b",
@@ -12102,7 +12102,7 @@
         ]
     ],
     "w8VWRU": [
-        "This channel is syncing with a game that uses Discord to power its chat. ",
+        "This channel syncing with a game that uses Discord to power its chat. ",
         [
             8,
             "$link",
@@ -12117,9 +12117,9 @@
             ]
         ]
     ],
-    "CHANNEL_LINKED_LOBBY_CHANNEL_HEADER_COACHMARK_TITLE": "Syncing with games",
+    "CHANNEL_LINKED_LOBBY_CHANNEL_HEADER_COACHMARK_TITLE": "Linked Channel",
     "SgxMJi": [
-        "Syncing with ",
+        "Linked to ",
         [
             8,
             "$b",
@@ -12132,7 +12132,7 @@
         ]
     ],
     "CHANNEL_LINKED_LOBBY_CHANNEL_HEADER_UNKNOWN_APPLICATION": [
-        "Syncing with an application • ",
+        "Linked to an application • ",
         [
             8,
             "$link",
@@ -12147,10 +12147,10 @@
             ]
         ]
     ],
-    "yQqVsr": "Syncing with an application",
-    "CHANNEL_LINKED_LOBBY_CHANNEL_NSFW_DISABLED_REASON": "Channels syncing with games cannot be age restricted",
+    "yQqVsr": "Linked to an application",
+    "CHANNEL_LINKED_LOBBY_CHANNEL_NSFW_DISABLED_REASON": "Linked channels cannot be age restricted",
     "CHANNEL_LINKED_LOBBY_CHANNEL_TOPIC_NOTICE": [
-        "This channel is syncing with ",
+        "This channel is linked to ",
         [
             8,
             "$b",
@@ -12184,7 +12184,7 @@
             ]
         ]
     ],
-    "CHANNEL_LINKED_LOBBY_CHANNEL_TOPIC_TOOLTIP": "This channel is syncing messages with this game.",
+    "CHANNEL_LINKED_LOBBY_CHANNEL_TOPIC_TOOLTIP": "This linked channel is syncing messages with a game.",
     "CHANNEL_LIST_V2_NUX_BODY": [
         "Use ",
         [
@@ -12358,7 +12358,7 @@
     "CHANNEL_PERMISSIONS_MODERATOR_TITLE_SIMPLE": "Moderators",
     "CHANNEL_PERMISSIONS_NOT_MODERATOR": "You are not a Stage moderator.",
     "CHANNEL_PERMISSIONS_NO_ROLES": "No Roles",
-    "CHANNEL_PERMISSIONS_PRIVATE_CATEGORY_DESCRIPTION": "By making a category private, only select members and roles will be able to view this category. Synced channels in this category will automatically match to this setting.",
+    "CHANNEL_PERMISSIONS_PRIVATE_CATEGORY_DESCRIPTION": "By making a category private, only select members and roles will be able to view this category. Linked channels in this category will automatically match to this setting.",
     "CHANNEL_PERMISSIONS_PRIVATE_CHANNEL_DESCRIPTION": "By making a channel private, only select members and roles will be able to view this channel.",
     "CHANNEL_PERMISSIONS_PRIVATE_CHANNEL_DESCRIPTION_NEW": "Only selected members and roles will be able to view this channel.",
     "CHANNEL_PERMISSIONS_PRIVATE_CHANNEL_DESCRIPTION_VOICE": "By making a channel private, only select members and roles will have access to view or connect to this channel.",
@@ -12558,7 +12558,7 @@
     "CHANNEL_TOOLTIP_TEXT": "Text",
     "CHANNEL_TOOLTIP_TEXT_ACTIVE_THREADS": "Text (Active Threads)",
     "CHANNEL_TOOLTIP_TEXT_LIMITED": "Text (Limited)",
-    "CHANNEL_TOOLTIP_TEXT_LINKED_LOBBY": "Text (Synced with Game)",
+    "CHANNEL_TOOLTIP_TEXT_LINKED_LOBBY": "Text (Linked to Game)",
     "CHANNEL_TOOLTIP_TEXT_NSFW": "Text (Age-Restricted)",
     "CHANNEL_TOOLTIP_VOICE": "Voice",
     "CHANNEL_TOOLTIP_VOICE_LIMITED": "Voice (Limited)",
@@ -21588,7 +21588,7 @@
     "EDIT_FORUM_POST": "Edit Post",
     "EDIT_FORUM_POST_SETTINGS": "Post Settings",
     "EDIT_IMAGE": "Edit Image",
-    "OJknho": "Edit Channel Syncing",
+    "OJknho": "Edit Channel Link",
     "EDIT_MAIN_PROFILE": "Edit Main Profile",
     "EDIT_MESSAGE": "Edit Message",
     "EDIT_NOTE": "Edit Note",
@@ -37274,7 +37274,7 @@
     ],
     "GUILD_SETTINGS_AUDIT_LOG_CHANNEL_FLAGS_CHANGE": "Changed channel settings",
     "GUILD_SETTINGS_AUDIT_LOG_CHANNEL_LOBBY_LINK_CREATE": [
-        "Started syncing channel with ",
+        "Unlink channel from ",
         [
             8,
             "applicationHook",
@@ -37282,7 +37282,7 @@
         ]
     ],
     "GUILD_SETTINGS_AUDIT_LOG_CHANNEL_LOBBY_LINK_DELETE": [
-        "Stopped syncing channel with ",
+        "Unlinked channel from ",
         [
             8,
             "applicationHook",
@@ -47949,10 +47949,10 @@
             "datetime"
         ]
     ],
-    "INTEGRATIONS_LINKED_LOBBY_CHANNELS_SYNCING": "Channels Syncing with Games",
+    "INTEGRATIONS_LINKED_LOBBY_CHANNELS_SYNCING": "Linked Channels",
     "INTEGRATIONS_LINKED_LOBBY_CHANNELS_SYNCING_BUTTON": "Manage",
     "INTEGRATIONS_LINKED_LOBBY_CHANNELS_SYNCING_INFO": [
-        "Manage channels syncing with games that use Discord to power their chat. ",
+        "Manage channels linked to games that use Discord to power their chat. ",
         [
             8,
             "$link",
@@ -47967,10 +47967,10 @@
             ]
         ]
     ],
-    "INTEGRATIONS_LINKED_LOBBY_CHANNELS_SYNCING_SUB_LABEL": "Shared chat messages with games",
-    "INTEGRATIONS_LINKED_LOBBY_SECTION_TITLE": "Syncing with",
+    "INTEGRATIONS_LINKED_LOBBY_CHANNELS_SYNCING_SUB_LABEL": "Syncing messages with games",
+    "INTEGRATIONS_LINKED_LOBBY_SECTION_TITLE": "Linked to",
     "INTEGRATIONS_LINKED_LOBBY_SYNCING_WITH_CHANNEL": [
-        "Syncing with ",
+        "Linked to ",
         [
             8,
             "$b",
@@ -48000,8 +48000,7 @@
             },
             0,
             "cardinal"
-        ],
-        " syncing"
+        ]
     ],
     "INTEGRATIONS_OVERVIEW": "Integrations",
     "INTEGRATIONS_OVERVIEW_DESCRIPTION_CHANNEL": [
@@ -50132,7 +50131,7 @@
         ]
     ],
     "DA9v5O": [
-        "Currently syncing with ",
+        "Currently linked to ",
         [
             8,
             "$b",
@@ -50145,7 +50144,7 @@
         ],
         "."
     ],
-    "LLWaxc": "Stop syncing",
+    "LLWaxc": "Remove channel link",
     "6l2osr": [
         "Are you sure you want to stop syncing messages with ",
         [
@@ -50158,11 +50157,11 @@
                 ]
             ]
         ],
-        "? You can setup syncing again later."
+        "? You can set up a channel link again later."
     ],
-    "JmUENj": "Stop Syncing Messages",
-    "6D5WVl": "Oops! Something went wrong while trying to stop syncing this channel. Please try again later.",
-    "vFzPFh": "Failed to stop syncing",
+    "JmUENj": "Remove Channel Link",
+    "6D5WVl": "Oops! Something went wrong while trying to unlink this channel. Please try again later.",
+    "vFzPFh": "Failed to remove link",
     "LINKED_ROLES_ADMIN_NUX_CONTENT": "Adding Linked Roles to any channel will give members Role Tags!",
     "LINKED_ROLES_ADMIN_NUX_TITLE": "Did you know?",
     "LINK_COPIED": "Link Copied!",
@@ -81927,7 +81926,7 @@
                 ]
             ]
         ],
-        " has connected this channel to ",
+        " has linked this channel to ",
         [
             8,
             "applicationNameHook",
@@ -81970,7 +81969,7 @@
                 ]
             ]
         ],
-        " has connected this channel to ",
+        " has linked this channel to ",
         [
             8,
             "$link",
