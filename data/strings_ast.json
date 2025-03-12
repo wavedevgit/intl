@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -18740,6 +18740,7 @@
         "?"
     ],
     "CUSTOM_STATUS_MODAL_PLACEHOLDER": "Support has arrived!",
+    "UH6ieX": "Need inspiration?",
     "CUSTOM_STATUS_OPEN_ACTION_SHEET_YOUR_STATUS_A11Y_HINT": "Tap for custom status options",
     "CUSTOM_STATUS_PLACEHOLDER": "What're you up to?",
     "3XVZ0t": "Best dad joke?",
