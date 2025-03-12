@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -25908,6 +25908,7 @@
             "count"
         ]
     ],
+    "IJa+4+": "Friends Played",
     "FRIENDS_REQUEST_STATUS_INCOMING": "Incoming Friend Request",
     "FRIENDS_REQUEST_STATUS_OUTGOING": "Outgoing Friend Request",
     "FRIENDS_ROW_ACTION_BUTTON_ACCESSIBILITY_LABEL_ACCEPT_SUGGESTION": "Accept Suggestion",
