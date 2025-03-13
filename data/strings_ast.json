@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -2405,6 +2405,12 @@
     "J+vlIS": "Open Shop",
     "5qZv9P": "Need help?",
     "XRdyj4": "Learn more.",
+    "v4HbPz": "Next",
+    "xYx+WV": "Journey to Quest Home in Discover to start earning.",
+    "KnWRQU": "Earn Orbs via Quests",
+    "F4SoLC": "Finish",
+    "Veu++f": "Snag special exclusives like Nitro credits and Shop favorites.",
+    "duN28/": "Spend in the Shop",
     "XBOX": "Xbox",
     "YEAR": [
         [
@@ -89484,15 +89490,6 @@
         ],
         " Orbs"
     ],
-    "V6DQX1": [
-        "Open Discover to navigate to Quests Home for your first ",
-        [
-            1,
-            "quantity"
-        ],
-        " Orbs!"
-    ],
-    "Rtlm19": "Earn Orbs in Quests",
     "4YgBe3": "Orbs are stored here. Earn and spend them however you want.",
     "lA7CLi": [
         "You earned ",
@@ -89504,7 +89501,6 @@
     ],
     "H57f4+": "Earn more Orbs",
     "WYchdX": "Explore the Shop",
-    "3B4+wM": "Find Orbs in Discover",
     "c7MXqK": "Get Orbs through completing Quests",
     "7f4H7O": "Learn about Orbs",
     "ElYQFR": "Orbs",
@@ -89540,15 +89536,6 @@
             "redeemedItemDescription"
         ]
     ],
-    "TcvbUl": [
-        "Open Discover to navigate to Quests Home for your first ",
-        [
-            1,
-            "quantity"
-        ],
-        " Orbs!"
-    ],
-    "9ItSXV": "AND if you earn. spend here",
     "bcmcCg": "Unlock exclusive Orbs rewards in the Shop",
     "o/NCfn": "Use Orbs to earn yours",
     "VISITORS_INFO": "A member who has clicked into the server and viewed a channel.",
