@@ -18740,7 +18740,6 @@
         ]
     ],
     "L99HQk": "Heads up! Your status & activity are hidden if you’re Invisible",
-    "IUwOOD": "Heads up! Your status won’t be visible if you’re Invisible.",
     "ISyHmZ": "Loving lately",
     "G1b309": "On repeat",
     "iXcll5": "Playing lately",
@@ -22953,6 +22952,8 @@
     "ESTIMATED_TAX_LABEL": "Estimated Tax",
     "EUR_NAME": "Euro",
     "EVENT_CANCELED": "Canceled",
+    "F9On+v": "Event changes saved",
+    "5HzXOz": "Event created",
     "EVENT_DETAILS_A11Y_HINT": "Double tap to view event details",
     "EVENT_MARK_INTERESTED": "Mark as Interested",
     "EVENT_MARK_NOT_INTERESTED": "Mark as Not Interested",
