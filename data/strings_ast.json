@@ -13961,6 +13961,13 @@
         ]
     ],
     "COLLECTIBLES_SFA_TITLE": "The Shop is now open to you!",
+    "bc9RBA": [
+        "Shop All ",
+        [
+            1,
+            "category_name"
+        ]
+    ],
     "COLLECTIBLES_SHOP": "Shop",
     "yzW/fX": "Admins",
     "COLLECTIBLES_SHOP_ALL": "Shop All",
