@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -2395,6 +2395,18 @@
     "60uRDA": "Follow the steps",
     "SFWVER": "Verify Age",
     "NjO/s7": "This channel contains adult content marked as age-restricted. You need to verify your age to view it. Do you want to verify your age?",
+    "ECL1eX": [
+        "This channel contains adult content marked as age-restricted. We determined you're in the ",
+        [
+            8,
+            "$b",
+            [
+                "teen"
+            ]
+        ],
+        " age group. If we made a mistake, you can reverify."
+    ],
+    "2L5V8/": "Reverify",
     "WiSJBA": "Retry",
     "+2/AhI": "Reverify",
     "TOP_CHANNELS": "Top Channels",
