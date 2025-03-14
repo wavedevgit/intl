@@ -7814,7 +7814,37 @@
         ],
         "?'"
     ],
+    "jeKpoq": [
+        "Ban ",
+        [
+            1,
+            "username"
+        ],
+        "?"
+    ],
     "BAN_MEMBERS": "Ban Members",
+    "HVJexc": [
+        "Ban ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    "1 member"
+                ],
+                "other": [
+                    [
+                        1,
+                        "count"
+                    ],
+                    " members"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        "?"
+    ],
     "BAN_REASON": "Ban Reason",
     "BAN_REASON_OPTION_BREAKING_RULES": "Breaking server rules",
     "BAN_REASON_OPTION_HACKED_ACCOUNT": "Compromised or hacked account",
