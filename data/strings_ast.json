@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -29859,7 +29859,7 @@
     ],
     "GUILD_AUTOMOD_ALLOW_LIST_TITLE": "Allow words and phrases (optional)",
     "GUILD_AUTOMOD_ANDROID_BACKGROUND_CONTENT_DESCRIPTION": "Dark gray background outlining all the contents of a message flagged by AutoMod",
-    "GUILD_AUTOMOD_BIO_INVALID_MODAL_DESCRIPTION_MOBILE": "Your \"About Me\" violate this server's guidelines. You'll have to update your per-server profile before you can start chatting.",
+    "GUILD_AUTOMOD_BIO_INVALID_MODAL_DESCRIPTION_MOBILE": "Your \"About Me\" violates this server's guidelines. You'll have to update your per-server profile before you can start chatting.",
     "GUILD_AUTOMOD_BLOCKED_MESSAGE_EDIT_NOTICE": "This message can't be edited because it contains content blocked by this community. The message may also be viewed by the community owners.",
     "GUILD_AUTOMOD_BLOCKED_MESSAGE_EDIT_POSTFIX": "reverted",
     "GUILD_AUTOMOD_BLOCKED_MESSAGE_LEARN_MORE": [
@@ -30842,8 +30842,8 @@
     "GUILD_AUTOMOD_UPSELL_DISMISSAL": "Got it",
     "GUILD_AUTOMOD_UPSELL_HEADER": "Block words and phrases",
     "GUILD_AUTOMOD_USERNAME": "AutoMod",
-    "GUILD_AUTOMOD_USERNAME_INVALID_MODAL_DESCRIPTION_MOBILE": "Your \"Username\" violate this server's guidelines. You'll have to update your per-server profile before you can start chatting.",
-    "GUILD_AUTOMOD_USERNAME_INVALID_NO_PERMS_MODAL_DESCRIPTION_MOBILE": "Your \"Username\" violate this server's guidelines. You'll have to change it before you can start chatting.",
+    "GUILD_AUTOMOD_USERNAME_INVALID_MODAL_DESCRIPTION_MOBILE": "Your \"Username\" violates this server's guidelines. You'll have to update your per-server profile before you can start chatting.",
+    "GUILD_AUTOMOD_USERNAME_INVALID_NO_PERMS_MODAL_DESCRIPTION_MOBILE": "Your \"Username\" violates this server's guidelines. You'll have to change it before you can start chatting.",
     "GUILD_AUTOMOD_USER_BADGE_OFFICIAL": "OFFICIAL",
     "GUILD_AUTOMOD_USER_BADGE_TEXT": "SYSTEM",
     "GUILD_AUTOMOD_USER_PROFILE_FILTER_DESCRIPTION": "Block specific language in your member's usernames.",
@@ -80215,6 +80215,7 @@
             ]
         ]
     ],
+    "Kb4Ukp": "This stream has ended.",
     "STREAM_FAILED_DESCRIPTION": [
         "Having issues with your stream? ",
         [
