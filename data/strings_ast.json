@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -2335,6 +2335,7 @@
             ]
         ]
     ],
+    "c6kn6O": "Oops, something went wrong",
     "VLbVho": "Get Started",
     "Cc41tb": "We use age groups to determine access to certain experiences. This process is fast and easy - here's how it works:",
     "FQ+YOD": "Verify age group",
