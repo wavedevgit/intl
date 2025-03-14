@@ -2471,9 +2471,13 @@
     "gJ8jlZ": "Toggle all",
     "lKsV2t": "This setting controls whether you will share your activity by default when you join a new server.",
     "eAQM7u": "Default Setting",
+    "IR0Bf3": "Stop sharing activity from games and other media",
     "f3ZvjI": "Individual server settings",
     "tHLm2N": "This setting controls whether your activity will be visible in each server.",
     "mUwVAQ": "Individual server settings are ignored when All Activity Sharing is disabled.",
+    "QPiPpa": "Disable activity only for certain connections",
+    "sbwbEB": "Disable activity only for certain games",
+    "4I+VjI": "Disable activity only in certain servers",
     "DU5UXF": "Control which linked platforms can make your activity visible to others on Discord.",
     "ctRS3d": "Control which detectable games on desktop which are visible to others while you play.",
     "+RndDg": "Which activities are shared?",
@@ -3645,7 +3649,6 @@
     "CQkyMj": "Desktop Games",
     "YjQQjo": "Disable Activity Sharing",
     "3k4hTU": "Disable Activity Sharing?",
-    "IR0Bf3": "Stop sharing activity from games and other media",
     "Ay/Nho": "Enable Activity Sharing",
     "iT/e8f": "How It Works",
     "n6DWMT": "Activity Sharing is off. Turn on sharing to enable more controls.",
@@ -3684,8 +3687,6 @@
             ]
         ]
     ],
-    "Q42xe3": "Manage connections",
-    "8uoLf3": "Manage games",
     "kJFenZ": "Manage Server Sharing",
     "GlYjeX": "Manage server sharing in server privacy settings",
     "jfrLLS": "Not Sharing",
@@ -3712,12 +3713,6 @@
             ]
         ]
     ],
-    "MDXRKi": "Stop sharing activity to profile",
-    "EG31Wl": "No one, including friends, will see activity on your profile",
-    "wnt8/P": "Stop sharing activity statuses",
-    "VupM1t": "No one, including friends, will see activity in your status",
-    "Arohq6": "Stop sharing activity updates",
-    "nYLud3": "No one, including friends, will see activity in any feeds",
     "Qyjz8f": "View Setting",
     "UPLpRU": "View Settings",
     "WF4laG": "Share your games and music with friends and server members, so they know what you’re up to.",
