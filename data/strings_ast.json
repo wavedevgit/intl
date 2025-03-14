@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -13770,6 +13770,9 @@
             "price"
         ]
     ],
+    "sb8vi4": "Stand out from the crowd with charming styles for your name.",
+    "Mi3iPD": "Check them out",
+    "FkIdLy": "NEW! Nameplates",
     "gOzMv7": "Your nameplate is updated!",
     "COLLECTIBLES_NEW_BADGE": "NEW",
     "COLLECTIBLES_NEW_RELEASE": "New Release",
@@ -88410,8 +88413,11 @@
     "r9jEV1": "Legacy Overlay module might be out of date, and has been disabled.",
     "8Ox6/P": "Legacy Overlay is not available on this system.",
     "BfFpW1": "Enable Legacy Overlay",
+    "wgVQND": "Use Compatibility Mode",
+    "5SsyFx": "Fixes issues with the overlay taking or loosing focus during use. (Warning! This will reduce some functionality)",
     "bvlpDQ": "Legacy Overlay",
     "a3eXS0": "Overlay",
+    "506AbW": "Overlay in compatability mode",
     "vwHPRk": "Waiting for overlay module tracking.",
     "ndgADA": "Lighter, faster, and more customizable. Requires Borderless display setting.",
     "nByTd3": [
@@ -88453,6 +88459,7 @@
     "2Xhy9v": "Overlay is currently initializing.",
     "60t/ND": "Legacy Overlay has been disabled for all games.",
     "JEEdqq": "Legacy Overlay is currently initializing.",
+    "pzBMwc": "Overlay is currently initializing in compatability mode",
     "nUUil5": "Overlay has been disabled for all games.",
     "s8+CFh": "Overlay is currently initializing.",
     "ONovPz": "Uh-oh, something went wrong.",
