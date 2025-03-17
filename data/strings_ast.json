@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -88282,6 +88282,8 @@
     "USER_SETTINGS_GAMES_SHORTCUTS_START_MENU": "Create Start Menu Shortcut",
     "USER_SETTINGS_GAMES_SHORTCUTS_START_MENU_NOTE": "When installing games from the Discord Store. Also makes your games discoverable via windows search.",
     "USER_SETTINGS_GUILD_ROLE_SUBSCRIPTION_CANCEL_TITLE": "Cancel Subscription",
+    "mlZ6Jy": "Choose a server tag to rep next to your name across Discord.",
+    "Pdd1nZ": "Server Tag",
     "USER_SETTINGS_HYPESQUAD": "HypeSquad",
     "93ZDWF": "Ignored accounts",
     "PYrWFR": "You don't have any ignored accounts",
