@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -69555,7 +69555,12 @@
     ],
     "PROGRESS_BAR_ACTIONS_MENU_LABEL": "Progress Bar Actions",
     "PROMOTIONAL_EMAIL_OPT_IN_CONSENT": "(Optional) It’s okay to send me emails with Discord updates, tips, and special offers. You can opt out at any time.",
-    "6iD6fn": "Provide me email updates such as new product features, recommendations, and special offers. (Optional)",
+    "1nwnlp": "Provide me email updates such as new product features, recommendations, and special offers. (Optional)",
+    "ty+iOT": "Get emails with new features, personalized recommendations, and special offers! (Optional)",
+    "kvM3dH": "Join our email squad to learn about new features, pro tips, and deals! (Optional)",
+    "0BZ8Ji": "Be the first to hear about new features, recommendations, and special offers via email! (Optional)",
+    "7SVSLC": "Level up your Discord experience with emails about new features and special offers! (Optional)",
+    "ylFCLi": "Receive personalized emails with product announcements and offers designed around how you use Discord! (Optional)",
     "PROMOTION_ACCOUNT_IDENTIFIER": [
         "Signed in as ",
         [
