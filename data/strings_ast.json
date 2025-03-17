@@ -91733,7 +91733,6 @@
     "yfwZu7": "View My Badge",
     "UnPGio": "The badge has been added to your profile.",
     "nvaTQk": "You collected the Orbs Profile Badge!",
-    "wS3GDA": "and",
     "BdRXZG": "Available",
     "hjvcLC": "Server Boosts",
     "xvgIVF": "Spent",
@@ -91795,8 +91794,37 @@
     "na6fmJ": "Included in Level 1",
     "dyNT9v": "Included in Level 2",
     "8AEGEx": "Included in Level 3",
+    "/6GgQk": [
+        "New Boost perks — ",
+        [
+            1,
+            "perks"
+        ]
+    ],
     "E5V5KC": "See new perks",
-    "XBP9VV": "New Boost perks —",
+    "GmN3VV": [
+        [
+            1,
+            "perk1"
+        ],
+        ", ",
+        [
+            1,
+            "perk2"
+        ],
+        ", and more"
+    ],
+    "MNO3sL": [
+        [
+            1,
+            "perk1"
+        ],
+        " and ",
+        [
+            1,
+            "perk2"
+        ]
+    ],
     "QOacIS": [
         [
             6,
@@ -91819,8 +91847,6 @@
             "cardinal"
         ]
     ],
-    "l/4T7u": "Enhanced Role Colors",
-    "uFH+vL": "Server Tags",
     "MYYPa2": "Unlock these perks without needing a specific Boost Level.",
     "p6HUDQ": "New Perks you can unlock with Boosts",
     "aJv4PD": "Your server will automatically “level up” once it has enough available Boosts.",
