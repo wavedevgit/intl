@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -20001,7 +20001,26 @@
     "DM_VERIFICATION_TEXT_BLOCKED": "You cannot send messages to a user you have blocked.",
     "hRCoPj": "DM Wallpaper",
     "qOCzKi": "DM Wallpapers",
+    "6JSOu7": "This is currently a Nitro Beta feature and only visible to a small group of users.",
     "GX3dSU": "NEW! DM wallpapers are here.",
+    "dFhhcX": "DM wallpapers are here.",
+    "0Tapv7": [
+        "Set a unique wallpaper with ",
+        [
+            8,
+            "$link",
+            [
+                "Nitro"
+            ],
+            [
+                [
+                    1,
+                    "onClickNitro"
+                ]
+            ]
+        ],
+        "."
+    ],
     "u7Hzjo": "Set unique wallpapers that everyone can enjoy, only with Nitro.",
     "mA8D6O": "Uh oh! The person who set the DM wallpaper no longer has Nitro.",
     "oUcgEB": "Uh oh! The DM wallpaper has been removed because you no longer have Nitro.",
@@ -20012,10 +20031,48 @@
     "MnUZLS": "Once applied, everyone will see the updated wallpaper.",
     "frNDKS": "If applied, everyone will see the updated wallpaper.",
     "091BJy": "Set a unique wallpaper with Nitro",
+    "R9iKd3": "If applied, everyone will see the updated wallpaper.",
+    "akeRTE": [
+        "Set a unique wallpaper with ",
+        [
+            8,
+            "$link",
+            [
+                "Nitro"
+            ],
+            [
+                [
+                    1,
+                    "onClickNitro"
+                ]
+            ]
+        ],
+        "."
+    ],
+    "o6850d": "Reapply",
+    "huMLgY": "You removed the DM wallpaper.",
     "OPEemJ": "Personalize your chats",
     "c40u29": "Set the perfect vibe with DM wallpapers that everyone can enjoy. Only with Nitro.",
     "tEZGHh": "Join in on the fun! Switch up the wallpaper, only with Nitro.",
     "uyO39/": "Join in on the fun! Switch up the wallpaper with Nitro.",
+    "JwUhHh": [
+        "Join in on the fun! Switch up the wallpaper with ",
+        [
+            8,
+            "$link",
+            [
+                "Nitro"
+            ],
+            [
+                [
+                    1,
+                    "onClickNitro"
+                ]
+            ]
+        ],
+        "."
+    ],
+    "q124kJ": "A new wallpaper was applied. Don't miss out!",
     "+lKndX": [
         [
             1,
@@ -20074,6 +20131,9 @@
         ],
         " DM wallpapers with Nitro"
     ],
+    "zyvzQ0": "Customize your chats!",
+    "BQBNjY": "Right-click any direct message to set a unique DM wallpaper.",
+    "VU8fxM": "Right-click any direct message to set a unique DM wallpaper. Only with Nitro.",
     "GixvUl": "Set DM wallpaper",
     "DND_DRAG_CANCELED": "Stopped dragging",
     "DND_DROP_ABOVE": [
@@ -90360,6 +90420,35 @@
     "VOICE_STATUS_NOT_CONNECTED_MOBILE": "You are disconnected from this call.",
     "VOICE_STATUS_RINGING": "Ringing…",
     "VOICE_UNAVAILABLE": "Voice Unavailable",
+    "zMf0XV": "After Hours",
+    "aBr5LC": "Aura",
+    "V2E7go": "Blue Petals",
+    "cToZAw": "Circuit",
+    "lru0cX": "Cozy Corner",
+    "5YMMe3": "Curious Wumpus",
+    "ZZfNpq": "Dark Cabin",
+    "MSYxio": "Dewdrop Nap",
+    "8R9S5O": "Discord Doodles",
+    "9vJRDA": "Fuji",
+    "KvvFNj": "Honk!",
+    "YH3Cp6": "In the woods",
+    "tX/3io": "Kawaii Cafe",
+    "tKZM1d": "Light Bend",
+    "zjCPHh": "Lofi Skyline",
+    "y8aWnJ": "Magnetic Swirl",
+    "oBFORU": "Mecha v. Kaiju",
+    "PH8L8P": "Mushroom Cottage",
+    "hbAr9P": "Northern Lights",
+    "D8+lj4": "Peaceful Meadow",
+    "np63lp": "Purple Prism",
+    "H6/Sd3": "Retro Desktop",
+    "gHy49/": "Seaside Twilight",
+    "RLMGZm": "Sunset",
+    "6WCSg4": "Sunset Camp",
+    "//Gf5e": "Sweet Treat",
+    "np7XjY": "Treehouse",
+    "k0uaTU": "Urban Eclipse",
+    "vdU+WV": "Zen Garden",
     "WARNING_SCREEN_RECORDING_PERMISSION_BODY": "Warning! The app doesn't have permission to record your screen. You may get unexpected results until you grant access and restart the app.",
     "WARNING_SCREEN_RECORDING_PERMISSION_TITLE": "Screen Share Permissions",
     "WATCH": "Watch",
