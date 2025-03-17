@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -19428,6 +19428,9 @@
     "DESKTOP_APP": "Desktop App",
     "DESKTOP_NOTIFICATIONS_ENABLE": "Enable Desktop Notifications",
     "DESKTOP_NOTIFICATIONS_ENABLE_BODY": "If you're looking for per-channel or per-server notifications, right-click the desired server icon and select Notification Settings.",
+    "fZMMqK": "This refreshed UI offers even more customization, two new themes and adjustable UI density for tailored spacing. Personalize now or anytime in User Settings.",
+    "7+iCGx": "Customize Your App",
+    "2w1sEB": "Adjust overall space for personal comfort and clarity.",
     "DETECT_PLATFORM_ACCOUNTS": "Automatically detect accounts from other platforms on this computer.",
     "DEVELOPER_ACTIVITY_SHELF": "Developer Activity Shelf",
     "DEVELOPER_ACTIVITY_SHELF_ENABLE": "Enable Developer Activity Shelf",
