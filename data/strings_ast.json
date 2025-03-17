@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -84789,6 +84789,7 @@
     "TEXT_PERMISSIONS": "Text Permissions",
     "THB_NAME": "Thai Baht",
     "THEME": "Theme",
+    "SMPT1t": "Ash",
     "THEME_DARK": "Dark",
     "THEME_DISABLED_FOR_CONTRAST_SYNC": [
         "Discord is using your computer’s contrast theme. To use a Discord Theme, turn off “Sync contrast settings” in the ",
@@ -84811,6 +84812,7 @@
     "GEaO9P": "Gray",
     "THEME_LIGHT": "Light",
     "THEME_MIDNIGHT": "Midnight",
+    "Do4ZJy": "Onyx",
     "THEME_PICKER_ACTIVITY_TITLE_1": "Mallow, Cap, and 3 others",
     "THEME_PICKER_ACTIVITY_TITLE_2": "locke, mallow, and graggle",
     "THEME_PICKER_MESSAGE_AUTHOR_1": "Nelly",
