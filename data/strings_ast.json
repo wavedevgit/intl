@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -13639,11 +13639,7 @@
         ],
         " days left in Shop"
     ],
-    "COLLECTIBLES_DETAILS_MODAL_BUNDLE_PURCHASE_DISCLAIMER": "Once purchased, these decorations will be added to your collection and can be used anytime",
     "COLLECTIBLES_DETAILS_MODAL_INCLUDED_WITH_PREMIUM_DISCLAIMER": "This bonus item is yours to keep and use anytime with an active Nitro subscription.",
-    "COLLECTIBLES_DETAILS_MODAL_PREMIUM_PURCHASE_DISCLAIMER": "Once purchased, this decoration will be added to your collection and can be used anytime",
-    "YDeSEh": "Once purchased, this nameplate will be added to your collection and can be used anytime",
-    "COLLECTIBLES_DETAILS_MODAL_PROFILE_EFFECT_PREMIUM_PURCHASE_DISCLAIMER": "Once purchased, this effect will be added to your collection and can be used anytime",
     "COLLECTIBLES_EPHEMERAL_DECO_UPSELL_BODY": "Decorations from Quests last for a limited time, but fear not - styles found in the Shop are forever.",
     "COLLECTIBLES_EPHEMERAL_DECO_UPSELL_CTA_1": "Go to Shop",
     "COLLECTIBLES_EPHEMERAL_DECO_UPSELL_CTA_2": "Edit Profile",
