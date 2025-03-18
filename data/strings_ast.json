@@ -13597,6 +13597,7 @@
         ]
     ],
     "COLLECTIBLES_BUY_DECORATION": "Buy Decoration",
+    "H3vhqa": "Buy Nameplate",
     "COLLECTIBLES_BUY_PROFILE_EFFECT": "Buy Profile Effect",
     "COLLECTIBLES_CATEGORY_BANNER_A11Y_LABEL": [
         "Category: ",
@@ -13641,6 +13642,7 @@
     "COLLECTIBLES_DETAILS_MODAL_BUNDLE_PURCHASE_DISCLAIMER": "Once purchased, these decorations will be added to your collection and can be used anytime",
     "COLLECTIBLES_DETAILS_MODAL_INCLUDED_WITH_PREMIUM_DISCLAIMER": "This bonus item is yours to keep and use anytime with an active Nitro subscription.",
     "COLLECTIBLES_DETAILS_MODAL_PREMIUM_PURCHASE_DISCLAIMER": "Once purchased, this decoration will be added to your collection and can be used anytime",
+    "YDeSEh": "Once purchased, this nameplate will be added to your collection and can be used anytime",
     "COLLECTIBLES_DETAILS_MODAL_PROFILE_EFFECT_PREMIUM_PURCHASE_DISCLAIMER": "Once purchased, this effect will be added to your collection and can be used anytime",
     "COLLECTIBLES_EPHEMERAL_DECO_UPSELL_BODY": "Decorations from Quests last for a limited time, but fear not - styles found in the Shop are forever.",
     "COLLECTIBLES_EPHEMERAL_DECO_UPSELL_CTA_1": "Go to Shop",
@@ -14083,6 +14085,7 @@
         " as a Valentines gift?"
     ],
     "eZrmtr": "This decoration is now part of your collection and can be used at anytime!",
+    "lvwvIi": "This nameplate is now part of your collection and can be used at anytime!",
     "naT1rK": "This decoration is now part of your collection and can be used at anytime. Happy Holidays!",
     "1xr2SU": "You did it! Put it on!",
     "wbgaj4": "Color options",
@@ -42969,7 +42972,7 @@
     "GUILD_SETTINGS_EMOJI_IMAGE": "Image",
     "GUILD_SETTINGS_EMOJI_NAME": "Name",
     "GUILD_SETTINGS_EMOJI_UPLOAD_HEADING": "Upload Requirements",
-    "GUILD_SETTINGS_EMOJI_UPLOAD_REQUIREMENTS_1": "File type: JPEG, PNG, GIF",
+    "GUILD_SETTINGS_EMOJI_UPLOAD_REQUIREMENTS_1": "File type: JPEG, PNG, GIF, WEBP",
     "GUILD_SETTINGS_EMOJI_UPLOAD_REQUIREMENTS_2": [
         "Recommended file size: ",
         [
@@ -88394,13 +88397,13 @@
     "3GZE6e": "Unignore",
     "daaiqK": "Apply",
     "y1MYys": "Cancel",
-    "3gaDLS": "Try on some of the decorations currently available for purchase in the shop.",
+    "3gaDLS": "Try on some of the nameplates currently available for purchase in the shop.",
     "SNAtBg": "Preview the shop",
     "cFfWg4": "Shop",
     "ABkyQk": "Go to Shop",
-    "6wbgS0": "My Decorations",
+    "6wbgS0": "My Nameplates",
     "3i+W8/": "None",
-    "my5jxM": "Want this decoration for yourself? Head to the Shop to buy it and collect it!",
+    "my5jxM": "Want this nameplate for yourself? Head to the Shop to buy it and collect it!",
     "USER_SETTINGS_KEYBINDS_ACTION": "Action",
     "USER_SETTINGS_KEYBINDS_CHAT_SECTION_TITLE": "Chat",
     "USER_SETTINGS_KEYBINDS_DEFAULT_KEYBINDS_TITLE": "Default Keybinds",
