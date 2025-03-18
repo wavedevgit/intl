@@ -23753,15 +23753,11 @@
         "\nand are assigned to just the roles you've selected. Members who are not assigned to any roles are still included. They can rejoin the server using a new invite."
     ],
     "FORM_HELP_NEWS": [
-        "Post messages that reach servers outside your own. Users can opt into ",
-        "\"",
-        "Following",
-        "\" ",
-        "this channel, so select posts you ",
+        "Users can Follow this channel in their own servers. Posts you ",
         "\"",
         "Publish",
         "\" ",
-        "from here will appear directly in their own servers. Announcement channels will not receive messages from other Announcement channels. ",
+        "from this channel will appear in those servers. ",
         [
             8,
             "$link",
@@ -23777,15 +23773,11 @@
         ]
     ],
     "FORM_HELP_NEWS_ANDROID": [
-        "Post messages that reach servers outside your own. Users can opt into ",
-        "\"",
-        "Following",
-        "\" ",
-        "this channel, so select posts you ",
+        "Users can Follow this channel in their own servers. Posts you ",
         "\"",
         "Publish",
         "\" ",
-        "from here will appear directly in their own servers. ",
+        "from this channel will appear in those servers. ",
         [
             8,
             "$link",
@@ -33984,7 +33976,8 @@
         " total."
     ],
     "GUILD_PRODUCT_UPLOAD_FILE_BUTTON": "Upload file",
-    "2Ab4IS": "By creating an announcement channel, your server profile will be visible to others outside of your server members.",
+    "2Ab4IS": "By creating an announcement channel, your server profile will be visible to others outside your server members. You can control Profile privacy in Server Settings > Profile.",
+    "/8VkyM": "By creating an announcement channel, your server profile will be visible to others outside your server members. You can control Profile privacy in Server Settings > Overview.",
     "7XdMW1": "Apply to Join",
     "4yfIDg": "View Application",
     "IRoQXl": "Go to Server",
@@ -34039,7 +34032,8 @@
     ],
     "fjHWen": "Private Profile",
     "DmIUGB": "Unknown Server",
-    "zCGuJy": "By enabling the widget, your server profile will be visible to others outside of your server members.",
+    "zCGuJy": "By enabling the widget, your server profile will be visible to others outside of your server members. You can control Profile privacy in Server Settings > Profile.",
+    "yInR2t": "By enabling the widget, your server profile will be visible to others outside of your server members. You can control Profile privacy in Server Settings > Overview.",
     "GUILD_PROGRESS_CTA": "Set up your server",
     "GUILD_PROGRESS_CURRENT_STEP": [
         "Step ",
