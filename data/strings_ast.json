@@ -88651,6 +88651,58 @@
     "xvgIVF": "Spent",
     "/F7Z29": "Total",
     "yv3DJC": "Skill Trees",
+    "1EGXSE": [
+        "Congrats! Your server now has full access to all of the ",
+        [
+            1,
+            "perkName"
+        ],
+        " perks."
+    ],
+    "Zg/m9P": [
+        "You've reached ",
+        [
+            1,
+            "perkName"
+        ]
+    ],
+    "ivpkNT": "No, thanks",
+    "+DlJ7+": [
+        [
+            1,
+            "perkName"
+        ],
+        " is available for purchase - check it out!"
+    ],
+    "h8CFJi": [
+        "You have ",
+        [
+            6,
+            "boostCount",
+            {
+                "=1": [
+                    [
+                        7
+                    ],
+                    " available Boost"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " available Boosts"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        ", which can unlock ",
+        [
+            1,
+            "perkName"
+        ]
+    ],
+    "k+prUF": "New Perk Available",
     "pycxTk": "Members of this server can pay to Boost it, and admins use those Boosts to unlock new features.",
     "diMhWV": "How do Boosts work?",
     "fXE30d": [
