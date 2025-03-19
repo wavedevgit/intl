@@ -1,2492 +1,4 @@
 {
-    "AI_TAG": "AI",
-    "APPLICATION_AUTOMOD_BADGE": "Uses AutoMod",
-    "APP_ICON_MUSHROOM": "One Up",
-    "ATTACHMENT_INLINE_PLACEHOLDER": "[attachment]",
-    "BACKGROUND": "Background",
-    "BAN_MULTIPLE_CONFIRM_TITLE": [
-        "Would you like to ban ",
-        [
-            6,
-            "count",
-            {
-                "one": [
-                    "1 member"
-                ],
-                "other": [
-                    [
-                        1,
-                        "count"
-                    ],
-                    " members"
-                ]
-            },
-            0,
-            "cardinal"
-        ],
-        "?"
-    ],
-    "BAN_MULTIPLE_FAILED_TOAST": "Mass ban failed",
-    "BAN_MULTIPLE_SUCCESS_TOAST": "Mass ban succesful",
-    "BETA": "Beta",
-    "CHANNELS_YOU_SHOULD_CHECK_OUT": "Channels you should check out",
-    "CHANNEL_CHAT_NOTIFICATION_SETTINGS_NOTICE_MUTED": [
-        "You will not be notified of new messages because ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "name"
-                ]
-            ]
-        ],
-        " is muted."
-    ],
-    "CHANNEL_CHAT_NOTIFICATION_SETTINGS_NOTICE_ONLY_MENTIONS": [
-        "You will only be notified when you are mentioned because ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "name"
-                ]
-            ]
-        ],
-        " is set to ",
-        [
-            8,
-            "$b",
-            [
-                "Only @mentions"
-            ]
-        ],
-        "."
-    ],
-    "CHANNEL_PERMISSIONS_READ_ONLY_DESCRIPTION": "By making a channel read only, members will not be able to send messages.",
-    "CHANNEL_PERMISSIONS_READ_ONLY_TITLE": "Read Only",
-    "CHANNEL_PROMPT_GAMING_CTA": "Get my stats!",
-    "CHANNEL_PROMPT_RANDOM_STICKER_CTA": "Random sticker",
-    "CHANNEL_PROMPT_UPLOAD_IMAGE_CTA": "Upload a picture",
-    "CLANS": "Guilds",
-    "CLAN_ADOPT_CLAN_IDENTITY": "Adopt Guild Identity",
-    "CLAN_BADGE": "Badge",
-    "CLAN_BADGE_ALT": [
-        "[",
-        [
-            1,
-            "tag"
-        ],
-        "]"
-    ],
-    "CLAN_BADGE_COLORS": "Badge Colors",
-    "CLAN_CARD_BADGE_APPLIED": "Applied",
-    "CLAN_CLEAR_CLAN_IDENTITY": "Clear Guild Identity",
-    "CLAN_DISCOVERY_APPLICATION_MAX_MEMBERS": "This Guild is at maximum capacity. You may want to apply for other Guilds.",
-    "CLAN_DISCOVERY_CARD_ARIA_LABEL": [
-        "Guild profile for ",
-        [
-            1,
-            "guildName"
-        ]
-    ],
-    "CLAN_DISCOVERY_MEMBER_COUNT": [
-        [
-            6,
-            "count",
-            {
-                "=1": [
-                    "1 Member"
-                ],
-                "other": [
-                    [
-                        1,
-                        "count"
-                    ],
-                    " Members"
-                ]
-            },
-            0,
-            "cardinal"
-        ]
-    ],
-    "CLAN_DISCOVERY_PLAYSTYLE_ARIA_LABEL": "Playstyle",
-    "CLAN_DISCOVERY_PROFILE_SUBTITLE": "You'll get notified when there's an update.",
-    "CLAN_DISCOVERY_PROFILE_TITLE": "Fill out the application to join.",
-    "CLAN_DISCOVERY_UNKNOWN_PLAYSTYLE": "Unknown",
-    "CLAN_GAMEPLAY_ACTIVITY_HIGH": "Very Active",
-    "CLAN_JOIN_SUCCESS_MAIN_CTA": "Let's Go",
-    "CLAN_JOIN_SUCCESS_SUBTITLE": "Rep your Guild, make new friends, and play some games. Get in and say hi to your new guildmates.",
-    "CLAN_JOIN_SUCCESS_SUBTITLE_MOBILE": "Rep your Guild, make new friends, and play some games. Get in and say hi to your new guildmates.",
-    "CLAN_JOIN_SUCCESS_TITLE": [
-        "Congratulations, you're an official member of ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "name"
-                ]
-            ]
-        ],
-        "!"
-    ],
-    "CLAN_LOOK_BANNER": "Banner",
-    "CLAN_LOOK_BRAND_COLOR": "Brand Color",
-    "CLAN_LOOK_PRESET_BADGE": "Badge",
-    "CLAN_LOOK_PRESET_CUSTOM": "Custom",
-    "CLAN_OVERVIEW_LABEL_CLAN_TAG": "Guild Tag",
-    "CLAN_OVERVIEW_LIST_MULTIPLE_ITEMS": [
-        [
-            1,
-            "items"
-        ],
-        ", and ",
-        [
-            1,
-            "last"
-        ]
-    ],
-    "CLAN_OVERVIEW_LIST_OTHERS_COUNT": [
-        [
-            6,
-            "n",
-            {
-                "one": [
-                    "1 other"
-                ],
-                "other": [
-                    [
-                        1,
-                        "n"
-                    ],
-                    " others"
-                ]
-            },
-            0,
-            "cardinal"
-        ]
-    ],
-    "CLAN_OVERVIEW_LIST_TWO_ITEMS": [
-        [
-            1,
-            "item1"
-        ],
-        " and ",
-        [
-            1,
-            "item2"
-        ]
-    ],
-    "CLAN_PALETTE_PICKER_CUSTOM_COLORS": "Custom Colors",
-    "CLAN_SETTINGS": "Guild Settings",
-    "CLAN_SETTINGS_BASIC_INFO": "Basic Info",
-    "CLAN_SETTINGS_CLAN_BADGE": "Guild Badge",
-    "CLAN_SETTINGS_CLAN_PROFILE": "Guild Profile",
-    "CLAN_SETTINGS_CUSTOMIZE_IDENTITY": "Customize Identity",
-    "CLAN_SETTINGS_DISABLE_CLAN": "Disable Guild",
-    "CLAN_SETTINGS_DISABLE_CONFIRM_BODY": "All open applications to your Guild will be rejected. Members will lose their Guild tags.",
-    "CLAN_SETTINGS_DISABLE_CONFIRM_TITLE": "Are you sure?",
-    "CLAN_SETTINGS_JOIN_APPLICATION": "Join Application",
-    "CLAN_SETTINGS_PERSONALITY_INFO": "Personality Info",
-    "CLAN_SETTINGS_SELECT_INTERESTS": "Select Topics",
-    "CLAN_SETTINGS_SELECT_TRAITS": "Select Traits",
-    "CLAN_SETTINGS_WRITE_DESCRIPTION": "Write Description",
-    "CLAN_SETTTINGS_SELECT_GAMES": "Select Games",
-    "CLAN_SETTTINGS_SELECT_PLAYSTYLE": "Select Playstyle",
-    "CLAN_SETUP_APPLICATIONS_STEP": "Member Applications",
-    "CLAN_SETUP_APPLICATION_SUBTITLE": "Ask questions to get to know potential members better. You'll review their answers and decide if they are approved to join. You'll also be able to interview applicants to get to know them better.",
-    "CLAN_SETUP_APPLICATION_TITLE": "Last Step! Set up the application.",
-    "CLAN_SETUP_BANNER_STEP": "Banner",
-    "CLAN_SETUP_CUSTOMIZE_HELP_TEXT": "Maxmimum 4 characters, alphabet (A-Z) and numbers only",
-    "CLAN_SETUP_CUSTOMIZE_LOOK_SUBTITLE": "This is how your Guild will appear to prospective members in the Guild finder and beyond. You're almost ready to recruit!",
-    "CLAN_SETUP_CUSTOMIZE_LOOK_TITLE": "Customize your Guild's look",
-    "CLAN_SETUP_CUSTOMIZE_SUBTITLE": "Guild members will rep these next to their name and on their profiles across Discord.",
-    "CLAN_SETUP_CUSTOMIZE_TITLE": "Create a badge and tag for your Guild",
-    "CLAN_SETUP_DESCRIPTION_PLACEHOLDER": "We're a cozy group of friends who've been playing co-op games for a couple years! Looking for like-minded people to join us at our weekly movie nights :D",
-    "CLAN_SETUP_DESCRIPTION_STEP": "Description",
-    "CLAN_SETUP_DESCRIPTION_SUBTITLE": "They'll see this as a Guild bio before they apply. What brought you together? What makes your Guild unique? Why should they apply?",
-    "CLAN_SETUP_DESCRIPTION_TITLE": "Tell potential recruits what your Guild is all about.",
-    "CLAN_SETUP_GAMES_ONE_GAME_REQUIRED": "You must select at least one game",
-    "CLAN_SETUP_GAMES_SEARCH_PLACEHOLDER": "Search for a game...",
-    "CLAN_SETUP_GAMES_STEP": "Games",
-    "CLAN_SETUP_GAMES_SUBTITLE": "You can always add more games later.",
-    "CLAN_SETUP_GAMES_SUGGESTED": "Games Your Members Are Playing",
-    "CLAN_SETUP_GAMES_TITLE": "What games does your Guild play?",
-    "CLAN_SETUP_INTERESTS_GENERATE_MORE": "Generate More",
-    "CLAN_SETUP_INTERESTS_HELP": "Press ENTER to add a trait",
-    "CLAN_SETUP_INTERESTS_LABEL": "Add a topic",
-    "CLAN_SETUP_INTERESTS_PLACEHOLDER": "Anime, Roman History, Sad Hamsters, etc...",
-    "CLAN_SETUP_INTERESTS_STEP": "Interests",
-    "CLAN_SETUP_INTERESTS_SUBTITLE": [
-        "Add at least ",
-        [
-            8,
-            "$b",
-            [
-                "3 topics"
-            ]
-        ],
-        " that your Guild discusses or traits that you share. The more niche, the better! Here's some ideas, but you can write in your own."
-    ],
-    "CLAN_SETUP_INTERESTS_TITLE": "What does your Guild like to talk about?",
-    "CLAN_SETUP_LANGUAGE_PLACEHOLDER": "Add a language...",
-    "CLAN_SETUP_MODAL_SAVE_AND_QUIT": "Save & Exit",
-    "CLAN_SETUP_NUM_TRAITS": [
-        [
-            6,
-            "n",
-            {
-                "one": [
-                    "1 Trait"
-                ],
-                "other": [
-                    [
-                        1,
-                        "n"
-                    ],
-                    " Traits"
-                ]
-            },
-            0,
-            "cardinal"
-        ]
-    ],
-    "CLAN_SETUP_OPTIONAL": "Optional",
-    "CLAN_SETUP_OVERVIEW_ESTABLISHED": [
-        "Est. ",
-        [
-            1,
-            "date"
-        ]
-    ],
-    "CLAN_SETUP_OVERVIEW_SIGNATURE": "sign here",
-    "CLAN_SETUP_OVERVIEW_SIGN_AGREEMENT": [
-        "By becoming a Guild, you agree that your server complies with the ",
-        [
-            8,
-            "$link",
-            [
-                "Discovery Guidelines"
-            ],
-            [
-                [
-                    1,
-                    "onGuidelinesClick"
-                ]
-            ]
-        ],
-        "."
-    ],
-    "CLAN_SETUP_OVERVIEW_SIGN_CTA": "Click to Sign",
-    "CLAN_SETUP_OVERVIEW_SIGN_DISCLAIMER": [
-        "Discord may use manual and/or automated means to review my server to ensure that it meets applicable policies such as our ",
-        [
-            8,
-            "$link",
-            [
-                "Community Guidelines"
-            ],
-            [
-                "https://discord.com/guidelines"
-            ]
-        ],
-        "."
-    ],
-    "CLAN_SETUP_OVERVIEW_SIGN_HELP": "By signing this charter, I agree to grow and uphold the values of the Guild.",
-    "CLAN_SETUP_OVERVIEW_TEXT_DEFAULT": "...in order to create a space to play games, establish this charter for the Guild.",
-    "CLAN_SETUP_OVERVIEW_TEXT_GAMES": [
-        "...in order to create a space to play ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "games"
-                ]
-            ]
-        ],
-        ", establish this charter for the Guild."
-    ],
-    "CLAN_SETUP_OVERVIEW_TEXT_GAMES_AND_PLAYSTYLE": [
-        "...in order to create a ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "playstyle"
-                ]
-            ]
-        ],
-        " space to play ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "games"
-                ]
-            ]
-        ],
-        ", establish this charter for the Guild."
-    ],
-    "CLAN_SETUP_OVERVIEW_TEXT_GAMETIME": [
-        "The members of the Guild are committed to make an effort to play games on ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "selectedTimes"
-                ]
-            ]
-        ],
-        "."
-    ],
-    "CLAN_SETUP_OVERVIEW_TEXT_TRAITS": [
-        "The Guild's traits shall be defined as ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "traits"
-                ]
-            ]
-        ],
-        "."
-    ],
-    "CLAN_SETUP_OVERVIEW_TEXT_WRAP": "Everyone will work together to uphold and nurture the values of the Guild and keep it safe and welcoming to all members.",
-    "CLAN_SETUP_OVERVIEW_TITLE": "We the people of",
-    "CLAN_SETUP_PLAYSTYLE_CASUAL_SUBTITLE": "We play to chill and have fun, but more fun if we win!",
-    "CLAN_SETUP_PLAYSTYLE_COMPETITIVE_SUBTITLE": "We play together to win, rank up, or beat challenges.",
-    "CLAN_SETUP_PLAYSTYLE_SOCIAL_SUBTITLE": "Skill doesn't matter. We have a good time win or lose.",
-    "CLAN_SETUP_PLAYSTYLE_STEP": "Playstyle",
-    "CLAN_SETUP_PLAYSTYLE_SUBTITLE": "Let potential members know the expectations and vibe in your server. How competitive or chill is your Guild?",
-    "CLAN_SETUP_PLAYSTYLE_TITLE": "What's your Guild's playstyle?",
-    "CLAN_SETUP_PLAYSTYLE_VERY_HARDCORE_SUBTITLE": "We won't sleep until we win.",
-    "CLAN_SETUP_RANDOMIZE_LOOK": "Randomize",
-    "CLAN_SETUP_SELECTED_GAMES": "Selected Games",
-    "CLAN_SETUP_SELECTED_INTERESTS": "Selected Interests",
-    "CLAN_SETUP_SIGN_SUBTITLE": "One last step - sign the charter to become a Guild.",
-    "CLAN_SETUP_SIGN_TITLE": "You're almost done!",
-    "CLAN_SETUP_SUGGESTED_INTERESTS": "Some Ideas...",
-    "CLAN_SETUP_TAG_PLACEHOLDER": "GLHF",
-    "CLAN_SETUP_TAG_STEP": "Badge",
-    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_AGE": "Age Demographic",
-    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_GENSHIN": "Genshin",
-    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_IDENTITY": "Characteristics",
-    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_LANGUAGE": "Language",
-    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_LOCALE": "Region",
-    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_VALORANT": "Valorant",
-    "CLAN_SETUP_UTILITY_TRAITS_STEP": "Traits",
-    "CLAN_SETUP_UTILITY_TRAITS_SUBTITLE": "These traits will help the right people find and apply for your Guild. You can customize more traits in the next step.",
-    "CLAN_SETUP_UTILITY_TRAITS_TITLE": "Who would be a good fit for your Guild?",
-    "CLAN_SETUP_WILDCARDS_SUBTITLE": "Choose up to 3 words that describe your Guild. Be creative!!",
-    "CLAN_SUBMIT_ERROR_SUBTITLE": "Please resolve steps marked as error and try again.",
-    "CLAN_SUBMIT_ERROR_TEXT": [
-        [
-            8,
-            "backHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        "Go back"
-                    ]
-                ]
-            ]
-        ],
-        " and check error messages for more information."
-    ],
-    "CLAN_SUBMIT_ERROR_TITLE": "There are errors you need to fix.",
-    "CLAN_SUCCESS_CTA": "Let's Go",
-    "CLAN_SUCCESS_POSTSCRIPT": "It may take a few days for your Guild to appear in the Discovery page.",
-    "CLAN_SUCCESS_SUBTITLE": "Get ready to rep your Guild, make new friends, and play some games.",
-    "CLAN_SUCCESS_TITLE": [
-        "Congratulations, ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "name"
-                ]
-            ]
-        ],
-        " is now a Guild!"
-    ],
-    "CLAN_SUCCESS_USE_TAG_HELP": "You can always edit this in Profile settings.",
-    "CLAN_SUCCESS_USE_TAG_TEXT": "Wear Guild Tag next to username",
-    "CLAN_TAG_VALIDATION_RULES": "Max 4 characters",
-    "CLAN_USER_ADOPT_TAG_GUILD_PROFILE_CTA": "Don The Tag",
-    "CLAN_USER_ADOPT_TAG_MODAL_CANCEL": "Not Now",
-    "CLAN_USER_ADOPT_TAG_MODAL_CTA": "Adopt Tag",
-    "CLAN_USER_ADOPT_TAG_MODAL_DESCRIPTION": [
-        [
-            1,
-            "guildName"
-        ],
-        " adopted a new guild tag, and you can now rep this server everywhere you chat."
-    ],
-    "CLAN_USER_ADOPT_TAG_MODAL_FEATURE": "Wear this tag everywhere",
-    "CLAN_USER_ADOPT_TAG_MODAL_FEATURE_CALLOUT": "You can always change your tag in User Profile",
-    "CLAN_USER_ADOPT_TAG_MODAL_HEADING": [
-        [
-            8,
-            "$p",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "guildName"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        [
-            8,
-            "$p",
-            [
-                "is now a guild"
-            ]
-        ]
-    ],
-    "CLAN_USER_ADOPT_TAG_MODAL_NEW_IDENTITY_CTA": "Update Tag",
-    "CLAN_USER_ADOPT_TAG_MODAL_NEW_IDENTITY_DESCRIPTION": [
-        "A new tag is available for ",
-        [
-            1,
-            "guildName"
-        ],
-        ". Would you like to adopt it?"
-    ],
-    "CLAN_USER_ADOPT_TAG_MODAL_NEW_IDENTITY_HEADING": [
-        [
-            8,
-            "$p",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "guildName"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        [
-            8,
-            "$p",
-            [
-                "has changed their tag"
-            ]
-        ]
-    ],
-    "CLAN_USER_ADOPT_TAG_NEW_IDENTITY_ARIA_LABEL": [
-        "A new tag is available for ",
-        [
-            1,
-            "guildName"
-        ]
-    ],
-    "CLAN_USER_ADOPT_TAG_NEW_IDENTITY_DESCRIPTION": "An update to your tag is available",
-    "CLAN_USER_ADOPT_TAG_NEW_IDENTITY_TITLE": [
-        [
-            1,
-            "guildName"
-        ],
-        " - New Tag!"
-    ],
-    "CLAN_USER_ADOPT_TAG_UPSELL_ARIA_LABEL": [
-        "Adopt the ",
-        [
-            1,
-            "guildName"
-        ],
-        " guild tag as part of your identity"
-    ],
-    "CLAN_USER_ADOPT_TAG_UPSELL_DESCRIPTION": "Rep your guild everywhere",
-    "CLAN_USER_ADOPT_TAG_UPSELL_TITLE": [
-        [
-            1,
-            "guildName"
-        ],
-        " - Tag Up!"
-    ],
-    "CLAN_USER_APPLICATION_EXISTS_TAG_GUILD_PROFILE_CTA": "View Application",
-    "CLAN_USER_APPLY_TAG_GUILD_PROFILE_CTA": "Apply To Join",
-    "CLAN_USER_GO_TO_CLAN_CTA": "Go to Guild",
-    "CLAN_USER_PROFILE_PRIMARY_CLAN": "Primary Guild",
-    "CLAN_USER_PROFILE_PRIMARY_CLAN_SUBTITLE": "Choose a Guild tag to rep next to your name across Discord.",
-    "CLAN_WELCOME_MESSAGE_0": [
-        "Everyone welcome ",
-        [
-            8,
-            "$link",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "usernameOnClick"
-                ]
-            ]
-        ],
-        " to the Guild!"
-    ],
-    "CLAN_WELCOME_MESSAGE_0_HOOK": [
-        "Everyone welcome ",
-        [
-            8,
-            "usernameHook",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " to the Guild!"
-    ],
-    "CLAN_WELCOME_MESSAGE_1": [
-        "A new member has spawned. Say hi to ",
-        [
-            8,
-            "$link",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "usernameOnClick"
-                ]
-            ]
-        ],
-        "."
-    ],
-    "CLAN_WELCOME_MESSAGE_1_HOOK": [
-        "A new member has spawned. Say hi to ",
-        [
-            8,
-            "usernameHook",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        "."
-    ],
-    "CLAN_WELCOME_MESSAGE_2": [
-        [
-            8,
-            "$link",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "usernameOnClick"
-                ]
-            ]
-        ],
-        " just joined the Guild. We hope you brought pizza."
-    ],
-    "CLAN_WELCOME_MESSAGE_2_HOOK": [
-        [
-            8,
-            "usernameHook",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " just joined the Guild. We hope you brought pizza."
-    ],
-    "CLAN_WELCOME_MESSAGE_3": [
-        "Glad you're here, ",
-        [
-            8,
-            "$link",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "usernameOnClick"
-                ]
-            ]
-        ],
-        ", welcome to the Guild."
-    ],
-    "CLAN_WELCOME_MESSAGE_3_HOOK": [
-        "Glad you're here, ",
-        [
-            8,
-            "usernameHook",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        ", welcome to the Guild."
-    ],
-    "CLAN_WELCOME_MESSAGE_4": [
-        "New recruit! ",
-        [
-            8,
-            "$link",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "usernameOnClick"
-                ]
-            ]
-        ],
-        " joined the Guild."
-    ],
-    "CLAN_WELCOME_MESSAGE_4_HOOK": [
-        "New recruit! ",
-        [
-            8,
-            "usernameHook",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " joined the Guild."
-    ],
-    "CLAN_WELCOME_MESSAGE_5": [
-        "Round of applause for the newest Guild member, ",
-        [
-            8,
-            "$link",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "usernameOnClick"
-                ]
-            ]
-        ],
-        ". Just for being here."
-    ],
-    "CLAN_WELCOME_MESSAGE_5_HOOK": [
-        "Round of applause for the newest Guild member, ",
-        [
-            8,
-            "usernameHook",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        ". Just for being here."
-    ],
-    "CLAN_WELCOME_MESSAGE_6": [
-        "Rolling out the red carpet for ",
-        [
-            8,
-            "$link",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "usernameOnClick"
-                ]
-            ]
-        ],
-        ". Say hi!"
-    ],
-    "CLAN_WELCOME_MESSAGE_6_HOOK": [
-        "Rolling out the red carpet for ",
-        [
-            8,
-            "usernameHook",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        ". Say hi!"
-    ],
-    "CLAN_WELCOME_MESSAGE_7": [
-        "Yahaha! ",
-        [
-            8,
-            "$link",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "usernameOnClick"
-                ]
-            ]
-        ],
-        " found us!"
-    ],
-    "CLAN_WELCOME_MESSAGE_7_HOOK": [
-        "Yahaha! ",
-        [
-            8,
-            "usernameHook",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " found us!"
-    ],
-    "CLAN_WELCOME_MESSAGE_8": [
-        "Get ready everyone -- a ",
-        [
-            8,
-            "$link",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "usernameOnClick"
-                ]
-            ]
-        ],
-        " has appeared!"
-    ],
-    "CLAN_WELCOME_MESSAGE_8_HOOK": [
-        "Get ready everyone -- a ",
-        [
-            8,
-            "usernameHook",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " has appeared!"
-    ],
-    "CLAN_WELCOME_MESSAGE_9": [
-        "Roses are red, violets are blue, ",
-        [
-            8,
-            "$link",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "usernameOnClick"
-                ]
-            ]
-        ],
-        " just joined the Guild with you."
-    ],
-    "CLAN_WELCOME_MESSAGE_9_HOOK": [
-        "Roses are red, violets are blue, ",
-        [
-            8,
-            "usernameHook",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " just joined the Guild with you."
-    ],
-    "CLYDE_VIEW_SOURCE_HIDE_TOOLTIP": "Hide Sources",
-    "CLYDE_VIEW_SOURCE_SHOW_TOOLTIP": "View Sources",
-    "CONSOLE_PLAYSTATION_STAGING_JOIN_VOICE": "Join on PlayStation (sp-int)",
-    "CONSOLE_PLAYSTATION_STAGING_TRANSFER_VOICE": "Transfer to PlayStation (sp-int)",
-    "U0Hhr6": [
-        [
-            4,
-            "duration",
-            "::Hms"
-        ]
-    ],
-    "CREATE_STAGE_INSTANCE_SELECT_GUILD_HEADER": "Where's the party?",
-    "DAY": [
-        [
-            6,
-            "count",
-            {
-                "=1": [
-                    "day"
-                ],
-                "other": [
-                    [
-                        1,
-                        "count"
-                    ],
-                    " days"
-                ]
-            },
-            0,
-            "cardinal"
-        ]
-    ],
-    "DEADCHAT_PROMPT_1": "It's quiet in here.",
-    "DEFAULT_CONFIRMATION_MODAL_HEADER": "Are you sure?",
-    "DELETE_STAGE_EVENT_CONFIRMATION_DESCRIPTION": [
-        "Are you sure you want to delete ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "eventName"
-                ]
-            ]
-        ],
-        "? This action cannot be undone."
-    ],
-    "DESKTOP_DOWNLOAD_DESCRIPTION": "More features, better performance, and easy access to all your conversations.",
-    "DESKTOP_DOWNLOAD_TITLE": "Discord for desktop",
-    "DESKTOP_DOWNLOAD_TITLE_LINUX": "Discord for Linux",
-    "DESKTOP_DOWNLOAD_TITLE_MAC": "Discord for Mac",
-    "DESKTOP_DOWNLOAD_TITLE_WINDOWS": "Discord for Windows",
-    "DEV_NOTICE_LOCAL": "Local development mode",
-    "DEV_NOTICE_STAGING": [
-        "Staging ",
-        [
-            1,
-            "buildNumber"
-        ]
-    ],
-    "DIRECTORY_CATEGORY_INTERNAL_1": "Work",
-    "DIRECTORY_CATEGORY_INTERNAL_2": "Social",
-    "DIRECTORY_CATEGORY_INTERNAL_3": "ERGs",
-    "DIRECTORY_CATEGORY_INTERNAL_5": "Archives",
-    "DISAPPROVAL": "ಠ_ಠ",
-    "DISCORD_NAME": "Discord",
-    "ENGLISH_LANGUAGE": "English",
-    "FEATURED_CHANNELS": "Featured Channels",
-    "FORM_LABEL_OVERLAY_SHOW_MUTE_DEAFEN_KEYBINDS": "Show mute and deafen keybinds",
-    "ALLTBQ": [
-        [
-            1,
-            "price"
-        ],
-        "/month after credits"
-    ],
-    "X4Fr+f": [
-        "Your Nitro plan will start on ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    3,
-                    "expirationDate",
-                    "medium"
-                ]
-            ]
-        ],
-        " once your Nitro Credits have expired!"
-    ],
-    "SAJ5Ag": [
-        "Your ",
-        [
-            8,
-            "$b",
-            [
-                "Nitro Credits"
-            ]
-        ],
-        " will end on ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    3,
-                    "expirationDate",
-                    "medium"
-                ]
-            ]
-        ],
-        ". Choose a plan to begin immediately after."
-    ],
-    "oprI4u": [
-        [
-            1,
-            "price"
-        ],
-        "/year after credits"
-    ],
-    "FRIEND_INVITE_ACCEPT_CONFIRMATION": [
-        "You are now friends with ",
-        [
-            1,
-            "username"
-        ],
-        "!"
-    ],
-    "FRIEND_INVITE_EXPIRATION": [
-        "Links expire in ",
-        [
-            1,
-            "expirationDays"
-        ],
-        " days, or ",
-        [
-            1,
-            "expirationUses"
-        ],
-        " uses."
-    ],
-    "FRIEND_INVITE_REVOKE_ALL": "Revoke All Links",
-    "FRIEND_INVITE_SHEET_TITLE": "Send Link to Add Friends",
-    "GET_MOBILE_APP_SUBTITLE": "Discord isn't supported on mobile web browsers. Join over 100 million people who use Discord to talk with communities and friends.",
-    "GO_LIVE_MODAL_GUILD_FORM_TITLE": "Where you're streaming",
-    "GO_LIVE_MODAL_SELECT_GUILD_FORM_TITLE": "Select a server for your stream",
-    "GUILD_DISCOVERY_CATEGORY_SEARCH_PLACEHOLDER_TAGS": [
-        "Explore ",
-        [
-            1,
-            "categoryName"
-        ],
-        " servers, or try popular tags below"
-    ],
-    "GUILD_DISCOVERY_SEARCH_PLACEHOLDER_TAGS": "Explore communities, or try popular tags below",
-    "GUILD_FRIENDS": "Friends in Server",
-    "GUILD_FRIENDS_MODAL_HEADER": [
-        [
-            6,
-            "numFriends",
-            {
-                "=0": [
-                    "0 Friends"
-                ],
-                "one": [
-                    "1 Friend"
-                ],
-                "other": [
-                    [
-                        1,
-                        "numFriends"
-                    ],
-                    " Friends"
-                ]
-            },
-            0,
-            "cardinal"
-        ],
-        " in ",
-        [
-            1,
-            "guildName"
-        ]
-    ],
-    "GUILD_FRIENDS_MODAL_HEADER_LOADING": [
-        [
-            6,
-            "numFriends",
-            {
-                "=0": [
-                    "Friends"
-                ],
-                "one": [
-                    "1+ Friend"
-                ],
-                "other": [
-                    [
-                        1,
-                        "numFriends"
-                    ],
-                    "+ Friends"
-                ]
-            },
-            0,
-            "cardinal"
-        ],
-        " in ",
-        [
-            1,
-            "guildName"
-        ]
-    ],
-    "GUILD_JOIN_FEEDBACK_ACCESS_TOO_HARD": "I got full access to the server, but gaining access was too hard",
-    "GUILD_JOIN_FEEDBACK_BODY": "Tell us about your community experience",
-    "GUILD_JOIN_FEEDBACK_HEADER": [
-        "How is ",
-        [
-            1,
-            "guildName"
-        ],
-        " going?"
-    ],
-    "GUILD_JOIN_FEEDBACK_ISSUE_SECTION_HEADER": "Choose your main issue",
-    "GUILD_JOIN_FEEDBACK_NO_ACCESS": "I could not get full access to the server",
-    "GUILD_JOIN_FEEDBACK_PERSONAL_EXPERIENCE": "I had a negative personal experience upon joining due to another server member(s)",
-    "GUILD_JOIN_FEEDBACK_REPORT": "Thanks for your feedback! Feedback like yours helps us improve Discord servers.",
-    "GUILD_JOIN_FEEDBACK_STILL_EXPLORING": "I am still exploring the server",
-    "GUILD_JOIN_FEEDBACK_WHAT_DO": "I don't know what to do here",
-    "GUILD_ROLE_SUBSCRIPTION_PURCHASE_BACK_TO_SUBSCRIPTION_USER_SETTING_CTA": "Back to Manage Server Subscriptions",
-    "GUILD_SETTINGS_AUDIT_LOG_AUTO_MODERATION_FLAGGED_USER_PROFILE": [
-        "AutoMod flagged ",
-        [
-            8,
-            "userHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "user"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        " for violating content in their user profile"
-    ],
-    "GUILD_SETTINGS_AUDIT_LOG_AUTO_MODERATION_QUARANTINE_USER": [
-        "AutoMod quarantined ",
-        [
-            8,
-            "userHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "user"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        " for violating content in their user profile"
-    ],
-    "GUILD_SETTINGS_AUDIT_LOG_V2_ANNOUNCEMENT_THREAD_CREATE": [
-        [
-            8,
-            "userHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "user"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        " created an announcement thread ",
-        [
-            8,
-            "targetHook",
-            [
-                "\"",
-                [
-                    1,
-                    "target"
-                ],
-                "\""
-            ]
-        ]
-    ],
-    "GUILD_SETTINGS_AUDIT_LOG_V2_FILTER": "Filters",
-    "GUILD_SETTINGS_AUDIT_LOG_V2_MEMBER_BAN_ADD": [
-        [
-            8,
-            "userHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "user"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        " banned ",
-        [
-            8,
-            "targetHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "target"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        ": ",
-        "\"",
-        [
-            1,
-            "reason"
-        ],
-        "\""
-    ],
-    "GUILD_SETTINGS_AUDIT_LOG_V2_PRIVATE_THREAD_CREATE": [
-        [
-            8,
-            "userHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "user"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        " created a private thread ",
-        [
-            8,
-            "targetHook",
-            [
-                "\"",
-                [
-                    1,
-                    "target"
-                ],
-                "\""
-            ]
-        ]
-    ],
-    "GUILD_SETTINGS_AUDIT_LOG_V2_SCHEDULED_EVENT_CREATE": [
-        [
-            8,
-            "userHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "user"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        " scheduled the event ",
-        [
-            8,
-            "targetHook",
-            [
-                "\"",
-                [
-                    1,
-                    "target"
-                ],
-                "\""
-            ]
-        ]
-    ],
-    "GUILD_SETTINGS_AUDIT_LOG_V2_SCHEDULED_EVENT_DELETE": [
-        [
-            8,
-            "userHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "user"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        " canceled the scheduled event ",
-        [
-            8,
-            "targetHook",
-            [
-                "\"",
-                [
-                    1,
-                    "target"
-                ],
-                "\""
-            ]
-        ]
-    ],
-    "GUILD_SETTINGS_AUDIT_LOG_V2_SCHEDULED_EVENT_UPDATE": [
-        [
-            8,
-            "userHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "user"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        " updated the scheduled event ",
-        [
-            8,
-            "targetHook",
-            [
-                "\"",
-                [
-                    1,
-                    "target"
-                ],
-                "\""
-            ]
-        ]
-    ],
-    "GUILD_SETTINGS_AUDIT_LOG_V2_SORT": "Sort by Date",
-    "GUILD_SETTINGS_AUDIT_LOG_V2_THREAD_CREATE": [
-        [
-            8,
-            "userHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "user"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        " created a thread ",
-        [
-            8,
-            "targetHook",
-            [
-                "\"",
-                [
-                    1,
-                    "target"
-                ],
-                "\""
-            ]
-        ]
-    ],
-    "GUILD_SETTINGS_AUDIT_LOG_V2_THREAD_DELETE": [
-        [
-            8,
-            "userHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "user"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        " deleted the thread ",
-        [
-            8,
-            "targetHook",
-            [
-                "\"",
-                [
-                    1,
-                    "target"
-                ],
-                "\""
-            ]
-        ]
-    ],
-    "GUILD_SETTINGS_AUDIT_LOG_V2_THREAD_UPDATE": [
-        [
-            8,
-            "userHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "user"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        " made changes to the thread ",
-        [
-            8,
-            "targetHook",
-            [
-                "\"",
-                [
-                    1,
-                    "target"
-                ],
-                "\""
-            ]
-        ]
-    ],
-    "GUILD_SETTINGS_PARTNER_CHECKLIST_LOADING_FAILED": "We are having trouble loading the requirements. Please check back later.",
-    "GUILD_SETTINGS_PARTNER_CHECKLIST_LOADING_FAILED_TOOLTIP": "Something went wrong. Please check back later",
-    "GUILD_STAGES_LANDING_MOBILE_SUBTITLE": "Visit this link on your desktop to buy a ticket. Once you have a ticket, you'll be able to attend the event on desktop or mobile.",
-    "HIGHLIGHT_NOTIFICATION_ACTIONSHEET_BODY": [
-        "Stay informed, without the noise! Highlights provide occasional updates when your friends are chatting in busy servers. ",
-        [
-            8,
-            "$link",
-            [
-                "Learn more"
-            ],
-            [
-                [
-                    1,
-                    "helpUrl"
-                ]
-            ]
-        ]
-    ],
-    "HIGHLIGHT_NOTIFICATION_SETTINGS_LABEL_SUPPRESS_HIGHLIGHTS": "Suppress Highlights in this server",
-    "7gTJbm": "Active Call",
-    "ICYMI_ACTIVE_CONVO": "Active Conversation",
-    "ICYMI_ACTIVITY_PLAYED": "Recently Played",
-    "ICYMI_ACTIVITY_PLAYING": "Currently Playing",
-    "ICYMI_ACTIVITY_UPDATED_STATUS": "updated their status",
-    "ICYMI_ADJUST_RANKING": "Adjust Server/Channel Recommendations",
-    "ICYMI_ADJUST_RANKINGS_TITLE": "Servers",
-    "ICYMI_ADJUST_SCORE_SUCCESS": "Thanks! This will take effect shortly.",
-    "ICYMI_BACK_TO_HOME": "Back to Home",
-    "zbVaKi": [
-        "Because you played ",
-        [
-            1,
-            "applicationName"
-        ]
-    ],
-    "ICYMI_BROWSE_SERVERS": "Browse more servers",
-    "ICYMI_CHANNEL_MUTE_WARNING": "Turning this off means no content from this channel will be shown.",
-    "ICYMI_CHANNEL_SETTINGS": "Channel Preferences",
-    "ICYMI_CHANNEL_SETTINGS_DESCRIPTION": [
-        "How much content would you like to see from ",
-        [
-            1,
-            "channelName"
-        ],
-        "?"
-    ],
-    "ICYMI_COMPLETE": "Complete",
-    "ICYMI_CONVO_CATCH_UP": "Catch up",
-    "ICYMI_CUSTOM_SCORING_LESS": "See Less",
-    "ICYMI_CUSTOM_SCORING_MORE": "See More!",
-    "ICYMI_CUSTOM_SCORING_NONE": "Good As Is",
-    "S5JNyc": [
-        "Forwarded ",
-        [
-            1,
-            "username"
-        ],
-        "'s status"
-    ],
-    "ICYMI_DESCRIPTION": "Breeze through the best across all your servers",
-    "tAo5Aw": "Tab double tap behavior",
-    "HLHJcH": "Open bookmarks",
-    "7mmwn5": "Scroll to the top",
-    "+dHWt7": "Open notifications",
-    "ICYMI_END_SUBTITLE": "Check back later for more new content!",
-    "ICYMI_END_TITLE": "That's all for now!",
-    "ICYMI_ERROR": "Something went wrong. Please try again later.",
-    "ICYMI_EVERYONE_WAS_MENTIONED": "Everyone was mentioned.",
-    "ICYMI_EXPERIMENTAL_WARNING": [
-        "In Case You Missed It (ICYMI) is a super-duper, early-access, experimental, ",
-        "& ",
-        "pre-alpha feature. ",
-        [
-            8,
-            "feedbackHook",
-            [
-                "Send Feedback"
-            ]
-        ]
-    ],
-    "ICYMI_FEATURED_SERVERS_SUBTITLE": "The more servers you join, the more interesting content you’ll find.",
-    "ICYMI_FEATURED_SERVERS_TITLE": "Featured servers you might like",
-    "ICYMI_FEEDBACK_IRRELEVANT_CONTENT": "Content was irrelevant",
-    "ICYMI_FEEDBACK_ISSUE_SECTION_HEADER": "Choose your main issue",
-    "ICYMI_FEEDBACK_LAGGY": "Laggy or slow",
-    "ICYMI_FEEDBACK_NOT_ENOUGH_CONTENT": "Not enough content",
-    "ICYMI_FEEDBACK_SUBTITLE": "Your feedback helps us improve your experience.",
-    "ICYMI_FEEDBACK_TITLE": "How was your experience with ICYMI?",
-    "ICYMI_FEEDBACK_TOO_MUCH_CONTENT": "Too much content",
-    "3wDyfX": "Filter content from employee servers",
-    "ICYMI_FORWARD": "Forward",
-    "ICYMI_FORWARD_MESSAGE": "Forward Message",
-    "yNWCsL": "posted something you might like",
-    "ICYMI_ITEM_HEADER_SUBTITLE_ANNOUNCEMENT": "posted an announcement.",
-    "ICYMI_ITEM_HEADER_SUBTITLE_ANNOUNCEMENT_EVERYONE": "posted an announcement that mentioned everyone.",
-    "ICYMI_ITEM_HEADER_SUBTITLE_CHANGED_STATUS": "changed their status",
-    "ICYMI_ITEM_HEADER_SUBTITLE_FILE": "uploaded a file:",
-    "ICYMI_ITEM_HEADER_SUBTITLE_FORUM_POST": "made a post.",
-    "ICYMI_ITEM_HEADER_SUBTITLE_GUILD_EVENT_CREATED": "created an event.",
-    "ICYMI_ITEM_HEADER_SUBTITLE_GUILD_EVENT_HOSTING": "is hosting an event.",
-    "ICYMI_ITEM_HEADER_SUBTITLE_GUILD_EVENT_NO_USER": "An event was created",
-    "ICYMI_ITEM_HEADER_SUBTITLE_IMAGE": "sent an image.",
-    "ICYMI_ITEM_HEADER_SUBTITLE_INTERESTING": "sent a message you might like.",
-    "ICYMI_ITEM_HEADER_SUBTITLE_LINK": "sent a link.",
-    "ICYMI_ITEM_HEADER_SUBTITLE_POPULAR_CONTENT": "sent a popular message.",
-    "ICYMI_ITEM_HEADER_SUBTITLE_THREAD": "started a thread.",
-    "ICYMI_ITEM_HEADER_SUBTITLE_VIDEO": "sent a video.",
-    "MOA2xs": "Join the community server!",
-    "ICYMI_JOIN_GUILDS_SUBTITLE": "The more servers you join, the more interesting content you’ll find.",
-    "ICYMI_JOIN_GUILDS_TITLE": "Choose 3 or more featured servers you’re interested in.",
-    "ICYMI_JOIN_THE_CONVERSATION": "Join in",
-    "ICYMI_LOADING_COMMENTS": "Loading comments...",
-    "jM1jAA": [
-        "mentioned you in ",
-        [
-            1,
-            "guildName"
-        ]
-    ],
-    "BSSkgI": [
-        "Want more content from ",
-        [
-            1,
-            "applicationName"
-        ],
-        "?"
-    ],
-    "90AwBw": [
-        "From ",
-        [
-            1,
-            "guildName"
-        ],
-        "."
-    ],
-    "1P7pvb": [
-        "From ",
-        [
-            1,
-            "guildName1"
-        ],
-        ", ",
-        [
-            1,
-            "guildName2"
-        ],
-        ", ",
-        "& ",
-        [
-            1,
-            "numGuildsRemaining"
-        ],
-        " more."
-    ],
-    "66UdFh": [
-        [
-            6,
-            "unreadsCount",
-            {
-                "one": [
-                    [
-                        1,
-                        "unreadsCount"
-                    ],
-                    " more mention"
-                ],
-                "other": [
-                    [
-                        1,
-                        "unreadsCount"
-                    ],
-                    " more mentions"
-                ]
-            },
-            0,
-            "cardinal"
-        ]
-    ],
-    "QiuZ+P": [
-        "From ",
-        [
-            1,
-            "guildName1"
-        ],
-        " & ",
-        [
-            1,
-            "guildName2"
-        ],
-        "."
-    ],
-    "ICYMI_PRE_ALPHA": "ALPHA",
-    "ICYMI_REACT_ACTIVITY": "React to Activity",
-    "ICYMI_REACT_STATUS": "React to Status",
-    "ICYMI_RECENT_CONVO": "Recent Conversation",
-    "ICYMI_REPLIED_TO": "Replied to:",
-    "ICYMI_REPLY": "Reply",
-    "5NwaNT": "Reply to Message",
-    "ICYMI_REPLY_REACT": [
-        "React or Reply to ",
-        [
-            1,
-            "username"
-        ]
-    ],
-    "ICYMI_REPLY_TO_ACTIVITY": "Reply to Activity",
-    "ICYMI_REPLY_TO_STATUS": "Reply to Status",
-    "ICYMI_REPLY_TO_USER": [
-        "Reply to @",
-        [
-            1,
-            "username"
-        ]
-    ],
-    "ICYMI_SEE_CHANNEL_CONTENT": "Show channel content in ICYMI",
-    "ICYMI_SEE_GUILD_CONTENT": "Show content in ICYMI",
-    "ICYMI_SELECTED": "Selected",
-    "ICYMI_SERVER_DISABLE_WARNING": "Turning this off means no content from this server will be shown.",
-    "ICYMI_SERVER_SETTINGS": "Server Preferences",
-    "ICYMI_SERVER_SETTINGS_CHANNELS_SUBTITLE": "Adjust how much content would you like to see from each channel.",
-    "ICYMI_SERVER_SETTINGS_SUBTITLE": [
-        "How much content would you like to see from ",
-        [
-            1,
-            "guildName"
-        ],
-        " overall?"
-    ],
-    "ICYMI_SETTING_NAME": "Hide ICYMI tab",
-    "ICYMI_SHARE_ACTIVITY": "Share Activity",
-    "ICYMI_SHARE_CONVO_SUMMARY": "Share Conversation",
-    "ICYMI_SHARE_EVENT": "Share Event",
-    "ICYMI_SHORT_TITLE": "ICYMI",
-    "ICYMI_SHOW_NEGATIVE": "Show negative scored content",
-    "ICYMI_SHOW_NSFW": "Show NSFW content",
-    "JiNPo6": [
-        "and ",
-        [
-            6,
-            "attachmentsCount",
-            {
-                "one": [
-                    "1 attachment"
-                ],
-                "other": [
-                    [
-                        1,
-                        "attachmentsCount"
-                    ],
-                    " attachments"
-                ]
-            },
-            0,
-            "cardinal"
-        ]
-    ],
-    "6ojWOz": "What's on your mind?",
-    "ICYMI_TITLE": "In Case You Missed It",
-    "ICYMI_TOPICS_SUBTITLE": "Select at least one topic for improved server recommendations.",
-    "ICYMI_TOPICS_TITLE": "What are some topics you’re interested in?",
-    "O+kBIC": "Unread Mentions",
-    "ICYMI_VALUE_PROP_1": "Sourced from all your servers",
-    "ICYMI_VALUE_PROP_2": "Only the freshest content",
-    "ICYMI_VALUE_PROP_3": "Know when you've caught up",
-    "INAPPROPRIATE_CONVERSATION_CHAT_ON_THE_WEB": "Chat on the web",
-    "INAPPROPRIATE_CONVERSATION_CONTACT_CRISIS_TEXT_LINE_ALT": "Illustration of floating phone surrounded by various abstract health info bubbles",
-    "INAPPROPRIATE_CONVERSATION_CONTACT_CRISIS_TEXT_LINE_DESCRIPTION": "Get 24-hour, live support from a counselor. To start, text DISCORD to 741-741.",
-    "INAPPROPRIATE_CONVERSATION_CONTACT_CRISIS_TEXT_LINE_HEADER": "Contact Crisis Text Line",
-    "INAPPROPRIATE_CONVERSATION_MARK_AS_TIER_1": "Add Inappropriate Tier 1 Warning (Experimental)",
-    "INAPPROPRIATE_CONVERSATION_MARK_AS_TIER_2": "Add Inappropriate Tier 2 Warning (Experimental)",
-    "INAPPROPRIATE_CONVERSATION_SEND_A_TEXT": "Send a text",
-    "INSTANT_INVITE_YOU_HAVE_BEEN_INVITED_TO_JOIN_GROUP_DM_BY_USER": [
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " has invited you to join a group DM"
-    ],
-    "INVITE_APP_GMAIL": "Gmail",
-    "INVITE_APP_LINE": "Line",
-    "INVITE_APP_MESSENGER": "Messenger",
-    "INVITE_APP_TELEGRAM": "Telegram",
-    "INVITE_APP_TWITTER": "Twitter",
-    "INVITE_APP_WHATSAPP": "WhatsApp",
-    "INVITE_EXPIRATION_NOTICE": [
-        "Invite expires in ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "duration"
-                ],
-                "."
-            ]
-        ]
-    ],
-    "INVITE_MESSAGE_PLACEHOLDER": [
-        "hey come check out Discord with me ",
-        [
-            1,
-            "link"
-        ]
-    ],
-    "INVITE_MODAL_NEVERMIND_BUTTON": "Nevermind",
-    "INVITE_SEND_ERROR": "Message Failed",
-    "INVITE_URGENT_DAYS_MESSAGE_PLACEHOLDER": [
-        "hey join me on Discord! Invite expires in ",
-        [
-            6,
-            "numDays",
-            {
-                "one": [
-                    "1 day"
-                ],
-                "other": [
-                    [
-                        1,
-                        "numDays"
-                    ],
-                    " days"
-                ]
-            },
-            0,
-            "cardinal"
-        ],
-        ". ",
-        [
-            1,
-            "link"
-        ]
-    ],
-    "INVITE_URGENT_HOURS_MESSAGE_PLACEHOLDER": [
-        "hey join me on Discord! Invite expires in ",
-        [
-            6,
-            "numHours",
-            {
-                "one": [
-                    "1 hour"
-                ],
-                "other": [
-                    [
-                        1,
-                        "numHours"
-                    ],
-                    " hours"
-                ]
-            },
-            0,
-            "cardinal"
-        ],
-        ". ",
-        [
-            1,
-            "link"
-        ]
-    ],
-    "INVITE_URGENT_MINUTES_PLACEHOLDER": [
-        "hey join me on Discord! Invite expires in ",
-        [
-            6,
-            "numMinutes",
-            {
-                "one": [
-                    "1 minute"
-                ],
-                "other": [
-                    [
-                        1,
-                        "numMinutes"
-                    ],
-                    " minutes"
-                ]
-            },
-            0,
-            "cardinal"
-        ],
-        ". ",
-        [
-            1,
-            "link"
-        ]
-    ],
-    "INVITE_YOUR_FRIENDS": "Invite your friends!",
-    "IYCMI_NEW_POSTS": "New Content",
-    "KEYBIND_NOTIFICATION_DESCRIPTION": "Now you can see your keybind for toggling mute in the overlay.",
-    "AWKKgY": "Add Likely ATO Warning (Experimental)",
-    "MESSAGE_STEP_TITLE": "Send your first message",
-    "MFA_REQUIRED_FOR_STAFF": "Multi-factor authentication is required for staff.",
-    "MOBILE_APP_DOWNLOAD_CTA": "Get our mobile app",
-    "MOBILE_APP_DOWNLOAD_SUBHEADER": "Keep the conversion going on our iOS or Android app.",
-    "MONTH": [
-        [
-            6,
-            "count",
-            {
-                "=1": [
-                    "month"
-                ],
-                "other": [
-                    [
-                        1,
-                        "count"
-                    ],
-                    " months"
-                ]
-            },
-            0,
-            "cardinal"
-        ]
-    ],
-    "NITRO_HOME_REQUIRES_SUBSCRIPTION": "REQUIRES SUBSCRIPTION",
-    "NOTIFICATION_CENTER_HIGHLIGHT_SETTINGS": "Highlight Notification Settings",
-    "NOTIFICATION_REPORT_IRRELEVANT_CHANNEL": "I don't care about this channel",
-    "NOTIFICATION_REPORT_IRRELEVANT_TOPIC": "Topic isn't relevant to me",
-    "NOTIFICATION_REPORT_IRRELEVANT_USER": "I don't know these people",
-    "NOTIFICATION_REPORT_SENSITIVE_OR_OFFENSIVE_TOPIC": "Topic is sensitive or offensive",
-    "NOTIFICATION_SETTINGS_UNREAD_MENTION_ONLY_DISABLED": "Disabled when notification is set to all messages",
-    "NOTIFICATION_SETTINGS_UNREAD_UPDATE_WARNING": "This will update unread badges to all messages",
-    "NOTIF_CENTER_V2_VIEW_SUMMARY": "Join in!",
-    "ONE_TIME_PURCHASE_FINE_PRINT": "This purchase is non-refundable.",
-    "OVERLAY_NEWS_GO_LIVE_BODY_NO_VOICE_CHANNEL": [
-        "Stream ",
-        [
-            1,
-            "game"
-        ],
-        " to your friends!"
-    ],
-    "PAYMENTS_ALL_METHOD_BUTTON": "All payment methods",
-    "PERSONALITY_10_KEY": "cinema-charmer",
-    "PERSONALITY_11_KEY": "wumpus",
-    "PERSONALITY_12_KEY": "nelly",
-    "PERSONALITY_1_KEY": "pirate-life",
-    "PERSONALITY_2_KEY": "whimsical-wizard",
-    "PERSONALITY_3_KEY": "astro-adventurer",
-    "PERSONALITY_4_KEY": "noir-narrator",
-    "PERSONALITY_5_KEY": "inventive-intellectual",
-    "PERSONALITY_6_KEY": "knight-narrative",
-    "PERSONALITY_7_KEY": "secret-spy",
-    "PERSONALITY_8_KEY": "oracle-observations",
-    "PERSONALITY_9_KEY": "voyager-voice",
-    "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
-    "PERSONALITY_DEFAULT_KEY": "clyde",
-    "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "PlayStation",
-    "PLAYSTATION_NETWORK": "PlayStation Network",
-    "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
-        "TBD text for unavailable boost text lorem ipsum with ",
-        [
-            8,
-            "$link",
-            [
-                "text link"
-            ],
-            [
-                [
-                    1,
-                    "link"
-                ]
-            ]
-        ]
-    ],
-    "PROBLEMATIC_GPU_DRIVER_DETECTED": [
-        "There is currently a known issue with your GPU driver version which may affect the Go Live quality. If you experience this issue, learn more about how to fix it ",
-        [
-            8,
-            "$link",
-            [
-                "here"
-            ],
-            [
-                [
-                    1,
-                    "helpCenterLink"
-                ]
-            ]
-        ],
-        "."
-    ],
-    "PROGRESS_STEPS_FINISHED": "Completed!",
-    "PURCHASE_REVIEW_TAX_LABEL": "Tax",
-    "QR_CODE_DOWNLOAD_CTA": "Scan this QR code for an easy download link for our iOS or Android apps.",
-    "QUESTS_NITRO_ENROLL_FAILURE_TOAST": "Something went wrong. You may not be eligible to enroll in this Quest.",
-    "QUESTS_NITRO_REWARD_MODAL_BACKGROUND_IMAGE_ALT": "Rocket Ships fly over a starry galaxy.",
-    "QUESTS_NITRO_REWARD_MODAL_ERROR_HAVE_A_SUB": "You already have Nitro! This Quest reward is only available to users who aren't subscribed to Nitro.",
-    "QUESTS_NITRO_REWARD_MODAL_ERROR_MISC": "Something went wrong",
-    "QUESTS_NITRO_REWARD_MODAL_FOOTER_IN_GAME_BODY": [
-        "You earned ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "rewardNameWithArticle"
-                ]
-            ]
-        ],
-        "! It has been automatically applied to your account."
-    ],
-    "RAPIDASH_ONBOARDING_ACTION_ITEM": "Adopt the tag",
-    "REPORTS_FREE_TEXT_PLACEHOLDER": "(Optional) Provide more context about your report here",
-    "REPORTS_USER_MENU_OPTION_MOBILE": "Report User Profile",
-    "REPORTS_USER_PREVIEW_TITLE": "Selected User",
-    "ROLE_CREATE_ADD_MEMBERS_SUBTITLE": "Assign this role to your members. Members can have more than one role.",
-    "ROLE_PERMISSIONS_CONNECT_DESCRIPTION_THREADS": "Allows members to talk in voice and hear others in this channel's threads.",
-    "ROLE_PERMISSIONS_CONNECT_DESCRIPTION_THREADS_EVERYONE": "Allows members to talk in voice and hear others in this channel's threads.",
-    "ROLE_PERMISSIONS_DEAFEN_MEMBERS_DESCRIPTION_THREADS": "Allows members to deafen other members in this channel's threads, which means they won’t be able to speak or hear others.",
-    "ROLE_PERMISSIONS_MOVE_MEMBERS_DESCRIPTION_THREADS": "Allows members to disconnect other members from this channel's threads. They will also be able to move somebody into other channels that they have this permission in.",
-    "ROLE_PERMISSIONS_MUTE_MEMBERS_DESCRIPTION_THREADS": "Allows members to mute other members in this channel's threads for everyone.",
-    "ROLE_PERMISSIONS_PRIORITY_SPEAKER_DESCRIPTION_THREADS": [
-        "Allows members to be more easily heard in this channel's threads. When activated, the volume of others without this permission will be automatically lowered. Priority Speaker is activated by using the ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    8,
-                    "$link",
-                    [
-                        [
-                            1,
-                            "keybind"
-                        ]
-                    ],
-                    [
-                        [
-                            1,
-                            "onClick"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        " keybind."
-    ],
-    "ROLE_PERMISSIONS_PRIORITY_SPEAKER_DESCRIPTION_THREADS_MOBILE": [
-        "Allows members to be more easily heard in this channel's threads. When activated, the volume of others without this permission will be automatically lowered. Priority Speaker is activated by using the ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "keybind"
-                ]
-            ]
-        ],
-        " keybind."
-    ],
-    "ROLE_PERMISSIONS_SPEAK_DESCRIPTION_THREADS": "Allows members to talk in voice in this channel's threads. If this permission is disabled, members are default muted until somebody with the “Mute Members” permission un-mutes them.",
-    "ROLE_PERMISSIONS_STREAM_DESCRIPTION_THREADS": "Allows members to share their video, screen share, or stream a game in this channel's threads.",
-    "ROLE_PERMISSIONS_USE_EMBEDDED_ACTIVITIES_DESCRIPTION_THREADS": "Allows members to use Activities in this channel's threads.",
-    "ROLE_PERMISSIONS_USE_EXTERNAL_APPS_DESCRIPTION_THREADS": "Allows members to use External Apps in this channel's threads.",
-    "ROLE_PERMISSIONS_USE_VAD_DESCRIPTION_THREADS": "Allows members to speak in this channel's threads by simply talking. If this permission is disabled, members are required to use Push-to-talk. Good for controlling background noise or noisy members.",
-    "SAFETY_HUB_CLASSIFICATIONS_TABLE_COLUMN_HEADER_DATE": "DATE",
-    "SAFETY_HUB_CLASSIFICATIONS_TABLE_COLUMN_HEADER_EXPIRES": "EXPIRES",
-    "SAFETY_HUB_CLASSIFICATIONS_TABLE_COLUMN_HEADER_STATUS": "STATUS",
-    "SAFETY_HUB_CLASSIFICATIONS_TABLE_COLUMN_HEADER_TYPE": "TYPE",
-    "SAFETY_HUB_CLASSIFICATIONS_TABLE_EMPTY_TEXT": "Lorem, ipsum dolor",
-    "SAFETY_HUB_CLASSIFICATIONS_TABLE_HEADER": "Lorem, ipsum",
-    "SAFETY_WARNINGS_DELETE": "Delete all Safety Warnings (Experimental)",
-    "Fn6Odn": "Scheduled",
-    "aJQZfX": "You've got no scheduled messages!",
-    "rCN4pK": "You can schedule messages by clicking the + icon in the message bar!",
-    "stHooK": "Custom...",
-    "v5O2dH": "Message failed to send because the channel was not found",
-    "w6zHX1": "Message failed to send because you cannot send scheduled messages",
-    "pflV7+": "Message failed to send inside the standard message send flow",
-    "j8uIfH": "Message failed to send",
-    "PsJmUV": [
-        "Failed to create scheduled message. ",
-        [
-            1,
-            "error"
-        ]
-    ],
-    "sUvyW1": [
-        "Failed to cancel scheduled message. ",
-        [
-            1,
-            "error"
-        ]
-    ],
-    "+P5MmJ": "Monday at 9:00am",
-    "3+ii4O": "Schedule Message",
-    "iQ1Swc": "Set Schedule",
-    "CvHu/v": [
-        "Message scheduled for ",
-        [
-            3,
-            "timestamp",
-            "long"
-        ],
-        " at ",
-        [
-            4,
-            "timestamp",
-            "short"
-        ]
-    ],
-    "JF/LWl": "Successfully canceled the message.",
-    "MQcRX1": [
-        "Scheduling message for ",
-        [
-            3,
-            "timestamp",
-            "long"
-        ],
-        " at ",
-        [
-            4,
-            "timestamp",
-            "short"
-        ],
-        " (in your timezone)"
-    ],
-    "EMRZyc": "Tomorrow at 1:00pm",
-    "tjIn9v": "Tomorrow at 9:00am",
-    "SEARCH_EVERYWHERE": "Search Everywhere",
-    "SEARCH_FAVORITES": "Search Favorites",
-    "SERVER_DRAWER_ACTIVITY_EVENT_IN_UPCOMING": [
-        "in ",
-        [
-            1,
-            "relativeTime"
-        ]
-    ],
-    "SERVER_DRAWER_ACTIVITY_PLAYING": [
-        "playing ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "activity"
-                ]
-            ]
-        ]
-    ],
-    "SERVER_DRAWER_ACTIVITY_STREAMING": [
-        "streaming ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "activity"
-                ]
-            ]
-        ]
-    ],
-    "SERVER_DRAWER_ACTIVITY_STREAMING_SCREEN": "sharing screen",
-    "SERVER_DRAWER_ACTIVITY_TOPIC": [
-        "talking ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "topic"
-                ]
-            ]
-        ]
-    ],
-    "SERVER_DRAWER_ACTIVITY_VOICE": [
-        "in ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "channelName"
-                ]
-            ]
-        ]
-    ],
-    "SERVER_DRAWER_ACTIVITY_VOICE_STATUS": [
-        [
-            8,
-            "statusHook",
-            []
-        ],
-        " in ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "channelName"
-                ]
-            ]
-        ]
-    ],
-    "SERVER_USAGE_SURVEY_BODY": [
-        "Help us make Discord better by answering a few questions about ",
-        [
-            1,
-            "guildName"
-        ]
-    ],
-    "SERVER_USAGE_SURVEY_CTA": "Take Survey",
-    "SHARED_CANVAS_DRAW_MODE_EMOJI_HOSE": "Emoji Hose",
-    "SHARED_CANVAS_DRAW_MODE_LINE": "Draw",
-    "SHARED_CANVAS_HIDE_OVERLAY_DRAWINGS": "Hide Drawings in Overlay",
-    "SIGNUP_BUTTON_TOOLTIP_CTA": "Click to preview",
-    "SIGNUP_CLAN_ACKNOWLEDGEMENTS_DESCRIPTION": "Select all the checkboxes to acknowledge and continue.",
-    "SIGNUP_CLAN_ACKNOWLEDGEMENTS_TITLE": "Here is some additional information about Gaming Guilds",
-    "SIGNUP_CLAN_ACKNOWLEDGEMENT_APPROVAL": "New members must be approved by you in order to join",
-    "SIGNUP_CLAN_ACKNOWLEDGEMENT_CAP": "Gaming Guilds are capped to 200 members max",
-    "SIGNUP_CLAN_OPTION_CASUAL_DESCRIPTION": "We play to chill and have fun, but more fun if we win!",
-    "SIGNUP_CLAN_OPTION_CASUAL_TITLE": "Casual",
-    "SIGNUP_CLAN_OPTION_HARDCORE_DESCRIPTION": "We play together to win, rank up, or beat challenges.",
-    "SIGNUP_CLAN_OPTION_HARDCORE_TITLE": "Hardcore",
-    "SIGNUP_CLAN_OPTION_VERY_CASUAL_DESCRIPTION": "We always have a good time - win or lose!",
-    "SIGNUP_CLAN_OPTION_VERY_CASUAL_TITLE": "Very Casual",
-    "SIGNUP_CLAN_OPTION_VERY_HARDCORE_DESCRIPTION": "We won't sleep until we win or beat the boss.",
-    "SIGNUP_CLAN_OPTION_VERY_HARDCORE_TITLE": "Very Hardcore",
-    "SIGNUP_CLAN_PLAYSTYLE_DESCRIPTION": "Let potential members know what your gaming style is.",
-    "SIGNUP_CLAN_PLAYSTYLE_TITLE": "What's your server's play style?",
-    "SIGNUP_COMPLETED_DESCRIPTION": "We will get back to you once we have more updates.",
-    "SIGNUP_COMPLETED_TITLE": "Thank you for your interest!",
-    "SIGNUP_COMPLETE_CTA": "Sign Up",
-    "SIGNUP_EMAIL_ERROR": "We're unable to verify that email address. Please try another",
-    "SIGNUP_EMAIL_PLACEHOLDER": "wumpus@example.com",
-    "SIGNUP_EMAIL_PROMPT": "Confirm your email to secure your spot on the waitlist",
-    "SIGNUP_NOTICE_CTA": "Learn More",
-    "SIGNUP_NOTICE_EYEBROW": "EXCLUSIVE DISCORD INVITE",
-    "STAFF_PTO_NOTICE": "Heads up! This person may be Out of Office.",
-    "STAGE_INSTANCE_TICKET_PURCHASE_CONFIRMATION_TITLE": "You're in.",
-    "CgWmmZ": "Add Stranger Danger Warning (Experimental)",
-    "STRANGER_DANGER_CONTEXT_MENU_CLEAR": "Reset Safety Warning dismissals (Experimental)",
-    "SYSTEM_MESSAGE_GUILD_STREAM_ACTIVE": [
-        [
-            8,
-            "usernameHook",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " is live! Now streaming ",
-        [
-            1,
-            "activityName"
-        ],
-        ". ",
-        [
-            8,
-            "$link",
-            [
-                "Join Stream"
-            ],
-            [
-                [
-                    1,
-                    "onJoinStream"
-                ]
-            ]
-        ]
-    ],
-    "SYSTEM_MESSAGE_GUILD_STREAM_ACTIVE_MOBILE": [
-        [
-            8,
-            "$link",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "usernameOnClick"
-                ]
-            ]
-        ],
-        " is live. ",
-        [
-            8,
-            "$link",
-            [
-                "Join Stream"
-            ],
-            [
-                [
-                    1,
-                    "onJoinStream"
-                ]
-            ]
-        ]
-    ],
-    "SYSTEM_MESSAGE_GUILD_STREAM_ENDED": [
-        [
-            8,
-            "usernameHook",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " was live for ",
-        [
-            1,
-            "duration"
-        ],
-        " in ",
-        [
-            1,
-            "channelName"
-        ]
-    ],
-    "SYSTEM_MESSAGE_GUILD_STREAM_ENDED_MOBILE": [
-        [
-            8,
-            "$link",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "usernameOnClick"
-                ]
-            ]
-        ],
-        " was live for ",
-        [
-            1,
-            "duration"
-        ],
-        "."
-    ],
-    "SYSTEM_MESSAGE_INVITE_NOTIFICATION": "Wondering who to invite? Start by inviting anyone who can help you build the server!",
-    "SYSTEM_MESSAGE_INVITE_USERS": "Invite your friends",
-    "SYSTEM_MESSAGE_INVITE_USERS_BUTTON": "Send an Invite",
-    "SYSTEM_MESSAGE_INVITE_USERS_COMPACT": [
-        [
-            8,
-            "$b",
-            [
-                "Invite your friends!"
-            ]
-        ],
-        " The best way to setup a server is with your buddies! ",
-        [
-            8,
-            "inviteHook",
-            [
-                "Send an invite"
-            ]
-        ]
-    ],
-    "SYSTEM_MESSAGE_INVITE_USERS_DESCRIPTION": "The best way to setup a server is with your buddies!",
-    "SYSTEM_MESSAGE_INVITE_USERS_DESCRIPTION_OWNER": "Start by inviting anyone who can help you build the server!",
-    "SYSTEM_MESSAGE_INVITE_USERS_OWNER": "Wondering who to invite?",
-    "SYSTEM_MESSAGE_INVITE_USERS_OWNER_COMPACT": [
-        [
-            8,
-            "$b",
-            [
-                "Wondering who to invite?"
-            ]
-        ],
-        " Start by inviting anyone who can help you build the server! ",
-        [
-            8,
-            "inviteHook",
-            [
-                "Send an invite"
-            ]
-        ]
-    ],
-    "c6kn6O": "Oops, something went wrong",
-    "VLbVho": "Get Started",
-    "Cc41tb": "We use age groups to determine access to certain experiences. This process is fast and easy - here's how it works:",
-    "FQ+YOD": "Verify age group",
-    "mXpKND": "Learn More",
-    "TYfgw8": [
-        "Want another method? ",
-        [
-            8,
-            "$link",
-            [
-                "Request a manual review"
-            ],
-            [
-                [
-                    1,
-                    "handleOnRequestHook"
-                ]
-            ]
-        ]
-    ],
-    "RV75dn": [
-        [
-            8,
-            "$link",
-            [
-                "Learn more"
-            ],
-            [
-                [
-                    1,
-                    "handleOnHelpUrlHook"
-                ]
-            ]
-        ],
-        " about age groups"
-    ],
-    "ldhmmp": "These are not stored after the verification is completed",
-    "K0z0AA": "Take a video selfie or scan your ID",
-    "rw9yFR": [
-        "You'll know it's us from the offical tag. ",
-        [
-            8,
-            "$link",
-            [
-                "Learn more"
-            ],
-            [
-                [
-                    1,
-                    "handleOnHelpUrlHook"
-                ]
-            ]
-        ]
-    ],
-    "Jc2+09": "We'll DM you the results",
-    "h90JkZ": "They're quick and easy",
-    "60uRDA": "Follow the steps",
-    "SFWVER": "Verify Age",
-    "NjO/s7": "This channel contains adult content marked as age-restricted. You need to verify your age to view it. Do you want to verify your age?",
-    "ECL1eX": [
-        "This channel contains adult content marked as age-restricted. We determined you're in the ",
-        [
-            8,
-            "$b",
-            [
-                "teen"
-            ]
-        ],
-        " age group. If we made a mistake, you can reverify."
-    ],
-    "2L5V8/": "Reverify",
-    "WiSJBA": "Retry",
-    "+2/AhI": "Reverify",
-    "TOP_CHANNELS": "Top Channels",
-    "UPCOMING_GUILD_STAGE_INSTANCE_DISCOVERY_EMPTY_STATE_SUB_TITLE": "Let people know what’s happening by scheduling an upcoming Stage.\nIt will show up here for everyone in this server.",
-    "USER_SETTINGS_APPEARANCE_CHANNEL_LIST_LAYOUT_MINIMAL": "Minimal",
-    "USER_SETTINGS_OTHER_QUICK_ACTIONS": "Other Actions",
-    "USER_SETTINGS_QUICK_ACTION_FORCE_NEW_USER_ONBOARDING": "Force new user onboarding flow",
-    "VC4Mq6": "Open Quest Home",
-    "J+vlIS": "Open Shop",
-    "5qZv9P": "Need help?",
-    "XRdyj4": "Learn more.",
-    "c/rcUl": "This item is not redeemable with Orbs",
-    "keFvXF": "Not enough Orbs",
-    "v4HbPz": "Next",
-    "xYx+WV": "Journey to Quest Home in Discover to start earning.",
-    "KnWRQU": "Earn Orbs via Quests",
-    "F4SoLC": "Finish",
-    "Veu++f": "Snag special exclusives like Nitro credits and Shop favorites.",
-    "duN28/": "Spend in the Shop",
-    "wmcDys": "Claim with Orbs",
-    "rr811N": [
-        [
-            8,
-            "$b",
-            [
-                "Claiming an item from the Shop means you’re claiming a limited license to use this item on Discord. Learn more in the “Virtual Goods” section ",
-                [
-                    8,
-                    "$link",
-                    [
-                        "here"
-                    ],
-                    [
-                        [
-                            1,
-                            "paidURL"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        ". By Claiming this item, you agree to the ",
-        [
-            8,
-            "$link",
-            [
-                "Paid Services Terms"
-            ],
-            [
-                [
-                    1,
-                    "paidURL"
-                ]
-            ]
-        ],
-        ". Orbs purchases are non-refundable."
-    ],
-    "lTHkqa": "Apprentice",
-    "y0WGqK": "Orb Balance",
-    "XBOX": "Xbox",
-    "YEAR": [
-        [
-            6,
-            "count",
-            {
-                "=1": [
-                    "year"
-                ],
-                "other": [
-                    [
-                        1,
-                        "count"
-                    ],
-                    " years"
-                ]
-            },
-            0,
-            "cardinal"
-        ]
-    ],
     "swfLzc": "This message comes from a separate file",
     "obBqMj": [
         [
@@ -2524,6 +36,21 @@
     "ctRS3d": "Control which detectable games on desktop which are visible to others while you play.",
     "+RndDg": "Which activities are shared?",
     "o0peVV": "Which servers can see your activities?",
+    "VCZdnp": "Axel",
+    "Xypb39": "Cave",
+    "qRFFLC": "Deep Fried",
+    "lFIyMz": "Ghost",
+    "vIrxZW": "Harper",
+    "ZVrsKC": "Justus",
+    "fPU01d": "Megaphone",
+    "biQVNz": "Quinn",
+    "anBE8f": "DR01D",
+    "NmbfHx": "Sébastien",
+    "tzvUKy": "Skye",
+    "ndNi1t": "Solara",
+    "KN+v7+": "Space Bunny",
+    "sem63N": "Tunetron",
+    "kHmvdn": "Cyber Boss",
     "A11Y_ANDROID_DISMISS_CONTEXT_MENU_LABEL": "Dismiss popup window",
     "A11Y_ANDROID_POPUP_WINDOW_ANNOUNCEMENT": "Popup Window",
     "A11Y_ANNOUNCEMENT_AVATAR_CHANGED": "Your avatar has been updated",
@@ -8063,6 +5590,7 @@
         ],
         " of inactivity."
     ],
+    "BETA": "Beta",
     "BGN_NAME": "Bulgarian Lev",
     "BIDIRECTIONAL_STEP_HEADER": [
         "Step ",
@@ -59911,6 +57439,7 @@
             ]
         ]
     ],
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
@@ -74122,8 +71651,10 @@
     ],
     "REPORTS_BLOCK_AND_MUTE_USER_ELEMENT_DESCRIPTION": "This is whose profile you reported. Mute to stop seeing direct message notifications from this user. Block them to stop seeing any of their messages.",
     "REPORTS_BLOCK_USER_ELEMENT_DESCRIPTION": "This is whose profile you reported. Block them to stop seeing any of their messages.",
+    "REPORTS_FREE_TEXT_PLACEHOLDER": "(Optional) Provide more context about your report here",
     "REPORTS_MUTE_USER_ELEMENT_DESCRIPTION": "This is whose profile you reported. Mute to stop seeing direct message notifications from this user.",
     "REPORTS_USER_BUTTON_TITLE": "Report User Profile",
+    "REPORTS_USER_PREVIEW_TITLE": "Selected User",
     "REPORT_APP": "Report App",
     "REPORT_MESSAGE": [
         "Report Message Posted by ",
@@ -90818,6 +88349,7 @@
     "WORKING": "Working...",
     "WRONG_USER_LOGOUT": "Wrong account?",
     "WUMPUS": "Wumpus",
+    "XBOX": "Xbox",
     "XBOX_APP_FOR_MOBILE": "Xbox app for mobile",
     "XBOX_APP_REQUIRED_SUBHEADER": "Grab your headset and controller! The Xbox mobile app is required for audio on console.",
     "XBOX_APP_STEP_ONE": "Have the mobile Xbox app installed",
@@ -91113,21 +88645,2791 @@
         ],
         " provided at runtime."
     ],
-    "VCZdnp": "Axel",
-    "Xypb39": "Cave",
-    "qRFFLC": "Deep Fried",
-    "lFIyMz": "Ghost",
-    "vIrxZW": "Harper",
-    "ZVrsKC": "Justus",
-    "fPU01d": "Megaphone",
-    "biQVNz": "Quinn",
-    "anBE8f": "DR01D",
-    "NmbfHx": "Sébastien",
-    "tzvUKy": "Skye",
-    "ndNi1t": "Solara",
-    "KN+v7+": "Space Bunny",
-    "sem63N": "Tunetron",
-    "kHmvdn": "Cyber Boss",
+    "BdRXZG": "Available",
+    "hjvcLC": "Server Boosts",
+    "xvgIVF": "Spent",
+    "/F7Z29": "Total",
+    "yv3DJC": "Skill Trees",
+    "pycxTk": "Members of this server can pay to Boost it, and admins use those Boosts to unlock new features.",
+    "diMhWV": "How do Boosts work?",
+    "fXE30d": [
+        [
+            8,
+            "$link",
+            [
+                "Learn More"
+            ],
+            [
+                [
+                    1,
+                    "helpDeskArticle"
+                ]
+            ]
+        ]
+    ],
+    "NXvV09": [
+        [
+            1,
+            "totalEmojis"
+        ],
+        " Server Emoji Slots (+",
+        [
+            1,
+            "additionalEmojis"
+        ],
+        ")"
+    ],
+    "s9u/Ex": [
+        [
+            1,
+            "totalSoundboards"
+        ],
+        " Soundboard Slots (+",
+        [
+            1,
+            "additionalSoundboards"
+        ],
+        ")"
+    ],
+    "ZEvvPz": [
+        [
+            1,
+            "totalStickers"
+        ],
+        " Custom Sticker Slots (+",
+        [
+            1,
+            "additionalStickers"
+        ],
+        ")"
+    ],
+    "na6fmJ": "Included in Level 1",
+    "dyNT9v": "Included in Level 2",
+    "8AEGEx": "Included in Level 3",
+    "/6GgQk": [
+        "New Boost perks — ",
+        [
+            1,
+            "perks"
+        ]
+    ],
+    "E5V5KC": "See new perks",
+    "GmN3VV": [
+        [
+            1,
+            "perk1"
+        ],
+        ", ",
+        [
+            1,
+            "perk2"
+        ],
+        ", and more"
+    ],
+    "MNO3sL": [
+        [
+            1,
+            "perk1"
+        ],
+        " and ",
+        [
+            1,
+            "perk2"
+        ]
+    ],
+    "QOacIS": [
+        [
+            6,
+            "quantity",
+            {
+                "=1": [
+                    [
+                        7
+                    ],
+                    " Server Boost"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " Server Boosts"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "MYYPa2": "Unlock these perks without needing a specific Boost Level.",
+    "p6HUDQ": "New Perks you can unlock with Boosts",
+    "aJv4PD": "Your server will automatically “level up” once it has enough available Boosts.",
+    "TXY/b2": "Levels",
+    "NHjM1t": "Individual perks that can be unlocked using available Boosts.",
+    "TV3Vm5": "Additional Perks",
+    "y3wHoq": [
+        "In your server, go to Server Settings to start customizing ",
+        [
+            1,
+            "perkName"
+        ]
+    ],
+    "lFuOFB": [
+        [
+            1,
+            "perkName"
+        ],
+        " enabled!"
+    ],
+    "1B8AZm": [
+        "You must activate ",
+        [
+            1,
+            "perk"
+        ],
+        " first."
+    ],
+    "AOQgkp": "Enable",
+    "gSxlHR": "Enable Perk",
+    "FFLkm5": "Active",
+    "j2jUjY": "Bundle",
+    "g5Ds6+": "Configure",
+    "7o0K+/": [
+        "Are you sure you want to disable ",
+        [
+            1,
+            "perk"
+        ],
+        "?"
+    ],
+    "iEBw1N": [
+        "Disable ",
+        [
+            1,
+            "perk"
+        ],
+        "?"
+    ],
+    "vCEBiY": [
+        "You must deactivate ",
+        [
+            1,
+            "perk"
+        ],
+        " first."
+    ],
+    "PYPdl5": "Disable",
+    "TZsu1d": "Disable Perk",
+    "5HQUzM": [
+        "Get ",
+        [
+            6,
+            "boostCount",
+            {
+                "=1": [
+                    [
+                        7
+                    ],
+                    " Boost"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " more Boosts"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        " back."
+    ],
+    "ol/ao6": [
+        "Expires ",
+        [
+            1,
+            "dateString"
+        ]
+    ],
+    "4jSvr6": [
+        "If you choose to disable this perk, ",
+        [
+            1,
+            "perk"
+        ],
+        " will be removed from ",
+        [
+            6,
+            "memberCount",
+            {
+                "=1": [
+                    [
+                        7
+                    ],
+                    " member"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " members"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        "."
+    ],
+    "OVt5CA": "Warning",
+    "iAaAiI": [
+        "This server needs ",
+        [
+            6,
+            "boostCount",
+            {
+                "=1": [
+                    [
+                        7
+                    ],
+                    " more Boost"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " more Boosts"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        " to keep this perk.\nYou have ",
+        [
+            6,
+            "dayCount",
+            {
+                "=1": [
+                    [
+                        7
+                    ],
+                    " day"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " days"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        " before ",
+        [
+            1,
+            "perk"
+        ],
+        " is removed."
+    ],
+    "n5hQhY": [
+        "You’re about to lose ",
+        [
+            1,
+            "perk"
+        ]
+    ],
+    "plwH8f": "gave 1 boost.",
+    "xi8rEx": "¿Te gustaría configurar Discord en Español?",
+    "09QGGB": "¿Cambiar idioma?",
+    "ofazSU": "Entendido",
+    "yQfLwM": "Discord está configurado en Español. Puedes elegir otro idioma en \"Ajustes de aplicación\" > \"Idioma\".",
+    "KUFsLi": "¡El cambio fue hecho!",
+    "jM7sUl": "No",
+    "QkGMPz": "Sí",
+    "AI_TAG": "AI",
+    "APPLICATION_AUTOMOD_BADGE": "Uses AutoMod",
+    "APP_ICON_MUSHROOM": "One Up",
+    "ATTACHMENT_INLINE_PLACEHOLDER": "[attachment]",
+    "BACKGROUND": "Background",
+    "BAN_MULTIPLE_CONFIRM_TITLE": [
+        "Would you like to ban ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    "1 member"
+                ],
+                "other": [
+                    [
+                        1,
+                        "count"
+                    ],
+                    " members"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        "?"
+    ],
+    "BAN_MULTIPLE_FAILED_TOAST": "Mass ban failed",
+    "BAN_MULTIPLE_SUCCESS_TOAST": "Mass ban succesful",
+    "CHANNELS_YOU_SHOULD_CHECK_OUT": "Channels you should check out",
+    "CHANNEL_CHAT_NOTIFICATION_SETTINGS_NOTICE_MUTED": [
+        "You will not be notified of new messages because ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "name"
+                ]
+            ]
+        ],
+        " is muted."
+    ],
+    "CHANNEL_CHAT_NOTIFICATION_SETTINGS_NOTICE_ONLY_MENTIONS": [
+        "You will only be notified when you are mentioned because ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "name"
+                ]
+            ]
+        ],
+        " is set to ",
+        [
+            8,
+            "$b",
+            [
+                "Only @mentions"
+            ]
+        ],
+        "."
+    ],
+    "CHANNEL_PERMISSIONS_READ_ONLY_DESCRIPTION": "By making a channel read only, members will not be able to send messages.",
+    "CHANNEL_PERMISSIONS_READ_ONLY_TITLE": "Read Only",
+    "CHANNEL_PROMPT_GAMING_CTA": "Get my stats!",
+    "CHANNEL_PROMPT_RANDOM_STICKER_CTA": "Random sticker",
+    "CHANNEL_PROMPT_UPLOAD_IMAGE_CTA": "Upload a picture",
+    "CLANS": "Guilds",
+    "CLAN_ADOPT_CLAN_IDENTITY": "Adopt Guild Identity",
+    "CLAN_BADGE": "Badge",
+    "CLAN_BADGE_ALT": [
+        "[",
+        [
+            1,
+            "tag"
+        ],
+        "]"
+    ],
+    "CLAN_BADGE_COLORS": "Badge Colors",
+    "CLAN_CARD_BADGE_APPLIED": "Applied",
+    "CLAN_CLEAR_CLAN_IDENTITY": "Clear Guild Identity",
+    "CLAN_DISCOVERY_APPLICATION_MAX_MEMBERS": "This Guild is at maximum capacity. You may want to apply for other Guilds.",
+    "CLAN_DISCOVERY_CARD_ARIA_LABEL": [
+        "Guild profile for ",
+        [
+            1,
+            "guildName"
+        ]
+    ],
+    "CLAN_DISCOVERY_MEMBER_COUNT": [
+        [
+            6,
+            "count",
+            {
+                "=1": [
+                    "1 Member"
+                ],
+                "other": [
+                    [
+                        1,
+                        "count"
+                    ],
+                    " Members"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "CLAN_DISCOVERY_PLAYSTYLE_ARIA_LABEL": "Playstyle",
+    "CLAN_DISCOVERY_PROFILE_SUBTITLE": "You'll get notified when there's an update.",
+    "CLAN_DISCOVERY_PROFILE_TITLE": "Fill out the application to join.",
+    "CLAN_DISCOVERY_UNKNOWN_PLAYSTYLE": "Unknown",
+    "CLAN_GAMEPLAY_ACTIVITY_HIGH": "Very Active",
+    "CLAN_JOIN_SUCCESS_MAIN_CTA": "Let's Go",
+    "CLAN_JOIN_SUCCESS_SUBTITLE": "Rep your Guild, make new friends, and play some games. Get in and say hi to your new guildmates.",
+    "CLAN_JOIN_SUCCESS_SUBTITLE_MOBILE": "Rep your Guild, make new friends, and play some games. Get in and say hi to your new guildmates.",
+    "CLAN_JOIN_SUCCESS_TITLE": [
+        "Congratulations, you're an official member of ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "name"
+                ]
+            ]
+        ],
+        "!"
+    ],
+    "CLAN_LOOK_BANNER": "Banner",
+    "CLAN_LOOK_BRAND_COLOR": "Brand Color",
+    "CLAN_LOOK_PRESET_BADGE": "Badge",
+    "CLAN_LOOK_PRESET_CUSTOM": "Custom",
+    "CLAN_OVERVIEW_LABEL_CLAN_TAG": "Guild Tag",
+    "CLAN_OVERVIEW_LIST_MULTIPLE_ITEMS": [
+        [
+            1,
+            "items"
+        ],
+        ", and ",
+        [
+            1,
+            "last"
+        ]
+    ],
+    "CLAN_OVERVIEW_LIST_OTHERS_COUNT": [
+        [
+            6,
+            "n",
+            {
+                "one": [
+                    "1 other"
+                ],
+                "other": [
+                    [
+                        1,
+                        "n"
+                    ],
+                    " others"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "CLAN_OVERVIEW_LIST_TWO_ITEMS": [
+        [
+            1,
+            "item1"
+        ],
+        " and ",
+        [
+            1,
+            "item2"
+        ]
+    ],
+    "CLAN_PALETTE_PICKER_CUSTOM_COLORS": "Custom Colors",
+    "CLAN_SETTINGS": "Guild Settings",
+    "CLAN_SETTINGS_BASIC_INFO": "Basic Info",
+    "CLAN_SETTINGS_CLAN_BADGE": "Guild Badge",
+    "CLAN_SETTINGS_CLAN_PROFILE": "Guild Profile",
+    "CLAN_SETTINGS_CUSTOMIZE_IDENTITY": "Customize Identity",
+    "CLAN_SETTINGS_DISABLE_CLAN": "Disable Guild",
+    "CLAN_SETTINGS_DISABLE_CONFIRM_BODY": "All open applications to your Guild will be rejected. Members will lose their Guild tags.",
+    "CLAN_SETTINGS_DISABLE_CONFIRM_TITLE": "Are you sure?",
+    "CLAN_SETTINGS_JOIN_APPLICATION": "Join Application",
+    "CLAN_SETTINGS_PERSONALITY_INFO": "Personality Info",
+    "CLAN_SETTINGS_SELECT_INTERESTS": "Select Topics",
+    "CLAN_SETTINGS_SELECT_TRAITS": "Select Traits",
+    "CLAN_SETTINGS_WRITE_DESCRIPTION": "Write Description",
+    "CLAN_SETTTINGS_SELECT_GAMES": "Select Games",
+    "CLAN_SETTTINGS_SELECT_PLAYSTYLE": "Select Playstyle",
+    "CLAN_SETUP_APPLICATIONS_STEP": "Member Applications",
+    "CLAN_SETUP_APPLICATION_SUBTITLE": "Ask questions to get to know potential members better. You'll review their answers and decide if they are approved to join. You'll also be able to interview applicants to get to know them better.",
+    "CLAN_SETUP_APPLICATION_TITLE": "Last Step! Set up the application.",
+    "CLAN_SETUP_BANNER_STEP": "Banner",
+    "CLAN_SETUP_CUSTOMIZE_HELP_TEXT": "Maxmimum 4 characters, alphabet (A-Z) and numbers only",
+    "CLAN_SETUP_CUSTOMIZE_LOOK_SUBTITLE": "This is how your Guild will appear to prospective members in the Guild finder and beyond. You're almost ready to recruit!",
+    "CLAN_SETUP_CUSTOMIZE_LOOK_TITLE": "Customize your Guild's look",
+    "CLAN_SETUP_CUSTOMIZE_SUBTITLE": "Guild members will rep these next to their name and on their profiles across Discord.",
+    "CLAN_SETUP_CUSTOMIZE_TITLE": "Create a badge and tag for your Guild",
+    "CLAN_SETUP_DESCRIPTION_PLACEHOLDER": "We're a cozy group of friends who've been playing co-op games for a couple years! Looking for like-minded people to join us at our weekly movie nights :D",
+    "CLAN_SETUP_DESCRIPTION_STEP": "Description",
+    "CLAN_SETUP_DESCRIPTION_SUBTITLE": "They'll see this as a Guild bio before they apply. What brought you together? What makes your Guild unique? Why should they apply?",
+    "CLAN_SETUP_DESCRIPTION_TITLE": "Tell potential recruits what your Guild is all about.",
+    "CLAN_SETUP_GAMES_ONE_GAME_REQUIRED": "You must select at least one game",
+    "CLAN_SETUP_GAMES_SEARCH_PLACEHOLDER": "Search for a game...",
+    "CLAN_SETUP_GAMES_STEP": "Games",
+    "CLAN_SETUP_GAMES_SUBTITLE": "You can always add more games later.",
+    "CLAN_SETUP_GAMES_SUGGESTED": "Games Your Members Are Playing",
+    "CLAN_SETUP_GAMES_TITLE": "What games does your Guild play?",
+    "CLAN_SETUP_INTERESTS_GENERATE_MORE": "Generate More",
+    "CLAN_SETUP_INTERESTS_HELP": "Press ENTER to add a trait",
+    "CLAN_SETUP_INTERESTS_LABEL": "Add a topic",
+    "CLAN_SETUP_INTERESTS_PLACEHOLDER": "Anime, Roman History, Sad Hamsters, etc...",
+    "CLAN_SETUP_INTERESTS_STEP": "Interests",
+    "CLAN_SETUP_INTERESTS_SUBTITLE": [
+        "Add at least ",
+        [
+            8,
+            "$b",
+            [
+                "3 topics"
+            ]
+        ],
+        " that your Guild discusses or traits that you share. The more niche, the better! Here's some ideas, but you can write in your own."
+    ],
+    "CLAN_SETUP_INTERESTS_TITLE": "What does your Guild like to talk about?",
+    "CLAN_SETUP_LANGUAGE_PLACEHOLDER": "Add a language...",
+    "CLAN_SETUP_MODAL_SAVE_AND_QUIT": "Save & Exit",
+    "CLAN_SETUP_NUM_TRAITS": [
+        [
+            6,
+            "n",
+            {
+                "one": [
+                    "1 Trait"
+                ],
+                "other": [
+                    [
+                        1,
+                        "n"
+                    ],
+                    " Traits"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "CLAN_SETUP_OPTIONAL": "Optional",
+    "CLAN_SETUP_OVERVIEW_ESTABLISHED": [
+        "Est. ",
+        [
+            1,
+            "date"
+        ]
+    ],
+    "CLAN_SETUP_OVERVIEW_SIGNATURE": "sign here",
+    "CLAN_SETUP_OVERVIEW_SIGN_AGREEMENT": [
+        "By becoming a Guild, you agree that your server complies with the ",
+        [
+            8,
+            "$link",
+            [
+                "Discovery Guidelines"
+            ],
+            [
+                [
+                    1,
+                    "onGuidelinesClick"
+                ]
+            ]
+        ],
+        "."
+    ],
+    "CLAN_SETUP_OVERVIEW_SIGN_CTA": "Click to Sign",
+    "CLAN_SETUP_OVERVIEW_SIGN_DISCLAIMER": [
+        "Discord may use manual and/or automated means to review my server to ensure that it meets applicable policies such as our ",
+        [
+            8,
+            "$link",
+            [
+                "Community Guidelines"
+            ],
+            [
+                "https://discord.com/guidelines"
+            ]
+        ],
+        "."
+    ],
+    "CLAN_SETUP_OVERVIEW_SIGN_HELP": "By signing this charter, I agree to grow and uphold the values of the Guild.",
+    "CLAN_SETUP_OVERVIEW_TEXT_DEFAULT": "...in order to create a space to play games, establish this charter for the Guild.",
+    "CLAN_SETUP_OVERVIEW_TEXT_GAMES": [
+        "...in order to create a space to play ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "games"
+                ]
+            ]
+        ],
+        ", establish this charter for the Guild."
+    ],
+    "CLAN_SETUP_OVERVIEW_TEXT_GAMES_AND_PLAYSTYLE": [
+        "...in order to create a ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "playstyle"
+                ]
+            ]
+        ],
+        " space to play ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "games"
+                ]
+            ]
+        ],
+        ", establish this charter for the Guild."
+    ],
+    "CLAN_SETUP_OVERVIEW_TEXT_GAMETIME": [
+        "The members of the Guild are committed to make an effort to play games on ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "selectedTimes"
+                ]
+            ]
+        ],
+        "."
+    ],
+    "CLAN_SETUP_OVERVIEW_TEXT_TRAITS": [
+        "The Guild's traits shall be defined as ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "traits"
+                ]
+            ]
+        ],
+        "."
+    ],
+    "CLAN_SETUP_OVERVIEW_TEXT_WRAP": "Everyone will work together to uphold and nurture the values of the Guild and keep it safe and welcoming to all members.",
+    "CLAN_SETUP_OVERVIEW_TITLE": "We the people of",
+    "CLAN_SETUP_PLAYSTYLE_CASUAL_SUBTITLE": "We play to chill and have fun, but more fun if we win!",
+    "CLAN_SETUP_PLAYSTYLE_COMPETITIVE_SUBTITLE": "We play together to win, rank up, or beat challenges.",
+    "CLAN_SETUP_PLAYSTYLE_SOCIAL_SUBTITLE": "Skill doesn't matter. We have a good time win or lose.",
+    "CLAN_SETUP_PLAYSTYLE_STEP": "Playstyle",
+    "CLAN_SETUP_PLAYSTYLE_SUBTITLE": "Let potential members know the expectations and vibe in your server. How competitive or chill is your Guild?",
+    "CLAN_SETUP_PLAYSTYLE_TITLE": "What's your Guild's playstyle?",
+    "CLAN_SETUP_PLAYSTYLE_VERY_HARDCORE_SUBTITLE": "We won't sleep until we win.",
+    "CLAN_SETUP_RANDOMIZE_LOOK": "Randomize",
+    "CLAN_SETUP_SELECTED_GAMES": "Selected Games",
+    "CLAN_SETUP_SELECTED_INTERESTS": "Selected Interests",
+    "CLAN_SETUP_SIGN_SUBTITLE": "One last step - sign the charter to become a Guild.",
+    "CLAN_SETUP_SIGN_TITLE": "You're almost done!",
+    "CLAN_SETUP_SUGGESTED_INTERESTS": "Some Ideas...",
+    "CLAN_SETUP_TAG_PLACEHOLDER": "GLHF",
+    "CLAN_SETUP_TAG_STEP": "Badge",
+    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_AGE": "Age Demographic",
+    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_GENSHIN": "Genshin",
+    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_IDENTITY": "Characteristics",
+    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_LANGUAGE": "Language",
+    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_LOCALE": "Region",
+    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_VALORANT": "Valorant",
+    "CLAN_SETUP_UTILITY_TRAITS_STEP": "Traits",
+    "CLAN_SETUP_UTILITY_TRAITS_SUBTITLE": "These traits will help the right people find and apply for your Guild. You can customize more traits in the next step.",
+    "CLAN_SETUP_UTILITY_TRAITS_TITLE": "Who would be a good fit for your Guild?",
+    "CLAN_SETUP_WILDCARDS_SUBTITLE": "Choose up to 3 words that describe your Guild. Be creative!!",
+    "CLAN_SUBMIT_ERROR_SUBTITLE": "Please resolve steps marked as error and try again.",
+    "CLAN_SUBMIT_ERROR_TEXT": [
+        [
+            8,
+            "backHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        "Go back"
+                    ]
+                ]
+            ]
+        ],
+        " and check error messages for more information."
+    ],
+    "CLAN_SUBMIT_ERROR_TITLE": "There are errors you need to fix.",
+    "CLAN_SUCCESS_CTA": "Let's Go",
+    "CLAN_SUCCESS_POSTSCRIPT": "It may take a few days for your Guild to appear in the Discovery page.",
+    "CLAN_SUCCESS_SUBTITLE": "Get ready to rep your Guild, make new friends, and play some games.",
+    "CLAN_SUCCESS_TITLE": [
+        "Congratulations, ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "name"
+                ]
+            ]
+        ],
+        " is now a Guild!"
+    ],
+    "CLAN_SUCCESS_USE_TAG_HELP": "You can always edit this in Profile settings.",
+    "CLAN_SUCCESS_USE_TAG_TEXT": "Wear Guild Tag next to username",
+    "CLAN_TAG_VALIDATION_RULES": "Max 4 characters",
+    "CLAN_USER_ADOPT_TAG_GUILD_PROFILE_CTA": "Don The Tag",
+    "CLAN_USER_ADOPT_TAG_MODAL_CANCEL": "Not Now",
+    "CLAN_USER_ADOPT_TAG_MODAL_CTA": "Adopt Tag",
+    "CLAN_USER_ADOPT_TAG_MODAL_DESCRIPTION": [
+        [
+            1,
+            "guildName"
+        ],
+        " adopted a new guild tag, and you can now rep this server everywhere you chat."
+    ],
+    "CLAN_USER_ADOPT_TAG_MODAL_FEATURE": "Wear this tag everywhere",
+    "CLAN_USER_ADOPT_TAG_MODAL_FEATURE_CALLOUT": "You can always change your tag in User Profile",
+    "CLAN_USER_ADOPT_TAG_MODAL_HEADING": [
+        [
+            8,
+            "$p",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "guildName"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            8,
+            "$p",
+            [
+                "is now a guild"
+            ]
+        ]
+    ],
+    "CLAN_USER_ADOPT_TAG_MODAL_NEW_IDENTITY_CTA": "Update Tag",
+    "CLAN_USER_ADOPT_TAG_MODAL_NEW_IDENTITY_DESCRIPTION": [
+        "A new tag is available for ",
+        [
+            1,
+            "guildName"
+        ],
+        ". Would you like to adopt it?"
+    ],
+    "CLAN_USER_ADOPT_TAG_MODAL_NEW_IDENTITY_HEADING": [
+        [
+            8,
+            "$p",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "guildName"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            8,
+            "$p",
+            [
+                "has changed their tag"
+            ]
+        ]
+    ],
+    "CLAN_USER_ADOPT_TAG_NEW_IDENTITY_ARIA_LABEL": [
+        "A new tag is available for ",
+        [
+            1,
+            "guildName"
+        ]
+    ],
+    "CLAN_USER_ADOPT_TAG_NEW_IDENTITY_DESCRIPTION": "An update to your tag is available",
+    "CLAN_USER_ADOPT_TAG_NEW_IDENTITY_TITLE": [
+        [
+            1,
+            "guildName"
+        ],
+        " - New Tag!"
+    ],
+    "CLAN_USER_ADOPT_TAG_UPSELL_ARIA_LABEL": [
+        "Adopt the ",
+        [
+            1,
+            "guildName"
+        ],
+        " guild tag as part of your identity"
+    ],
+    "CLAN_USER_ADOPT_TAG_UPSELL_DESCRIPTION": "Rep your guild everywhere",
+    "CLAN_USER_ADOPT_TAG_UPSELL_TITLE": [
+        [
+            1,
+            "guildName"
+        ],
+        " - Tag Up!"
+    ],
+    "CLAN_USER_APPLICATION_EXISTS_TAG_GUILD_PROFILE_CTA": "View Application",
+    "CLAN_USER_APPLY_TAG_GUILD_PROFILE_CTA": "Apply To Join",
+    "CLAN_USER_GO_TO_CLAN_CTA": "Go to Guild",
+    "CLAN_USER_PROFILE_PRIMARY_CLAN": "Primary Guild",
+    "CLAN_USER_PROFILE_PRIMARY_CLAN_SUBTITLE": "Choose a Guild tag to rep next to your name across Discord.",
+    "CLAN_WELCOME_MESSAGE_0": [
+        "Everyone welcome ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        " to the Guild!"
+    ],
+    "CLAN_WELCOME_MESSAGE_0_HOOK": [
+        "Everyone welcome ",
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " to the Guild!"
+    ],
+    "CLAN_WELCOME_MESSAGE_1": [
+        "A new member has spawned. Say hi to ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        "."
+    ],
+    "CLAN_WELCOME_MESSAGE_1_HOOK": [
+        "A new member has spawned. Say hi to ",
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        "."
+    ],
+    "CLAN_WELCOME_MESSAGE_2": [
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        " just joined the Guild. We hope you brought pizza."
+    ],
+    "CLAN_WELCOME_MESSAGE_2_HOOK": [
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " just joined the Guild. We hope you brought pizza."
+    ],
+    "CLAN_WELCOME_MESSAGE_3": [
+        "Glad you're here, ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        ", welcome to the Guild."
+    ],
+    "CLAN_WELCOME_MESSAGE_3_HOOK": [
+        "Glad you're here, ",
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        ", welcome to the Guild."
+    ],
+    "CLAN_WELCOME_MESSAGE_4": [
+        "New recruit! ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        " joined the Guild."
+    ],
+    "CLAN_WELCOME_MESSAGE_4_HOOK": [
+        "New recruit! ",
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " joined the Guild."
+    ],
+    "CLAN_WELCOME_MESSAGE_5": [
+        "Round of applause for the newest Guild member, ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        ". Just for being here."
+    ],
+    "CLAN_WELCOME_MESSAGE_5_HOOK": [
+        "Round of applause for the newest Guild member, ",
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        ". Just for being here."
+    ],
+    "CLAN_WELCOME_MESSAGE_6": [
+        "Rolling out the red carpet for ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        ". Say hi!"
+    ],
+    "CLAN_WELCOME_MESSAGE_6_HOOK": [
+        "Rolling out the red carpet for ",
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        ". Say hi!"
+    ],
+    "CLAN_WELCOME_MESSAGE_7": [
+        "Yahaha! ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        " found us!"
+    ],
+    "CLAN_WELCOME_MESSAGE_7_HOOK": [
+        "Yahaha! ",
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " found us!"
+    ],
+    "CLAN_WELCOME_MESSAGE_8": [
+        "Get ready everyone -- a ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        " has appeared!"
+    ],
+    "CLAN_WELCOME_MESSAGE_8_HOOK": [
+        "Get ready everyone -- a ",
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " has appeared!"
+    ],
+    "CLAN_WELCOME_MESSAGE_9": [
+        "Roses are red, violets are blue, ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        " just joined the Guild with you."
+    ],
+    "CLAN_WELCOME_MESSAGE_9_HOOK": [
+        "Roses are red, violets are blue, ",
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " just joined the Guild with you."
+    ],
+    "CLYDE_VIEW_SOURCE_HIDE_TOOLTIP": "Hide Sources",
+    "CLYDE_VIEW_SOURCE_SHOW_TOOLTIP": "View Sources",
+    "CONSOLE_PLAYSTATION_STAGING_JOIN_VOICE": "Join on PlayStation (sp-int)",
+    "CONSOLE_PLAYSTATION_STAGING_TRANSFER_VOICE": "Transfer to PlayStation (sp-int)",
+    "U0Hhr6": [
+        [
+            4,
+            "duration",
+            "::Hms"
+        ]
+    ],
+    "CREATE_STAGE_INSTANCE_SELECT_GUILD_HEADER": "Where's the party?",
+    "DAY": [
+        [
+            6,
+            "count",
+            {
+                "=1": [
+                    "day"
+                ],
+                "other": [
+                    [
+                        1,
+                        "count"
+                    ],
+                    " days"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "DEADCHAT_PROMPT_1": "It's quiet in here.",
+    "DEFAULT_CONFIRMATION_MODAL_HEADER": "Are you sure?",
+    "DELETE_STAGE_EVENT_CONFIRMATION_DESCRIPTION": [
+        "Are you sure you want to delete ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "eventName"
+                ]
+            ]
+        ],
+        "? This action cannot be undone."
+    ],
+    "DESKTOP_DOWNLOAD_DESCRIPTION": "More features, better performance, and easy access to all your conversations.",
+    "DESKTOP_DOWNLOAD_TITLE": "Discord for desktop",
+    "DESKTOP_DOWNLOAD_TITLE_LINUX": "Discord for Linux",
+    "DESKTOP_DOWNLOAD_TITLE_MAC": "Discord for Mac",
+    "DESKTOP_DOWNLOAD_TITLE_WINDOWS": "Discord for Windows",
+    "DEV_NOTICE_LOCAL": "Local development mode",
+    "DEV_NOTICE_STAGING": [
+        "Staging ",
+        [
+            1,
+            "buildNumber"
+        ]
+    ],
+    "DIRECTORY_CATEGORY_INTERNAL_1": "Work",
+    "DIRECTORY_CATEGORY_INTERNAL_2": "Social",
+    "DIRECTORY_CATEGORY_INTERNAL_3": "ERGs",
+    "DIRECTORY_CATEGORY_INTERNAL_5": "Archives",
+    "DISAPPROVAL": "ಠ_ಠ",
+    "DISCORD_NAME": "Discord",
+    "ENGLISH_LANGUAGE": "English",
+    "FEATURED_CHANNELS": "Featured Channels",
+    "FORM_LABEL_OVERLAY_SHOW_MUTE_DEAFEN_KEYBINDS": "Show mute and deafen keybinds",
+    "ALLTBQ": [
+        [
+            1,
+            "price"
+        ],
+        "/month after credits"
+    ],
+    "X4Fr+f": [
+        "Your Nitro plan will start on ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    3,
+                    "expirationDate",
+                    "medium"
+                ]
+            ]
+        ],
+        " once your Nitro Credits have expired!"
+    ],
+    "SAJ5Ag": [
+        "Your ",
+        [
+            8,
+            "$b",
+            [
+                "Nitro Credits"
+            ]
+        ],
+        " will end on ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    3,
+                    "expirationDate",
+                    "medium"
+                ]
+            ]
+        ],
+        ". Choose a plan to begin immediately after."
+    ],
+    "oprI4u": [
+        [
+            1,
+            "price"
+        ],
+        "/year after credits"
+    ],
+    "FRIEND_INVITE_ACCEPT_CONFIRMATION": [
+        "You are now friends with ",
+        [
+            1,
+            "username"
+        ],
+        "!"
+    ],
+    "FRIEND_INVITE_EXPIRATION": [
+        "Links expire in ",
+        [
+            1,
+            "expirationDays"
+        ],
+        " days, or ",
+        [
+            1,
+            "expirationUses"
+        ],
+        " uses."
+    ],
+    "FRIEND_INVITE_REVOKE_ALL": "Revoke All Links",
+    "FRIEND_INVITE_SHEET_TITLE": "Send Link to Add Friends",
+    "GET_MOBILE_APP_SUBTITLE": "Discord isn't supported on mobile web browsers. Join over 100 million people who use Discord to talk with communities and friends.",
+    "GO_LIVE_MODAL_GUILD_FORM_TITLE": "Where you're streaming",
+    "GO_LIVE_MODAL_SELECT_GUILD_FORM_TITLE": "Select a server for your stream",
+    "GUILD_DISCOVERY_CATEGORY_SEARCH_PLACEHOLDER_TAGS": [
+        "Explore ",
+        [
+            1,
+            "categoryName"
+        ],
+        " servers, or try popular tags below"
+    ],
+    "GUILD_DISCOVERY_SEARCH_PLACEHOLDER_TAGS": "Explore communities, or try popular tags below",
+    "GUILD_FRIENDS": "Friends in Server",
+    "GUILD_FRIENDS_MODAL_HEADER": [
+        [
+            6,
+            "numFriends",
+            {
+                "=0": [
+                    "0 Friends"
+                ],
+                "one": [
+                    "1 Friend"
+                ],
+                "other": [
+                    [
+                        1,
+                        "numFriends"
+                    ],
+                    " Friends"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        " in ",
+        [
+            1,
+            "guildName"
+        ]
+    ],
+    "GUILD_FRIENDS_MODAL_HEADER_LOADING": [
+        [
+            6,
+            "numFriends",
+            {
+                "=0": [
+                    "Friends"
+                ],
+                "one": [
+                    "1+ Friend"
+                ],
+                "other": [
+                    [
+                        1,
+                        "numFriends"
+                    ],
+                    "+ Friends"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        " in ",
+        [
+            1,
+            "guildName"
+        ]
+    ],
+    "GUILD_JOIN_FEEDBACK_ACCESS_TOO_HARD": "I got full access to the server, but gaining access was too hard",
+    "GUILD_JOIN_FEEDBACK_BODY": "Tell us about your community experience",
+    "GUILD_JOIN_FEEDBACK_HEADER": [
+        "How is ",
+        [
+            1,
+            "guildName"
+        ],
+        " going?"
+    ],
+    "GUILD_JOIN_FEEDBACK_ISSUE_SECTION_HEADER": "Choose your main issue",
+    "GUILD_JOIN_FEEDBACK_NO_ACCESS": "I could not get full access to the server",
+    "GUILD_JOIN_FEEDBACK_PERSONAL_EXPERIENCE": "I had a negative personal experience upon joining due to another server member(s)",
+    "GUILD_JOIN_FEEDBACK_REPORT": "Thanks for your feedback! Feedback like yours helps us improve Discord servers.",
+    "GUILD_JOIN_FEEDBACK_STILL_EXPLORING": "I am still exploring the server",
+    "GUILD_JOIN_FEEDBACK_WHAT_DO": "I don't know what to do here",
+    "GUILD_ROLE_SUBSCRIPTION_PURCHASE_BACK_TO_SUBSCRIPTION_USER_SETTING_CTA": "Back to Manage Server Subscriptions",
+    "GUILD_SETTINGS_AUDIT_LOG_AUTO_MODERATION_FLAGGED_USER_PROFILE": [
+        "AutoMod flagged ",
+        [
+            8,
+            "userHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "user"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        " for violating content in their user profile"
+    ],
+    "GUILD_SETTINGS_AUDIT_LOG_AUTO_MODERATION_QUARANTINE_USER": [
+        "AutoMod quarantined ",
+        [
+            8,
+            "userHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "user"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        " for violating content in their user profile"
+    ],
+    "GUILD_SETTINGS_AUDIT_LOG_V2_ANNOUNCEMENT_THREAD_CREATE": [
+        [
+            8,
+            "userHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "user"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        " created an announcement thread ",
+        [
+            8,
+            "targetHook",
+            [
+                "\"",
+                [
+                    1,
+                    "target"
+                ],
+                "\""
+            ]
+        ]
+    ],
+    "GUILD_SETTINGS_AUDIT_LOG_V2_FILTER": "Filters",
+    "GUILD_SETTINGS_AUDIT_LOG_V2_MEMBER_BAN_ADD": [
+        [
+            8,
+            "userHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "user"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        " banned ",
+        [
+            8,
+            "targetHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "target"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        ": ",
+        "\"",
+        [
+            1,
+            "reason"
+        ],
+        "\""
+    ],
+    "GUILD_SETTINGS_AUDIT_LOG_V2_PRIVATE_THREAD_CREATE": [
+        [
+            8,
+            "userHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "user"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        " created a private thread ",
+        [
+            8,
+            "targetHook",
+            [
+                "\"",
+                [
+                    1,
+                    "target"
+                ],
+                "\""
+            ]
+        ]
+    ],
+    "GUILD_SETTINGS_AUDIT_LOG_V2_SCHEDULED_EVENT_CREATE": [
+        [
+            8,
+            "userHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "user"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        " scheduled the event ",
+        [
+            8,
+            "targetHook",
+            [
+                "\"",
+                [
+                    1,
+                    "target"
+                ],
+                "\""
+            ]
+        ]
+    ],
+    "GUILD_SETTINGS_AUDIT_LOG_V2_SCHEDULED_EVENT_DELETE": [
+        [
+            8,
+            "userHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "user"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        " canceled the scheduled event ",
+        [
+            8,
+            "targetHook",
+            [
+                "\"",
+                [
+                    1,
+                    "target"
+                ],
+                "\""
+            ]
+        ]
+    ],
+    "GUILD_SETTINGS_AUDIT_LOG_V2_SCHEDULED_EVENT_UPDATE": [
+        [
+            8,
+            "userHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "user"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        " updated the scheduled event ",
+        [
+            8,
+            "targetHook",
+            [
+                "\"",
+                [
+                    1,
+                    "target"
+                ],
+                "\""
+            ]
+        ]
+    ],
+    "GUILD_SETTINGS_AUDIT_LOG_V2_SORT": "Sort by Date",
+    "GUILD_SETTINGS_AUDIT_LOG_V2_THREAD_CREATE": [
+        [
+            8,
+            "userHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "user"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        " created a thread ",
+        [
+            8,
+            "targetHook",
+            [
+                "\"",
+                [
+                    1,
+                    "target"
+                ],
+                "\""
+            ]
+        ]
+    ],
+    "GUILD_SETTINGS_AUDIT_LOG_V2_THREAD_DELETE": [
+        [
+            8,
+            "userHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "user"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        " deleted the thread ",
+        [
+            8,
+            "targetHook",
+            [
+                "\"",
+                [
+                    1,
+                    "target"
+                ],
+                "\""
+            ]
+        ]
+    ],
+    "GUILD_SETTINGS_AUDIT_LOG_V2_THREAD_UPDATE": [
+        [
+            8,
+            "userHook",
+            [
+                [
+                    8,
+                    "$b",
+                    [
+                        [
+                            1,
+                            "user"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        " made changes to the thread ",
+        [
+            8,
+            "targetHook",
+            [
+                "\"",
+                [
+                    1,
+                    "target"
+                ],
+                "\""
+            ]
+        ]
+    ],
+    "GUILD_SETTINGS_PARTNER_CHECKLIST_LOADING_FAILED": "We are having trouble loading the requirements. Please check back later.",
+    "GUILD_SETTINGS_PARTNER_CHECKLIST_LOADING_FAILED_TOOLTIP": "Something went wrong. Please check back later",
+    "GUILD_STAGES_LANDING_MOBILE_SUBTITLE": "Visit this link on your desktop to buy a ticket. Once you have a ticket, you'll be able to attend the event on desktop or mobile.",
+    "HIGHLIGHT_NOTIFICATION_ACTIONSHEET_BODY": [
+        "Stay informed, without the noise! Highlights provide occasional updates when your friends are chatting in busy servers. ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more"
+            ],
+            [
+                [
+                    1,
+                    "helpUrl"
+                ]
+            ]
+        ]
+    ],
+    "HIGHLIGHT_NOTIFICATION_SETTINGS_LABEL_SUPPRESS_HIGHLIGHTS": "Suppress Highlights in this server",
+    "7gTJbm": "Active Call",
+    "ICYMI_ACTIVE_CONVO": "Active Conversation",
+    "ICYMI_ACTIVITY_PLAYED": "Recently Played",
+    "ICYMI_ACTIVITY_PLAYING": "Currently Playing",
+    "ICYMI_ACTIVITY_UPDATED_STATUS": "updated their status",
+    "ICYMI_ADJUST_RANKING": "Adjust Server/Channel Recommendations",
+    "ICYMI_ADJUST_RANKINGS_TITLE": "Servers",
+    "ICYMI_ADJUST_SCORE_SUCCESS": "Thanks! This will take effect shortly.",
+    "ICYMI_BACK_TO_HOME": "Back to Home",
+    "zbVaKi": [
+        "Because you played ",
+        [
+            1,
+            "applicationName"
+        ]
+    ],
+    "ICYMI_BROWSE_SERVERS": "Browse more servers",
+    "ICYMI_CHANNEL_MUTE_WARNING": "Turning this off means no content from this channel will be shown.",
+    "ICYMI_CHANNEL_SETTINGS": "Channel Preferences",
+    "ICYMI_CHANNEL_SETTINGS_DESCRIPTION": [
+        "How much content would you like to see from ",
+        [
+            1,
+            "channelName"
+        ],
+        "?"
+    ],
+    "ICYMI_COMPLETE": "Complete",
+    "ICYMI_CONVO_CATCH_UP": "Catch up",
+    "ICYMI_CUSTOM_SCORING_LESS": "See Less",
+    "ICYMI_CUSTOM_SCORING_MORE": "See More!",
+    "ICYMI_CUSTOM_SCORING_NONE": "Good As Is",
+    "S5JNyc": [
+        "Forwarded ",
+        [
+            1,
+            "username"
+        ],
+        "'s status"
+    ],
+    "ICYMI_DESCRIPTION": "Breeze through the best across all your servers",
+    "tAo5Aw": "Tab double tap behavior",
+    "HLHJcH": "Open bookmarks",
+    "7mmwn5": "Scroll to the top",
+    "+dHWt7": "Open notifications",
+    "ICYMI_END_SUBTITLE": "Check back later for more new content!",
+    "ICYMI_END_TITLE": "That's all for now!",
+    "ICYMI_ERROR": "Something went wrong. Please try again later.",
+    "ICYMI_EVERYONE_WAS_MENTIONED": "Everyone was mentioned.",
+    "ICYMI_EXPERIMENTAL_WARNING": [
+        "In Case You Missed It (ICYMI) is a super-duper, early-access, experimental, ",
+        "& ",
+        "pre-alpha feature. ",
+        [
+            8,
+            "feedbackHook",
+            [
+                "Send Feedback"
+            ]
+        ]
+    ],
+    "ICYMI_FEATURED_SERVERS_SUBTITLE": "The more servers you join, the more interesting content you’ll find.",
+    "ICYMI_FEATURED_SERVERS_TITLE": "Featured servers you might like",
+    "ICYMI_FEEDBACK_IRRELEVANT_CONTENT": "Content was irrelevant",
+    "ICYMI_FEEDBACK_ISSUE_SECTION_HEADER": "Choose your main issue",
+    "ICYMI_FEEDBACK_LAGGY": "Laggy or slow",
+    "ICYMI_FEEDBACK_NOT_ENOUGH_CONTENT": "Not enough content",
+    "ICYMI_FEEDBACK_SUBTITLE": "Your feedback helps us improve your experience.",
+    "ICYMI_FEEDBACK_TITLE": "How was your experience with ICYMI?",
+    "ICYMI_FEEDBACK_TOO_MUCH_CONTENT": "Too much content",
+    "3wDyfX": "Filter content from employee servers",
+    "ICYMI_FORWARD": "Forward",
+    "ICYMI_FORWARD_MESSAGE": "Forward Message",
+    "yNWCsL": "posted something you might like",
+    "ICYMI_ITEM_HEADER_SUBTITLE_ANNOUNCEMENT": "posted an announcement.",
+    "ICYMI_ITEM_HEADER_SUBTITLE_ANNOUNCEMENT_EVERYONE": "posted an announcement that mentioned everyone.",
+    "ICYMI_ITEM_HEADER_SUBTITLE_CHANGED_STATUS": "changed their status",
+    "ICYMI_ITEM_HEADER_SUBTITLE_FILE": "uploaded a file:",
+    "ICYMI_ITEM_HEADER_SUBTITLE_FORUM_POST": "made a post.",
+    "ICYMI_ITEM_HEADER_SUBTITLE_GUILD_EVENT_CREATED": "created an event.",
+    "ICYMI_ITEM_HEADER_SUBTITLE_GUILD_EVENT_HOSTING": "is hosting an event.",
+    "ICYMI_ITEM_HEADER_SUBTITLE_GUILD_EVENT_NO_USER": "An event was created",
+    "ICYMI_ITEM_HEADER_SUBTITLE_IMAGE": "sent an image.",
+    "ICYMI_ITEM_HEADER_SUBTITLE_INTERESTING": "sent a message you might like.",
+    "ICYMI_ITEM_HEADER_SUBTITLE_LINK": "sent a link.",
+    "ICYMI_ITEM_HEADER_SUBTITLE_POPULAR_CONTENT": "sent a popular message.",
+    "ICYMI_ITEM_HEADER_SUBTITLE_THREAD": "started a thread.",
+    "ICYMI_ITEM_HEADER_SUBTITLE_VIDEO": "sent a video.",
+    "MOA2xs": "Join the community server!",
+    "ICYMI_JOIN_GUILDS_SUBTITLE": "The more servers you join, the more interesting content you’ll find.",
+    "ICYMI_JOIN_GUILDS_TITLE": "Choose 3 or more featured servers you’re interested in.",
+    "ICYMI_JOIN_THE_CONVERSATION": "Join in",
+    "ICYMI_LOADING_COMMENTS": "Loading comments...",
+    "jM1jAA": [
+        "mentioned you in ",
+        [
+            1,
+            "guildName"
+        ]
+    ],
+    "BSSkgI": [
+        "Want more content from ",
+        [
+            1,
+            "applicationName"
+        ],
+        "?"
+    ],
+    "90AwBw": [
+        "From ",
+        [
+            1,
+            "guildName"
+        ],
+        "."
+    ],
+    "1P7pvb": [
+        "From ",
+        [
+            1,
+            "guildName1"
+        ],
+        ", ",
+        [
+            1,
+            "guildName2"
+        ],
+        ", ",
+        "& ",
+        [
+            1,
+            "numGuildsRemaining"
+        ],
+        " more."
+    ],
+    "66UdFh": [
+        [
+            6,
+            "unreadsCount",
+            {
+                "one": [
+                    [
+                        1,
+                        "unreadsCount"
+                    ],
+                    " more mention"
+                ],
+                "other": [
+                    [
+                        1,
+                        "unreadsCount"
+                    ],
+                    " more mentions"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "QiuZ+P": [
+        "From ",
+        [
+            1,
+            "guildName1"
+        ],
+        " & ",
+        [
+            1,
+            "guildName2"
+        ],
+        "."
+    ],
+    "ICYMI_PRE_ALPHA": "ALPHA",
+    "ICYMI_REACT_ACTIVITY": "React to Activity",
+    "ICYMI_REACT_STATUS": "React to Status",
+    "ICYMI_RECENT_CONVO": "Recent Conversation",
+    "ICYMI_REPLIED_TO": "Replied to:",
+    "ICYMI_REPLY": "Reply",
+    "5NwaNT": "Reply to Message",
+    "ICYMI_REPLY_REACT": [
+        "React or Reply to ",
+        [
+            1,
+            "username"
+        ]
+    ],
+    "ICYMI_REPLY_TO_ACTIVITY": "Reply to Activity",
+    "ICYMI_REPLY_TO_STATUS": "Reply to Status",
+    "ICYMI_REPLY_TO_USER": [
+        "Reply to @",
+        [
+            1,
+            "username"
+        ]
+    ],
+    "ICYMI_SEE_CHANNEL_CONTENT": "Show channel content in ICYMI",
+    "ICYMI_SEE_GUILD_CONTENT": "Show content in ICYMI",
+    "ICYMI_SELECTED": "Selected",
+    "ICYMI_SERVER_DISABLE_WARNING": "Turning this off means no content from this server will be shown.",
+    "ICYMI_SERVER_SETTINGS": "Server Preferences",
+    "ICYMI_SERVER_SETTINGS_CHANNELS_SUBTITLE": "Adjust how much content would you like to see from each channel.",
+    "ICYMI_SERVER_SETTINGS_SUBTITLE": [
+        "How much content would you like to see from ",
+        [
+            1,
+            "guildName"
+        ],
+        " overall?"
+    ],
+    "ICYMI_SETTING_NAME": "Hide ICYMI tab",
+    "ICYMI_SHARE_ACTIVITY": "Share Activity",
+    "ICYMI_SHARE_CONVO_SUMMARY": "Share Conversation",
+    "ICYMI_SHARE_EVENT": "Share Event",
+    "ICYMI_SHORT_TITLE": "ICYMI",
+    "ICYMI_SHOW_NEGATIVE": "Show negative scored content",
+    "ICYMI_SHOW_NSFW": "Show NSFW content",
+    "JiNPo6": [
+        "and ",
+        [
+            6,
+            "attachmentsCount",
+            {
+                "one": [
+                    "1 attachment"
+                ],
+                "other": [
+                    [
+                        1,
+                        "attachmentsCount"
+                    ],
+                    " attachments"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "6ojWOz": "What's on your mind?",
+    "ICYMI_TITLE": "In Case You Missed It",
+    "ICYMI_TOPICS_SUBTITLE": "Select at least one topic for improved server recommendations.",
+    "ICYMI_TOPICS_TITLE": "What are some topics you’re interested in?",
+    "O+kBIC": "Unread Mentions",
+    "ICYMI_VALUE_PROP_1": "Sourced from all your servers",
+    "ICYMI_VALUE_PROP_2": "Only the freshest content",
+    "ICYMI_VALUE_PROP_3": "Know when you've caught up",
+    "INAPPROPRIATE_CONVERSATION_CHAT_ON_THE_WEB": "Chat on the web",
+    "INAPPROPRIATE_CONVERSATION_CONTACT_CRISIS_TEXT_LINE_ALT": "Illustration of floating phone surrounded by various abstract health info bubbles",
+    "INAPPROPRIATE_CONVERSATION_CONTACT_CRISIS_TEXT_LINE_DESCRIPTION": "Get 24-hour, live support from a counselor. To start, text DISCORD to 741-741.",
+    "INAPPROPRIATE_CONVERSATION_CONTACT_CRISIS_TEXT_LINE_HEADER": "Contact Crisis Text Line",
+    "INAPPROPRIATE_CONVERSATION_MARK_AS_TIER_1": "Add Inappropriate Tier 1 Warning (Experimental)",
+    "INAPPROPRIATE_CONVERSATION_MARK_AS_TIER_2": "Add Inappropriate Tier 2 Warning (Experimental)",
+    "INAPPROPRIATE_CONVERSATION_SEND_A_TEXT": "Send a text",
+    "INSTANT_INVITE_YOU_HAVE_BEEN_INVITED_TO_JOIN_GROUP_DM_BY_USER": [
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " has invited you to join a group DM"
+    ],
+    "INVITE_APP_GMAIL": "Gmail",
+    "INVITE_APP_LINE": "Line",
+    "INVITE_APP_MESSENGER": "Messenger",
+    "INVITE_APP_TELEGRAM": "Telegram",
+    "INVITE_APP_TWITTER": "Twitter",
+    "INVITE_APP_WHATSAPP": "WhatsApp",
+    "INVITE_EXPIRATION_NOTICE": [
+        "Invite expires in ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "duration"
+                ],
+                "."
+            ]
+        ]
+    ],
+    "INVITE_MESSAGE_PLACEHOLDER": [
+        "hey come check out Discord with me ",
+        [
+            1,
+            "link"
+        ]
+    ],
+    "INVITE_MODAL_NEVERMIND_BUTTON": "Nevermind",
+    "INVITE_SEND_ERROR": "Message Failed",
+    "INVITE_URGENT_DAYS_MESSAGE_PLACEHOLDER": [
+        "hey join me on Discord! Invite expires in ",
+        [
+            6,
+            "numDays",
+            {
+                "one": [
+                    "1 day"
+                ],
+                "other": [
+                    [
+                        1,
+                        "numDays"
+                    ],
+                    " days"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        ". ",
+        [
+            1,
+            "link"
+        ]
+    ],
+    "INVITE_URGENT_HOURS_MESSAGE_PLACEHOLDER": [
+        "hey join me on Discord! Invite expires in ",
+        [
+            6,
+            "numHours",
+            {
+                "one": [
+                    "1 hour"
+                ],
+                "other": [
+                    [
+                        1,
+                        "numHours"
+                    ],
+                    " hours"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        ". ",
+        [
+            1,
+            "link"
+        ]
+    ],
+    "INVITE_URGENT_MINUTES_PLACEHOLDER": [
+        "hey join me on Discord! Invite expires in ",
+        [
+            6,
+            "numMinutes",
+            {
+                "one": [
+                    "1 minute"
+                ],
+                "other": [
+                    [
+                        1,
+                        "numMinutes"
+                    ],
+                    " minutes"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        ". ",
+        [
+            1,
+            "link"
+        ]
+    ],
+    "INVITE_YOUR_FRIENDS": "Invite your friends!",
+    "IYCMI_NEW_POSTS": "New Content",
+    "KEYBIND_NOTIFICATION_DESCRIPTION": "Now you can see your keybind for toggling mute in the overlay.",
+    "AWKKgY": "Add Likely ATO Warning (Experimental)",
+    "MESSAGE_STEP_TITLE": "Send your first message",
+    "MFA_REQUIRED_FOR_STAFF": "Multi-factor authentication is required for staff.",
+    "MOBILE_APP_DOWNLOAD_CTA": "Get our mobile app",
+    "MOBILE_APP_DOWNLOAD_SUBHEADER": "Keep the conversion going on our iOS or Android app.",
+    "MONTH": [
+        [
+            6,
+            "count",
+            {
+                "=1": [
+                    "month"
+                ],
+                "other": [
+                    [
+                        1,
+                        "count"
+                    ],
+                    " months"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "NITRO_HOME_REQUIRES_SUBSCRIPTION": "REQUIRES SUBSCRIPTION",
+    "NOTIFICATION_CENTER_HIGHLIGHT_SETTINGS": "Highlight Notification Settings",
+    "NOTIFICATION_REPORT_IRRELEVANT_CHANNEL": "I don't care about this channel",
+    "NOTIFICATION_REPORT_IRRELEVANT_TOPIC": "Topic isn't relevant to me",
+    "NOTIFICATION_REPORT_IRRELEVANT_USER": "I don't know these people",
+    "NOTIFICATION_REPORT_SENSITIVE_OR_OFFENSIVE_TOPIC": "Topic is sensitive or offensive",
+    "NOTIFICATION_SETTINGS_UNREAD_MENTION_ONLY_DISABLED": "Disabled when notification is set to all messages",
+    "NOTIFICATION_SETTINGS_UNREAD_UPDATE_WARNING": "This will update unread badges to all messages",
+    "NOTIF_CENTER_V2_VIEW_SUMMARY": "Join in!",
+    "ONE_TIME_PURCHASE_FINE_PRINT": "This purchase is non-refundable.",
+    "OVERLAY_NEWS_GO_LIVE_BODY_NO_VOICE_CHANNEL": [
+        "Stream ",
+        [
+            1,
+            "game"
+        ],
+        " to your friends!"
+    ],
+    "PAYMENTS_ALL_METHOD_BUTTON": "All payment methods",
+    "PERSONALITY_10_KEY": "cinema-charmer",
+    "PERSONALITY_11_KEY": "wumpus",
+    "PERSONALITY_12_KEY": "nelly",
+    "PERSONALITY_1_KEY": "pirate-life",
+    "PERSONALITY_2_KEY": "whimsical-wizard",
+    "PERSONALITY_3_KEY": "astro-adventurer",
+    "PERSONALITY_4_KEY": "noir-narrator",
+    "PERSONALITY_5_KEY": "inventive-intellectual",
+    "PERSONALITY_6_KEY": "knight-narrative",
+    "PERSONALITY_7_KEY": "secret-spy",
+    "PERSONALITY_8_KEY": "oracle-observations",
+    "PERSONALITY_9_KEY": "voyager-voice",
+    "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
+    "PERSONALITY_DEFAULT_KEY": "clyde",
+    "PERSONALITY_SERIOUS_KEY": "serious-business",
+    "PLAYSTATION_NETWORK": "PlayStation Network",
+    "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
+        "TBD text for unavailable boost text lorem ipsum with ",
+        [
+            8,
+            "$link",
+            [
+                "text link"
+            ],
+            [
+                [
+                    1,
+                    "link"
+                ]
+            ]
+        ]
+    ],
+    "PROBLEMATIC_GPU_DRIVER_DETECTED": [
+        "There is currently a known issue with your GPU driver version which may affect the Go Live quality. If you experience this issue, learn more about how to fix it ",
+        [
+            8,
+            "$link",
+            [
+                "here"
+            ],
+            [
+                [
+                    1,
+                    "helpCenterLink"
+                ]
+            ]
+        ],
+        "."
+    ],
+    "PROGRESS_STEPS_FINISHED": "Completed!",
+    "PURCHASE_REVIEW_TAX_LABEL": "Tax",
+    "QR_CODE_DOWNLOAD_CTA": "Scan this QR code for an easy download link for our iOS or Android apps.",
+    "QUESTS_NITRO_ENROLL_FAILURE_TOAST": "Something went wrong. You may not be eligible to enroll in this Quest.",
+    "QUESTS_NITRO_REWARD_MODAL_BACKGROUND_IMAGE_ALT": "Rocket Ships fly over a starry galaxy.",
+    "QUESTS_NITRO_REWARD_MODAL_ERROR_HAVE_A_SUB": "You already have Nitro! This Quest reward is only available to users who aren't subscribed to Nitro.",
+    "QUESTS_NITRO_REWARD_MODAL_ERROR_MISC": "Something went wrong",
+    "QUESTS_NITRO_REWARD_MODAL_FOOTER_IN_GAME_BODY": [
+        "You earned ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "rewardNameWithArticle"
+                ]
+            ]
+        ],
+        "! It has been automatically applied to your account."
+    ],
+    "RAPIDASH_ONBOARDING_ACTION_ITEM": "Adopt the tag",
+    "REPORTS_USER_MENU_OPTION_MOBILE": "Report User Profile",
+    "ROLE_CREATE_ADD_MEMBERS_SUBTITLE": "Assign this role to your members. Members can have more than one role.",
+    "ROLE_PERMISSIONS_CONNECT_DESCRIPTION_THREADS": "Allows members to talk in voice and hear others in this channel's threads.",
+    "ROLE_PERMISSIONS_CONNECT_DESCRIPTION_THREADS_EVERYONE": "Allows members to talk in voice and hear others in this channel's threads.",
+    "ROLE_PERMISSIONS_DEAFEN_MEMBERS_DESCRIPTION_THREADS": "Allows members to deafen other members in this channel's threads, which means they won’t be able to speak or hear others.",
+    "ROLE_PERMISSIONS_MOVE_MEMBERS_DESCRIPTION_THREADS": "Allows members to disconnect other members from this channel's threads. They will also be able to move somebody into other channels that they have this permission in.",
+    "ROLE_PERMISSIONS_MUTE_MEMBERS_DESCRIPTION_THREADS": "Allows members to mute other members in this channel's threads for everyone.",
+    "ROLE_PERMISSIONS_PRIORITY_SPEAKER_DESCRIPTION_THREADS": [
+        "Allows members to be more easily heard in this channel's threads. When activated, the volume of others without this permission will be automatically lowered. Priority Speaker is activated by using the ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    8,
+                    "$link",
+                    [
+                        [
+                            1,
+                            "keybind"
+                        ]
+                    ],
+                    [
+                        [
+                            1,
+                            "onClick"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        " keybind."
+    ],
+    "ROLE_PERMISSIONS_PRIORITY_SPEAKER_DESCRIPTION_THREADS_MOBILE": [
+        "Allows members to be more easily heard in this channel's threads. When activated, the volume of others without this permission will be automatically lowered. Priority Speaker is activated by using the ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "keybind"
+                ]
+            ]
+        ],
+        " keybind."
+    ],
+    "ROLE_PERMISSIONS_SPEAK_DESCRIPTION_THREADS": "Allows members to talk in voice in this channel's threads. If this permission is disabled, members are default muted until somebody with the “Mute Members” permission un-mutes them.",
+    "ROLE_PERMISSIONS_STREAM_DESCRIPTION_THREADS": "Allows members to share their video, screen share, or stream a game in this channel's threads.",
+    "ROLE_PERMISSIONS_USE_EMBEDDED_ACTIVITIES_DESCRIPTION_THREADS": "Allows members to use Activities in this channel's threads.",
+    "ROLE_PERMISSIONS_USE_EXTERNAL_APPS_DESCRIPTION_THREADS": "Allows members to use External Apps in this channel's threads.",
+    "ROLE_PERMISSIONS_USE_VAD_DESCRIPTION_THREADS": "Allows members to speak in this channel's threads by simply talking. If this permission is disabled, members are required to use Push-to-talk. Good for controlling background noise or noisy members.",
+    "SAFETY_HUB_CLASSIFICATIONS_TABLE_COLUMN_HEADER_DATE": "DATE",
+    "SAFETY_HUB_CLASSIFICATIONS_TABLE_COLUMN_HEADER_EXPIRES": "EXPIRES",
+    "SAFETY_HUB_CLASSIFICATIONS_TABLE_COLUMN_HEADER_STATUS": "STATUS",
+    "SAFETY_HUB_CLASSIFICATIONS_TABLE_COLUMN_HEADER_TYPE": "TYPE",
+    "SAFETY_HUB_CLASSIFICATIONS_TABLE_EMPTY_TEXT": "Lorem, ipsum dolor",
+    "SAFETY_HUB_CLASSIFICATIONS_TABLE_HEADER": "Lorem, ipsum",
+    "SAFETY_WARNINGS_DELETE": "Delete all Safety Warnings (Experimental)",
+    "Fn6Odn": "Scheduled",
+    "aJQZfX": "You've got no scheduled messages!",
+    "rCN4pK": "You can schedule messages by clicking the + icon in the message bar!",
+    "stHooK": "Custom...",
+    "v5O2dH": "Message failed to send because the channel was not found",
+    "w6zHX1": "Message failed to send because you cannot send scheduled messages",
+    "pflV7+": "Message failed to send inside the standard message send flow",
+    "j8uIfH": "Message failed to send",
+    "PsJmUV": [
+        "Failed to create scheduled message. ",
+        [
+            1,
+            "error"
+        ]
+    ],
+    "sUvyW1": [
+        "Failed to cancel scheduled message. ",
+        [
+            1,
+            "error"
+        ]
+    ],
+    "+P5MmJ": "Monday at 9:00am",
+    "3+ii4O": "Schedule Message",
+    "iQ1Swc": "Set Schedule",
+    "CvHu/v": [
+        "Message scheduled for ",
+        [
+            3,
+            "timestamp",
+            "long"
+        ],
+        " at ",
+        [
+            4,
+            "timestamp",
+            "short"
+        ]
+    ],
+    "JF/LWl": "Successfully canceled the message.",
+    "MQcRX1": [
+        "Scheduling message for ",
+        [
+            3,
+            "timestamp",
+            "long"
+        ],
+        " at ",
+        [
+            4,
+            "timestamp",
+            "short"
+        ],
+        " (in your timezone)"
+    ],
+    "EMRZyc": "Tomorrow at 1:00pm",
+    "tjIn9v": "Tomorrow at 9:00am",
+    "SEARCH_EVERYWHERE": "Search Everywhere",
+    "SEARCH_FAVORITES": "Search Favorites",
+    "SERVER_DRAWER_ACTIVITY_EVENT_IN_UPCOMING": [
+        "in ",
+        [
+            1,
+            "relativeTime"
+        ]
+    ],
+    "SERVER_DRAWER_ACTIVITY_PLAYING": [
+        "playing ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "activity"
+                ]
+            ]
+        ]
+    ],
+    "SERVER_DRAWER_ACTIVITY_STREAMING": [
+        "streaming ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "activity"
+                ]
+            ]
+        ]
+    ],
+    "SERVER_DRAWER_ACTIVITY_STREAMING_SCREEN": "sharing screen",
+    "SERVER_DRAWER_ACTIVITY_TOPIC": [
+        "talking ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "topic"
+                ]
+            ]
+        ]
+    ],
+    "SERVER_DRAWER_ACTIVITY_VOICE": [
+        "in ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "channelName"
+                ]
+            ]
+        ]
+    ],
+    "SERVER_DRAWER_ACTIVITY_VOICE_STATUS": [
+        [
+            8,
+            "statusHook",
+            []
+        ],
+        " in ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "channelName"
+                ]
+            ]
+        ]
+    ],
+    "SERVER_USAGE_SURVEY_BODY": [
+        "Help us make Discord better by answering a few questions about ",
+        [
+            1,
+            "guildName"
+        ]
+    ],
+    "SERVER_USAGE_SURVEY_CTA": "Take Survey",
+    "SHARED_CANVAS_DRAW_MODE_EMOJI_HOSE": "Emoji Hose",
+    "SHARED_CANVAS_DRAW_MODE_LINE": "Draw",
+    "SHARED_CANVAS_HIDE_OVERLAY_DRAWINGS": "Hide Drawings in Overlay",
+    "SIGNUP_BUTTON_TOOLTIP_CTA": "Click to preview",
+    "SIGNUP_CLAN_ACKNOWLEDGEMENTS_DESCRIPTION": "Select all the checkboxes to acknowledge and continue.",
+    "SIGNUP_CLAN_ACKNOWLEDGEMENTS_TITLE": "Here is some additional information about Gaming Guilds",
+    "SIGNUP_CLAN_ACKNOWLEDGEMENT_APPROVAL": "New members must be approved by you in order to join",
+    "SIGNUP_CLAN_ACKNOWLEDGEMENT_CAP": "Gaming Guilds are capped to 200 members max",
+    "SIGNUP_CLAN_OPTION_CASUAL_DESCRIPTION": "We play to chill and have fun, but more fun if we win!",
+    "SIGNUP_CLAN_OPTION_CASUAL_TITLE": "Casual",
+    "SIGNUP_CLAN_OPTION_HARDCORE_DESCRIPTION": "We play together to win, rank up, or beat challenges.",
+    "SIGNUP_CLAN_OPTION_HARDCORE_TITLE": "Hardcore",
+    "SIGNUP_CLAN_OPTION_VERY_CASUAL_DESCRIPTION": "We always have a good time - win or lose!",
+    "SIGNUP_CLAN_OPTION_VERY_CASUAL_TITLE": "Very Casual",
+    "SIGNUP_CLAN_OPTION_VERY_HARDCORE_DESCRIPTION": "We won't sleep until we win or beat the boss.",
+    "SIGNUP_CLAN_OPTION_VERY_HARDCORE_TITLE": "Very Hardcore",
+    "SIGNUP_CLAN_PLAYSTYLE_DESCRIPTION": "Let potential members know what your gaming style is.",
+    "SIGNUP_CLAN_PLAYSTYLE_TITLE": "What's your server's play style?",
+    "SIGNUP_COMPLETED_DESCRIPTION": "We will get back to you once we have more updates.",
+    "SIGNUP_COMPLETED_TITLE": "Thank you for your interest!",
+    "SIGNUP_COMPLETE_CTA": "Sign Up",
+    "SIGNUP_EMAIL_ERROR": "We're unable to verify that email address. Please try another",
+    "SIGNUP_EMAIL_PLACEHOLDER": "wumpus@example.com",
+    "SIGNUP_EMAIL_PROMPT": "Confirm your email to secure your spot on the waitlist",
+    "SIGNUP_NOTICE_CTA": "Learn More",
+    "SIGNUP_NOTICE_EYEBROW": "EXCLUSIVE DISCORD INVITE",
+    "STAFF_PTO_NOTICE": "Heads up! This person may be Out of Office.",
+    "STAGE_INSTANCE_TICKET_PURCHASE_CONFIRMATION_TITLE": "You're in.",
+    "CgWmmZ": "Add Stranger Danger Warning (Experimental)",
+    "STRANGER_DANGER_CONTEXT_MENU_CLEAR": "Reset Safety Warning dismissals (Experimental)",
+    "SYSTEM_MESSAGE_GUILD_STREAM_ACTIVE": [
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " is live! Now streaming ",
+        [
+            1,
+            "activityName"
+        ],
+        ". ",
+        [
+            8,
+            "$link",
+            [
+                "Join Stream"
+            ],
+            [
+                [
+                    1,
+                    "onJoinStream"
+                ]
+            ]
+        ]
+    ],
+    "SYSTEM_MESSAGE_GUILD_STREAM_ACTIVE_MOBILE": [
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        " is live. ",
+        [
+            8,
+            "$link",
+            [
+                "Join Stream"
+            ],
+            [
+                [
+                    1,
+                    "onJoinStream"
+                ]
+            ]
+        ]
+    ],
+    "SYSTEM_MESSAGE_GUILD_STREAM_ENDED": [
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " was live for ",
+        [
+            1,
+            "duration"
+        ],
+        " in ",
+        [
+            1,
+            "channelName"
+        ]
+    ],
+    "SYSTEM_MESSAGE_GUILD_STREAM_ENDED_MOBILE": [
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        " was live for ",
+        [
+            1,
+            "duration"
+        ],
+        "."
+    ],
+    "SYSTEM_MESSAGE_INVITE_NOTIFICATION": "Wondering who to invite? Start by inviting anyone who can help you build the server!",
+    "SYSTEM_MESSAGE_INVITE_USERS": "Invite your friends",
+    "SYSTEM_MESSAGE_INVITE_USERS_BUTTON": "Send an Invite",
+    "SYSTEM_MESSAGE_INVITE_USERS_COMPACT": [
+        [
+            8,
+            "$b",
+            [
+                "Invite your friends!"
+            ]
+        ],
+        " The best way to setup a server is with your buddies! ",
+        [
+            8,
+            "inviteHook",
+            [
+                "Send an invite"
+            ]
+        ]
+    ],
+    "SYSTEM_MESSAGE_INVITE_USERS_DESCRIPTION": "The best way to setup a server is with your buddies!",
+    "SYSTEM_MESSAGE_INVITE_USERS_DESCRIPTION_OWNER": "Start by inviting anyone who can help you build the server!",
+    "SYSTEM_MESSAGE_INVITE_USERS_OWNER": "Wondering who to invite?",
+    "SYSTEM_MESSAGE_INVITE_USERS_OWNER_COMPACT": [
+        [
+            8,
+            "$b",
+            [
+                "Wondering who to invite?"
+            ]
+        ],
+        " Start by inviting anyone who can help you build the server! ",
+        [
+            8,
+            "inviteHook",
+            [
+                "Send an invite"
+            ]
+        ]
+    ],
+    "c6kn6O": "Oops, something went wrong",
+    "VLbVho": "Get Started",
+    "Cc41tb": "We use age groups to determine access to certain experiences. This process is fast and easy - here's how it works:",
+    "FQ+YOD": "Verify age group",
+    "mXpKND": "Learn More",
+    "TYfgw8": [
+        "Want another method? ",
+        [
+            8,
+            "$link",
+            [
+                "Request a manual review"
+            ],
+            [
+                [
+                    1,
+                    "handleOnRequestHook"
+                ]
+            ]
+        ]
+    ],
+    "RV75dn": [
+        [
+            8,
+            "$link",
+            [
+                "Learn more"
+            ],
+            [
+                [
+                    1,
+                    "handleOnHelpUrlHook"
+                ]
+            ]
+        ],
+        " about age groups"
+    ],
+    "ldhmmp": "These are not stored after the verification is completed",
+    "K0z0AA": "Take a video selfie or scan your ID",
+    "rw9yFR": [
+        "You'll know it's us from the offical tag. ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more"
+            ],
+            [
+                [
+                    1,
+                    "handleOnHelpUrlHook"
+                ]
+            ]
+        ]
+    ],
+    "Jc2+09": "We'll DM you the results",
+    "h90JkZ": "They're quick and easy",
+    "60uRDA": "Follow the steps",
+    "SFWVER": "Verify Age",
+    "NjO/s7": "This channel contains adult content marked as age-restricted. You need to verify your age to view it. Do you want to verify your age?",
+    "ECL1eX": [
+        "This channel contains adult content marked as age-restricted. We determined you're in the ",
+        [
+            8,
+            "$b",
+            [
+                "teen"
+            ]
+        ],
+        " age group. If we made a mistake, you can reverify."
+    ],
+    "2L5V8/": "Reverify",
+    "WiSJBA": "Retry",
+    "+2/AhI": "Reverify",
+    "TOP_CHANNELS": "Top Channels",
+    "UPCOMING_GUILD_STAGE_INSTANCE_DISCOVERY_EMPTY_STATE_SUB_TITLE": "Let people know what’s happening by scheduling an upcoming Stage.\nIt will show up here for everyone in this server.",
+    "USER_SETTINGS_APPEARANCE_CHANNEL_LIST_LAYOUT_MINIMAL": "Minimal",
+    "USER_SETTINGS_OTHER_QUICK_ACTIONS": "Other Actions",
+    "USER_SETTINGS_QUICK_ACTION_FORCE_NEW_USER_ONBOARDING": "Force new user onboarding flow",
+    "VC4Mq6": "Open Quest Home",
+    "J+vlIS": "Open Shop",
+    "5qZv9P": "Need help?",
+    "XRdyj4": "Learn more.",
+    "c/rcUl": "This item is not redeemable with Orbs",
+    "keFvXF": "Not enough Orbs",
+    "v4HbPz": "Next",
+    "xYx+WV": "Journey to Quest Home in Discover to start earning.",
+    "KnWRQU": "Earn Orbs via Quests",
+    "F4SoLC": "Finish",
+    "Veu++f": "Snag special exclusives like Nitro credits and Shop favorites.",
+    "duN28/": "Spend in the Shop",
+    "wmcDys": "Claim with Orbs",
+    "rr811N": [
+        [
+            8,
+            "$b",
+            [
+                "Claiming an item from the Shop means you’re claiming a limited license to use this item on Discord. Learn more in the “Virtual Goods” section ",
+                [
+                    8,
+                    "$link",
+                    [
+                        "here"
+                    ],
+                    [
+                        [
+                            1,
+                            "paidURL"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        ". By Claiming this item, you agree to the ",
+        [
+            8,
+            "$link",
+            [
+                "Paid Services Terms"
+            ],
+            [
+                [
+                    1,
+                    "paidURL"
+                ]
+            ]
+        ],
+        ". Orbs purchases are non-refundable."
+    ],
+    "lTHkqa": "Apprentice",
+    "y0WGqK": "Orb Balance",
+    "YEAR": [
+        [
+            6,
+            "count",
+            {
+                "=1": [
+                    "year"
+                ],
+                "other": [
+                    [
+                        1,
+                        "count"
+                    ],
+                    " years"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "yfwZu7": "View My Badge",
+    "UnPGio": "The badge has been added to your profile.",
+    "nvaTQk": "You collected the Orbs Profile Badge!",
     "cgdAs7": "(Will open in a new tab)",
     "FAMILY_CENTER_ACCEPTED_REQUESTS_EMPTY_DESCRIPTION": "No family members connected yet.",
     "FAMILY_CENTER_ACCEPTED_REQUESTS_TITLE_PARENT": [
@@ -91872,307 +92174,5 @@
     ],
     "FAMILY_CENTER_TITLE": "Family Center",
     "FAMILY_CENTER_TOOLTIP_MODAL_HEADER_PARENT": "What can I see?",
-    "FAMILY_CENTER_TOOLTIP_MODAL_HEADER_TEEN": "What can my parent see?",
-    "yfwZu7": "View My Badge",
-    "UnPGio": "The badge has been added to your profile.",
-    "nvaTQk": "You collected the Orbs Profile Badge!",
-    "BdRXZG": "Available",
-    "hjvcLC": "Server Boosts",
-    "xvgIVF": "Spent",
-    "/F7Z29": "Total",
-    "yv3DJC": "Skill Trees",
-    "pycxTk": "Members of this server can pay to Boost it, and admins use those Boosts to unlock new features.",
-    "diMhWV": "How do Boosts work?",
-    "fXE30d": [
-        [
-            8,
-            "$link",
-            [
-                "Learn More"
-            ],
-            [
-                [
-                    1,
-                    "helpDeskArticle"
-                ]
-            ]
-        ]
-    ],
-    "NXvV09": [
-        [
-            1,
-            "totalEmojis"
-        ],
-        " Server Emoji Slots (+",
-        [
-            1,
-            "additionalEmojis"
-        ],
-        ")"
-    ],
-    "s9u/Ex": [
-        [
-            1,
-            "totalSoundboards"
-        ],
-        " Soundboard Slots (+",
-        [
-            1,
-            "additionalSoundboards"
-        ],
-        ")"
-    ],
-    "ZEvvPz": [
-        [
-            1,
-            "totalStickers"
-        ],
-        " Custom Sticker Slots (+",
-        [
-            1,
-            "additionalStickers"
-        ],
-        ")"
-    ],
-    "na6fmJ": "Included in Level 1",
-    "dyNT9v": "Included in Level 2",
-    "8AEGEx": "Included in Level 3",
-    "/6GgQk": [
-        "New Boost perks — ",
-        [
-            1,
-            "perks"
-        ]
-    ],
-    "E5V5KC": "See new perks",
-    "GmN3VV": [
-        [
-            1,
-            "perk1"
-        ],
-        ", ",
-        [
-            1,
-            "perk2"
-        ],
-        ", and more"
-    ],
-    "MNO3sL": [
-        [
-            1,
-            "perk1"
-        ],
-        " and ",
-        [
-            1,
-            "perk2"
-        ]
-    ],
-    "QOacIS": [
-        [
-            6,
-            "quantity",
-            {
-                "=1": [
-                    [
-                        7
-                    ],
-                    " Server Boost"
-                ],
-                "other": [
-                    [
-                        7
-                    ],
-                    " Server Boosts"
-                ]
-            },
-            0,
-            "cardinal"
-        ]
-    ],
-    "MYYPa2": "Unlock these perks without needing a specific Boost Level.",
-    "p6HUDQ": "New Perks you can unlock with Boosts",
-    "aJv4PD": "Your server will automatically “level up” once it has enough available Boosts.",
-    "TXY/b2": "Levels",
-    "NHjM1t": "Individual perks that can be unlocked using available Boosts.",
-    "TV3Vm5": "Additional Perks",
-    "y3wHoq": [
-        "In your server, go to Server Settings to start customizing ",
-        [
-            1,
-            "perkName"
-        ]
-    ],
-    "lFuOFB": [
-        [
-            1,
-            "perkName"
-        ],
-        " enabled!"
-    ],
-    "1B8AZm": [
-        "You must activate ",
-        [
-            1,
-            "perk"
-        ],
-        " first."
-    ],
-    "AOQgkp": "Enable",
-    "gSxlHR": "Enable Perk",
-    "FFLkm5": "Active",
-    "j2jUjY": "Bundle",
-    "g5Ds6+": "Configure",
-    "7o0K+/": [
-        "Are you sure you want to disable ",
-        [
-            1,
-            "perk"
-        ],
-        "?"
-    ],
-    "iEBw1N": [
-        "Disable ",
-        [
-            1,
-            "perk"
-        ],
-        "?"
-    ],
-    "vCEBiY": [
-        "You must deactivate ",
-        [
-            1,
-            "perk"
-        ],
-        " first."
-    ],
-    "PYPdl5": "Disable",
-    "TZsu1d": "Disable Perk",
-    "5HQUzM": [
-        "Get ",
-        [
-            6,
-            "boostCount",
-            {
-                "=1": [
-                    [
-                        7
-                    ],
-                    " Boost"
-                ],
-                "other": [
-                    [
-                        7
-                    ],
-                    " more Boosts"
-                ]
-            },
-            0,
-            "cardinal"
-        ],
-        " back."
-    ],
-    "ol/ao6": [
-        "Expires ",
-        [
-            1,
-            "dateString"
-        ]
-    ],
-    "4jSvr6": [
-        "If you choose to disable this perk, ",
-        [
-            1,
-            "perk"
-        ],
-        " will be removed from ",
-        [
-            6,
-            "memberCount",
-            {
-                "=1": [
-                    [
-                        7
-                    ],
-                    " member"
-                ],
-                "other": [
-                    [
-                        7
-                    ],
-                    " members"
-                ]
-            },
-            0,
-            "cardinal"
-        ],
-        "."
-    ],
-    "OVt5CA": "Warning",
-    "iAaAiI": [
-        "This server needs ",
-        [
-            6,
-            "boostCount",
-            {
-                "=1": [
-                    [
-                        7
-                    ],
-                    " more Boost"
-                ],
-                "other": [
-                    [
-                        7
-                    ],
-                    " more Boosts"
-                ]
-            },
-            0,
-            "cardinal"
-        ],
-        " to keep this perk.\nYou have ",
-        [
-            6,
-            "dayCount",
-            {
-                "=1": [
-                    [
-                        7
-                    ],
-                    " day"
-                ],
-                "other": [
-                    [
-                        7
-                    ],
-                    " days"
-                ]
-            },
-            0,
-            "cardinal"
-        ],
-        " before ",
-        [
-            1,
-            "perk"
-        ],
-        " is removed."
-    ],
-    "n5hQhY": [
-        "You’re about to lose ",
-        [
-            1,
-            "perk"
-        ]
-    ],
-    "plwH8f": "gave 1 boost.",
-    "xi8rEx": "¿Te gustaría configurar Discord en Español?",
-    "09QGGB": "¿Cambiar idioma?",
-    "ofazSU": "Entendido",
-    "yQfLwM": "Discord está configurado en Español. Puedes elegir otro idioma en \"Ajustes de aplicación\" > \"Idioma\".",
-    "KUFsLi": "¡El cambio fue hecho!",
-    "jM7sUl": "No",
-    "QkGMPz": "Sí"
+    "FAMILY_CENTER_TOOLTIP_MODAL_HEADER_TEEN": "What can my parent see?"
 }
