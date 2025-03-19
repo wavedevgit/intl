@@ -2418,13 +2418,54 @@
     "J+vlIS": "Open Shop",
     "5qZv9P": "Need help?",
     "XRdyj4": "Learn more.",
+    "c/rcUl": "This item is not redeemable with Orbs",
+    "keFvXF": "Not enough Orbs",
     "v4HbPz": "Next",
     "xYx+WV": "Journey to Quest Home in Discover to start earning.",
     "KnWRQU": "Earn Orbs via Quests",
     "F4SoLC": "Finish",
     "Veu++f": "Snag special exclusives like Nitro credits and Shop favorites.",
     "duN28/": "Spend in the Shop",
+    "wmcDys": "Claim with Orbs",
+    "rr811N": [
+        [
+            8,
+            "$b",
+            [
+                "Claiming an item from the Shop means you’re claiming a limited license to use this item on Discord. Learn more in the “Virtual Goods” section ",
+                [
+                    8,
+                    "$link",
+                    [
+                        "here"
+                    ],
+                    [
+                        [
+                            1,
+                            "paidURL"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        ". By Claiming this item, you agree to the ",
+        [
+            8,
+            "$link",
+            [
+                "Paid Services Terms"
+            ],
+            [
+                [
+                    1,
+                    "paidURL"
+                ]
+            ]
+        ],
+        ". Orbs purchases are non-refundable."
+    ],
     "lTHkqa": "Apprentice",
+    "y0WGqK": "Orb Balance",
     "XBOX": "Xbox",
     "YEAR": [
         [
