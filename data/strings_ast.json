@@ -79120,29 +79120,6 @@
     ],
     "STAGE_SPEAK_INVITE_DECLINE": "Decline",
     "STAGE_SPEAK_INVITE_HEADER": "You have been invited to speak.",
-    "STAGE_SPEAK_INVITE_HEADER_BLOCKED_USERS": [
-        [
-            6,
-            "number",
-            {
-                "=1": [
-                    [
-                        7
-                    ],
-                    " blocked user"
-                ],
-                "other": [
-                    [
-                        7
-                    ],
-                    " blocked users"
-                ]
-            },
-            0,
-            "cardinal"
-        ],
-        " present"
-    ],
     "WYad9f": "Reminder, blocked accounts will hear you",
     "xlJRfn": "Reminder, blocked or ignored accounts will hear you",
     "eHq2OD": "Reminder, ignored accounts will hear you",
