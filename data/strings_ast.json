@@ -1893,7 +1893,7 @@
     "PERSONALITY_CHANNEL_BASED_KEY": "channel-based",
     "PERSONALITY_DEFAULT_KEY": "clyde",
     "PERSONALITY_SERIOUS_KEY": "serious-business",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_NETWORK": "PlayStation Network",
     "PREMIUM_MARKETING_PERKS_DISCOVERABILITY_FRACTIONAL_PREMIUM_BOOSTS_DESCRIPTION": [
         "TBD text for unavailable boost text lorem ipsum with ",
@@ -90012,6 +90012,17 @@
         "%"
     ],
     "gtet9P": "Favorites",
+    "D98z+/": "My voice cut in and out",
+    "FARCFB": "My voice had a long delay",
+    "xVRTjI": "There was an echo or feedback",
+    "Q3e5wM": "Others couldn't understand what I said",
+    "lWtGvb": "My voice was robotic or distorted",
+    "qvP5v7": "The filter didn't change my voice at all",
+    "4nEvAQ": "My volume was too low or high",
+    "fpevoa": "Something else...",
+    "zGnUBQ": "I had an issue with the voice filter...",
+    "SqprKS": "My voice filter sounded good!",
+    "zZAORE": "How did your voice filter sound?",
     "XMDm8/": [
         "Unlock more filters with ",
         [
