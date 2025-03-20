@@ -4873,6 +4873,7 @@
     ],
     "NkwaBg": "Mute Direct Messages",
     "JSptKy": "Turn off notications for this app’s DMs",
+    "8pMev7": "Permissions & Policies",
     "nZOS8v": [
         [
             6,
@@ -57492,7 +57493,7 @@
             ]
         ]
     ],
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
@@ -89006,41 +89007,13 @@
             0,
             "cardinal"
         ],
-        " to keep this perk.\nYou have ",
-        [
-            6,
-            "dayCount",
-            {
-                "=1": [
-                    [
-                        7
-                    ],
-                    " day"
-                ],
-                "other": [
-                    [
-                        7
-                    ],
-                    " days"
-                ]
-            },
-            0,
-            "cardinal"
-        ],
-        " before ",
+        " to keep these perks: ",
         [
             1,
-            "perk"
-        ],
-        " is removed."
-    ],
-    "n5hQhY": [
-        "You’re about to lose ",
-        [
-            1,
-            "perk"
+            "perksString"
         ]
     ],
+    "n5hQhY": "You’re about to lose perks!",
     "plwH8f": "gave 1 boost.",
     "xi8rEx": "¿Te gustaría configurar Discord en Español?",
     "09QGGB": "¿Cambiar idioma?",
