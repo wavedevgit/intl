@@ -17610,6 +17610,42 @@
         "."
     ],
     "u7Hzjo": "Set unique wallpapers that everyone can enjoy, only with Nitro.",
+    "dBxFsL": [
+        "DM wallpapers are currently in Beta. Switch to any dark mode theme to view the wallpaper. ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more."
+            ],
+            [
+                [
+                    1,
+                    "learnMoreLink"
+                ]
+            ]
+        ]
+    ],
+    "+fBFYG": [
+        [
+            1,
+            "username"
+        ],
+        " changed the DM wallpaper. This feature is currently in Beta and visible on desktop only. ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more."
+            ],
+            [
+                [
+                    1,
+                    "learnMoreLink"
+                ]
+            ]
+        ]
+    ],
     "mA8D6O": "Uh oh! The person who set the DM wallpaper no longer has Nitro.",
     "oUcgEB": "Uh oh! The DM wallpaper has been removed because you no longer have Nitro.",
     "1PsqQU": "This chat needs your touch! Get Nitro to restore a unique wallpaper.",
@@ -17639,6 +17675,13 @@
     ],
     "o6850d": "Reapply",
     "huMLgY": "You removed the DM wallpaper.",
+    "PVAL4O": [
+        [
+            1,
+            "username"
+        ],
+        " removed the DM wallpaper."
+    ],
     "OPEemJ": "Personalize your chats",
     "c40u29": "Set the perfect vibe with DM wallpapers that everyone can enjoy. Only with Nitro.",
     "tEZGHh": "Join in on the fun! Switch up the wallpaper, only with Nitro.",
