@@ -11399,6 +11399,7 @@
     ],
     "COLLECTIBLES_PARTIALLY_OWNED": "Partially owned",
     "COLLECTIBLES_PARTIALLY_OWNED_DISCLAIMER": "You already own one or more bundle items.",
+    "GpnHfH": "Payment Options",
     "COLLECTIBLES_PERMANENT_COLLECTION": "This decoration is now part of your collection and can be used anytime!",
     "COLLECTIBLES_PERMANENT_COLLECTION_BUNDLE": "These decorations are now part of your collection and can be used anytime from your User Profile.",
     "COLLECTIBLES_PFX_UPDATED_NOTIFICATION": "Your profile effect is updated!",
@@ -11668,6 +11669,7 @@
     ],
     "z7y5vL": "Original",
     "mnoV/P": "You own all colors!",
+    "FdGl5O": "View Details",
     "COLLECTIBLES_YOU_COLLECTED": [
         "You've collected ",
         [
@@ -57483,7 +57485,7 @@
             ]
         ]
     ],
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
