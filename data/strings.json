@@ -13762,7 +13762,7 @@
     "PLATFORM_WINDOWS": "Windows",
     "PLAY": "Play",
     "PLAYING_GAME": "Playing **!!{game}!!**",
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
@@ -20713,7 +20713,7 @@
     "zjCPHh": "Lofi Skyline",
     "zlA23N": "Automatically reduce stream volume when people are talking.",
     "zmcRl5": "You can now share a Nitro trial with up to 3 friends.",
-    "zqh7ZG": "Insufficient Orbs",
+    "zqh7ZG": "Not enough Orbs",
     "zqv4nZ": "Looking for accounts you've blocked or ignored? $[Go to settings]({{hook}})",
     "zus71N": "Watch !!{videoTitle}!! for {targetMinutes, plural, one { minute} other { minutes} }",
     "zyvzQ0": "Customize your chats!"

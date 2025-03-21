@@ -45505,7 +45505,7 @@
     ],
     "INSTANT_INVITE_YOU_HAVE_BEEN_INVITED_TO_JOIN_GROUP_DM": "You've been invited to join a group DM by",
     "INSTANT_INVITE_YOU_HAVE_JOINED": "You have joined",
-    "zqh7ZG": "Insufficient Orbs",
+    "zqh7ZG": "Not enough Orbs",
     "INTEGRATIONS": "Integrations",
     "INTEGRATIONS_ACCOUNT_DESCRIPTION": [
         "Enable ",
@@ -57493,7 +57493,7 @@
             ]
         ]
     ],
-    "PLAYSTATION": "Playstation",
+    "PLAYSTATION": "PlayStation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
