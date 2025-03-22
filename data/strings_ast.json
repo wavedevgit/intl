@@ -25,7 +25,7 @@
     "gJ8jlZ": "Toggle all",
     "lKsV2t": "This setting controls whether you will share your activity by default when you join a new server.",
     "eAQM7u": "Default Setting",
-    "IR0Bf3": "This will prevent everyone from seeing your games or other applications that support Rich Presence.",
+    "IR0Bf3": "Stop sharing activity from games and other media",
     "f3ZvjI": "Individual server settings",
     "tHLm2N": "This setting controls whether your activity will be visible in each server.",
     "mUwVAQ": "Individual server settings are ignored when All Activity Sharing is disabled.",
@@ -57530,7 +57530,7 @@
             ]
         ]
     ],
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
