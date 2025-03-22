@@ -56662,6 +56662,7 @@
         ],
         " to talk"
     ],
+    "PIeSHB": "Keybinds disabled — requires admin privileges",
     "uFcRen": [
         [
             1,
@@ -57523,7 +57524,7 @@
             ]
         ]
     ],
-    "PLAYSTATION": "PlayStation",
+    "PLAYSTATION": "Playstation",
     "PLAYSTATION_CONNECT_DESCRIPTION": "Let your friends see you’re online and what game you’re playing!",
     "PLAYSTATION_DEVICES_INFOBOX": "Not seeing your PS5? Make sure it’s associated with the account you have linked.",
     "PLAYSTATION_DEVICES_NOT_FOUND": "We couldn’t find any PS5s…",
@@ -86110,7 +86111,7 @@
     "USER_SETTINGS_NO_SUBSCRIPTION_CREDIT": "You have no unused credits",
     "USER_SETTINGS_OPEN_ON_STARTUP_BODY": "Save yourself a few clicks and let Discord greet you on computer startup.",
     "USER_SETTINGS_OPEN_ON_STARTUP_LABEL": "Open Discord",
-    "NsowVV": "The current game is running as administrator. Please relaunch Discord as an administrator in order to enable the overlay hotkey.",
+    "NsowVV": "The current game is running as administrator. Please relaunch Discord as an administrator in order to enable the overlay keybind.",
     "CDOx39": "Currently Playing",
     "87O5GB": "Running Game Overlay",
     "+eFXxs": "Enable overlay clickable regions",
