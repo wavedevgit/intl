@@ -11435,6 +11435,21 @@
             "orbPrice"
         ]
     ],
+    "CMYSYG": [
+        "Buy for ",
+        [
+            8,
+            "orbIconHook",
+            [
+                "orbIcon"
+            ]
+        ],
+        " ",
+        [
+            1,
+            "orbPrice"
+        ]
+    ],
     "COLLECTIBLES_PARTIALLY_OWNED": "Partially owned",
     "COLLECTIBLES_PARTIALLY_OWNED_DISCLAIMER": "You already own one or more bundle items.",
     "GpnHfH": "Payment Options",
@@ -56304,8 +56319,25 @@
     "OPT_IN_NUX_VOICE_TITLE": "Never Miss a Hangout",
     "OR": "or",
     "ORANGE": "Orange",
+    "SFFP7O": [
+        "Spend Orbs on special exclusives or grab your favorites from the main Shop. ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more."
+            ],
+            [
+                [
+                    1,
+                    "helpdeskArticle"
+                ]
+            ]
+        ]
+    ],
+    "KUYR+P": "Orbs Exclusives",
     "qQq91t": "Learn More about Orbs",
-    "Q2K5pa": "Orb Exclusive",
+    "dFgeub": "Orbs Worthy Popular Picks",
     "ORIGINALLY_KNOWN_AS": [
         "Originally known as ",
         [
@@ -82913,7 +82945,6 @@
     "O9TBwc": "Coming Soon",
     "TIERED_TENURE_BADGE_DIAMOND": "Diamond",
     "TIERED_TENURE_BADGE_EMERALD": "Emerald",
-    "TIERED_TENURE_BADGE_FIRE": "Fire",
     "TIERED_TENURE_BADGE_GOLD": "Gold",
     "f/OGgI": [
         [
@@ -83110,78 +83141,6 @@
             0,
             "cardinal"
         ]
-    ],
-    "TIERED_TNURE_BADGE_BRONZE_TOOLTIP": [
-        "Earned ",
-        [
-            3,
-            "date",
-            "short"
-        ],
-        ". 1 month: Bronze"
-    ],
-    "TIERED_TNURE_BADGE_DIAMOND_TOOLTIP": [
-        "Earned ",
-        [
-            3,
-            "date",
-            "short"
-        ],
-        ". 2 years: Diamond"
-    ],
-    "TIERED_TNURE_BADGE_EMERALD_TOOLTIP": [
-        "Earned ",
-        [
-            3,
-            "date",
-            "short"
-        ],
-        ". 3 years: Emerald"
-    ],
-    "TIERED_TNURE_BADGE_FIRE_TOOLTIP": [
-        "Earned ",
-        [
-            3,
-            "date",
-            "short"
-        ],
-        ". 6+ years: Fire"
-    ],
-    "TIERED_TNURE_BADGE_GOLD_TOOLTIP": [
-        "Earned ",
-        [
-            3,
-            "date",
-            "short"
-        ],
-        ". 6 months: Gold"
-    ],
-    "TIERED_TNURE_BADGE_PLATINUM_TOOLTIP": [
-        "Earned ",
-        [
-            3,
-            "date",
-            "short"
-        ],
-        ". 1 year: Platinum"
-    ],
-    "TIERED_TNURE_BADGE_RUBY_TOOLTIP": [
-        "Earned ",
-        [
-            3,
-            "date",
-            "short"
-        ],
-        ". 5 years: Ruby"
-    ],
-    "TIERED_TNURE_BADGE_SILVER_TOOLTIP": [
-        "Earned ",
-        [
-            3,
-            "date",
-            "short"
-        ],
-        ". 3 months: Silver"
     ],
     "TIME": "Time",
     "TIMEOUT_ERROR": "Operation took too long to complete, please try again.",
@@ -91487,7 +91446,7 @@
     "h90JkZ": "They're quick and easy",
     "60uRDA": "Follow the steps",
     "SFWVER": "Verify Age",
-    "NjO/s7": "This channel contains adult content marked as age-restricted. You need to verify your age to view it. Do you want to verify your age?",
+    "NjO/s7": "This channel is marked as age-restricted because it contains adult content. Do you want to verify your age group to access this channel?",
     "ECL1eX": [
         "This channel contains adult content marked as age-restricted. We determined you're in the ",
         [
