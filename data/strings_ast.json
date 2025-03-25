@@ -69087,6 +69087,14 @@
         ],
         "!"
     ],
+    "Rsd5bG": [
+        "Watch the ",
+        [
+            1,
+            "videoTitle"
+        ],
+        " and earn enough to unlock a profile badge!"
+    ],
     "QUESTS_VIDEO_INSTRUCTIONS_TO_WIN_REWARD": [
         "Watch the ",
         [
@@ -87257,6 +87265,13 @@
     "C1TOOD": "Introducing",
     "iEw2Nz": "Browse Orb Rewards",
     "EDUOIC": "Great work, let’s get spending.",
+    "Kr9pYW": [
+        "Your Orbs balance is now ",
+        [
+            1,
+            "balance"
+        ]
+    ],
     "rtV7xM": [
         "Your Orb balance is now ",
         [
