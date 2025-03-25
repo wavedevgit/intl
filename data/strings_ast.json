@@ -43626,12 +43626,28 @@
         ". We'll add 'em to this server for you."
     ],
     "GUILD_SUBSCRIPTION_REPORT": "Report Subscription",
+    "jwEaiY": "Adopt Tag",
+    "DrAXIi": "Adopt this tag to display it next to your name across Discord.",
+    "VFqnyc": [
+        "You can now wear a tag from ",
+        [
+            1,
+            "guildName"
+        ]
+    ],
     "K+JVRk": [
         "Member of ",
         [
             1,
             "guildName"
         ]
+    ],
+    "m/Tc3t": [
+        [
+            1,
+            "guildName"
+        ],
+        " has updated its Server Tag"
     ],
     "GUILD_TEMPLATES": "Server Template",
     "GUILD_TEMPLATES_CREATE_LINK": "Generate Template",
@@ -88958,7 +88974,7 @@
                     [
                         7
                     ],
-                    " more Boosts"
+                    " Boosts"
                 ]
             },
             0,
