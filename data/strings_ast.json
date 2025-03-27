@@ -21425,6 +21425,15 @@
             ]
         ]
     ],
+    "/ubFp6": "Hide Wallpaper",
+    "PzTpVV": [
+        "You hid the ",
+        [
+            1,
+            "wallpaperName"
+        ],
+        " DM wallpaper. This change is only visible to you."
+    ],
     "mA8D6O": "Uh oh! The person who set the DM wallpaper no longer has Nitro.",
     "oUcgEB": "Uh oh! The DM wallpaper has been removed because you no longer have Nitro.",
     "1PsqQU": "This chat needs your touch! Get Nitro to restore a unique wallpaper.",
