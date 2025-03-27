@@ -2155,6 +2155,8 @@
     "DISAPPROVAL": "ಠ_ಠ",
     "DISCORD_NAME": "Discord",
     "ENGLISH_LANGUAGE": "English",
+    "rYAs7O": "Status now lasts 24 hours by default, or you can choose your own time.",
+    "ALB9np": "Heads Up",
     "FEATURED_CHANNELS": "Featured Channels",
     "FORM_LABEL_OVERLAY_SHOW_MUTE_DEAFEN_KEYBINDS": "Show mute and deafen keybinds",
     "ALLTBQ": [
@@ -3392,6 +3394,29 @@
     "SIGNUP_NOTICE_EYEBROW": "EXCLUSIVE DISCORD INVITE",
     "STAFF_PTO_NOTICE": "Heads up! This person may be Out of Office.",
     "STAGE_INSTANCE_TICKET_PURCHASE_CONFIRMATION_TITLE": "You're in.",
+    "tq/fMD": "You will not receive desktop notifications",
+    "f3/1cn": "For 3 Days",
+    "m/e1Cg": "Away",
+    "zPc6MT": "You will appear offline",
+    "9OFjSU": [
+        "Until ",
+        [
+            1,
+            "dateString"
+        ],
+        " at ",
+        [
+            1,
+            "timeString"
+        ]
+    ],
+    "ZxxHIC": [
+        "Until ",
+        [
+            1,
+            "timeString"
+        ]
+    ],
     "CgWmmZ": "Add Stranger Danger Warning (Experimental)",
     "STRANGER_DANGER_CONTEXT_MENU_CLEAR": "Reset Safety Warning dismissals (Experimental)",
     "SYSTEM_MESSAGE_GUILD_STREAM_ACTIVE": [
