@@ -5053,6 +5053,8 @@
     "QygGCA": "In a stage",
     "msxteH": "In voice",
     "y7UjQU": "Ongoing call",
+    "xOVEjY": "Only visible to people with access to this channel",
+    "+DsWbW": "Only visible to people with access to this chat",
     "ADD": "Add",
     "ADDED": "Added",
     "ADD_ATTACHMENT_FORUM_POST": "Add Media",
@@ -50422,6 +50424,8 @@
         " by default"
     ],
     "INVITE_LINK_COPIED": "Invite copied!",
+    "3greIi": "Invites Sent",
+    "4pl/xs": "Invites Sent!",
     "INVITE_MEMBERS": "Invite Members",
     "INVITE_MODAL_BUTTON": [
         "Join ",
@@ -50453,7 +50457,7 @@
     "INVITE_SEARCH_FOR_FRIENDS": "Search for friends",
     "INVITE_SENDING": "Sending invite",
     "INVITE_SENT": "Invite Sent",
-    "INVITE_SENT_EXCLAMATION": "Invite sent!",
+    "INVITE_SENT_EXCLAMATION": "Invite Sent!",
     "INVITE_SETTINGS_DESCRIPTION_NO_EXPIRATION": [
         [
             1,
