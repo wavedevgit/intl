@@ -91335,6 +91335,13 @@
     "VOICE_CHANNEL_SET_STATUS": "Set a channel status",
     "VOICE_CHANNEL_SHOW_NAMES": "Show Names",
     "VOICE_CHANNEL_STATUS": "Status",
+    "V2fdBg": [
+        "Channel status: ",
+        [
+            1,
+            "channelStatus"
+        ]
+    ],
     "VOICE_CHANNEL_STATUS_MODAL_PREFILL_CHANNEL": [
         "Status for ",
         [

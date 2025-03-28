@@ -19393,6 +19393,7 @@
     "V15uUF": "**!!{username}!!** sent you a friend request from $[]({{applicationIcon}}) **!!{applicationName}!!**.",
     "V2E7go": "Blue Petals",
     "V2G2Ym": "Fill in the required information to list on Discovery.",
+    "V2fdBg": "Channel status: !!{channelStatus}!!",
     "V5mxhY": "!!{username}!! is here",
     "VAD_PERMISSION_BODY": "This channel requires Push to Talk to voice chat. You will only be able to listen until you switch modes\nto Push to Talk from Voice Activity Detection.",
     "VAD_PERMISSION_ENABLE_PTT": "Switch to Push to Talk",
