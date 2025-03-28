@@ -465,7 +465,7 @@
     "plwH8f": "gave 1 boost.",
     "yfwZu7": "View My Badge",
     "UnPGio": "The badge has been added to your profile.",
-    "nvaTQk": "You collected the Orbs Profile Badge!",
+    "nvaTQk": "You Collected the Orbs Profile Badge!",
     "FAMILY_CENTER_ACCEPTED_REQUESTS_EMPTY_DESCRIPTION": "No family members connected yet.",
     "FAMILY_CENTER_ACCEPTED_REQUESTS_TITLE_PARENT": [
         "CONNECTED TEENS — ",
@@ -15660,6 +15660,21 @@
             "itemName"
         ],
         "!"
+    ],
+    "Q1scdH": [
+        [
+            8,
+            "$link",
+            [
+                "Learn more"
+            ],
+            [
+                [
+                    1,
+                    "helpdeskArticle"
+                ]
+            ]
+        ]
     ],
     "COLOR_PICKER_CUSTOM": "Custom",
     "COLOR_PICKER_PRESETS": "Presets",
@@ -91043,7 +91058,7 @@
         ],
         " Orbs"
     ],
-    "H57f4+": "Earn more Orbs",
+    "H57f4+": "Earn More Orbs",
     "WYchdX": "Explore the Shop",
     "c7MXqK": "Get Orbs through completing Quests",
     "7f4H7O": "Learn about Orbs",
