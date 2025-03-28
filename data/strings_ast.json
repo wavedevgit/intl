@@ -18375,6 +18375,7 @@
         " to clipboard"
     ],
     "COPY_COMMAND": "Copy Command",
+    "ZYLVKi": "Copy Email Address",
     "COPY_EMOJI": "Copy Emoji",
     "COPY_EVENT_LINK": "Copy Event Link",
     "COPY_ID": "Copy ID",
@@ -18402,6 +18403,7 @@
     "COPY_LINK": "Copy Link",
     "COPY_MEDIA_LINK": "Copy Media Link",
     "COPY_MESSAGE_LINK": "Copy Message Link",
+    "3zozoa": "Copy Phone Number",
     "COPY_RECURRENCE_LINK": "Copy Link for Only this Event",
     "COPY_SERIES_LINK": "Copy Link for all Events",
     "COPY_STATS": "Copy Stats",
