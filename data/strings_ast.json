@@ -9064,6 +9064,7 @@
             "errorCode"
         ]
     ],
+    "0jrNER": "Video stream failed to start",
     "BACK": "Back",
     "BACKSPACE": "Backspace",
     "BACK_ACCESSIBILITY_HINT": "Navigate back to the previous screen",
@@ -13107,6 +13108,23 @@
     ],
     "CAMERA_DISABLED_STAGE_LIMIT_REACHED": "This Stage has reached its audience limit for Video Stages. To enable Video and Go Live, upgrade to the next Boost level.",
     "CAMERA_DISABLED_STAGE_LIMIT_REACHED_MAX": "This Stage has reached its audience limit for Video Stages.",
+    "z+mxvr": "Failed to start camera",
+    "d486Wl": [
+        "Having issues with video calls? ",
+        [
+            8,
+            "$link",
+            [
+                "Let us try to help."
+            ],
+            [
+                [
+                    1,
+                    "helpUrl"
+                ]
+            ]
+        ]
+    ],
     "CAMERA_INTENT_RESULT_ERROR": "Camera Result Invalid",
     "CAMERA_NO_DEVICE": "Uh oh, we can't detect any camera.",
     "CAMERA_OFF": "Turn Off Camera",
@@ -13137,6 +13155,7 @@
     "CAMERA_PREVIEW_VIDEO_BACKGROUND_UPLOAD_TOOLTIP_PREMIUM": "Upload your own custom backgrounds with Nitro.",
     "CAMERA_PREVIEW_VIDEO_BACKGROUND_UPSELL_TOOLTIP": "Get your own custom video backgrounds and more with Nitro!",
     "CAMERA_SWITCH": "Switch Camera",
+    "hxmQ/f": "Try again",
     "CAMERA_UNAVAILABLE": "Camera Unavailable",
     "CAMERA_UNKNOWN_ERROR": "Unknown Camera Error",
     "CAMERA_UPLOADS_LABEL": "Camera Uploads",
