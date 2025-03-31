@@ -137,6 +137,7 @@
     "jM7sUl": "No",
     "QkGMPz": "Sí",
     "swfLzc": "This message comes from a separate file",
+    "vQz+6e": "Gradient",
     "nIj3LS": "...and more!",
     "BdRXZG": "Available",
     "hjvcLC": "Server Boosts",
@@ -73222,6 +73223,29 @@
         ]
     ],
     "f/J8v7": "Watch the video",
+    "/I+KAA": [
+        "Watch video for ",
+        [
+            6,
+            "targetSeconds",
+            {
+                "one": [
+                    [
+                        7
+                    ],
+                    " second"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " seconds"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "QUEST_MOBILE_QUEST_BAR_DISMISS_TOAST": [
         "Find this Quest again in User Settings ",
         [
