@@ -22129,6 +22129,7 @@
     "DISCOVERY_LANDING_PAGE_DISABLE_BUTTON": "Disable landing page",
     "DISCOVERY_LANDING_PAGE_DISABLE_DESCRIPTION": "Removes your landing page from the web. Publishing your page again will reenable it.",
     "DISCOVERY_LANDING_PAGE_DISABLE_TITLE": "Disable landing page",
+    "nmBUv7": "Disabling your Server Web Page will not remove your vanity URL. You can manage your vanity URL from the Server Settings > Invites page.",
     "DISCOVERY_LANDING_PAGE_LEARN_MORE": [
         [
             8,
