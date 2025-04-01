@@ -9009,16 +9009,16 @@
             1,
             "firstFriendName"
         ],
-        " ",
+        "",
         [
             6,
             "friendCount",
             {
                 "=1": [
-                    "is"
+                    " is"
                 ],
                 "=2": [
-                    "and ",
+                    " and ",
                     [
                         1,
                         "secondFriendName"
