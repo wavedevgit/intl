@@ -23394,6 +23394,7 @@
     "EDIT_FOLLOWED_NEWS_BODY": "This message will also be updated in all servers following this channel. It may take some time before all servers are updated.",
     "EDIT_FORUM_POST": "Edit Post",
     "EDIT_FORUM_POST_SETTINGS": "Post Settings",
+    "5Q9+/P": "Edit Group",
     "EDIT_IMAGE": "Edit Image",
     "OJknho": "Edit Channel Link",
     "EDIT_MAIN_PROFILE": "Edit Main Profile",
@@ -83976,6 +83977,43 @@
                 [
                     1,
                     "channelName"
+                ]
+            ]
+        ]
+    ],
+    "fxI+pq": [
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " changed the group name: ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "channelName"
+                ]
+            ]
+        ],
+        ". ",
+        [
+            8,
+            "$link",
+            [
+                "Edit Group"
+            ],
+            [
+                [
+                    1,
+                    "onEditGroup"
                 ]
             ]
         ]
