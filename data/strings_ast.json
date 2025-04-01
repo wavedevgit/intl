@@ -139,9 +139,39 @@
     "swfLzc": "This message comes from a separate file",
     "vQz+6e": "Gradient",
     "nIj3LS": "...and more!",
-    "BdRXZG": "Available",
+    "BdRXZG": [
+        [
+            6,
+            "boostCount",
+            {
+                "=1": [
+                    "Available"
+                ],
+                "other": [
+                    "Available"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "hjvcLC": "Server Boosts",
-    "xvgIVF": "Spent",
+    "xvgIVF": [
+        [
+            6,
+            "boostCount",
+            {
+                "=1": [
+                    "Spent"
+                ],
+                "other": [
+                    "Spent"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "/F7Z29": "Total",
     "yv3DJC": "Server Boosts",
     "1EGXSE": [
