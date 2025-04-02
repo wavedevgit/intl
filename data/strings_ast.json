@@ -5847,6 +5847,7 @@
     "ADD_FRIEND_ERROR_NUMBERS_ONLY": "We're more than numbers... we're people! Enter a username and tag. It should look something like: TotallyARealUsername#0000",
     "ADD_FRIEND_ERROR_OTHER": "Hm, didn't work. Double check that the capitalization, spelling, any spaces, and numbers are correct.",
     "ADD_FRIEND_ERROR_TOO_MANY_FRIENDS": "You've maxed out your friend list. Welcome to the elite 1,000 friends club!",
+    "k1K15u": "You've maxed out your pending outgoing friend requests.",
     "ADD_FRIEND_ERROR_USERNAME_ONLY": [
         "We need ",
         [
