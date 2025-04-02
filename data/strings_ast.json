@@ -21091,8 +21091,36 @@
     "ISyHmZ": "Loving lately",
     "G1b309": "On repeat",
     "iXcll5": "Playing lately",
+    "8Sky1d": [
+        "Removed custom status label: ",
+        [
+            1,
+            "label"
+        ]
+    ],
+    "+KXSFh": [
+        "Remove custom status label: ",
+        [
+            1,
+            "label"
+        ]
+    ],
+    "mDVlTk": [
+        "Set custom status label to ",
+        [
+            1,
+            "label"
+        ]
+    ],
     "45vlm5": "Shower thought",
     "rp0aho": "Status",
+    "xYUu9P": [
+        "Updated custom status label to ",
+        [
+            1,
+            "label"
+        ]
+    ],
     "NcnbEx": "Watching lately",
     "CUSTOM_STATUS_MINUTES": [
         [
