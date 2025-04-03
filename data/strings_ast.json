@@ -66778,9 +66778,10 @@
     "PRIVACY_AND_SAFETY_FRIEND_REQUESTS_SOURCE_MUTUAL_FRIENDS": "Friend of friends",
     "PRIVACY_AND_SAFETY_FRIEND_REQUESTS_SOURCE_MUTUAL_GUILDS": "Server members",
     "PRIVACY_AND_SAFETY_GUILD_TAB_TITLE": "Server Settings",
-    "PRIVACY_AND_SAFETY_SOCIAL_PERMISSIONS_DM_SETTING_GLOBAL_NOTE": "Allow DMs from other server member",
+    "PMsfcH": "Direct Messages and Friend Requests",
+    "PRIVACY_AND_SAFETY_SOCIAL_PERMISSIONS_DM_SETTING_GLOBAL_NOTE": "Allow DMs from other server members",
     "WzM929": "Allow DMs from other server members",
-    "PRIVACY_AND_SAFETY_SOCIAL_PERMISSIONS_DM_SETTING_SERVER_NOTE": "Allow DMs from other members in this server",
+    "XXGmuL": "Allow DMs and friend requests from other server members",
     "PRIVACY_AND_SAFETY_SOCIAL_PERMISSIONS_DM_SETTING_TITLE": "Direct Messages",
     "PRIVACY_AND_SAFETY_SOCIAL_PERMISSIONS_MESSAGE_REQUESTS_NOTE": "Filter messages from server members you may not know.",
     "PRIVACY_AND_SAFETY_SOCIAL_PERMISSIONS_MESSAGE_REQUESTS_SETTING_TITLE": "Message requests",
@@ -66911,6 +66912,7 @@
     "PRIVACY_SETTINGS_DIRECT_MESSAGES_DESC_HUB": "Allow direct messages from other members in this hub.",
     "PRIVACY_SETTINGS_DIRECT_MESSAGES_DESC_HUB_V2": "Allow DMs from other members in this hub",
     "PRIVACY_SETTINGS_DIRECT_MESSAGES_DESC_V2": "Allow DMs from other members in this server",
+    "F9WY3d": "Allow DMs and friend requests from other members in this server",
     "PRIVACY_SETTINGS_MESSAGE_REQUESTS": "Message Requests",
     "PRIVACY_SETTINGS_MESSAGE_REQUESTS_DESC": [
         "If direct messages are enabled, filter messages from server members you may not know. ",
@@ -68704,6 +68706,7 @@
         ],
         "?"
     ],
+    "ToGcxM": "Launch Activity Quest",
     "QUESTS_LEARN_MORE_STACKED": [
         [
             8,
