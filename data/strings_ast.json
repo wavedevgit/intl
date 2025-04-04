@@ -10147,6 +10147,7 @@
     "CHANNEL_NOTICE_SERVER_DISCOVERY_NEWLY_ELIGIBLE": "Your server is now eligible for Server Discovery!",
     "CHANNEL_NOTICE_SERVER_DISCOVERY_NOT_YET_ELIGIBLE": "Server Discovery is now available to servers with 1K+ members!",
     "CHANNEL_NOTIFICATION_OVERRIDES": "Channel Notification Overrides",
+    "OBr7Cw": "Channel Options",
     "CHANNEL_OPT_IN": "Add to Channel List",
     "CHANNEL_OPT_IN_ALL_CHANNELS": "All Channels",
     "CHANNEL_OPT_OUT": "Remove from Channel List",
