@@ -23493,6 +23493,108 @@
         " Quest"
     ],
     "FRACTIONAL_PREMIUM_CREDIT_HEADER": "Nitro Credit",
+    "6r9LLi": [
+        [
+            8,
+            "$b",
+            [
+                [
+                    6,
+                    "days",
+                    {
+                        "=1": [
+                            [
+                                7
+                            ],
+                            " day"
+                        ],
+                        "other": [
+                            [
+                                7
+                            ],
+                            " days"
+                        ]
+                    },
+                    0,
+                    "cardinal"
+                ],
+                " & ",
+                [
+                    6,
+                    "hours",
+                    {
+                        "=1": [
+                            [
+                                7
+                            ],
+                            " hour"
+                        ],
+                        "other": [
+                            [
+                                7
+                            ],
+                            " hours"
+                        ]
+                    },
+                    0,
+                    "cardinal"
+                ]
+            ]
+        ],
+        " of ",
+        [
+            8,
+            "$b",
+            [
+                "Nitro credit"
+            ]
+        ],
+        " will be saved and activated at the end of your billing cycle. Choose a plan to begin now!"
+    ],
+    "c2BbVF": [
+        [
+            8,
+            "$b",
+            [
+                [
+                    6,
+                    "days",
+                    {
+                        "=1": [
+                            [
+                                7
+                            ],
+                            " day"
+                        ],
+                        "other": [
+                            [
+                                7
+                            ],
+                            " days"
+                        ]
+                    },
+                    0,
+                    "cardinal"
+                ]
+            ]
+        ],
+        " of ",
+        [
+            8,
+            "$b",
+            [
+                "Nitro credit"
+            ]
+        ],
+        " will be saved and activated at the end of your billing cycle. Choose a plan to begin now!"
+    ],
+    "Cz1G9/": [
+        [
+            1,
+            "days"
+        ],
+        "-day"
+    ],
     "FRACTIONAL_PREMIUM_DURATION_DAYS_SHORT": [
         [
             6,
@@ -23742,6 +23844,50 @@
             "cardinal"
         ]
     ],
+    "8Xm6uL": [
+        [
+            8,
+            "$b",
+            [
+                [
+                    6,
+                    "hours",
+                    {
+                        "=1": [
+                            [
+                                7
+                            ],
+                            " hour"
+                        ],
+                        "other": [
+                            [
+                                7
+                            ],
+                            " hours"
+                        ]
+                    },
+                    0,
+                    "cardinal"
+                ]
+            ]
+        ],
+        " of ",
+        [
+            8,
+            "$b",
+            [
+                "Nitro credit"
+            ]
+        ],
+        " will be saved and activated at the end of your billing cycle. Choose a plan to begin now!"
+    ],
+    "J9Lu4u": [
+        [
+            1,
+            "hours"
+        ],
+        "-hour"
+    ],
     "bg3jBg": [
         [
             8,
@@ -23759,6 +23905,7 @@
     ],
     "NbveHB": "This is not available for users with a Nitro subscription on mobile.",
     "dOQ9RU": "You Earned Nitro Credits!",
+    "+PHEo6": "Nitro Credit Acquired",
     "eQX+go": "Explore Perks",
     "mmZGEB": [
         "Earn ",
@@ -23804,6 +23951,7 @@
         ],
         "."
     ],
+    "1ku8i4": "Adventuring pays off. Enjoy the additional time with your premium perks.",
     "G7M2Ki": "Color app themes and more!",
     "jzW5/P": [
         "You earned ",
@@ -23829,6 +23977,39 @@
         [
             1,
             "date"
+        ],
+        ". ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more."
+            ],
+            [
+                [
+                    1,
+                    "helpCenterLink"
+                ]
+            ]
+        ]
+    ],
+    "tgc1oq": [
+        "Your ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "duration"
+                ],
+                " Nitro credit"
+            ]
+        ],
+        " begins now! Enjoy your premium perks until ",
+        [
+            1,
+            "expirationDate"
         ],
         ". ",
         [
@@ -23880,7 +24061,51 @@
             ]
         ]
     ],
+    "fI1nLy": [
+        "Your ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "duration"
+                ],
+                " Nitro credit"
+            ]
+        ],
+        " will be used automatically at the end of your current billing cycle. ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more."
+            ],
+            [
+                [
+                    1,
+                    "helpCenterLink"
+                ]
+            ]
+        ]
+    ],
     "LnsQGR": "View Credits",
+    "EoDFuL": [
+        "Remaining Nitro credits will be saved and activated at the end of your billing cycle. ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more."
+            ],
+            [
+                [
+                    1,
+                    "helpCenterLink"
+                ]
+            ]
+        ]
+    ],
     "FRACTIONAL_PREMIUM_SETTINGS_HERO_SUBHEADER": [
         [
             8,
@@ -62972,6 +63197,8 @@
         ],
         "."
     ],
+    "AzBLIC": "Take Me to My Nitro",
+    "0b3YRk": "Subscribe to Nitro",
     "PREMIUM_SETTINGS_GENERIC": "Billing Settings",
     "PREMIUM_SETTINGS_GET": "Get Nitro",
     "PREMIUM_SETTINGS_GET_TIER_0": "Get Nitro Basic",
@@ -65087,6 +65314,7 @@
             "monthlyPrice"
         ]
     ],
+    "L9lcGx": "Enjoy custom emoji anywhere, share bigger files, and more!",
     "PREMIUM_TIER_1": "Nitro Classic",
     "PREMIUM_TIER_1_ACCOUNT_CREDIT_BANNER_CTA": "Subscribe",
     "PREMIUM_TIER_1_ACCOUNT_CREDIT_BANNER_DESCRIPTION": "Get chat perks and a Boost discount with Nitro Classic",
@@ -65121,6 +65349,7 @@
             ]
         ]
     ],
+    "UPpbPz": "All Nitro perks are now yours to enjoy!",
     "PREMIUM_TIER_2_SUBHEADER": "All the Perks",
     "PREMIUM_TIER_2_SUBTITLE": "Customize your profile with a unique tag, access animated emoji, enjoy bigger file uploads, boost your favorite server, and more.",
     "PREMIUM_TIER_2_TITLE": "Get an enhanced Discord experience for one low monthly cost.",
@@ -91888,138 +92117,6 @@
     "ALB9np": "Heads Up",
     "FEATURED_CHANNELS": "Featured Channels",
     "FORM_LABEL_OVERLAY_SHOW_MUTE_DEAFEN_KEYBINDS": "Show mute and deafen keybinds",
-    "6r9LLi": [
-        [
-            8,
-            "$b",
-            [
-                [
-                    6,
-                    "days",
-                    {
-                        "=1": [
-                            [
-                                7
-                            ],
-                            " day"
-                        ],
-                        "other": [
-                            [
-                                7
-                            ],
-                            " days"
-                        ]
-                    },
-                    0,
-                    "cardinal"
-                ],
-                " & ",
-                [
-                    6,
-                    "hours",
-                    {
-                        "=1": [
-                            [
-                                7
-                            ],
-                            " hour"
-                        ],
-                        "other": [
-                            [
-                                7
-                            ],
-                            " hours"
-                        ]
-                    },
-                    0,
-                    "cardinal"
-                ]
-            ]
-        ],
-        " of ",
-        [
-            8,
-            "$b",
-            [
-                "Nitro credit"
-            ]
-        ],
-        " will be saved and activated at the end of your billing cycle. Choose a plan to begin now!"
-    ],
-    "c2BbVF": [
-        [
-            8,
-            "$b",
-            [
-                [
-                    6,
-                    "days",
-                    {
-                        "=1": [
-                            [
-                                7
-                            ],
-                            " day"
-                        ],
-                        "other": [
-                            [
-                                7
-                            ],
-                            " days"
-                        ]
-                    },
-                    0,
-                    "cardinal"
-                ]
-            ]
-        ],
-        " of ",
-        [
-            8,
-            "$b",
-            [
-                "Nitro credit"
-            ]
-        ],
-        " will be saved and activated at the end of your billing cycle. Choose a plan to begin now!"
-    ],
-    "8Xm6uL": [
-        [
-            8,
-            "$b",
-            [
-                [
-                    6,
-                    "hours",
-                    {
-                        "=1": [
-                            [
-                                7
-                            ],
-                            " hour"
-                        ],
-                        "other": [
-                            [
-                                7
-                            ],
-                            " hours"
-                        ]
-                    },
-                    0,
-                    "cardinal"
-                ]
-            ]
-        ],
-        " of ",
-        [
-            8,
-            "$b",
-            [
-                "Nitro credit"
-            ]
-        ],
-        " will be saved and activated at the end of your billing cycle. Choose a plan to begin now!"
-    ],
     "ALLTBQ": [
         [
             1,
