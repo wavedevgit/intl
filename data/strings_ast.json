@@ -92141,27 +92141,23 @@
         " once your Nitro Credits have expired!"
     ],
     "SAJ5Ag": [
-        "Your ",
+        "Your remaining ",
         [
             8,
             "$b",
             [
-                "Nitro Credits"
+                "X days Nitro Credits"
             ]
         ],
-        " will end on ",
+        " will continue on ",
         [
             8,
             "$b",
             [
-                [
-                    3,
-                    "expirationDate",
-                    "medium"
-                ]
+                "[month]/[day]/[year]"
             ]
         ],
-        ". Choose a plan to begin immediately after."
+        ". Choose a plan to begin now!"
     ],
     "oprI4u": [
         [
