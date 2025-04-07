@@ -19652,6 +19652,8 @@
     "EDIT_FORUM_POST": "Edit Post",
     "EDIT_FORUM_POST_SETTINGS": "Post Settings",
     "5Q9+/P": "Edit Group",
+    "0qPSMT": "Edit Group Icon",
+    "pYO54e": "Edit Group Name",
     "EDIT_IMAGE": "Edit Image",
     "OJknho": "Edit Channel Link",
     "EDIT_MAIN_PROFILE": "Edit Main Profile",
@@ -21002,6 +21004,7 @@
     ],
     "ENTER_PHONE_OR_EMAIL": "Enter phone or email",
     "ENTER_PHONE_TITLE": "Enter a Phone Number",
+    "a7oCBg": "Enter to save",
     "ENTER_YOUR_EMAIL": "Enter your email",
     "ENTER_YOUR_PHONE": "Enter your phone number",
     "ERROR": "Error",
@@ -21017,6 +21020,22 @@
     "ERROR_LOADING_STICKER": "Error loading sticker",
     "ERROR_OCCURRED_TRY_AGAIN": "An error occurred, please try again.",
     "ERROR_SAVING_IMAGE": "Unable to save image",
+    "HVqAgI": [
+        "Escape to ",
+        [
+            8,
+            "$link",
+            [
+                "cancel"
+            ],
+            [
+                [
+                    1,
+                    "onCancel"
+                ]
+            ]
+        ]
+    ],
     "ESTIMATED_TAX_LABEL": "Estimated Tax",
     "EUR_NAME": "Euro",
     "EVENT_CANCELED": "Canceled",
@@ -70428,6 +70447,13 @@
         " to join"
     ],
     "RATE_LIMITED": "You are being rate limited.",
+    "VIJkAw": [
+        "Try again in ",
+        [
+            1,
+            "duration"
+        ]
+    ],
     "RATING_REQUEST_BODY_ANDROID": "Head over to the Play Store and leave us a rating. Every little bit helps!",
     "RATING_REQUEST_TITLE": "Enjoying Discord?",
     "REACT": "React",
@@ -80364,6 +80390,35 @@
         ],
         " changed the group icon."
     ],
+    "4wLp29": [
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " changed the group icon. ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "editGroupButton"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "onEditGroup"
+                ]
+            ]
+        ]
+    ],
     "mAtJTE": [
         [
             8,
@@ -80529,7 +80584,10 @@
             8,
             "$link",
             [
-                "Edit Group"
+                [
+                    1,
+                    "editGroupButton"
+                ]
             ],
             [
                 [
