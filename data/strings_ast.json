@@ -23905,6 +23905,23 @@
         ]
     ],
     "NbveHB": "This is not available for users with a Nitro subscription on mobile.",
+    "PLXpCw": [
+        "All Nitro perks are now yours to enjoy!\nRemaining Nitro credits will be saved and activated at the end of your billing cycle. ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more."
+            ],
+            [
+                [
+                    1,
+                    "helpCenterLink"
+                ]
+            ]
+        ],
+        "."
+    ],
     "dOQ9RU": "You Earned Nitro Credits!",
     "+PHEo6": "Nitro Credit Acquired",
     "eQX+go": "Explore Perks",
@@ -92094,21 +92111,6 @@
             "price"
         ],
         "/month after credits"
-    ],
-    "X4Fr+f": [
-        "Your Nitro plan will start on ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    3,
-                    "expirationDate",
-                    "medium"
-                ]
-            ]
-        ],
-        " once your Nitro Credits have expired!"
     ],
     "SAJ5Ag": [
         "Your remaining ",
