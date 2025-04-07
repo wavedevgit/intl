@@ -8,12 +8,12 @@ export function generateDiff(a, b) {
         if (b[key] === undefined) result.removed.push(`- ${key}: "${a[key]}"`);
         // updated
         if (a[key] !== b[key] && b[key] !== undefined)
-            result.updated.push(`- ${key}: "${a[key]}"\n+ ${key}: "${b[key]}"`);
+            result.updated.push(`- ${key}: "${a[key].replaceAll("\n","\\n")}"\n+ ${key}: "${b[key].replaceAll("\n","\\n")}"`);
     }
     for (let key in b) {
         if (key === "PLAYSTATION") continue;
         // added
-        if (a[key] === undefined) result.added.push(`+ ${key}: "${b[key]}"`);
+        if (a[key] === undefined) result.added.push(`+ ${key}: "${b[key].replaceAll("\n","\\n")}"`);
     }
     let resultString = `\`\`\`diff\n${result.added.length ? '# Added:\n' + result.added.join('\n') : ''}${
         result.removed.length ? '\n# Removed:\n' + result.removed.join('\n') : ''
