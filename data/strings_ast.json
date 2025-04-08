@@ -73852,6 +73852,10 @@
         ]
     ],
     "ROLE_SAMPLE_MESSAGE": "rocks are really old",
+    "9wVJRE": "Role Style",
+    "XpWmJy": "Gradient",
+    "QTKppa": "Holographic",
+    "8Qyaho": "Solid",
     "ROLE_SUBSCRIPTION_EMOJI_POPOUT_PURCHASE_UNAVAILABLE_DESCRIPTION": "This emoji is unavailable.",
     "ROLE_SUBSCRIPTION_EMOJI_POPOUT_PURCHASE_UPSELL_BUTTON": "Subscribe",
     "ROLE_SUBSCRIPTION_EMOJI_POPOUT_PURCHASE_UPSELL_DESCRIPTION": "Get Server Subscription to use this emoji.",
@@ -91138,6 +91142,14 @@
             1,
             "dateString"
         ]
+    ],
+    "cavtEh": [
+        "If you choose to disable this perk, ",
+        [
+            1,
+            "perk"
+        ],
+        " will be removed from all members."
     ],
     "4jSvr6": [
         "If you choose to disable this perk, ",
