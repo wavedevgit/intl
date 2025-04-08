@@ -90891,6 +90891,21 @@
             "perkName"
         ]
     ],
+    "IJP4YG": [
+        "Use Boosts to unlock ",
+        [
+            1,
+            "perks"
+        ]
+    ],
+    "6kywho": [
+        "Boost this server to help unlock ",
+        [
+            1,
+            "perks"
+        ]
+    ],
+    "xyE2AQ": "New Perks Available!",
     "ivpkNT": "No, thanks",
     "+DlJ7+": [
         [
@@ -90927,7 +90942,29 @@
             "perkName"
         ]
     ],
-    "k+prUF": "New Perk Available",
+    "wcQOqK": [
+        "Use them to unlock perks like ",
+        [
+            1,
+            "perks"
+        ],
+        "!"
+    ],
+    "ZF8NT0": [
+        "Use them to unlock ",
+        [
+            1,
+            "perk"
+        ],
+        "!"
+    ],
+    "LmpChI": [
+        [
+            1,
+            "guildName"
+        ],
+        " has available Boosts!"
+    ],
     "pycxTk": "Members of this server can pay to Boost it, and admins use those Boosts to unlock new features.",
     "diMhWV": "How do Boosts work?",
     "fXE30d": [
