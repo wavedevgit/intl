@@ -14877,6 +14877,7 @@
     "COPY_USERNAME": "Copy Username",
     "COPY_VERSION": "Click to copy version",
     "COP_NAME": "Colombian Peso",
+    "FTmi9/": "Count",
     "COUNTDOWN_UNITS_DAYS": "d",
     "COUNTDOWN_UNITS_HOURS": "h",
     "COUNTDOWN_UNITS_MINUTES": "m",
@@ -43553,6 +43554,7 @@
     ],
     "GUILD_STICKER_GRID_UPLOAD_LABEL": "Upload Sticker",
     "GUILD_STICKER_INVALID_STICKER": "Invalid sticker file",
+    "IuvV5+": "No sticker slots available",
     "GUILD_STICKER_PREVIEW_IMG_ALT_DARK": "Sticker preview on dark theme",
     "GUILD_STICKER_PREVIEW_IMG_ALT_LIGHT": "Sticker preview on light theme",
     "GUILD_STICKER_SETTINGS_ADDITIONAL_SLOTS": [
@@ -47281,6 +47283,17 @@
             "maxAge"
         ],
         ", ",
+        [
+            1,
+            "maxUses"
+        ]
+    ],
+    "Z5Vt5+": [
+        [
+            1,
+            "maxAge"
+        ],
+        ", or ",
         [
             1,
             "maxUses"
