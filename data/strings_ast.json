@@ -80396,6 +80396,38 @@
         ],
         " changed the group icon."
     ],
+    "hfeYXF": [
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        " changed the group icon. ",
+        [
+            8,
+            "$link",
+            [
+                "Edit Group"
+            ],
+            [
+                [
+                    1,
+                    "onEditGroup"
+                ]
+            ]
+        ]
+    ],
     "SYSTEM_MESSAGE_CHANNEL_ICON_CHANGE_HOOK": [
         [
             8,
@@ -80576,7 +80608,50 @@
             ]
         ]
     ],
-    "fxI+pq": [
+    "rk0be3": [
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        " changed the group name: ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "channelName"
+                ]
+            ]
+        ],
+        ". ",
+        [
+            8,
+            "$link",
+            [
+                "Edit group"
+            ],
+            [
+                [
+                    1,
+                    "onEditGroup"
+                ]
+            ]
+        ]
+    ],
+    "geP3ra": [
         [
             8,
             "usernameHook",
