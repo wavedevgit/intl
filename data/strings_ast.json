@@ -5472,6 +5472,25 @@
             "errorCode"
         ]
     ],
+    "If5Q0t": [
+        "Error: ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "errorCode"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "helpDeskURL"
+                ]
+            ]
+        ]
+    ],
     "0jrNER": "Video stream failed to start",
     "BACK": "Back",
     "BACKSPACE": "Backspace",
