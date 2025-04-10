@@ -8095,7 +8095,7 @@
     "BLOCK_USER_FEEDBACK_BODY": "Your feedback helps us improve Discord safety features.",
     "BLOCK_USER_FEEDBACK_OPTIONS_HEADER": "What isn't working well?",
     "BLOCK_USER_FEEDBACK_OPTION_CONFUSION": "I'm not sure what blocking actually does",
-    "BLOCK_USER_FEEDBACK_OPTION_DOES_NOT_ACHIEVE_WANTS": "Blocking doesn't actually do what I want",
+    "BLOCK_USER_FEEDBACK_OPTION_DOES_NOT_ACHIEVE_WANTS": "Blocking doesn't do what I want",
     "BLOCK_USER_FEEDBACK_OPTION_HARD_TO_ACCESS": "It is hard to find how to block someone",
     "BLOCK_USER_FEEDBACK_OPTION_SOMETHING_ELSE": "Something else",
     "BLOCK_USER_FEEDBACK_TITLE": "How is blocking users on Discord?",
@@ -21378,6 +21378,7 @@
             ]
         ]
     ],
+    "/Zr1Oj": "Would you like to tell us more?",
     "FILES": "Files",
     "FILE_PICKER_ERROR_DESCRIPTION": "Something went wrong getting your file. Please try again.",
     "FILE_PICKER_ERROR_TITLE": "Issue selecting files",
@@ -45664,6 +45665,15 @@
         ],
         "?"
     ],
+    "uW0/nZ": "Your feedback helps us improve Discord safety features.",
+    "Ib6biY": "How is ignoring users on Discord working for you?",
+    "avs5Vl": "What isn't working well?",
+    "IumZmp": "I'm not sure what ignoring actually does",
+    "mXkYyc": "Ignoring doesn't do what I want",
+    "eg1hVF": "It is hard to find how to ignore someone",
+    "WAYoT0": "Something else",
+    "vcdNKi": "Give feedback",
+    "XkeW9P": "How is ignoring users on Discord?",
     "IMAGE": "Image",
     "IMAGES": "Images",
     "IMAGE_ACTIONS_MENU_LABEL": "Image Actions",
