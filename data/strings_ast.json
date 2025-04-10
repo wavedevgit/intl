@@ -91390,28 +91390,6 @@
     "APP_ICON_MUSHROOM": "One Up",
     "ATTACHMENT_INLINE_PLACEHOLDER": "[attachment]",
     "BACKGROUND": "Background",
-    "BAN_MULTIPLE_CONFIRM_TITLE": [
-        "Would you like to ban ",
-        [
-            6,
-            "count",
-            {
-                "one": [
-                    "1 member"
-                ],
-                "other": [
-                    [
-                        1,
-                        "count"
-                    ],
-                    " members"
-                ]
-            },
-            0,
-            "cardinal"
-        ],
-        "?"
-    ],
     "BAN_MULTIPLE_FAILED_TOAST": "Mass ban failed",
     "BAN_MULTIPLE_SUCCESS_TOAST": "Mass ban succesful",
     "CHANNELS_YOU_SHOULD_CHECK_OUT": "Channels you should check out",

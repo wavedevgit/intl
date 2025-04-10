@@ -1860,7 +1860,6 @@
     "BANS_SEARCH_PLACEHOLDER_NEW": "Search Bans by User Id or Username",
     "BAN_CONFIRM_TITLE": "Would you like to ban '!!{username}!!?'",
     "BAN_MEMBERS": "Ban Members",
-    "BAN_MULTIPLE_CONFIRM_TITLE": "Would you like to ban {count, plural, one {1 member} other {!!{count}!! members} }?",
     "BAN_MULTIPLE_FAILED_TOAST": "Mass ban failed",
     "BAN_MULTIPLE_SUCCESS_TOAST": "Mass ban succesful",
     "BAN_REASON": "Ban Reason",
