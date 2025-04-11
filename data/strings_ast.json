@@ -23651,6 +23651,81 @@
         ],
         "-day"
     ],
+    "xQ3zuL": [
+        "Nitro Credits end in ",
+        [
+            6,
+            "days",
+            {
+                "=1": [
+                    [
+                        1,
+                        "days"
+                    ],
+                    " day"
+                ],
+                "other": [
+                    [
+                        1,
+                        "days"
+                    ],
+                    " days"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "SFU7QE": [
+        "Nitro Credits end in ",
+        [
+            6,
+            "hours",
+            {
+                "=1": [
+                    [
+                        1,
+                        "hours"
+                    ],
+                    " hour"
+                ],
+                "other": [
+                    [
+                        1,
+                        "hours"
+                    ],
+                    " hours"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "Y4FNdH": [
+        "Nitro Credits end in ",
+        [
+            6,
+            "minutes",
+            {
+                "=1": [
+                    [
+                        1,
+                        "minutes"
+                    ],
+                    " minute"
+                ],
+                "other": [
+                    [
+                        1,
+                        "minutes"
+                    ],
+                    " minutes"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "FRACTIONAL_PREMIUM_DURATION_DAYS_SHORT": [
         [
             6,
