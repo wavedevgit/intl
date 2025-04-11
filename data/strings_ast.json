@@ -23900,6 +23900,35 @@
             "cardinal"
         ]
     ],
+    "gFaKd3": [
+        [
+            8,
+            "$p",
+            [
+                "Boost success!"
+            ]
+        ],
+        [
+            8,
+            "$p",
+            [
+                "Your remaining Nitro credits will be saved and activated later. ",
+                [
+                    8,
+                    "$link",
+                    [
+                        "Learn more."
+                    ],
+                    [
+                        [
+                            1,
+                            "helpCenterLink"
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ],
     "8Xm6uL": [
         [
             8,
