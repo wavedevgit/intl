@@ -21637,7 +21637,7 @@
         ]
     ],
     "FORM_HELP_FORUM_TAGS": "Help people organize their posts into subcategories by creating a tag.",
-    "FORM_HELP_HARDWARE_ENCODING": "Hardware acceleration uses your GPU for efficient video encoding and decoding, if available.",
+    "FORM_HELP_HARDWARE_ENCODING": "Uses your GPU for efficient video encoding and decoding, if available.",
     "FORM_HELP_INSTANT_INVITE_CHANNEL": "If a channel is selected then an invite link will be generated with the widget,\notherwise only online members and voice channels will be provided.",
     "FORM_HELP_LAST_SEEN_1": [
         "Pruning will kick ",
@@ -27495,12 +27495,12 @@
     "GO_LIVE_MODAL_ENABLE_SCREEN_SOUNDSHARE_LABEL": "Also share system audio.",
     "slM8rK": "Entire Screen",
     "GO_LIVE_MODAL_HARDWARE_WARNING_INFOBOX": [
-        "Discord relies on the video hardware encoder of your graphics card for optimal system performance and visual quality. ",
+        "Video hardware acceleration is currently disabled, which will degrade system performance and visual quality. ",
         [
             8,
             "$link",
             [
-                "Enable Hardware Acceleration"
+                "Enable Video Hardware Acceleration"
             ],
             [
                 [
@@ -44856,7 +44856,7 @@
     "HANGOUT_OVER_SENDER": "The hangout is over, want to start it again?",
     "HAPPENING_NOW": "Happening Now",
     "HARDWARE_ACCELERATION": "Hardware Acceleration",
-    "HARDWARE_ACCELERATION_HELP_TEXT": "Turns on Hardware Acceleration, which uses your GPU to make Discord smoother. Turn this off if you are experiencing frame drops.",
+    "HARDWARE_ACCELERATION_HELP_TEXT": "Uses your GPU to make Discord smoother. Turn this off if you are experiencing visual problems.",
     "HARMFUL_LINK_MESSAGE_BLOCKED_ERROR": [
         "Your message could not be delivered because this message contains a link blocked by Discord. You can learn more here: ",
         [
@@ -79978,7 +79978,23 @@
     "7YZ/Sk": "Switch to back camera",
     "/R1SBw": "Switch to front camera",
     "SWITCH_HARDWARE_ACCELERATION": "Change Hardware Acceleration",
-    "SWITCH_HARDWARE_ACCELERATION_BODY": "Changing the hardware acceleration setting will quit and re-launch Discord.\nAre you sure you want to do this?",
+    "SWITCH_HARDWARE_ACCELERATION_BODY": [
+        [
+            8,
+            "$p",
+            [
+                "Disabling hardware acceleration setting will degrade system performance."
+            ]
+        ],
+        [
+            8,
+            "$p",
+            [
+                "Are you sure you want to do this?"
+            ]
+        ]
+    ],
+    "vT7ckp": "Change & Restart",
     "SWITCH_PIP_TO_ACTIVITY": "Switch to Activity",
     "SWITCH_PIP_TO_ACTIVITY_NAME": [
         "Switch to ",
@@ -80002,6 +80018,23 @@
     "SWITCH_TO_COZY_MODE": "Switch to Cozy Mode",
     "SWITCH_TO_PUSH_TO_TALK": "Switch to Push to Talk",
     "SWITCH_TO_VOICE_ACTIVITY": "Switch to Voice Activity",
+    "mly1DA": "Change Video Hardware Acceleration",
+    "aPStAQ": [
+        [
+            8,
+            "$p",
+            [
+                "Disabling video hardware acceleration will degrade system performance and visual quality."
+            ]
+        ],
+        [
+            8,
+            "$p",
+            [
+                "Are you sure you want to do this?"
+            ]
+        ]
+    ],
     "SYNC": "Sync",
     "SYNC_ACROSS_CLIENTS_APPEARANCE_HELP": "Turning this on will overwrite the above appearance settings on all other clients including desktop and browser.",
     "SYNC_ACROSS_CLIENTS_APPEARANCE_HELP_NO_WHITESPACE": "Turning this on will overwrite the above appearance settings on all other clients including desktop and browser.",
@@ -87372,7 +87405,8 @@
     "USER_SETTINGS_VOICE_CODEC_DESCRIPTION": "Discord uses only the best organic, locally-sourced Opus Voice codec.",
     "USER_SETTINGS_VOICE_CODEC_TITLE": "Audio Codec",
     "USER_SETTINGS_VOICE_EXPERIMENTAL_SOUNDSHARE_LABEL": "Use an experimental method to capture audio from applications",
-    "USER_SETTINGS_VOICE_HARDWARE_ENCODING": "Hardware Acceleration",
+    "USER_SETTINGS_VOICE_HARDWARE_ENCODING": "Video Hardware Acceleration",
+    "Uz6L6+": "Disabling video hardware acceleration will degrade system performance and visual quality.",
     "USER_SETTINGS_VOICE_MIC_TEST_BUTTON_ACTIVE": "Stop Testing",
     "USER_SETTINGS_VOICE_MIC_TEST_BUTTON_INACTIVE": "Let's Check",
     "USER_SETTINGS_VOICE_MIC_TEST_DESCRIPTION": "Having mic issues? Start a test and say something fun—we'll play your voice back to you.",
