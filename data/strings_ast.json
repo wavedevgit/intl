@@ -55321,7 +55321,7 @@
     "NO_EMOJI_BODY": "None",
     "NO_EMOJI_SEARCH_RESULTS": "No emoji match your search",
     "NO_EMOJI_TITLE": "No Emoji",
-    "+0U77e": "No Games Connected",
+    "+0U77e": "No games Connected",
     "NO_GIF_FAVORITES_FLAVOR_FAVORITE_PLEASE": "Uh, go favorite them… please",
     "NO_GIF_FAVORITES_FLAVOR_STILL_HERE": "Why uh are you still here?",
     "NO_GIF_FAVORITES_GO_FAVORITE": "So uhh… maybe go favorite some GIFs?",
@@ -69275,6 +69275,18 @@
         " to participate in this quest."
     ],
     "QUESTS_MICROPHONE_UNIT_HEADER": "Launched a game?",
+    "mSerLi": "Close",
+    "vY9GgI": "Why?",
+    "XEHDT0": "You've done a lot of Quests today!",
+    "+5XVHx": [
+        "Come back in ",
+        [
+            1,
+            "countdownString"
+        ],
+        " to do more!"
+    ],
+    "g+02d3": "You've been busy!",
     "QUESTS_MOBILE_EMBED_BODY": "From your desktop Discord app or browser you can go to\nUser Settings > Gift Inventory and accept the Quest there.",
     "QUESTS_MOBILE_EMBED_BODY_QUEST_HOME": "From your desktop Discord app or browser you can go to\nDiscovery > Quests and accept the Quest there.",
     "ii4mJi": "Sorry! You're not eligible for this quest right now. Tap here to view other quests available to you.",
