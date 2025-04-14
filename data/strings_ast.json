@@ -80909,6 +80909,67 @@
             ]
         ]
     ],
+    "hToFyc": [
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "usernameOnClick"
+                ]
+            ]
+        ],
+        " removed the custom group name. ",
+        [
+            8,
+            "$link",
+            [
+                "Edit group"
+            ],
+            [
+                [
+                    1,
+                    "onEditGroup"
+                ]
+            ]
+        ]
+    ],
+    "AI1ZZm": [
+        [
+            8,
+            "usernameHook",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " removed the custom group name. ",
+        [
+            8,
+            "$link",
+            [
+                [
+                    1,
+                    "editGroupButton"
+                ]
+            ],
+            [
+                [
+                    1,
+                    "onEditGroup"
+                ]
+            ]
+        ]
+    ],
     "SYSTEM_MESSAGE_CONSUMABLE_HD_STREAMING_EMBED_BODY": "Upgrade everyone in the VC session to HD Quality streaming, ensuring crystal-clear streams for your gaming session.",
     "SYSTEM_MESSAGE_CONSUMABLE_HD_STREAMING_EMBED_TITLE": "HD Streaming",
     "SYSTEM_MESSAGE_CONSUMABLE_HD_STREAMING_IMG_ALT": "purple potion",
