@@ -11497,6 +11497,9 @@
     ],
     "COLLECTIBLES_GALAXY_COACHTIP_DESCRIPTION": "New arrivals just landed, and we don't mean aliens.",
     "COLLECTIBLES_GALAXY_COACHTIP_TITLE": "New Galaxy styles",
+    "3lv7q6": "Give your avatar a new look.",
+    "ik37ER": "Make your name stand out in servers and chats.",
+    "VhJL7+": "Show this effect when others view your profile.",
     "COLLECTIBLES_GIFT_COACHMARK_DESC": "Check out the latest profile styles and surprise your friend with a fresh new look.",
     "COLLECTIBLES_GIFT_COACHMARK_HEADING": "Give the gift of style",
     "COLLECTIBLES_GIFT_CODE_MODAL_UPSELL": [
@@ -88307,8 +88310,14 @@
     "VIEW_SERVER_PROFILE": "View Per-server Profile",
     "VIEW_SPECTATORS": "View spectators",
     "VIEW_THREAD": "View Thread",
+    "ynollp": "Start Earning Orbs",
+    "icWQKi": "Introducing a new reward - your key to the Shop, Nitro and more.",
+    "XKlAys": "Discord Orbs",
     "C1TOOD": "Introducing",
-    "iEw2Nz": "Browse Orb Rewards",
+    "VC4Mq6": "Open Quest Home",
+    "J+vlIS": "Open the Shop",
+    "5qZv9P": "Need help?",
+    "XRdyj4": "Learn more.",
     "EDUOIC": "Great work, let’s get spending.",
     "Kr9pYW": [
         "Your Orbs balance is now ",
@@ -88332,19 +88341,73 @@
         ],
         " Orbs"
     ],
+    "6If1Cw": "Travel between Quest Home and Shop via the Orbs balance.",
+    "D/nzVl": "More Quests Await",
     "H57f4+": "Earn More Orbs",
+    "2Nvn8/": "Earn Through Quests",
+    "F1lGFx": "Journey to Quest Home to start earning and grow your balance.",
     "WYchdX": "Explore the Shop",
     "c7MXqK": "Get Orbs through completing Quests",
+    "m371Mz": "Item already owned",
+    "c/rcUl": "This item is not redeemable with Orbs",
     "7f4H7O": "Learn about Orbs",
+    "keFvXF": "Not enough Orbs",
+    "v4HbPz": "Next",
+    "xYx+WV": "Journey to Quest Home in Discover to start earning.",
+    "KnWRQU": "Earn Orbs via Quests",
+    "F4SoLC": "Finish",
+    "Veu++f": "Snag special exclusives like Nitro credits and Shop favorites.",
+    "duN28/": "Spend in the Shop",
     "ElYQFR": "Orbs",
-    "okNhDw": [
-        "Ponderer since ",
+    "wmcDys": "Claim with Orbs",
+    "jCRYDw": "Once you complete your purchase, the item will be available for use immediately and can be accessed in your User Profile settings.",
+    "xlJyOD": [
         [
-            3,
-            "date",
-            "short"
-        ]
+            8,
+            "$b",
+            [
+                "Pressing ",
+                "\"",
+                "Claim",
+                "\" ",
+                "on an item from the Shop means you’re claiming a limited license to use this item on Discord. Learn more in the “Virtual Goods” section ",
+                [
+                    8,
+                    "$link",
+                    [
+                        "here"
+                    ],
+                    [
+                        [
+                            1,
+                            "virtualGoodsURL"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        ". By Claiming this item, you agree to the ",
+        [
+            8,
+            "$link",
+            [
+                "Paid Services Terms"
+            ],
+            [
+                [
+                    1,
+                    "paidURL"
+                ]
+            ]
+        ],
+        ". Orbs redemptions are non-refundable."
     ],
+    "FhJ74u": "Nitro Credits apply automatically for the stated credit duration, either immediately or, if you have an active Nitro subscription, at the end of your current billing cycle.",
+    "APcKRk": "Once claimed, this badge will be automatically applied to your profile.",
+    "fqJZ19": "There was an error claiming this item. Please try again later.",
+    "lTHkqa": "Apprentice",
+    "MEV0GB": "Orbs exclusive Shop item",
+    "y0WGqK": "Orbs Balance",
     "7gHWra": [
         "Error redeeming ",
         [
@@ -88369,6 +88432,8 @@
             "redeemedItemDescription"
         ]
     ],
+    "1IEs7+": "Spend in the Shop",
+    "mej05u": "Unlock profile cosmetics, Nitro Credits, and more - no payment required.",
     "bcmcCg": "Unlock exclusive Orbs rewards in the Shop",
     "VISITORS_INFO": "A member who has clicked into the server and viewed a channel.",
     "VISIT_COMMUNITY": "Visit Community",
@@ -94105,77 +94170,6 @@
     "USER_SETTINGS_APPEARANCE_CHANNEL_LIST_LAYOUT_MINIMAL": "Minimal",
     "USER_SETTINGS_OTHER_QUICK_ACTIONS": "Other Actions",
     "USER_SETTINGS_QUICK_ACTION_FORCE_NEW_USER_ONBOARDING": "Force new user onboarding flow",
-    "ynollp": "Start Earning Orbs",
-    "icWQKi": "Introducing a new reward - your key to the Shop, Nitro and more.",
-    "XKlAys": "Discord Orbs",
-    "VC4Mq6": "Open Quest Home",
-    "J+vlIS": "Open the Shop",
-    "5qZv9P": "Need help?",
-    "XRdyj4": "Learn more.",
-    "6If1Cw": "Travel between Quest Home and Shop via the Orbs balance.",
-    "D/nzVl": "More Quests Await",
-    "2Nvn8/": "Earn Through Quests",
-    "F1lGFx": "Journey to Quest Home to start earning and grow your balance.",
-    "m371Mz": "Item already owned",
-    "c/rcUl": "This item is not redeemable with Orbs",
-    "keFvXF": "Not enough Orbs",
-    "v4HbPz": "Next",
-    "xYx+WV": "Journey to Quest Home in Discover to start earning.",
-    "KnWRQU": "Earn Orbs via Quests",
-    "F4SoLC": "Finish",
-    "Veu++f": "Snag special exclusives like Nitro credits and Shop favorites.",
-    "duN28/": "Spend in the Shop",
-    "wmcDys": "Claim with Orbs",
-    "jCRYDw": "Once you complete your purchase, the item will be available for use immediately and can be accessed in your User Profile settings.",
-    "xlJyOD": [
-        [
-            8,
-            "$b",
-            [
-                "Pressing ",
-                "\"",
-                "Claim",
-                "\" ",
-                "on an item from the Shop means you’re claiming a limited license to use this item on Discord. Learn more in the “Virtual Goods” section ",
-                [
-                    8,
-                    "$link",
-                    [
-                        "here"
-                    ],
-                    [
-                        [
-                            1,
-                            "virtualGoodsURL"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        ". By Claiming this item, you agree to the ",
-        [
-            8,
-            "$link",
-            [
-                "Paid Services Terms"
-            ],
-            [
-                [
-                    1,
-                    "paidURL"
-                ]
-            ]
-        ],
-        ". Orbs redemptions are non-refundable."
-    ],
-    "FhJ74u": "Nitro Credits apply automatically for the stated credit duration, either immediately or, if you have an active Nitro subscription, at the end of your current billing cycle.",
-    "APcKRk": "Once claimed, this badge will be automatically applied to your profile.",
-    "fqJZ19": "There was an error claiming this item. Please try again later.",
-    "lTHkqa": "Apprentice",
-    "MEV0GB": "Orbs exclusive Shop item",
-    "y0WGqK": "Orbs Balance",
-    "1IEs7+": "Spend in the Shop",
-    "mej05u": "Unlock profile cosmetics, Nitro Credits, and more - no payment required.",
     "YEAR": [
         [
             6,
