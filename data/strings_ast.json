@@ -1735,7 +1735,36 @@
         ],
         " more"
     ],
+    "sHFdTk": [
+        [
+            1,
+            "gameList"
+        ],
+        ", ",
+        [
+            8,
+            "plusMoreHook",
+            []
+        ]
+    ],
     "WO2Hlp": "Allow DMs from Game Friends in Discord",
+    "oZsHTE": [
+        "Receive in-game messages from your ",
+        [
+            8,
+            "$link",
+            [
+                "Game Friends"
+            ],
+            [
+                [
+                    1,
+                    "helpdeskArticle"
+                ]
+            ]
+        ],
+        " right in Discord--even when you're not playing the game"
+    ],
     "oYaYOT": [
         "Manage games in ",
         [
@@ -1764,6 +1793,7 @@
     ],
     "oPyABA": "Game Friends",
     "/U8Iwc": "Direct Messages",
+    "XpBObG": "Stay connected with in-game friends on Discord",
     "ALLOW_HUB_DMS": "Allow direct messages from Hub members.",
     "ALLOW_MESSAGE_REQUESTS": "Allow Message Requests",
     "ALLOW_MESSAGE_REQUESTS_CAPTION": "Filter messages from members you may not know",
@@ -47564,6 +47594,11 @@
             "channelName"
         ]
     ],
+    "JIFnNz": "Show all DMs",
+    "4NN4+/": "Read and respond to DMs directly from game chats. Customize which DMs to show in your connected games.",
+    "AolKwM": "Show none",
+    "ms+TmZ": "Show Direct Messages in games",
+    "rRdsk5": "Show only DMs from people who also play the game",
     "IN_GAME_VOICE_SETTINGS": "In-Game Voice Settings",
     "IN_THE_VOICE_CHANNEL": "In the voice channel",
     "IOS_GUILD_DELETE_FEEDBACK_HEADER": "Why are you deleting this server?",
@@ -55286,6 +55321,7 @@
     "NO_EMOJI_BODY": "None",
     "NO_EMOJI_SEARCH_RESULTS": "No emoji match your search",
     "NO_EMOJI_TITLE": "No Emoji",
+    "+0U77e": "No Games Connected",
     "NO_GIF_FAVORITES_FLAVOR_FAVORITE_PLEASE": "Uh, go favorite them… please",
     "NO_GIF_FAVORITES_FLAVOR_STILL_HERE": "Why uh are you still here?",
     "NO_GIF_FAVORITES_GO_FAVORITE": "So uhh… maybe go favorite some GIFs?",
@@ -87467,6 +87503,7 @@
     "USER_SETTING_DM_SPAM_FILTER_NON_FRIENDS_TITLE": "Filter from non-friends",
     "USER_SETTING_NOTIFICATIONS_ENABLE_BURST_REACTION_NOTIFICATIONS_LABEL": "Enable Super Reaction Notifications",
     "USER_SETTING_NOTIFICATION_NOT_ENABLED_PROMPT": "Push notifications not enabled",
+    "h1hqj4": "Connected games",
     "USER_SETTIONS_NEW_DISCORD_TITLE": "New Discord",
     "USER_SIGNED_IN_AS": [
         [
@@ -89018,6 +89055,22 @@
     "VOICE_STATUS_NOT_CONNECTED_MOBILE": "You are disconnected from this call.",
     "VOICE_STATUS_RINGING": "Ringing…",
     "VOICE_UNAVAILABLE": "Voice Unavailable",
+    "V8wClJ": [
+        "Want to connect a game to your account? ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more"
+            ],
+            [
+                [
+                    1,
+                    "helpdeskArticle"
+                ]
+            ]
+        ]
+    ],
     "WARNING_SCREEN_RECORDING_PERMISSION_BODY": "Warning! The app doesn't have permission to record your screen. You may get unexpected results until you grant access and restart the app.",
     "WARNING_SCREEN_RECORDING_PERMISSION_TITLE": "Screen Share Permissions",
     "WATCH": "Watch",
