@@ -16530,6 +16530,17 @@
         " minutes"
     ],
     "CUSTOM_STATUS_CLEAR_AFTER": "Clear after",
+    "HSGxPj": [
+        [
+            1,
+            "date"
+        ],
+        " at ",
+        [
+            1,
+            "time"
+        ]
+    ],
     "Yizuvb": [
         "Clear after ",
         [
