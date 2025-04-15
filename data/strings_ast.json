@@ -24020,6 +24020,50 @@
             "cardinal"
         ]
     ],
+    "Hzqe6+": [
+        [
+            8,
+            "$p",
+            [
+                "Are you sure you want to cancel this Server Boost? We’ll smash this gem to pieces."
+            ]
+        ],
+        [
+            8,
+            "$p",
+            [
+                "It will be removed from the associated servers and canceled from your subscription once your Nitro credits end on ",
+                [
+                    3,
+                    "expirationDate",
+                    "medium"
+                ],
+                "."
+            ]
+        ]
+    ],
+    "eb0xgY": [
+        [
+            8,
+            "$p",
+            [
+                "This Server Boost subscription will be canceled when your Nitro credits end on ",
+                [
+                    3,
+                    "expirationDate",
+                    "medium"
+                ],
+                "."
+            ]
+        ],
+        [
+            8,
+            "$p",
+            [
+                "The changes to your subscription are reflected below:"
+            ]
+        ]
+    ],
     "gFaKd3": [
         [
             8,
