@@ -23655,6 +23655,64 @@
         ],
         " will be saved and activated at the end of your billing cycle. Choose a plan to begin now!"
     ],
+    "SQyVVV": [
+        [
+            8,
+            "$b",
+            [
+                [
+                    6,
+                    "days",
+                    {
+                        "=1": [
+                            [
+                                7
+                            ],
+                            " day"
+                        ],
+                        "other": [
+                            [
+                                7
+                            ],
+                            " days"
+                        ]
+                    },
+                    0,
+                    "cardinal"
+                ],
+                " & ",
+                [
+                    6,
+                    "hours",
+                    {
+                        "=1": [
+                            [
+                                7
+                            ],
+                            " hour"
+                        ],
+                        "other": [
+                            [
+                                7
+                            ],
+                            " hours"
+                        ]
+                    },
+                    0,
+                    "cardinal"
+                ]
+            ]
+        ],
+        " of ",
+        [
+            8,
+            "$b",
+            [
+                "Nitro credit"
+            ]
+        ],
+        " will be saved and activated at the end of your trial."
+    ],
     "c2BbVF": [
         [
             8,
@@ -23691,6 +23749,43 @@
             ]
         ],
         " will be saved and activated at the end of your billing cycle. Choose a plan to begin now!"
+    ],
+    "2ifAYG": [
+        [
+            8,
+            "$b",
+            [
+                [
+                    6,
+                    "days",
+                    {
+                        "=1": [
+                            [
+                                7
+                            ],
+                            " day"
+                        ],
+                        "other": [
+                            [
+                                7
+                            ],
+                            " days"
+                        ]
+                    },
+                    0,
+                    "cardinal"
+                ]
+            ]
+        ],
+        " of ",
+        [
+            8,
+            "$b",
+            [
+                "Nitro credit"
+            ]
+        ],
+        " will be saved and activated at the end of your trial."
     ],
     "Cz1G9/": [
         [
@@ -24132,6 +24227,43 @@
             ]
         ],
         " will be saved and activated at the end of your billing cycle. Choose a plan to begin now!"
+    ],
+    "kZSTYm": [
+        [
+            8,
+            "$b",
+            [
+                [
+                    6,
+                    "hours",
+                    {
+                        "=1": [
+                            [
+                                7
+                            ],
+                            " hour"
+                        ],
+                        "other": [
+                            [
+                                7
+                            ],
+                            " hours"
+                        ]
+                    },
+                    0,
+                    "cardinal"
+                ]
+            ]
+        ],
+        " of ",
+        [
+            8,
+            "$b",
+            [
+                "Nitro credit"
+            ]
+        ],
+        " will be saved and activated at the end of your trial."
     ],
     "J9Lu4u": [
         [
