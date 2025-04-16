@@ -86313,6 +86313,13 @@
     "USER_KEYWORD_FILTERS_TITLE": "Language Filter",
     "USER_KEYWORD_FILTERS_TOGGLE_TITLE": "Enable language filter",
     "USER_KEYWORD_FILTERS_TOGGLE_TITLE_V2": "Language filter",
+    "9NqwWV": [
+        [
+            1,
+            "username"
+        ],
+        " has left the call"
+    ],
     "USER_MANAGEMENT": "User Management",
     "USER_MORE_ACTIONS_MENU_LABEL": "User Actions",
     "USER_POPOUT_ABOUT_ME": "About Me",
