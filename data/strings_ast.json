@@ -22864,6 +22864,7 @@
     "FORUM_DEFAULT_REACTION_DESCRIPTION": "Pick a default emoji that your members will use to react to a post from this channel.",
     "FORUM_DEFAULT_SORT_ORDER": "Sort Order",
     "FORUM_DEFAULT_SORT_ORDER_DESCRIPTION": "Set the default sort order for new posts. Members will still be able to toggle between these options.",
+    "DqOl8P": "Set the default tag matching behaviour. Members will still be able to toggle between these options.",
     "FORUM_EMPTY_STATE_CREATE_POST_CTA": "Create a post",
     "FORUM_EMPTY_STATE_CTA": "See Examples",
     "FORUM_EMPTY_STATE_DESCRIPTION": [
