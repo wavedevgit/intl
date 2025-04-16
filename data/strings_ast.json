@@ -75986,6 +75986,16 @@
     "SEND_WAVE": "Send a wave",
     "SENSITIVE_CONTENT": "Content warning: images or videos may contain nudity, violence, or other sensitive content",
     "SENT": "Sent",
+    "tCcq5u": "Sent an image",
+    "p0oZm5": "Sent a GIF",
+    "rtfTKi": [
+        "Sent ",
+        [
+            1,
+            "count"
+        ],
+        " images"
+    ],
     "SERVER": "Server",
     "SERVERS": "Servers",
     "SERVERS_TAB_BADGE_A11Y_LABEL": [
