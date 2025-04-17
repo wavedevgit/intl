@@ -43180,7 +43180,7 @@
     ],
     "GUILD_SETTINGS_SOUND_NAME_COLUMN": "Name",
     "GUILD_SETTINGS_SOUND_UPLOADER_COLUMN": "Uploaded By",
-    "GUILD_SETTINGS_SPLASH_DESCRIPTION": "This image will display in server invite embeds, invite in browser, and invite confirmation modal.",
+    "GUILD_SETTINGS_SPLASH_DESCRIPTION": "This image will display when your server invite is viewed in a browser, as well as in invite confirmation screens and Server Onboarding.",
     "GUILD_SETTINGS_SPLASH_INFO": "This image will display when users receive an invite to the server.",
     "GUILD_SETTINGS_SPLASH_RECOMMEND": [
         "The recommended minimum size is 1920x1080 and recommended aspect ratio is 16:9. ",
