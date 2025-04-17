@@ -5086,8 +5086,9 @@
         " has been authorized and added to your apps!"
     ],
     "AUTHORIZED_APPS": "Authorized Apps",
-    "BRhdqa": "Allow app to send Direct Messages",
-    "anBbIS": "Includes alerts, receipts and promotions",
+    "Pkw//v": "Mobile Push Notifications",
+    "hw1nKS": "Allow notifications for DMs from this app on your mobile device.",
+    "c1uXo6": "Allow notifications for DMs from this app",
     "AUTHORIZED_APPS_AUTHORIZED_ON": [
         "Authorized on ",
         [
@@ -5097,6 +5098,7 @@
     ],
     "NkwaBg": "Mute Direct Messages",
     "JSptKy": "Turn off notications for this app’s DMs",
+    "NaZyYG": "Notifications",
     "8pMev7": "Permissions & Policies",
     "nZOS8v": [
         [
