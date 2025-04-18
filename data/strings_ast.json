@@ -47105,6 +47105,7 @@
     "INVALID_ATTACHMENTS_FAILURE": "Attachments you trying to send are unavailable.",
     "INVALID_CANNOT_FRIEND_SELF": "You cannot friend yourself",
     "INVALID_COUNTRY_CODE": "This server is not available in your location.",
+    "nr0MVV": "Email is not valid.",
     "INVALID_EXTERNAL_EMOJI_BODY": "This emoji doesn't work here because it's from a different server. Upgrade to Discord Nitro to use emoji from other servers",
     "INVALID_EXTERNAL_EMOJI_BODY_UPGRADE": "This emoji doesn't work here because it's from a different server. Discord Nitro can solve all of that, check User Settings > Nitro for details",
     "INVALID_INVITE_LINK_ERROR": "Please enter a valid invite link or invite code.",
