@@ -91783,8 +91783,23 @@
         ],
         " has been disabled by an admin"
     ],
-    "MYYPa2": "Unlock these perks without needing a specific Boost Level.",
-    "p6HUDQ": "New Perks you can unlock with Boosts",
+    "S562fn": [
+        "Unlock these perks individually - no Boost Level required. ",
+        [
+            8,
+            "$link",
+            [
+                "Learn More"
+            ],
+            [
+                [
+                    1,
+                    "helpDeskArticle"
+                ]
+            ]
+        ]
+    ],
+    "wjI18f": "Boost this server with additional perks",
     "aJv4PD": "Your server will automatically “level up” once it has enough available Boosts.",
     "TXY/b2": "Levels",
     "NHjM1t": "Individual perks that can be unlocked using available Boosts.",
