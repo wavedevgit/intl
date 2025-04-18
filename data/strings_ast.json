@@ -43976,7 +43976,10 @@
         ]
     ],
     "GUILD_STICKER_SETTINGS_BUY_LEVEL": "Buy Level",
+    "g7lkra": "Enable Level",
     "GUILD_STICKER_SETTINGS_ICON_ALT_TEXT": "A smiling sticker icon surrounded by purple and pink sparkles",
+    "mTMkY2": "You must enable the previous level first.",
+    "hwPEJS": "Level has been disabled by an admin",
     "GUILD_STICKER_SETTINGS_PLACEHOLDER_ALT_TEXT": "A grayscale wumpus sticker peeling off the screen from the top left corner.",
     "GUILD_STICKER_SETTINGS_REMAINING_SLOTS_AVAILABLE": [
         [
