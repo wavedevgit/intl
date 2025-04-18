@@ -69597,6 +69597,8 @@
     "QUESTS_MOBILE_HOME_VIEW_REQUIREMENTS": "View Requirements",
     "QUESTS_MOBILE_HOME_VIEW_REWARD": "View Reward",
     "QUESTS_MOBILE_QUEST_BAR_OVERFLOW_MENU_LABEL": "Quest Actions",
+    "OhPMam": "Your Nitro reward.",
+    "QUESTS_NITRO_REWARD_MODAL_BACKGROUND_IMAGE_ALT": "A starry galaxy.",
     "QUESTS_NO_AVAILABLE": "No Quests Available",
     "nnfWPD": "This Quest is unavailable for mobile subscribers",
     "1NaRSk": [
@@ -93851,7 +93853,6 @@
     "PURCHASE_REVIEW_TAX_LABEL": "Tax",
     "QR_CODE_DOWNLOAD_CTA": "Scan this QR code for an easy download link for our iOS or Android apps.",
     "QUESTS_NITRO_ENROLL_FAILURE_TOAST": "Something went wrong. You may not be eligible to enroll in this Quest.",
-    "QUESTS_NITRO_REWARD_MODAL_BACKGROUND_IMAGE_ALT": "Rocket Ships fly over a starry galaxy.",
     "QUESTS_NITRO_REWARD_MODAL_ERROR_HAVE_A_SUB": "You already have Nitro! This Quest reward is only available to users who aren't subscribed to Nitro.",
     "QUESTS_NITRO_REWARD_MODAL_ERROR_MISC": "Something went wrong",
     "QUESTS_NITRO_REWARD_MODAL_FOOTER_IN_GAME_BODY": [
