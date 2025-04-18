@@ -72972,6 +72972,14 @@
     ],
     "RESEND": "Resend",
     "RESEND_CODE": "Resend Code",
+    "31Txs7": [
+        "Resend Code in ",
+        [
+            1,
+            "countdown"
+        ],
+        " seconds"
+    ],
     "RESEND_EMAIL": "Resend my verification email!",
     "RESEND_EMAIL_SHORT": "Resend Email",
     "RESEND_MESSAGE": "Resend message",
@@ -84521,6 +84529,7 @@
     "TOAST_MESSAGE_ID_COPIED": "Copied Message ID",
     "TOAST_REMIX_LANGUAGE_SUPPORT_WARNING": "Some characters are not available in remix.",
     "TOAST_USERNAME_SAVED": "Username Copied",
+    "gI8ISU": "Code sent!",
     "TOAST_VIDEO_SAVED": "Video Saved",
     "TOGGLE_CAMERA": "Toggle camera",
     "TOGGLE_DEAFEN": "Toggle deafen",
