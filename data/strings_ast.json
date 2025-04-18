@@ -86497,9 +86497,7 @@
     "USER_PROFILE_ADD_ROLE": "Add Role",
     "USER_PROFILE_ALL_REACT_COACHMARK_BODY": "Hover over someone's avatar, status, or activity to reply to it. Your message will show up in their DMs.",
     "USER_PROFILE_AUDIO": "Call",
-    "USER_PROFILE_BLOCKED_MODAL_BODY_CONFIRMATION": "Do you want to view this profile?",
     "oC/fU1": "You blocked them",
-    "USER_PROFILE_BLOCKED_PANEL_BODY_CONFIRMATION": "Do you want to view this profile? They will still be blocked.",
     "4d+1oK": [
         "You blocked @",
         [
@@ -86527,20 +86525,6 @@
             ]
         ],
         ", so just making sure. They won't be notified, and will still be blocked"
-    ],
-    "USER_PROFILE_BLOCKED_PANEL_BODY_USERNAME": [
-        "You blocked ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        "."
     ],
     "USER_PROFILE_BLOCKED_SPEED_BUMP_ACTION_SHEET_BODY": [
         "You blocked @",
