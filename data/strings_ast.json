@@ -26094,6 +26094,7 @@
         ],
         " users you’ve blocked are here"
     ],
+    "YynaLC": "Group Name (optional)",
     "GDM_SINGLE_BLOCKED_USER_WARNING_HEADER_BANNER": "Someone you've blocked is here. Leave group?",
     "GDM_SINGLE_BLOCKED_USER_WARNING_HEADER_MODAL": "Someone you’ve blocked is here.",
     "GDM_SINGLE_BLOCKED_USER_WARNING_PRESENCE": [
