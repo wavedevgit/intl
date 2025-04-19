@@ -91993,6 +91993,139 @@
     "KN+v7+": "Space Bunny",
     "sem63N": "Tunetron",
     "kHmvdn": "Cyber Boss",
+    "4ZKDXl": [
+        "Updating your Server Tag will require all of your members to manually reapply the tag to their profile. We do this to prevent abuse. ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more"
+            ],
+            [
+                [
+                    1,
+                    "articleUrl"
+                ]
+            ]
+        ]
+    ],
+    "pb7lpK": "Choose Badge",
+    "zSbMdX": "Choose Color",
+    "tN+8pK": "Choose Name",
+    "UbC8y8": "You may use max 4 characters, alphabet (A-Z) and numbers.",
+    "655Un5": [
+        "Create a tag that your server members can display next to their name! Anyone outside your server can view your ",
+        [
+            8,
+            "$link",
+            [
+                "Server Profile"
+            ],
+            [
+                [
+                    1,
+                    "onClickServerProfile"
+                ]
+            ]
+        ],
+        " through the Server Tag, and if applications are enabled, they can ",
+        [
+            8,
+            "$link",
+            [
+                "apply to join"
+            ],
+            [
+                [
+                    1,
+                    "onClickApplyToJoin"
+                ]
+            ]
+        ],
+        "."
+    ],
+    "1zams7": "Enable Server Tag",
+    "bpghV1": "anyone down for aram",
+    "rnpv7+": "count me in",
+    "u7tjsr": "check out my tag!",
+    "GlWVJC": "woah how did you get that",
+    "AIp9ho": "anyone here can get it!",
+    "mf2OwM": "Server Tag",
+    "nBRtt7": "Try entering a different keyword to find a voice channel to stream in.",
+    "sWGfr6": "There are no voice channels available",
+    "agwSGB": "In the future, you can use this tab to share from specific devices like your Camera.",
+    "/z3YaW": "You don’t have any Capture Devices available.",
+    "xpVzr6": [
+        [
+            8,
+            "$link",
+            [
+                "Learn More"
+            ],
+            [
+                [
+                    1,
+                    "helpdeskURL"
+                ]
+            ]
+        ]
+    ],
+    "H3Qjqa": "Hide stream preview",
+    "eYyK1t": "Advanced",
+    "FZ9Fl5": "Recent Channels",
+    "CmJX8P": [
+        "Frame Rate: ",
+        [
+            1,
+            "frameRate"
+        ],
+        "fps"
+    ],
+    "YSdHV1": "Audio Device",
+    "P2pjm5": "Stream Mode",
+    "G+k1q6": "Gaming",
+    "G5O1Mz": [
+        "Smoother video (",
+        [
+            1,
+            "resolution"
+        ],
+        ", ",
+        [
+            1,
+            "frameRate"
+        ],
+        "fps)"
+    ],
+    "MuHUFR": "Smoother video",
+    "8tcFLy": [
+        "Clearer text (",
+        [
+            1,
+            "resolution"
+        ],
+        ", ",
+        [
+            1,
+            "frameRate"
+        ],
+        "fps)"
+    ],
+    "y0JuYW": "Clearer text",
+    "7A4ZyM": [
+        "Resolution: ",
+        [
+            1,
+            "resolution"
+        ]
+    ],
+    "hJMA+/": "Select a source",
+    "IG5n0d": "Screen Resolution",
+    "5AyH/v": "Stream",
+    "SiHtX1": "Notify my friends in the server",
+    "7eHfrq": "Preset",
+    "FzMGWV": "Stream Muted",
+    "b0+Ira": "Mute Stream Audio",
     "AI_TAG": "AI",
     "APPLICATION_AUTOMOD_BADGE": "Uses AutoMod",
     "APP_ICON_MUSHROOM": "One Up",
