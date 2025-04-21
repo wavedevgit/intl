@@ -11386,6 +11386,7 @@
         ]
     ],
     "COLLECTIBLES_ADD_TO_YOUR_COLLECTION": "Add to your collection",
+    "6cfuDg": "Acquired",
     "COLLECTIBLES_ALREADY_OWNED": "Already owned",
     "COLLECTIBLES_ARCADE_COACHTIP_DESCRIPTION": "Ready to score some extra style points?",
     "COLLECTIBLES_ARCADE_COACHTIP_TITLE": "New Arcade styles",
@@ -11400,37 +11401,7 @@
     "COLLECTIBLES_BANNER_DESCRIPTION_2024": "Check out the latest avatar decorations and profile effects and collect your favorite styles.",
     "COLLECTIBLES_BANNER_TITLE_2024": "Give your profile a fresh look",
     "COLLECTIBLES_BUNDLE_BUY_BUNDLE": "Buy Bundle",
-    "COLLECTIBLES_BUNDLE_DECORATION": "Decoration",
-    "COLLECTIBLES_BUNDLE_DESCRIPTION": [
-        "Bundle Includes: ",
-        [
-            1,
-            "avatarDecorationName"
-        ],
-        " Decoration ",
-        "& ",
-        [
-            1,
-            "profileEffectName"
-        ],
-        " Profile Effect"
-    ],
-    "COLLECTIBLES_BUNDLE_DESCRIPTION_ALT": [
-        "Bundle includes: ",
-        [
-            1,
-            "avatarDecorationName"
-        ],
-        " (avatar decoration) ",
-        "& ",
-        [
-            1,
-            "profileEffectName"
-        ],
-        " (profile effect)"
-    ],
-    "COLLECTIBLES_BUNDLE_DESCRIPTION_PRFIX": "Bundle Includes",
-    "COLLECTIBLES_BUNDLE_PROFILE_EFFECT": "Profile Effect",
+    "y1VWkZ": "You already have items from this bundle.",
     "COLLECTIBLES_BUNDLE_PURCHASE_BUNDLE_AT_PRICE": [
         "Buy Bundle for ",
         [
@@ -11438,6 +11409,7 @@
             "price"
         ]
     ],
+    "BEjTio": "Bundle unavailable",
     "COLLECTIBLES_BUY_DECORATION": "Buy Decoration",
     "H3vhqa": "Buy Nameplate",
     "COLLECTIBLES_BUY_PROFILE_EFFECT": "Buy Profile Effect",
@@ -11451,6 +11423,26 @@
     ],
     "COLLECTIBLES_CHAT_PREVIEW_TEXT": "Look at my beautiful decoration",
     "COLLECTIBLES_CLAIM": "Claim",
+    "4kp0AA": [
+        [
+            1,
+            "itemName"
+        ],
+        " has been added to your collection."
+    ],
+    "IMffmp": "You did it! Put it on!",
+    "fXw44e": [
+        [
+            1,
+            "itemOneName"
+        ],
+        " and ",
+        [
+            1,
+            "itemTwoName"
+        ],
+        " have been added to your collection."
+    ],
     "COLLECTIBLES_COLLECTING": "Collecting",
     "COLLECTIBLES_COLLECTING_FINISHED": "Collecting finished",
     "COLLECTIBLES_CTA_GO_TO_SHOP": "Go to Shop",
@@ -11624,6 +11616,7 @@
     "x41/V1": "New Drop",
     "COLLECTIBLES_NEW_RELEASE": "New Release",
     "COLLECTIBLES_NITRO_EXCLUSIVE": "Nitro exclusive",
+    "nKdAlJ": "Available to use with an active Nitro subscription.",
     "COLLECTIBLES_NON_PREMIUM_PRICE": [
         [
             1,
@@ -11855,8 +11848,6 @@
     ],
     "COLLECTIBLES_SENDER_GIFTED_YOU_EFFECT_UNKNOWN_SENDER": "You have been gifted a profile effect!",
     "COLLECTIBLES_SEND_ITEM_AS_A_GIFT": "Send item as a gift",
-    "COLLECTIBLES_SFA_BANNER_DESCRIPTION": "Make your profile feel alive with snazzy profile effects and avatar decorations. What's not to love?",
-    "COLLECTIBLES_SFA_HERO_BANNER_SUBTITLE": "Charming. Fierce. Hungry. Whatever your vibe, buy and collect your favorite styles for your profile for any occasion.",
     "COLLECTIBLES_SFA_STARTER_BANNER_DESCRIPTION": [
         "Collect these sweet, bonus items when you join Nitro! ",
         [
@@ -11867,7 +11858,6 @@
             ]
         ]
     ],
-    "COLLECTIBLES_SFA_TITLE": "The Shop is now open to you!",
     "bc9RBA": [
         "Shop All ",
         [
@@ -11961,7 +11951,6 @@
         ")"
     ],
     "z7y5vL": "Original",
-    "mnoV/P": "You own all colors!",
     "FdGl5O": "View Details",
     "COLLECTIBLES_YOU_COLLECTED": [
         "You've collected ",
