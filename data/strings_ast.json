@@ -4586,7 +4586,8 @@
                             ],
                             ", and ",
                             [
-                                7
+                                1,
+                                "friendCountMinusTwo"
                             ],
                             " others are"
                         ]
