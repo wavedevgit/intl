@@ -79535,6 +79535,80 @@
         ],
         "."
     ],
+    "Kcieh4": [
+        [
+            8,
+            "$b",
+            [
+                "By clicking ",
+                "\"",
+                [
+                    1,
+                    "primaryText"
+                ],
+                "\"",
+                ", you are purchasing a recurring subscription."
+            ]
+        ],
+        " You'll be charged ",
+        [
+            1,
+            "proratedAmount"
+        ],
+        " today, and  ",
+        [
+            1,
+            "renewalAmount"
+        ],
+        " plus applicable taxes, less any applicable credits or discounts, every ",
+        [
+            1,
+            "rateInterval"
+        ],
+        " until you cancel. Prices subject to change with notice to you. Cancel anytime from your Settings page. ",
+        [
+            8,
+            "$link",
+            [
+                "Paid Service Terms"
+            ],
+            [
+                [
+                    1,
+                    "paidURL"
+                ]
+            ]
+        ],
+        " apply.  Have questions? ",
+        [
+            8,
+            "$link",
+            [
+                "Contact us"
+            ],
+            [
+                [
+                    1,
+                    "contactLink"
+                ]
+            ]
+        ],
+        " or see our ",
+        [
+            8,
+            "$link",
+            [
+                "Subscriptions FAQ"
+            ],
+            [
+                [
+                    1,
+                    "helpdeskArticle"
+                ]
+            ]
+        ],
+        "."
+    ],
     "SUBSCRIPTION_PAYMENT_LEGALESE_YEARLY": "Hey! What you're purchasing is a recurring subscription, which means we'll charge you today and continue to charge you yearly until you cancel the subscription. You can cancel anytime from your Settings page, though!",
     "SUB_ENABLED_SERVERS": "Sub Enabled Servers",
     "SUGGESTED": "Suggested",
