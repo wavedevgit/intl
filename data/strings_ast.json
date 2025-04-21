@@ -5252,6 +5252,10 @@
         ],
         "'s stream in"
     ],
+    "2fmTpa": "Medium",
+    "5gbdUV": "Password Strength",
+    "Xraqqa": "Strong",
+    "w/8Tub": "Weak",
     "AUTH_SESSIONS": "Devices",
     "AUTH_SESSIONS_ACTIVE_RECENTLY": "less than an hour ago",
     "AUTH_SESSIONS_CURRENT": "Current Device",
@@ -58024,7 +58028,16 @@
     "PASSWORD_REQUIRED": "Password is required.",
     "PASSWORD_REQUIREMENTS_CHARACTER_TYPES": "Must be at least 8 characters and include 3 of these 4 character types: uppercase, lowercase, numbers, and symbols.",
     "PASSWORD_REQUIREMENTS_EMPTY": "Your new password cannot be empty.",
+    "VUUJ6e": [
+        "Password must be ",
+        [
+            1,
+            "minimumLength"
+        ],
+        " or more characters. Strong passwords have a symbol, one uppercase, and lowercase letter."
+    ],
     "PASSWORD_REQUIREMENTS_MIN_LENGTH": "Must be at least 8 characters long.",
+    "DfaKHh": "Password is too weak or common to use",
     "PASTE": "Paste",
     "PAUSE": "Pause",
     "PAYMENT_ACCOUNT_VERIFYING": "Connecting with your payment source",
