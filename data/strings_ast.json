@@ -14556,6 +14556,7 @@
     "CONTACT_SYNC_UPDATE_NAME_SUBTITLE": "Your name is only used when you send friend requests to people you have in your contact book.",
     "CONTACT_SYNC_UPDATE_NAME_TITLE": "Update your name",
     "CONTENT_AND_SOCIAL": "Content & Social",
+    "Q4BGAA": "Some content failed to render.",
     "CONTENT_INVENTORY_ACTIVITY_CARD_ARIA_ROLE_DESCRIPTION": "Activity Card",
     "CONTENT_INVENTORY_COACHTIP_HEADER": "Reply in 1-click!",
     "CONTENT_INVENTORY_COACHTIP_IMAGE_ALT": "Wumpus chatting with a friend while gaming",
@@ -92056,6 +92057,22 @@
     "u7tjsr": "check out my tag!",
     "GlWVJC": "woah how did you get that",
     "AIp9ho": "anyone here can get it!",
+    "CRbkIy": [
+        "Your Server Profile is private. Users will not be able to see it from a Server Tag. ",
+        [
+            8,
+            "$link",
+            [
+                "Edit Setting"
+            ],
+            [
+                [
+                    1,
+                    "onClickEditSetting"
+                ]
+            ]
+        ]
+    ],
     "mf2OwM": "Server Tag",
     "nBRtt7": "Try entering a different keyword to find a voice channel to stream in.",
     "sWGfr6": "There are no voice channels available",
