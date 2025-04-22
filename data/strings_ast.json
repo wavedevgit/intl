@@ -58102,6 +58102,8 @@
     "PAYMENT_MODAL_SUBTITLE_PREMIUM_GIFT": "Buy a Gift",
     "PAYMENT_PRICE_CHANGE_BODY": "The price has changed since you started the purchase. Please restart the purchase after checking the price.",
     "PAYMENT_PRICE_CHANGE_TITLE": "The price changed!",
+    "6d44Fx": "You can only use certain payment methods for this purchase.",
+    "Tdb5qa": "Your current payment method isn't supported for this purchase. Please add a new payment option.",
     "PAYMENT_SOURCES_ADD": "Add a new payment method",
     "PAYMENT_SOURCE_ACCOUNT_HOLDER_NAME": "Account Holder Name",
     "PAYMENT_SOURCE_ADD_SUCCESS_TOAST": "Payment Method saved!",
