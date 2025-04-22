@@ -519,8 +519,6 @@
     "ACCESSIBILITY_SETTINGS_SYNC_FORCED_COLORS_DESCRIPTION": "This allows Discord to use your computer's contrast theme. [Learn more](Learn more) about contrast settings.",
     "ACCESSIBILITY_SETTINGS_SYNC_FORCED_COLORS_DESCRIPTION_WITH_FEEDBACK": "This allows Discord to use your computer's contrast theme. [Learn more](Learn more) about contrast settings, or [share your feedback](share your feedback).",
     "ACCESSIBILITY_SETTINGS_SYNC_FORCED_COLORS_LABEL": "Sync contrast settings",
-    "ACCESSIBILITY_SETTINGS_TAGS_LABEL": "Show guild tags next to names",
-    "ACCESSIBILITY_SETTINGS_TAGS_TITLE": "Guild Tags",
     "ACCESSIBILITY_SETTINGS_TTS_RATE_FASTER": "Faster",
     "ACCESSIBILITY_SETTINGS_TTS_RATE_LABEL": "Text-to-Speech rate",
     "ACCESSIBILITY_SETTINGS_TTS_RATE_PREVIEW": "Preview",
