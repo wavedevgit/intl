@@ -73343,6 +73343,42 @@
         ],
         " days old"
     ],
+    "QPrntb": [
+        "Account must be at least ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " day"
+                ],
+                "other": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " days"
+                ]
+            },
+            0,
+            "cardinal"
+        ],
+        " old"
+    ],
     "ROLE_EDIT_CONNECTIONS_CONTROLS_AND_DESCRIPTION": "Must connect all",
     "ROLE_EDIT_CONNECTIONS_CONTROLS_CLEAR_ALL": "Clear all",
     "ROLE_EDIT_CONNECTIONS_CONTROLS_DESCRIPTION_LEARN_MORE": [
@@ -73393,6 +73429,41 @@
         ],
         " DOTA 2 items"
     ],
+    "OGUX7+": [
+        "Must have at least ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " DOTA 2 item"
+                ],
+                "other": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " DOTA 2 items"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "ROLE_EDIT_CONNECTIONS_CONTROLS_MUST_HAVE_AT_LEAST_FOLLOWERS": [
         "Must have at least ",
         [
@@ -73401,6 +73472,41 @@
             []
         ],
         " followers"
+    ],
+    "Zwey2d": [
+        "Must have at least ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " follower"
+                ],
+                "other": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " followers"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
     ],
     "ROLE_EDIT_CONNECTIONS_CONTROLS_MUST_HAVE_AT_LEAST_FOLLOWING": [
         "Must follow at least ",
@@ -73411,6 +73517,41 @@
         ],
         " users"
     ],
+    "Ueeex8": [
+        "Must follow at least ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " user"
+                ],
+                "other": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " users"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "ROLE_EDIT_CONNECTIONS_CONTROLS_MUST_HAVE_AT_LEAST_GAMES": [
         "Must have at least ",
         [
@@ -73420,12 +73561,55 @@
         ],
         " games"
     ],
+    "BWDpbm": [
+        "Must have at least ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " game"
+                ],
+                "other": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " games"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "ROLE_EDIT_CONNECTIONS_CONTROLS_MUST_HAVE_AT_LEAST_KARMA": [
         "Must have at least ",
         [
             8,
             "metadataHook",
             []
+        ],
+        " Karma"
+    ],
+    "A4zKur": [
+        "Must have at least ",
+        [
+            2,
+            "count"
         ],
         " Karma"
     ],
@@ -73438,12 +73622,61 @@
         ],
         " likes"
     ],
+    "uq2UuL": [
+        "Must have at least ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " like"
+                ],
+                "other": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " likes"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "ROLE_EDIT_CONNECTIONS_CONTROLS_MUST_HAVE_AT_LEAST_POSITIVE_FEEDBACK_PERCENTAGE": [
         "Must have at least ",
         [
             8,
             "metadataHook",
             []
+        ],
+        " percent positive ratings"
+    ],
+    "IpQ4Ex": [
+        "Must have at least ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    2,
+                    "count"
+                ]
+            ]
         ],
         " percent positive ratings"
     ],
@@ -73456,6 +73689,29 @@
         ],
         " posts"
     ],
+    "UK2/m5": [
+        "Must have at least ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    [
+                        7
+                    ],
+                    " post"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " posts"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "ROLE_EDIT_CONNECTIONS_CONTROLS_MUST_HAVE_AT_LEAST_TF2": [
         "Must have at least ",
         [
@@ -73464,6 +73720,41 @@
             []
         ],
         " TF2 items"
+    ],
+    "Eq7h8P": [
+        "Must have at least ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " TF2 item"
+                ],
+                "other": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " TF2 items"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
     ],
     "ROLE_EDIT_CONNECTIONS_CONTROLS_MUST_HAVE_AT_LEAST_TWEETS": [
         "Must have at least ",
@@ -73474,7 +73765,42 @@
         ],
         " posts"
     ],
-    "ROLE_EDIT_CONNECTIONS_CONTROLS_MUST_HAVE_AT_LEAST_UNIQUE_POSITIVE_FEEDBACK_COUNT": [
+    "lrmh/f": [
+        "Must have at least ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " post"
+                ],
+                "other": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " posts"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "v5a2+f": [
         "Must have at least ",
         [
             8,
@@ -73483,7 +73809,42 @@
         ],
         " positive feedback review(s)"
     ],
-    "ROLE_EDIT_CONNECTIONS_CONTROLS_MUST_HAVE_AT_MOST_UNIQUE_NEGATIVE_FEEDBACK_COUNT": [
+    "ROLE_EDIT_CONNECTIONS_CONTROLS_MUST_HAVE_AT_LEAST_UNIQUE_POSITIVE_FEEDBACK_COUNT": [
+        "Must have at least ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " positive feedback review"
+                ],
+                "other": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " positive feedback reviews"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
+    "yYbR2t": [
         "Must have at most ",
         [
             8,
@@ -73492,11 +73853,49 @@
         ],
         " negative feedback review(s)"
     ],
+    "ROLE_EDIT_CONNECTIONS_CONTROLS_MUST_HAVE_AT_MOST_UNIQUE_NEGATIVE_FEEDBACK_COUNT": [
+        "Must have at most ",
+        [
+            6,
+            "count",
+            {
+                "one": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " negative feedback review"
+                ],
+                "other": [
+                    [
+                        8,
+                        "$b",
+                        [
+                            [
+                                7
+                            ]
+                        ]
+                    ],
+                    " negative feedback reviews"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "ROLE_EDIT_CONNECTIONS_CONTROLS_MUST_HAVE_GOLD": "Must have Reddit Gold",
     "ROLE_EDIT_CONNECTIONS_CONTROLS_MUST_HAVE_PAYPAL_VERIFIED_BANK_ACCOUNT": "Must have verified bank account",
     "ROLE_EDIT_CONNECTIONS_CONTROLS_OR_DESCRIPTION": "Must connect at least one",
     "ROLE_EDIT_CONNECTIONS_CONTROLS_REQUIREMENTS": "Requirements",
+    "TwDLVl": "Requirement Summary",
     "ROLE_EDIT_CONNECTIONS_CONTROLS_SELECT_CONNECTION_HEADER": "Add requirement",
+    "5IF76e": "Enabled",
+    "qDWJwc": "Requirement Value",
     "ROLE_EDIT_CONNECTIONS_CONTROLS_WARNING": "Adding connection or app requirements to an existing role will remove members from that role unless they already pass the new requirements. Consider creating a new role instead.",
     "ROLE_EDIT_HOIST_LABEL": "Display separately",
     "ROLE_EDIT_MEMBERS_MISSING": "Not all members are shown, use Search to find specific members",
