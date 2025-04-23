@@ -32571,7 +32571,6 @@
     ],
     "GUILD_PRODUCT_UPLOAD_FILE_BUTTON": "Upload file",
     "2Ab4IS": "By creating an announcement channel, your server profile will be visible to others outside your server members. You can control Profile privacy in Server Settings > Profile.",
-    "/8VkyM": "By creating an announcement channel, your server profile will be visible to others outside your server members. You can control Profile privacy in Server Settings > Overview.",
     "cQDYRk": "Adopt Tag",
     "7XdMW1": "Apply to Join",
     "4yfIDg": "View Application Status",
@@ -32615,7 +32614,6 @@
     "l7Ig5e": "Add up to 5 traits to show off your server’s interests and personality.",
     "S6JNrq": "Traits",
     "J1YOV1": "When enabled, only server members can view profile content. Non-members won't be able to see this content unless they have an invite.",
-    "yHkqfX": "When enabled, only server members can view profile content (server name, icon, description). Non-members won't be able to see this content unless they have an invite.",
     "R8jY9v": [
         "Discoverable servers cannot have their content hidden. You can change this setting in ",
         [
@@ -32629,7 +32627,6 @@
     "fjHWen": "Private Profile",
     "DmIUGB": "Unknown Server",
     "zCGuJy": "By enabling the widget, your server profile will be visible to others outside of your server members. You can control Profile privacy in Server Settings > Profile.",
-    "yInR2t": "By enabling the widget, your server profile will be visible to others outside of your server members. You can control Profile privacy in Server Settings > Overview.",
     "GUILD_PROGRESS_CTA": "Set up your server",
     "GUILD_PROGRESS_CURRENT_STEP": [
         "Step ",
@@ -41760,7 +41757,6 @@
     "GUILD_SETTINGS_HOME_HEADER": "Home Page Banner Background",
     "GUILD_SETTINGS_HOME_HEADER_DESCRIPTION": "This image will be displayed on the Home page of your community server.",
     "GUILD_SETTINGS_HOME_HEADER_RECOMMEND": "The recommended minimum size is 1920x480 and recommended aspect ratio is 4:1.",
-    "GUILD_SETTINGS_ICON_RECOMMEND": "We recommend an image of at least 512x512 for the server.",
     "YOt3Oj": "Invites",
     "GUILD_SETTINGS_KEEP_STARTED_APPLICATIONS_DESCRIPTION": "Warning! Any member who has yet to agree to server rules will automatically be granted full membership.",
     "GUILD_SETTINGS_KICK_STARTED_APPLICATIONS_DESCRIPTION": "Warning! Any member who has not submitted an application will get kicked from the server.",
@@ -47704,7 +47700,7 @@
             [
                 "Server Settings ",
                 "> ",
-                "Overview"
+                "Boost Perks"
             ]
         ],
         "."
@@ -63396,7 +63392,7 @@
             [
                 "Server Settings ",
                 "> ",
-                "Display"
+                "Boost Perks"
             ]
         ],
         "."
