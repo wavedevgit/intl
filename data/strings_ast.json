@@ -41849,6 +41849,9 @@
     "GUILD_SETTINGS_MEMBER_VERIFICATION_AUTO_APPROVAL_DESCRIPTION": "New members will be auto approved when they meet your requirements.",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_BANNED": "Denied & Banned",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_BAN_USER": "Ban User",
+    "VWqCvL": "Accept All",
+    "Gfg0ra": "Reject All",
+    "EPoNRk": "Turning off manual applications will automatically reject all pending applications.",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_CONTINUE_EDITING": "Continue Editing",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_DENIED": "Denied",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_DENY_AND_BAN_APPLICATION": "Deny & Ban",
@@ -41927,7 +41930,6 @@
         ],
         ")"
     ],
-    "GPGPDw": "Turning off manual applications will automatically approve all pending applications.",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_PREVIEW": "Preview",
     "GUILD_SETTINGS_MEMBER_VERIFICATION_PREVIEW_DESCRIPTION": [
         "New members can browse the server before meeting the requirements. We recommend keeping this enabled so they can see what your community is like. If disabled, new members can’t view any contents of the server until they meet the requirements. ",
