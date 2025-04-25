@@ -1913,7 +1913,7 @@
             1,
             "interval"
         ],
-        " until you cancel. You can cancel any time up to 24 hours before your current period ends in the Google Play Store Settings."
+        " until you cancel. Prices subject to change with notice to you. You can cancel any time up to 24 hours before your current period ends in the Google Play Store Settings."
     ],
     "ANOTHER_PREMIUM_SUBSCRIPTION_LEGAL_DISCLAIMER_IOS": [
         "By clicking ",
@@ -1953,7 +1953,7 @@
             1,
             "interval"
         ],
-        " until you cancel. You can cancel any time up to 24 hours before your current period ends in the App Store Settings."
+        " until you cancel. Prices subject to change with notice to you. You can cancel any time up to 24 hours before your current period ends in the App Store Settings."
     ],
     "ANSWER": "Answer",
     "APPEAL_INGESTION_AGE_VERIFICATION_LINK_TITLE": "Submit age verification",
@@ -6016,7 +6016,7 @@
             1,
             "price"
         ],
-        " / month plus applicable taxes starting today, less any applicable credits or discounts, until you cancel. Cancel anytime from your Settings page. ",
+        " / month plus applicable taxes starting today, less any applicable credits or discounts, until you cancel. Prices subject to change with notice to you. Cancel anytime from your Settings page. ",
         [
             8,
             "$link",
@@ -6073,7 +6073,7 @@
             1,
             "price"
         ],
-        " / month plus applicable taxes starting today, less any applicable credits or discounts, until you cancel. Cancel anytime from your Settings page. ",
+        " / month plus applicable taxes starting today, less any applicable credits or discounts, until you cancel. Prices subject to change with notice to you. Cancel anytime from your Settings page. ",
         [
             8,
             "$link",
@@ -6872,7 +6872,7 @@
             1,
             "price"
         ],
-        " and to continue to do so automatically monthly until you cancel. You may cancel anytime."
+        " and to continue to do so automatically monthly until you cancel. Prices subject to change with notice to you. You may cancel anytime."
     ],
     "BILLING_PAYMENT_PREMIUM_TERMS_LEGALESE_MULTI_MONTH": [
         "By purchasing a Discord subscription, you agree to our ",
@@ -6927,7 +6927,7 @@
             1,
             "intervalCount"
         ],
-        " months until you cancel. You may cancel anytime."
+        " months until you cancel. Prices subject to change with notice to you. You may cancel anytime."
     ],
     "BILLING_PAYMENT_PREMIUM_TERMS_LEGALESE_YEARLY": [
         "By purchasing a Discord subscription, you agree to our ",
@@ -6977,7 +6977,7 @@
             1,
             "price"
         ],
-        " and to continue to do so automatically yearly until you cancel. You may cancel anytime."
+        " and to continue to do so automatically yearly until you cancel. Prices subject to change with notice to you. You may cancel anytime."
     ],
     "BILLING_PAYMENT_SOURCES": "Payment Methods",
     "BILLING_PAYMENT_SOURCE_INVALID": "This payment source is invalid.",
@@ -10667,7 +10667,7 @@
             1,
             "billingPeriod"
         ],
-        " after that until you cancel. Cancel anytime from your Settings page. ",
+        " after that until you cancel. Prices subject to change with notice to you. Cancel anytime from your Settings page. ",
         [
             8,
             "$link",
@@ -20006,7 +20006,7 @@
                 "you are purchasing a recurring subscription"
             ]
         ],
-        ". You'll be charged monthly starting today, plus applicable taxes, less any applicable credits or discounts, until you cancel. Cancel anytime from your Settings page. This purchase is offered by the developer of this app and can be used only with this app. ",
+        ". You'll be charged monthly starting today, plus applicable taxes, less any applicable credits or discounts, until you cancel. Prices subject to change with notice to you. Cancel anytime from your Settings page. This purchase is offered by the developer of this app and can be used only with this app. ",
         [
             8,
             "$link",
@@ -20047,7 +20047,7 @@
             1,
             "intervalCount"
         ],
-        " months until you cancel. You may cancel anytime under User Settings ",
+        " months until you cancel. Prices subject to change with notice to you. You may cancel anytime under User Settings ",
         "> ",
         "Subscriptions, and previous charges won’t be refunded unless required by law. This purchase is being offered to you by the developer of this Activity and can be accessed and used only when you’re in this Activity."
     ],
@@ -20068,7 +20068,7 @@
             1,
             "intervalCount"
         ],
-        " months starting today, plus applicable taxes, less any applicable credits or discounts, until you cancel. Cancel anytime from your Settings page. This purchase is offered by the developer of this app and can be used only with this app. ",
+        " months starting today, plus applicable taxes, less any applicable credits or discounts, until you cancel. Prices subject to change with notice to you. Cancel anytime from your Settings page. This purchase is offered by the developer of this app and can be used only with this app. ",
         [
             8,
             "$link",
@@ -20126,7 +20126,7 @@
                 ]
             ]
         ],
-        " plus applicable taxes starting today, less any applicable credits or discounts, until you cancel. Cancel anytime from your Settings page. This purchase is offered by the developer of this app and can be used only with this app. ",
+        " plus applicable taxes starting today, less any applicable credits or discounts, until you cancel. Prices subject to change with notice to you. Cancel anytime from your Settings page. This purchase is offered by the developer of this app and can be used only with this app. ",
         [
             8,
             "$link",
@@ -20173,7 +20173,7 @@
                 "you are purchasing a recurring subscription"
             ]
         ],
-        ". You'll be charged yearly starting today, plus applicable taxes, less any applicable credits or discounts, until you cancel. Cancel anytime from your Settings page. This purchase is offered by the developer of this app and can be used only with this app. ",
+        ". You'll be charged yearly starting today, plus applicable taxes, less any applicable credits or discounts, until you cancel. Prices subject to change with notice to you. Cancel anytime from your Settings page. This purchase is offered by the developer of this app and can be used only with this app. ",
         [
             8,
             "$link",
@@ -33726,7 +33726,7 @@
                 ]
             ]
         ],
-        ". This is a recurring subscription, we'll charge your account today and every month until you cancel."
+        ". This is a recurring subscription, we'll charge your account today and every month until you cancel. Prices subject to change with notice to you."
     ],
     "GUILD_ROLE_SUBSCRIPTION_PURCHASE_MODAL_CONFIRMATION_CHANNEL_PREVIEW": "A few of your new exclusive channels",
     "GUILD_ROLE_SUBSCRIPTION_PURCHASE_MODAL_CONFIRMATION_DONE_BUTTON": "All right!",
@@ -64923,7 +64923,7 @@
                 "monthly"
             ]
         ],
-        " until you cancel the subscription. You can cancel any time from your Settings page."
+        " until you cancel the subscription. Prices subject to change with notice to you. You can cancel any time from your Settings page."
     ],
     "PREMIUM_SUBSCRIPTION_ENDING_WHAT_YOU_LOSE_FOOTER_MONTHLY_TIER_1": [
         "If you reinstate Nitro Classic, we’ll resume charging your payment method ",
@@ -64945,7 +64945,7 @@
                 "monthly"
             ]
         ],
-        " until you cancel the subscription. You can cancel any time from your Settings page."
+        " until you cancel the subscription. Prices subject to change with notice to you. You can cancel any time from your Settings page."
     ],
     "PREMIUM_SUBSCRIPTION_ENDING_WHAT_YOU_LOSE_FOOTER_MULTI_MONTH": [
         "If you reinstate Nitro, we’ll resume charging your payment method ",
@@ -64972,7 +64972,7 @@
                 " months"
             ]
         ],
-        " until you cancel the subscription. You can cancel any time from your Settings page."
+        " until you cancel the subscription. Prices subject to change with notice to you. You can cancel any time from your Settings page."
     ],
     "PREMIUM_SUBSCRIPTION_ENDING_WHAT_YOU_LOSE_FOOTER_YEARLY": [
         "If you reinstate Nitro, we’ll resume charging your payment method ",
@@ -64994,7 +64994,7 @@
                 "yearly"
             ]
         ],
-        " until you cancel the subscription. You can cancel any time from your Settings page."
+        " until you cancel the subscription. Prices subject to change with notice to you. You can cancel any time from your Settings page."
     ],
     "PREMIUM_SUBSCRIPTION_ENDING_WHAT_YOU_LOSE_FOOTER_YEARLY_TIER_1": [
         "If you reinstate Nitro Classic, we’ll resume charging your payment method ",
@@ -65016,7 +65016,7 @@
                 "yearly"
             ]
         ],
-        " until you cancel the subscription. You can cancel any time from your Settings page."
+        " until you cancel the subscription. Prices subject to change with notice to you. You can cancel any time from your Settings page."
     ],
     "PREMIUM_SUBSCRIPTION_ENDING_WHAT_YOU_LOSE_SUBTITLE": [
         "If you don’t keep Nitro, ",
@@ -65129,7 +65129,7 @@
             1,
             "interval"
         ],
-        " until you cancel. You can cancel any time up to 24 hours before your current period ends in the Google Play Store Settings."
+        " until you cancel. Prices subject to change with notice to you. You can cancel any time up to 24 hours before your current period ends in the Google Play Store Settings."
     ],
     "PREMIUM_SUBSCRIPTION_LEGAL_DISCLAIMER_IOS": [
         "By clicking “Get Nitro” you agree to the Terms of Service and Paid Services Terms. This is a recurring subscription. We'll charge your Apple ID account today and every ",
@@ -65137,7 +65137,7 @@
             1,
             "interval"
         ],
-        " until you cancel. You can cancel any time up to 24 hours before your current period ends in the App Store Settings."
+        " until you cancel. Prices subject to change with notice to you. You can cancel any time up to 24 hours before your current period ends in the App Store Settings."
     ],
     "PREMIUM_SUBSCRIPTION_MANAGE_YOURS_LINK": [
         "Trying to manage your ",
@@ -79717,14 +79717,14 @@
     "SUBSCRIBE_NOW_FREE_MONTH": "Subscribe now and get a free month of Nitro.",
     "SUBSCRIPTIONS_TITLE": "Subscriptions",
     "SUBSCRIPTION_MANAGEMENT": "Subscription Management",
-    "SUBSCRIPTION_PAYMENT_LEGALESE_MONTHLY": "Hey! What you're purchasing is a recurring subscription, which means we'll charge you today and continue to charge you monthly until you cancel the subscription. You can cancel anytime from your Settings page, though!",
+    "SUBSCRIPTION_PAYMENT_LEGALESE_MONTHLY": "Hey! What you're purchasing is a recurring subscription, which means we'll charge you today and continue to charge you monthly until you cancel the subscription. Prices subject to change with notice to you. You can cancel anytime from your Settings page, though!",
     "SUBSCRIPTION_PAYMENT_LEGALESE_MULTI_MONTH": [
         "Hey! What you're purchasing is a recurring subscription, which means we'll charge today and continue to charge you every ",
         [
             1,
             "intervalCount"
         ],
-        " months until you cancel the subscription. You can cancel anytime from your Settings page, though!"
+        " months until you cancel the subscription. Prices subject to change with notice to you. You can cancel anytime from your Settings page, though!"
     ],
     "SUBSCRIPTION_PAYMENT_LEGALESE_PAYSAFECARD": "Please note that Discord can’t refund purchases made with a Paysafecard.",
     "SUBSCRIPTION_PAYMENT_LEGALESE_PLAN_CHANGE_V2": [
@@ -79747,7 +79747,7 @@
             1,
             "rate"
         ],
-        " plus applicable taxes on the date shown above, less any applicable credits or discounts, until you cancel. Cancel anytime from your Settings page. ",
+        " plus applicable taxes on the date shown above, less any applicable credits or discounts, until you cancel. Prices subject to change with notice to you. Cancel anytime from your Settings page. ",
         [
             8,
             "$link",
@@ -79811,7 +79811,7 @@
             1,
             "rate"
         ],
-        " plus applicable taxes starting today, less any applicable credits or discounts, until you cancel. Cancel anytime from your Settings page. ",
+        " plus applicable taxes starting today, less any applicable credits or discounts, until you cancel. Prices subject to change with notice to you. Cancel anytime from your Settings page. ",
         [
             8,
             "$link",
@@ -79875,7 +79875,7 @@
             1,
             "rate"
         ],
-        " plus applicable taxes starting today, less any applicable credits or discounts, until you cancel. Cancel anytime from your Settings page. ",
+        " plus applicable taxes starting today, less any applicable credits or discounts, until you cancel. Prices subject to change with notice to you. Cancel anytime from your Settings page. ",
         [
             8,
             "$link",
@@ -79993,7 +79993,7 @@
         ],
         "."
     ],
-    "SUBSCRIPTION_PAYMENT_LEGALESE_YEARLY": "Hey! What you're purchasing is a recurring subscription, which means we'll charge you today and continue to charge you yearly until you cancel the subscription. You can cancel anytime from your Settings page, though!",
+    "SUBSCRIPTION_PAYMENT_LEGALESE_YEARLY": "Hey! What you're purchasing is a recurring subscription, which means we'll charge you today and continue to charge you yearly until you cancel the subscription. Prices subject to change with notice to you. You can cancel anytime from your Settings page, though!",
     "SUB_ENABLED_SERVERS": "Sub Enabled Servers",
     "SUGGESTED": "Suggested",
     "SUGGESTED_FRIENDS_LIST_HEADER": "Suggested Friends",
