@@ -15436,6 +15436,29 @@
         ]
     ],
     "CREATE_POLL_EDIT_IMAGE_DESCRIPTION": "Edit Image Description",
+    "w8e4qK": [
+        "You have ",
+        [
+            6,
+            "numOfErrors",
+            {
+                "one": [
+                    [
+                        7
+                    ],
+                    " error"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " errors"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "CREATE_POLL_EXPIRATION": "Poll will be live for 24 hours",
     "CREATE_POLL_HEADING": "Create a Poll",
     "CREATE_POLL_LAYOUTS_RADIOGROUP_ARIA_LABEL": "Poll answer style",

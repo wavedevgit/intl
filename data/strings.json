@@ -21073,6 +21073,7 @@
     "w6VSSE": "Connect Account",
     "w6zHX1": "Message failed to send because you cannot send scheduled messages",
     "w8VWRU": "This channel syncing with a game that uses Discord to power its chat. [Learn more](Learn more)",
+    "w8e4qK": "You have {numOfErrors, plural, one { error} other { errors} }",
     "w9Hq8P": "Soundmoji",
     "wAfrVl": "Total Grass Touched",
     "wAtFS0": "Introducing Leaderboards",
