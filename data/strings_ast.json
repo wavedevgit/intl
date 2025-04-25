@@ -16565,6 +16565,13 @@
         ]
     ],
     "TOEOaW": "Clear after today",
+    "DN91Jy": [
+        "tomorrow at ",
+        [
+            1,
+            "time"
+        ]
+    ],
     "CUSTOM_STATUS_CLEAR_CUSTOM_STATUS": "Clear Status",
     "CUSTOM_STATUS_CLEAR_CUSTOM_STATUS_A11Y_LABEL": "Clear custom status",
     "CUSTOM_STATUS_CLEAR_IN_HOURS": [
@@ -84118,6 +84125,36 @@
             ]
         ],
         "."
+    ],
+    "KI+BSU": [
+        "By clicking “Create account,” you agree to Discord’s ",
+        [
+            8,
+            "$link",
+            [
+                "Terms of Service"
+            ],
+            [
+                [
+                    1,
+                    "termsURL"
+                ]
+            ]
+        ],
+        " and have read the ",
+        [
+            8,
+            "$link",
+            [
+                "Privacy Policy"
+            ],
+            [
+                [
+                    1,
+                    "privacyURL"
+                ]
+            ]
+        ]
     ],
     "TERMS_PRIVACY_ON_REGISTER": [
         "By clicking ",
