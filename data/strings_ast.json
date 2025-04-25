@@ -5479,8 +5479,6 @@
             "avatarUrl"
         ]
     ],
-    "AVATAR_DECORATION_MODAL_APPLY": "Apply",
-    "AVATAR_DECORATION_SELECTION_SECTION_A11Y": "Avatar Decoration Selection Section",
     "AVATAR_IN_ONBOARDING_ADD_PICTURE_CTA": "Add profile picture",
     "AVATAR_IN_ONBOARDING_DEFAULT_SELECT_SUBTITLE": "or choose a Discord avatar",
     "AVATAR_IN_ONBOARDING_FILE_TYPE_ERROR": "Please upload a JPG or PNG file.",
@@ -9826,12 +9824,6 @@
     "CHANGE_BANNER": "Change Banner",
     "CHANGE_CAMERA": "Change camera",
     "CHANGE_CATEGORY": "Change Category",
-    "CHANGE_DECORATION_MODAL_PREMIUM_STARTER_HEADER": "Exclusive to Nitro",
-    "CHANGE_DECORATION_MODAL_PREVIEW_PURCHASE_PREMIUM": "Want this decoration for yourself? Head to the Shop to buy and collect it!",
-    "CHANGE_DECORATION_MODAL_PREVIEW_STARTER": "Want this for yourself? Collect and use this bonus decoration anytime with an active Nitro subscription.",
-    "CHANGE_DECORATION_MODAL_PREVIEW_STARTER_CHURNED": "Use this bonus decoration with an active Nitro subscription.",
-    "CHANGE_DECORATION_MODAL_PREVIEW_STARTER_PREMIUM": "Want this for yourself? Head to the Shop to collect it!",
-    "CHANGE_DECORATION_MODAL_PURCHASE_HEADER": "Your Decorations",
     "CHANGE_DECORATION_MODAL_STARTER_DESC": "Use anytime with an active Nitro subscription.",
     "CHANGE_DM_OWNER": "Make Group Owner",
     "CHANGE_EMAIL": "Click here to change your email",
@@ -9863,10 +9855,7 @@
     "CHANGE_ONLINE_STATUS": "Change Online Status",
     "CHANGE_PASSWORD": "Change Password",
     "CHANGE_PASSWORD_DESCRIPTION": "Please enter your existing password and your new password.",
-    "CHANGE_PFX_MODAL_PREVIEW_STARTER": "Want this for yourself? Collect and use this bonus profile effect anytime with an active Nitro subscription.",
-    "CHANGE_PFX_MODAL_PREVIEW_STARTER_CHURNED": "Use this bonus profile effect with an active Nitro subscription.",
     "CHANGE_PHONE_NUMBER": "Change Phone Number?",
-    "CHANGE_PROFILE_EFFECT_MODAL_PREVIEW_PURCHASE_PREMIUM": "Want this profile effect for yourself? Head to the Shop to buy and collect it!",
     "CHANGE_SPLASH": "Change Background",
     "CHANGE_VANITY_URL_ERROR": "Custom Invite Link could not be changed because it contains invalid characters, was too short, or is already taken.\nCustom Invite Links can only contain letters, numbers, or dashes.",
     "CHANNEL": "Channel",
@@ -11386,8 +11375,6 @@
     "COLLECTIBLES_ADD_TO_YOUR_COLLECTION": "Add to your collection",
     "6cfuDg": "Acquired",
     "COLLECTIBLES_ALREADY_OWNED": "Already owned",
-    "COLLECTIBLES_ARCADE_COACHTIP_DESCRIPTION": "Ready to score some extra style points?",
-    "COLLECTIBLES_ARCADE_COACHTIP_TITLE": "New Arcade styles",
     "COLLECTIBLES_AVATAR_DECORATION_PREVIEW_A11Y_LABEL": [
         "Avatar decoration preview: ",
         [
@@ -11395,8 +11382,8 @@
             "avatarDecoration"
         ]
     ],
-    "COLLECTIBLES_AVATAR_DECO_UPDATED_NOTIFICATION": "Your avatar decoration is updated!",
-    "COLLECTIBLES_BANNER_DESCRIPTION_2024": "Check out the latest avatar decorations and profile effects and collect your favorite styles.",
+    "COLLECTIBLES_AVATAR_DECO_UPDATED_NOTIFICATION": "Your Avatar Decoration is updated!",
+    "COLLECTIBLES_BANNER_DESCRIPTION_2024": "Check out the latest Avatar Decorations and Profile Effects and collect your favorite styles.",
     "COLLECTIBLES_BANNER_TITLE_2024": "Give your profile a fresh look",
     "COLLECTIBLES_BUNDLE_BUY_BUNDLE": "Buy Bundle",
     "y1VWkZ": "You already have items from this bundle.",
@@ -11444,19 +11431,6 @@
     "COLLECTIBLES_COLLECTING": "Collecting",
     "COLLECTIBLES_COLLECTING_FINISHED": "Collecting finished",
     "COLLECTIBLES_CTA_GO_TO_SHOP": "Go to Shop",
-    "COLLECTIBLES_DARK_FANTASY_COACHTIP_DESCRIPTION": "Enter, wanderer... dangerously charming relics await.",
-    "COLLECTIBLES_DARK_FANTASY_COACHTIP_NEUTRAL_TEXT": [
-        "Check out new ",
-        [
-            8,
-            "$b",
-            [
-                "Dark Fantasy"
-            ]
-        ],
-        " arrivals."
-    ],
-    "COLLECTIBLES_DARK_FANTASY_COACHTIP_TITLE": "New Dark Fantasy styles",
     "COLLECTIBLES_DAYS_LEFT": [
         [
             1,
@@ -11484,8 +11458,6 @@
             "date"
         ]
     ],
-    "COLLECTIBLES_FEELIN_RETRO_PIRATES_COACHTIP_DESCRIPTION": "Give 'em a look-see if yer feelin' curious, matey…",
-    "COLLECTIBLES_FEELIN_RETRO_PIRATES_COACHTIP_TITLE": "Feelin' Retro & Pirates",
     "cl8gS0": [
         "Inspired by your shopping interests. ",
         [
@@ -11510,8 +11482,6 @@
             "sender"
         ]
     ],
-    "COLLECTIBLES_GALAXY_COACHTIP_DESCRIPTION": "New arrivals just landed, and we don't mean aliens.",
-    "COLLECTIBLES_GALAXY_COACHTIP_TITLE": "New Galaxy styles",
     "3lv7q6": "Give your avatar a new look.",
     "ik37ER": "Make your name stand out in servers and chats.",
     "VhJL7+": "Show this effect when others view your profile.",
@@ -11556,8 +11526,6 @@
         ],
         " days remaining"
     ],
-    "COLLECTIBLES_LOFI_VIBES_COACHTIP_DESCRIPTION": "For when you want that \"study & chill\" look",
-    "COLLECTIBLES_LOFI_VIBES_COACHTIP_TITLE": "Lofi Vibes",
     "/0Yndn": [
         "Bundle includes ",
         [
@@ -11621,13 +11589,13 @@
             "price"
         ]
     ],
-    "sajmAg": "Check out the latest avatar decorations, profile effects, and nameplates.",
+    "sajmAg": "Check out the latest Avatar Decorations, Profile Effects, and Nameplates.",
     "QZVVBg": "Create your dream look",
     "/Rk1dn": "Nameplates are here",
     "sb8vi4": "Stand out from the crowd with charming styles for your name.",
     "Mi3iPD": "Check them out",
     "FkIdLy": "NEW! Nameplates",
-    "gOzMv7": "Your nameplate is updated!",
+    "gOzMv7": "Your Nameplate is updated!",
     "COLLECTIBLES_NEW_BADGE": "NEW",
     "x41/V1": "New Drop",
     "COLLECTIBLES_NEW_RELEASE": "New Release",
@@ -11705,7 +11673,7 @@
     "GpnHfH": "Payment Options",
     "COLLECTIBLES_PERMANENT_COLLECTION": "This decoration is now part of your collection and can be used anytime!",
     "COLLECTIBLES_PERMANENT_COLLECTION_BUNDLE": "These decorations are now part of your collection and can be used anytime from your User Profile.",
-    "COLLECTIBLES_PFX_UPDATED_NOTIFICATION": "Your profile effect is updated!",
+    "COLLECTIBLES_PFX_UPDATED_NOTIFICATION": "Your Profile Effect is updated!",
     "COLLECTIBLES_POPULAR_PICKS": "Popular Picks",
     "qSrp39": [
         "Now that you own ",
@@ -11841,28 +11809,23 @@
         ],
         ". This purchase is non-refundable. Once you complete your purchase, the item will be available for use immediately and can be accessed in your User Profile settings. Note that Nitro subscriptions become non-refundable once you’ve purchased an item."
     ],
-    "COLLECTIBLES_QUEUING_UP": "Queuing up",
-    "COLLECTIBLES_ROBERT_COACHTIP_DESCRIPTION": "Immerse yourself in the world of Bikini Bottom",
-    "COLLECTIBLES_ROBERT_COACHTIP_TITLE": "SpongeBob SquarePants",
-    "COLLECTIBLES_ROBERT_SETTINGS_BANNER_DESCRIPTION": "Check out the latest SpongeBob avatar decorations and profile effects!",
-    "COLLECTIBLES_ROBERT_SETTINGS_BANNER_TITLE": "Who lives in a pineapple under the sea?",
     "COLLECTIBLES_SEE_WHATS_NEW": "See what's new in the Shop!",
     "COLLECTIBLES_SENDER_GIFTED_YOU_DECORATION": [
         [
             1,
             "sender"
         ],
-        " gifted you an avatar decoration!"
+        " gifted you an Avatar Decoration!"
     ],
-    "COLLECTIBLES_SENDER_GIFTED_YOU_DECORATION_UNKNOWN_SENDER": "You have been gifted an avatar decoration!",
+    "COLLECTIBLES_SENDER_GIFTED_YOU_DECORATION_UNKNOWN_SENDER": "You have been gifted an Avatar Decoration!",
     "COLLECTIBLES_SENDER_GIFTED_YOU_EFFECT": [
         [
             1,
             "sender"
         ],
-        " gifted you a profile effect!"
+        " gifted you a Profile Effect!"
     ],
-    "COLLECTIBLES_SENDER_GIFTED_YOU_EFFECT_UNKNOWN_SENDER": "You have been gifted a profile effect!",
+    "COLLECTIBLES_SENDER_GIFTED_YOU_EFFECT_UNKNOWN_SENDER": "You have been gifted a Profile Effect!",
     "COLLECTIBLES_SEND_ITEM_AS_A_GIFT": "Send item as a gift",
     "COLLECTIBLES_SFA_STARTER_BANNER_DESCRIPTION": [
         "Collect these sweet, bonus items when you join Nitro! ",
@@ -11922,12 +11885,6 @@
     "RTG4yM": "Price: low to high",
     "6NZpt7": "Recently added",
     "JrlKlp": "Recommended for you",
-    "COLLECTIBLES_STORM_MYSTERY_CARD_TITLE": "Available Aug 23",
-    "COLLECTIBLES_TIDE_CAROUSEL_SLIDE_DESCRIPTION": "New island, new Pals, new adventures!",
-    "COLLECTIBLES_TIDE_COACHTIP_DESCRIPTION": "Your Pals have finally arrived!",
-    "COLLECTIBLES_TIDE_COACHTIP_TITLE": "Palworld",
-    "COLLECTIBLES_TIDE_SETTINGS_BANNER_DESCRIPTION": "Collect the newest avatar decorations and profile effects. Choose your favorite Pals for your adventures ahead!",
-    "COLLECTIBLES_TIDE_SETTINGS_BANNER_TITLE": "Palworld has arrived!",
     "Ij+2ra": "Unknown",
     "COLLECTIBLES_USE_NOW": "Use Now",
     "1jBC0t": [
@@ -67251,7 +67208,7 @@
     "PREMIUM_UPSELL_PROFILE_ANIMATED_BANNER_MODAL_UPSELL_DESCRIPTION": "Access custom profiles, emoji upgrades, and more with Nitro.",
     "PREMIUM_UPSELL_PROFILE_ANIMATED_BANNER_MODAL_UPSELL_TITLE": "Bring your profile to life with an animated banner",
     "PREMIUM_UPSELL_PROFILE_AVATAR_DECO_INLINE_UPSELL": [
-        "Access exclusive avatar decorations with ",
+        "Access exclusive Avatar Decorations with ",
         [
             8,
             "$link",
@@ -67266,13 +67223,13 @@
             ]
         ]
     ],
-    "PREMIUM_UPSELL_PROFILE_AVATAR_DECO_INLINE_UPSELL_DESCRIPTION": "Unlock this exclusive avatar decoration with a Nitro membership.",
-    "PREMIUM_UPSELL_PROFILE_AVATAR_DECO_MODAL_UPSELL_DESCRIPTION": "Get exclusive avatar decorations and special member pricing at the Shop with Nitro.",
-    "PREMIUM_UPSELL_PROFILE_AVATAR_DECO_MODAL_UPSELL_TITLE": "Reimagine your profile with avatar decorations",
+    "PREMIUM_UPSELL_PROFILE_AVATAR_DECO_INLINE_UPSELL_DESCRIPTION": "Unlock this exclusive Avatar Decoration with a Nitro membership.",
+    "PREMIUM_UPSELL_PROFILE_AVATAR_DECO_MODAL_UPSELL_DESCRIPTION": "Get exclusive Avatar Decorations and special member pricing at the Shop with Nitro.",
+    "PREMIUM_UPSELL_PROFILE_AVATAR_DECO_MODAL_UPSELL_TITLE": "Reimagine your profile with Avatar Decorations",
     "PREMIUM_UPSELL_PROFILE_CUSTOMIZATION_DESCRIPTION": "Get profile themes, animated avatars, banners and more with Nitro!",
     "PREMIUM_UPSELL_PROFILE_CUSTOMIZATION_TITLE": "Show up how you want with profile customization",
     "PREMIUM_UPSELL_PROFILE_EFFECT_INLINE_UPSELL": [
-        "Access exclusive profile effects with ",
+        "Access exclusive Profile Effects with ",
         [
             8,
             "$link",
@@ -67287,9 +67244,9 @@
             ]
         ]
     ],
-    "PREMIUM_UPSELL_PROFILE_EFFECT_INLINE_UPSELL_DESCRIPTION": "Unlock this exclusive profile effect with a Nitro membership.",
-    "PREMIUM_UPSELL_PROFILE_EFFECT_MODAL_UPSELL_DESCRIPTION": "Get exclusive profile effects and special member pricing at the Shop with Nitro.",
-    "PREMIUM_UPSELL_PROFILE_EFFECT_MODAL_UPSELL_TITLE": "Transform your profile with profile effects",
+    "PREMIUM_UPSELL_PROFILE_EFFECT_INLINE_UPSELL_DESCRIPTION": "Unlock this exclusive Profile Effect with a Nitro membership.",
+    "PREMIUM_UPSELL_PROFILE_EFFECT_MODAL_UPSELL_DESCRIPTION": "Get exclusive Profile Effects and special member pricing at the Shop with Nitro.",
+    "PREMIUM_UPSELL_PROFILE_EFFECT_MODAL_UPSELL_TITLE": "Transform your profile with Profile Effects",
     "PREMIUM_UPSELL_PROFILE_SEGMENTED_CONTROL_NITRO": "Nitro Preview",
     "PREMIUM_UPSELL_PROFILE_SEGMENTED_CONTROL_NON_NITRO": "Current Profile",
     "PREMIUM_UPSELL_PROFILE_TRY_IT_OUT_DESCRIPTION": "See what your profile could look like with Nitro.",
@@ -68249,9 +68206,6 @@
     "PROFILE_CUSTOMIZATION_NITRO_ICON_TOOLTIP": "Exclusive to Nitro",
     "PROFILE_CUSTOMIZATION_PREVIEW": "Preview",
     "PROFILE_CUSTOMIZATION_PRONOUNS_PLACEHOLDER": "Add your pronouns",
-    "PROFILE_EFFECT_MODAL_APPLY": "Apply",
-    "PROFILE_EFFECT_MODAL_HEADER": "Add Profile Effect",
-    "PROFILE_EFFECT_MODAL_SHOP_PREVIEW_HEADER": "Preview the Shop",
     "PROFILE_HEADING_COPY_ID_A11Y_HINT": "double tap to copy user I.D",
     "V15uUF": [
         [
@@ -87699,9 +87653,6 @@
     "USER_SETTINGS_CACHES_CLEARED": "Caches Cleared!",
     "USER_SETTINGS_CACHES_WRITTEN": "Caches Written!",
     "USER_SETTINGS_CHANGE_AVATAR": "Change Avatar",
-    "USER_SETTINGS_CHANGE_AVATAR_DECORATION": "Change Decoration",
-    "NzNLv7": "Change Nameplate",
-    "USER_SETTINGS_CHANGE_PROFILE_EFFECT": "Change Effect",
     "USER_SETTINGS_CHOOSE_FROM_LIBRARY": [
         [
             8,
@@ -87714,6 +87665,34 @@
     ],
     "USER_SETTINGS_CHOOSE_GUILD_TITLE": "Choose a server",
     "USER_SETTINGS_CLOSE_BUTTON": "Close Button",
+    "Jh8fJy": "Apply",
+    "o7Isq6": "Avatar Decorations",
+    "VqmVqK": "Your Decorations",
+    "w+hNj4": "Avatar Decoration Selection Section",
+    "mDcKND": "Cancel",
+    "HykynZ": "Change Avatar Decoration",
+    "BVcYCw": "Change Decoration",
+    "BwdeMz": "Change Nameplate",
+    "/6nv6O": "Change Profile Effect",
+    "/dRfCQ": "Change Effect",
+    "rb7dJy": "Nameplates",
+    "WfGV5+": "Your Nameplates",
+    "7vkeu7": "Use this bonus Avatar Decoration with an active Nitro subscription.",
+    "1UPza2": "Use this bonus Profile Effect with an active Nitro subscription.",
+    "TiLCg4": "Exclusive to Nitro",
+    "0xs2sL": "Collect and use this bonus Avatar Decoration with an active Nitro subscription.",
+    "JtAKws": "Collect and use this bonus Profile Effect with an active Nitro subscription.",
+    "7KRt6e": "Nameplate Preview",
+    "NhiwBg": "Profile Effects",
+    "t8CdeX": "Profile Effect Selection Section",
+    "9x1v/v": "Your Effects",
+    "OrokWl": "Remove Decoration",
+    "9zwziY": "Remove Nameplate",
+    "uMuafH": "Remove Effect",
+    "hmyYKy": "Go to the Shop to collect this item.",
+    "1vbbeX": "See What's in Shop",
+    "fEGjVV": "Go to the Shop to buy and collect this item.",
+    "CHf9iI": "Use Default",
     "USER_SETTINGS_CONFIRM_LOGOUT": "Are you sure you want to logout?",
     "USER_SETTINGS_CONTACT_DISCOVERY_TITLE": "Discovery",
     "USER_SETTINGS_COPIED": "Copied!",
@@ -87721,7 +87700,6 @@
     "USER_SETTINGS_CUSTOMIZATION_UPSELL": "Unlock with Nitro",
     "USER_SETTINGS_CUSTOMIZE_PROFILE_EXAMPLE_BUTTON": "Example Button",
     "USER_SETTINGS_DELETE_AVATAR": "Delete Avatar",
-    "Vskkdn": "Remove Nameplate",
     "USER_SETTINGS_DISABLE_ADVANCED_VOICE_ACTIVITY": "Turning this off may help if your voice is not being detected by the automatic input sensitivity.",
     "USER_SETTINGS_DISABLE_NOISE_SUPPRESSION": "Noise reduction is disabled while Noise Suppression is active.",
     "USER_SETTINGS_DISABLE_STREAM_PREVIEWS": "Hide Stream Previews",
@@ -87817,15 +87795,6 @@
         ]
     ],
     "3GZE6e": "Unignore",
-    "daaiqK": "Apply",
-    "y1MYys": "Cancel",
-    "3gaDLS": "Try on some of the nameplates currently available for purchase in the shop.",
-    "SNAtBg": "Preview the shop",
-    "cFfWg4": "Shop",
-    "ABkyQk": "Go to Shop",
-    "6wbgS0": "My Nameplates",
-    "3i+W8/": "None",
-    "my5jxM": "Want this nameplate for yourself? Head to the Shop to buy it and collect it!",
     "USER_SETTINGS_KEYBINDS_ACTION": "Action",
     "USER_SETTINGS_KEYBINDS_CHAT_SECTION_TITLE": "Chat",
     "USER_SETTINGS_KEYBINDS_DEFAULT_KEYBINDS_TITLE": "Default Keybinds",
@@ -87865,8 +87834,6 @@
     "RJxLnZ": "Tap to edit Nameplate",
     "HrCWMT": "Edit Nameplate",
     "OwlOS0": "Edit your Nameplate on a desktop device.",
-    "BupzvL": "Nameplate Preview (NONE APPLIED)",
-    "ziaxGh": "Nameplate Preview",
     "USER_SETTINGS_NOISE_CANCELLATION": "Noise Suppression",
     "USER_SETTINGS_NOISE_CANCELLATION_DESCRIPTION": "Suppress background noise from your mic.",
     "USER_SETTINGS_NOISE_CANCELLATION_DISABLED": "None",
@@ -88071,11 +88038,7 @@
     "USER_SETTINGS_PRONOUNS_EDIT_A11Y_LABEL": "Edit Pronouns",
     "USER_SETTINGS_PRONOUNS_HINT": "Tap to add pronouns",
     "USER_SETTINGS_REMOVE_AVATAR": "Remove Avatar",
-    "USER_SETTINGS_REMOVE_AVATAR_DECORATION": "Remove Decoration",
     "USER_SETTINGS_REMOVE_BANNER": "Remove Banner",
-    "KMd1oK": "Remove Nameplate",
-    "USER_SETTINGS_REMOVE_PER_GUILD_AVATAR_DECORATION": "Use Default",
-    "USER_SETTINGS_REMOVE_PROFILE_EFFECT": "Remove Effect",
     "USER_SETTINGS_RESET_AVATAR": "Reset Avatar",
     "USER_SETTINGS_RESET_BANNER": "Reset Banner",
     "USER_SETTINGS_RESET_PROFILE_THEME": "Reset Theme",
@@ -88241,8 +88204,6 @@
     "USER_SETTINGS_UPLOAD_AVATAR": "Upload Avatar",
     "USER_SETTINGS_USED_BACKUP_CODES": "Used Backup Codes",
     "USER_SETTINGS_USER_PROFILE": "User Profile",
-    "9LBDXV": "Use Default",
-    "USER_SETTINGS_USE_DEFAULT_PROFILE_EFFECT": "Use Default",
     "USER_SETTINGS_VOICE_ADD_MULTIPLE": [
         "You can add multiple Push to Talk binds under ",
         [
