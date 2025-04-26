@@ -55634,6 +55634,7 @@
     ],
     "NSFW_GUILD_SIDEBAR_HEADER": "Age-restricted server",
     "NSFW_GUILD_STICKERS_UNAVAILABLE": "Stickers from this server are unavailable",
+    "xi46lp": "Age-Restricted Server",
     "NSFW_TITLE": "Age-Restricted Channel",
     "NUF_AGE_GATE_BODY": [
         "We're so excited you're here! Before we get started please enter your birthday. ",
@@ -94728,8 +94729,20 @@
     "60uRDA": "Follow the steps",
     "SFWVER": "Verify Age",
     "NjO/s7": "This channel is marked as age-restricted because it contains adult content. Do you want to verify your age group to access this channel?",
+    "+tEu6+": "This server is marked as age-restricted because it contains adult content. Do you want to verify your age group to access this server?",
     "ECL1eX": [
         "This channel contains adult content marked as age-restricted. We determined you're in the ",
+        [
+            8,
+            "$b",
+            [
+                "teen"
+            ]
+        ],
+        " age group. If we made a mistake, you can reverify."
+    ],
+    "8yts9f": [
+        "This server contains adult content marked as age-restricted. We determined you're in the ",
         [
             8,
             "$b",
