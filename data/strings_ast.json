@@ -19915,7 +19915,7 @@
             "code"
         ]
     ],
-    "EMBEDDED_ACTIVITIES_EXPAND_A11Y_LABEL": "Expand activity",
+    "EMBEDDED_ACTIVITIES_EXPAND_A11Y_LABEL": "Expand Activity",
     "EMBEDDED_ACTIVITIES_EXTERNAL_APP_CONFIRM_ANNOUNCEMENT_BIRD_A11Y_LABEL": "A bird with a megaphone for a head",
     "EMBEDDED_ACTIVITIES_EXTERNAL_APP_CONFIRM_HEADS_UP": "Heads Up!",
     "EMBEDDED_ACTIVITIES_EXTERNAL_APP_CONFIRM_SUBTITLE": "This app is not made by Discord. Only test apps from developers you trust.",
@@ -20355,7 +20355,7 @@
         ],
         " participants"
     ],
-    "EMBEDDED_ACTIVITIES_MINIMIZE_A11Y_LABEL": "Minimize activity",
+    "EMBEDDED_ACTIVITIES_MINIMIZE_A11Y_LABEL": "Minimize Activity",
     "EMBEDDED_ACTIVITIES_MINI_SHELF_TITLE": "Activities Mini Shelf",
     "EMBEDDED_ACTIVITIES_MOBILE_ACTIVITY_PREVIEW_A11Y_LABEL": [
         "A preview of ",
@@ -30889,7 +30889,6 @@
     ],
     "GUILD_HEADER_ONLINE_COUNT_UNKNOWN": "— Online",
     "GUILD_HIGHLIGHTS_NOTIFICATIONS_CATEGORY": "Highlights",
-    "GUILD_HOME_ABOUT": "About",
     "GUILD_HOME_RESOURCES": "Resources",
     "GUILD_IDENTITY_BANNER_A11Y_LABEL": "Change Server Profile Banner",
     "GUILD_IDENTITY_BIO_EDIT_A11Y_HINT": "Tap to edit about me for this server",
@@ -31439,18 +31438,6 @@
     "GUILD_ONBOARDING_DEFAULT_CHANNELS_RECOMMENDED_DISMISS_ALL": "Dismiss all",
     "GUILD_ONBOARDING_DEFAULT_CHANNELS_RULES_DISCOURAGED": "We don't recommend adding the rules channel as a Default Channel",
     "GUILD_ONBOARDING_DEFAULT_CHANNELS_VOICE_TOOLTIP": "Voice Channels you don't select will still be available in the Voice Channel section of the channel list.",
-    "GUILD_ONBOARDING_HOME_GUILD_MEMBERS_RATIO": [
-        [
-            2,
-            "online"
-        ],
-        " / ",
-        [
-            2,
-            "total"
-        ],
-        " Members online"
-    ],
     "GUILD_ONBOARDING_NAGBAR_MESSAGE": "Introducing Community Onboarding: a better way for members to get roles!",
     "GUILD_ONBOARDING_NEW_MEMBER_PROGRESS_BAR_COUNTER": [
         [
@@ -31994,8 +31981,6 @@
         ]
     ],
     "GUILD_POPOUT_JOINED": "Joined",
-    "GUILD_POPOUT_UNAVAILABLE_FLAVOR": "We can't show any further details.",
-    "GUILD_POPOUT_UNAVAILABLE_HEADER": "This server is not available.",
     "GUILD_POPOUT_USERS_IN_VOICE": [
         [
             1,
@@ -32116,7 +32101,6 @@
             ]
         ]
     ],
-    "GUILD_POPOUT_VIEW_SERVER_BUTTON": "View Server",
     "GUILD_PREMIUM": "Server Boost Status",
     "GUILD_PRODUCTS_ACTION_MENU_BUTTON_ARIA_LABEL": [
         "Open action menu for ",
