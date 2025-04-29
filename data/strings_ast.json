@@ -47314,6 +47314,7 @@
     "INVITE_COPY_INVITE_LINK_HEADER_MOBILE": "Copy Invite Link",
     "INVITE_EDIT_LINK": "Edit invite link.",
     "INVITE_EMBED_ASK_TO_JOIN": "Ask to Join",
+    "IBl8IC": "Cannot invite yourself!",
     "2Gbof3": "Invite Expired",
     "jfrMtr": "Full",
     "INVITE_EMBED_INVITE_TO_JOIN": "Invite to Join",
@@ -86448,7 +86449,37 @@
             ]
         ]
     ],
+    "Zogooq": [
+        [
+            2,
+            "partySize"
+        ],
+        "/",
+        [
+            2,
+            "maxPartySize"
+        ],
+        " Listening"
+    ],
+    "UGei0t": [
+        [
+            2,
+            "partySize"
+        ],
+        " Listening"
+    ],
     "USER_ACTIVITY_LISTENING_TO": "Listening to",
+    "JCvHt7": [
+        [
+            1,
+            "track"
+        ],
+        "\nby ",
+        [
+            1,
+            "artist"
+        ]
+    ],
     "USER_ACTIVITY_LISTEN_ALONG": "Listen Along",
     "USER_ACTIVITY_LISTEN_ALONG_DESCRIPTION": [
         "Listen along with ",
@@ -86467,6 +86498,25 @@
         " is not detected"
     ],
     "USER_ACTIVITY_PLAYING": "Playing",
+    "gLu7NT": [
+        [
+            2,
+            "partySize"
+        ],
+        "/",
+        [
+            2,
+            "maxPartySize"
+        ],
+        " Playing"
+    ],
+    "65JnWF": [
+        [
+            2,
+            "partySize"
+        ],
+        " Playing"
+    ],
     "USER_ACTIVITY_PLAY_ON_PLATFORM": [
         "Play on ",
         [
