@@ -10761,14 +10761,6 @@
         ". Please click the link to verify your account."
     ],
     "CLAIM_ACCOUNT_SHORT": "Claim",
-    "CLAN_DISCOVERY_CARD_TAG_TOOLTIP": "Become a member to unlock this tag",
-    "CLAN_SETUP_PLAYSTYLE_CASUAL_TITLE": "Casual",
-    "CLAN_SETUP_PLAYSTYLE_COMPETITIVE_TITLE": "Competitive",
-    "CLAN_SETUP_PLAYSTYLE_SOCIAL_TITLE": "Very Casual",
-    "CLAN_SETUP_PLAYSTYLE_VERY_HARDCORE_TITLE": "Very Competitive",
-    "CLAN_USER_WAITLISTED": "Waitlisted",
-    "CLAN_USER_WAITLIST_CTA": "Join Waitlist for Guilds",
-    "CLAN_USER_WAITLIST_TOAST_SUCCESS": "You have been added to the waitlist!",
     "CLEAR": "Clear",
     "CLEAR_ALL": "Clear all",
     "CLEAR_ATTACHMENTS": "Clear Attachments",
@@ -17700,36 +17692,6 @@
     "DISCOVERABLE_GUILD_HEADER_PUBLIC_INFO": "Anyone can join this server.",
     "DISCOVERABLE_GUILD_PROFILE_PUBLIC_LABEL": "Discoverable Community",
     "DISCOVERY": "Discovery",
-    "DISCOVERY_FIND_GAMING_GUILD_CTA": "Add more games",
-    "DISCOVERY_FIND_GAMING_GUILD_HEADER": [
-        "Find your ",
-        [
-            1,
-            "gameName"
-        ],
-        " guild"
-    ],
-    "DISCOVERY_FIND_GAMING_GUILD_SUBHEADER": [
-        [
-            8,
-            "$p",
-            [
-                "Join an exclusive Guild that also plays ",
-                [
-                    1,
-                    "gameName"
-                ],
-                "."
-            ]
-        ],
-        [
-            8,
-            "$p",
-            [
-                "Looking for something else? Add additional games to find more like-minded gamers."
-            ]
-        ]
-    ],
     "DISCOVERY_LANDING_PAGE": "Server Web Page",
     "DISCOVERY_LANDING_PAGE_ABOUT_DESCRIPTION": "Describe your community in more depth. What does a prospective member need to know, and why should they join?",
     "DISCOVERY_LANDING_PAGE_ABOUT_HINT": "This server is all about hanging with friends, sharing pet pics, and Gregorian chanting.",
@@ -17800,7 +17762,6 @@
     "DISCOVERY_LANDING_PAGE_UPSELL_BUTTON_DISMISS": "Dismiss",
     "DISCOVERY_LANDING_PAGE_UPSELL_DESCRIPTION": "Showcase your community with your very own webpage!",
     "DISCOVERY_LANDING_PAGE_UPSELL_TITLE": "Server Web Pages",
-    "DISCOVERY_SAMPLE_GUILDS_LABEL": "Sample Guilds",
     "DISCOVERY_SPEAKER_COUNT": [
         [
             6,
@@ -29540,6 +29501,15 @@
         "AutoMod rule. Are you sure you want to stop editing without saving?"
     ],
     "GUILD_AUTOMOD_WARNING_UNSAVED_CHANGES_TITLE": "Unsaved Changes",
+    "HHYPgI": "Badge",
+    "uPLDZG": [
+        "[",
+        [
+            1,
+            "tag"
+        ],
+        "]"
+    ],
     "GUILD_BANNER_NOTICE": [
         "Want this server to feel unique? Unlock custom server banners with ",
         [
@@ -32613,6 +32583,7 @@
         ]
     ],
     "fjHWen": "Private Profile",
+    "JTLolJ": "Search for a game...",
     "DmIUGB": "Unknown Server",
     "zCGuJy": "By enabling the widget, your server profile will be visible to others outside of your server members. You can control Profile privacy in Server Settings > Profile.",
     "GUILD_PROGRESS_CTA": "Set up your server",
@@ -49761,10 +49732,6 @@
     "LOCAL_VIDEO_DISABLED": "Video disabled by you",
     "LOCK_FORUM_POST": "Lock Post",
     "LOCK_THREAD": "Lock Thread",
-    "LOGGED_OUT_DISCOVERY_FIND_GAMING_GUILD_CTA": "Login to Discord",
-    "LOGGED_OUT_DISCOVERY_FIND_GAMING_GUILD_HEADER": "Find your gaming guild",
-    "LOGGED_OUT_DISCOVERY_FIND_GAMING_GUILD_SUBHEADER": "Looking for a group of people to play games with? Sign up for Discord and join or build a tight-knit gaming community.",
-    "LOGGED_OUT_DISCOVERY_MOBILE_CTA": "Check it out on desktop!",
     "LOGIN": "Login",
     "LOGIN_AS": [
         "Logging in as ",
@@ -70884,21 +70851,6 @@
     "QUOTE": "Quote",
     "RAISED_HAND_LIST_MOVED_NUX_DESCRIPTION": "Click here in the future to see who's requesting to speak.",
     "RAISED_HAND_LIST_MOVED_NUX_TITLE": "Raised Hand list has moved!",
-    "RAPIDASH_ASK_TO_JOIN_CTA": "Ask to Join",
-    "RAPIDASH_ASK_TO_JOIN_LABEL": [
-        "Ask ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "username"
-                ]
-            ]
-        ],
-        " to join"
-    ],
     "RATE_LIMITED": "You are being rate limited.",
     "VIJkAw": [
         "Try again in ",
@@ -88152,6 +88104,7 @@
         ]
     ],
     "USER_SETTINGS_PROFILE_COLOR_SELECT_COLOR": "Select custom color",
+    "JhNpg4": "Custom Colors",
     "USER_SETTINGS_PROFILE_EFFECT": "Profile Effect",
     "USER_SETTINGS_PROFILE_EFFECT_EDIT_A11Y_HINT": "Tap to edit profile effect",
     "USER_SETTINGS_PROFILE_EFFECT_EDIT_A11Y_LABEL": "Edit Profile Effect",
@@ -91768,473 +91721,6 @@
     "CHANNEL_PROMPT_GAMING_CTA": "Get my stats!",
     "CHANNEL_PROMPT_RANDOM_STICKER_CTA": "Random sticker",
     "CHANNEL_PROMPT_UPLOAD_IMAGE_CTA": "Upload a picture",
-    "CLANS": "Guilds",
-    "CLAN_ADOPT_CLAN_IDENTITY": "Adopt Guild Identity",
-    "CLAN_BADGE": "Badge",
-    "CLAN_BADGE_ALT": [
-        "[",
-        [
-            1,
-            "tag"
-        ],
-        "]"
-    ],
-    "CLAN_BADGE_COLORS": "Badge Colors",
-    "CLAN_CARD_BADGE_APPLIED": "Applied",
-    "CLAN_CLEAR_CLAN_IDENTITY": "Clear Guild Identity",
-    "CLAN_DISCOVERY_APPLICATION_MAX_MEMBERS": "This Guild is at maximum capacity. You may want to apply for other Guilds.",
-    "CLAN_DISCOVERY_CARD_ARIA_LABEL": [
-        "Guild profile for ",
-        [
-            1,
-            "guildName"
-        ]
-    ],
-    "CLAN_DISCOVERY_MEMBER_COUNT": [
-        [
-            6,
-            "count",
-            {
-                "=1": [
-                    "1 Member"
-                ],
-                "other": [
-                    [
-                        1,
-                        "count"
-                    ],
-                    " Members"
-                ]
-            },
-            0,
-            "cardinal"
-        ]
-    ],
-    "CLAN_DISCOVERY_PLAYSTYLE_ARIA_LABEL": "Playstyle",
-    "CLAN_DISCOVERY_PROFILE_SUBTITLE": "You'll get notified when there's an update.",
-    "CLAN_DISCOVERY_PROFILE_TITLE": "Fill out the application to join.",
-    "CLAN_DISCOVERY_UNKNOWN_PLAYSTYLE": "Unknown",
-    "CLAN_GAMEPLAY_ACTIVITY_HIGH": "Very Active",
-    "CLAN_JOIN_SUCCESS_MAIN_CTA": "Let's Go",
-    "CLAN_JOIN_SUCCESS_SUBTITLE": "Rep your Guild, make new friends, and play some games. Get in and say hi to your new guildmates.",
-    "CLAN_JOIN_SUCCESS_SUBTITLE_MOBILE": "Rep your Guild, make new friends, and play some games. Get in and say hi to your new guildmates.",
-    "CLAN_JOIN_SUCCESS_TITLE": [
-        "Congratulations, you're an official member of ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "name"
-                ]
-            ]
-        ],
-        "!"
-    ],
-    "CLAN_LOOK_BANNER": "Banner",
-    "CLAN_LOOK_BRAND_COLOR": "Brand Color",
-    "CLAN_LOOK_PRESET_BADGE": "Badge",
-    "CLAN_LOOK_PRESET_CUSTOM": "Custom",
-    "CLAN_OVERVIEW_LABEL_CLAN_TAG": "Guild Tag",
-    "CLAN_OVERVIEW_LIST_MULTIPLE_ITEMS": [
-        [
-            1,
-            "items"
-        ],
-        ", and ",
-        [
-            1,
-            "last"
-        ]
-    ],
-    "CLAN_OVERVIEW_LIST_OTHERS_COUNT": [
-        [
-            6,
-            "n",
-            {
-                "one": [
-                    "1 other"
-                ],
-                "other": [
-                    [
-                        1,
-                        "n"
-                    ],
-                    " others"
-                ]
-            },
-            0,
-            "cardinal"
-        ]
-    ],
-    "CLAN_OVERVIEW_LIST_TWO_ITEMS": [
-        [
-            1,
-            "item1"
-        ],
-        " and ",
-        [
-            1,
-            "item2"
-        ]
-    ],
-    "CLAN_PALETTE_PICKER_CUSTOM_COLORS": "Custom Colors",
-    "CLAN_SETTINGS": "Guild Settings",
-    "CLAN_SETTINGS_BASIC_INFO": "Basic Info",
-    "CLAN_SETTINGS_CLAN_BADGE": "Guild Badge",
-    "CLAN_SETTINGS_CLAN_PROFILE": "Guild Profile",
-    "CLAN_SETTINGS_CUSTOMIZE_IDENTITY": "Customize Identity",
-    "CLAN_SETTINGS_DISABLE_CLAN": "Disable Guild",
-    "CLAN_SETTINGS_DISABLE_CONFIRM_BODY": "All open applications to your Guild will be rejected. Members will lose their Guild tags.",
-    "CLAN_SETTINGS_DISABLE_CONFIRM_TITLE": "Are you sure?",
-    "CLAN_SETTINGS_JOIN_APPLICATION": "Join Application",
-    "CLAN_SETTINGS_PERSONALITY_INFO": "Personality Info",
-    "CLAN_SETTINGS_SELECT_INTERESTS": "Select Topics",
-    "CLAN_SETTINGS_SELECT_TRAITS": "Select Traits",
-    "CLAN_SETTINGS_WRITE_DESCRIPTION": "Write Description",
-    "CLAN_SETTTINGS_SELECT_GAMES": "Select Games",
-    "CLAN_SETTTINGS_SELECT_PLAYSTYLE": "Select Playstyle",
-    "CLAN_SETUP_APPLICATIONS_STEP": "Member Applications",
-    "CLAN_SETUP_APPLICATION_SUBTITLE": "Ask questions to get to know potential members better. You'll review their answers and decide if they are approved to join. You'll also be able to interview applicants to get to know them better.",
-    "CLAN_SETUP_APPLICATION_TITLE": "Last Step! Set up the application.",
-    "CLAN_SETUP_BANNER_STEP": "Banner",
-    "CLAN_SETUP_CUSTOMIZE_HELP_TEXT": "Maxmimum 4 characters, alphabet (A-Z) and numbers only",
-    "CLAN_SETUP_CUSTOMIZE_LOOK_SUBTITLE": "This is how your Guild will appear to prospective members in the Guild finder and beyond. You're almost ready to recruit!",
-    "CLAN_SETUP_CUSTOMIZE_LOOK_TITLE": "Customize your Guild's look",
-    "CLAN_SETUP_CUSTOMIZE_SUBTITLE": "Guild members will rep these next to their name and on their profiles across Discord.",
-    "CLAN_SETUP_CUSTOMIZE_TITLE": "Create a badge and tag for your Guild",
-    "CLAN_SETUP_DESCRIPTION_PLACEHOLDER": "We're a cozy group of friends who've been playing co-op games for a couple years! Looking for like-minded people to join us at our weekly movie nights :D",
-    "CLAN_SETUP_DESCRIPTION_STEP": "Description",
-    "CLAN_SETUP_DESCRIPTION_SUBTITLE": "They'll see this as a Guild bio before they apply. What brought you together? What makes your Guild unique? Why should they apply?",
-    "CLAN_SETUP_DESCRIPTION_TITLE": "Tell potential recruits what your Guild is all about.",
-    "CLAN_SETUP_GAMES_ONE_GAME_REQUIRED": "You must select at least one game",
-    "CLAN_SETUP_GAMES_SEARCH_PLACEHOLDER": "Search for a game...",
-    "CLAN_SETUP_GAMES_STEP": "Games",
-    "CLAN_SETUP_GAMES_SUBTITLE": "You can always add more games later.",
-    "CLAN_SETUP_GAMES_SUGGESTED": "Games Your Members Are Playing",
-    "CLAN_SETUP_GAMES_TITLE": "What games does your Guild play?",
-    "CLAN_SETUP_INTERESTS_GENERATE_MORE": "Generate More",
-    "CLAN_SETUP_INTERESTS_HELP": "Press ENTER to add a trait",
-    "CLAN_SETUP_INTERESTS_LABEL": "Add a topic",
-    "CLAN_SETUP_INTERESTS_PLACEHOLDER": "Anime, Roman History, Sad Hamsters, etc...",
-    "CLAN_SETUP_INTERESTS_STEP": "Interests",
-    "CLAN_SETUP_INTERESTS_SUBTITLE": [
-        "Add at least ",
-        [
-            8,
-            "$b",
-            [
-                "3 topics"
-            ]
-        ],
-        " that your Guild discusses or traits that you share. The more niche, the better! Here's some ideas, but you can write in your own."
-    ],
-    "CLAN_SETUP_INTERESTS_TITLE": "What does your Guild like to talk about?",
-    "CLAN_SETUP_LANGUAGE_PLACEHOLDER": "Add a language...",
-    "CLAN_SETUP_MODAL_SAVE_AND_QUIT": "Save & Exit",
-    "CLAN_SETUP_NUM_TRAITS": [
-        [
-            6,
-            "n",
-            {
-                "one": [
-                    "1 Trait"
-                ],
-                "other": [
-                    [
-                        1,
-                        "n"
-                    ],
-                    " Traits"
-                ]
-            },
-            0,
-            "cardinal"
-        ]
-    ],
-    "CLAN_SETUP_OPTIONAL": "Optional",
-    "CLAN_SETUP_OVERVIEW_ESTABLISHED": [
-        "Est. ",
-        [
-            1,
-            "date"
-        ]
-    ],
-    "CLAN_SETUP_OVERVIEW_SIGNATURE": "sign here",
-    "CLAN_SETUP_OVERVIEW_SIGN_AGREEMENT": [
-        "By becoming a Guild, you agree that your server complies with the ",
-        [
-            8,
-            "$link",
-            [
-                "Discovery Guidelines"
-            ],
-            [
-                [
-                    1,
-                    "onGuidelinesClick"
-                ]
-            ]
-        ],
-        "."
-    ],
-    "CLAN_SETUP_OVERVIEW_SIGN_CTA": "Click to Sign",
-    "CLAN_SETUP_OVERVIEW_SIGN_DISCLAIMER": [
-        "Discord may use manual and/or automated means to review my server to ensure that it meets applicable policies such as our ",
-        [
-            8,
-            "$link",
-            [
-                "Community Guidelines"
-            ],
-            [
-                "https://discord.com/guidelines"
-            ]
-        ],
-        "."
-    ],
-    "CLAN_SETUP_OVERVIEW_SIGN_HELP": "By signing this charter, I agree to grow and uphold the values of the Guild.",
-    "CLAN_SETUP_OVERVIEW_TEXT_DEFAULT": "...in order to create a space to play games, establish this charter for the Guild.",
-    "CLAN_SETUP_OVERVIEW_TEXT_GAMES": [
-        "...in order to create a space to play ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "games"
-                ]
-            ]
-        ],
-        ", establish this charter for the Guild."
-    ],
-    "CLAN_SETUP_OVERVIEW_TEXT_GAMES_AND_PLAYSTYLE": [
-        "...in order to create a ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "playstyle"
-                ]
-            ]
-        ],
-        " space to play ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "games"
-                ]
-            ]
-        ],
-        ", establish this charter for the Guild."
-    ],
-    "CLAN_SETUP_OVERVIEW_TEXT_GAMETIME": [
-        "The members of the Guild are committed to make an effort to play games on ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "selectedTimes"
-                ]
-            ]
-        ],
-        "."
-    ],
-    "CLAN_SETUP_OVERVIEW_TEXT_TRAITS": [
-        "The Guild's traits shall be defined as ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "traits"
-                ]
-            ]
-        ],
-        "."
-    ],
-    "CLAN_SETUP_OVERVIEW_TEXT_WRAP": "Everyone will work together to uphold and nurture the values of the Guild and keep it safe and welcoming to all members.",
-    "CLAN_SETUP_OVERVIEW_TITLE": "We the people of",
-    "CLAN_SETUP_PLAYSTYLE_CASUAL_SUBTITLE": "We play to chill and have fun, but more fun if we win!",
-    "CLAN_SETUP_PLAYSTYLE_COMPETITIVE_SUBTITLE": "We play together to win, rank up, or beat challenges.",
-    "CLAN_SETUP_PLAYSTYLE_SOCIAL_SUBTITLE": "Skill doesn't matter. We have a good time win or lose.",
-    "CLAN_SETUP_PLAYSTYLE_STEP": "Playstyle",
-    "CLAN_SETUP_PLAYSTYLE_SUBTITLE": "Let potential members know the expectations and vibe in your server. How competitive or chill is your Guild?",
-    "CLAN_SETUP_PLAYSTYLE_TITLE": "What's your Guild's playstyle?",
-    "CLAN_SETUP_PLAYSTYLE_VERY_HARDCORE_SUBTITLE": "We won't sleep until we win.",
-    "CLAN_SETUP_RANDOMIZE_LOOK": "Randomize",
-    "CLAN_SETUP_SELECTED_GAMES": "Selected Games",
-    "CLAN_SETUP_SELECTED_INTERESTS": "Selected Interests",
-    "CLAN_SETUP_SIGN_SUBTITLE": "One last step - sign the charter to become a Guild.",
-    "CLAN_SETUP_SIGN_TITLE": "You're almost done!",
-    "CLAN_SETUP_SUGGESTED_INTERESTS": "Some Ideas...",
-    "CLAN_SETUP_TAG_PLACEHOLDER": "GLHF",
-    "CLAN_SETUP_TAG_STEP": "Badge",
-    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_AGE": "Age Demographic",
-    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_GENSHIN": "Genshin",
-    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_IDENTITY": "Characteristics",
-    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_LANGUAGE": "Language",
-    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_LOCALE": "Region",
-    "CLAN_SETUP_UTILITY_TRAITS_CATEGORY_VALORANT": "Valorant",
-    "CLAN_SETUP_UTILITY_TRAITS_STEP": "Traits",
-    "CLAN_SETUP_UTILITY_TRAITS_SUBTITLE": "These traits will help the right people find and apply for your Guild. You can customize more traits in the next step.",
-    "CLAN_SETUP_UTILITY_TRAITS_TITLE": "Who would be a good fit for your Guild?",
-    "CLAN_SETUP_WILDCARDS_SUBTITLE": "Choose up to 3 words that describe your Guild. Be creative!!",
-    "CLAN_SUBMIT_ERROR_SUBTITLE": "Please resolve steps marked as error and try again.",
-    "CLAN_SUBMIT_ERROR_TEXT": [
-        [
-            8,
-            "backHook",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        "Go back"
-                    ]
-                ]
-            ]
-        ],
-        " and check error messages for more information."
-    ],
-    "CLAN_SUBMIT_ERROR_TITLE": "There are errors you need to fix.",
-    "CLAN_SUCCESS_CTA": "Let's Go",
-    "CLAN_SUCCESS_POSTSCRIPT": "It may take a few days for your Guild to appear in the Discovery page.",
-    "CLAN_SUCCESS_SUBTITLE": "Get ready to rep your Guild, make new friends, and play some games.",
-    "CLAN_SUCCESS_TITLE": [
-        "Congratulations, ",
-        [
-            8,
-            "$b",
-            [
-                [
-                    1,
-                    "name"
-                ]
-            ]
-        ],
-        " is now a Guild!"
-    ],
-    "CLAN_SUCCESS_USE_TAG_HELP": "You can always edit this in Profile settings.",
-    "CLAN_SUCCESS_USE_TAG_TEXT": "Wear Guild Tag next to username",
-    "CLAN_TAG_VALIDATION_RULES": "Max 4 characters",
-    "CLAN_USER_ADOPT_TAG_GUILD_PROFILE_CTA": "Don The Tag",
-    "CLAN_USER_ADOPT_TAG_MODAL_CANCEL": "Not Now",
-    "CLAN_USER_ADOPT_TAG_MODAL_CTA": "Adopt Tag",
-    "CLAN_USER_ADOPT_TAG_MODAL_DESCRIPTION": [
-        [
-            1,
-            "guildName"
-        ],
-        " adopted a new guild tag, and you can now rep this server everywhere you chat."
-    ],
-    "CLAN_USER_ADOPT_TAG_MODAL_FEATURE": "Wear this tag everywhere",
-    "CLAN_USER_ADOPT_TAG_MODAL_FEATURE_CALLOUT": "You can always change your tag in User Profile",
-    "CLAN_USER_ADOPT_TAG_MODAL_HEADING": [
-        [
-            8,
-            "$p",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "guildName"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        [
-            8,
-            "$p",
-            [
-                "is now a guild"
-            ]
-        ]
-    ],
-    "CLAN_USER_ADOPT_TAG_MODAL_NEW_IDENTITY_CTA": "Update Tag",
-    "CLAN_USER_ADOPT_TAG_MODAL_NEW_IDENTITY_DESCRIPTION": [
-        "A new tag is available for ",
-        [
-            1,
-            "guildName"
-        ],
-        ". Would you like to adopt it?"
-    ],
-    "CLAN_USER_ADOPT_TAG_MODAL_NEW_IDENTITY_HEADING": [
-        [
-            8,
-            "$p",
-            [
-                [
-                    8,
-                    "$b",
-                    [
-                        [
-                            1,
-                            "guildName"
-                        ]
-                    ]
-                ]
-            ]
-        ],
-        [
-            8,
-            "$p",
-            [
-                "has changed their tag"
-            ]
-        ]
-    ],
-    "CLAN_USER_ADOPT_TAG_NEW_IDENTITY_ARIA_LABEL": [
-        "A new tag is available for ",
-        [
-            1,
-            "guildName"
-        ]
-    ],
-    "CLAN_USER_ADOPT_TAG_NEW_IDENTITY_DESCRIPTION": "An update to your tag is available",
-    "CLAN_USER_ADOPT_TAG_NEW_IDENTITY_TITLE": [
-        [
-            1,
-            "guildName"
-        ],
-        " - New Tag!"
-    ],
-    "CLAN_USER_ADOPT_TAG_UPSELL_ARIA_LABEL": [
-        "Adopt the ",
-        [
-            1,
-            "guildName"
-        ],
-        " guild tag as part of your identity"
-    ],
-    "CLAN_USER_ADOPT_TAG_UPSELL_DESCRIPTION": "Rep your guild everywhere",
-    "CLAN_USER_ADOPT_TAG_UPSELL_TITLE": [
-        [
-            1,
-            "guildName"
-        ],
-        " - Tag Up!"
-    ],
-    "CLAN_USER_APPLICATION_EXISTS_TAG_GUILD_PROFILE_CTA": "View Application",
-    "CLAN_USER_APPLY_TAG_GUILD_PROFILE_CTA": "Apply To Join",
-    "CLAN_USER_GO_TO_CLAN_CTA": "Go to Guild",
-    "CLAN_USER_PROFILE_PRIMARY_CLAN": "Primary Guild",
-    "CLAN_USER_PROFILE_PRIMARY_CLAN_SUBTITLE": "Choose a Guild tag to rep next to your name across Discord.",
     "CLYDE_VIEW_SOURCE_HIDE_TOOLTIP": "Hide Sources",
     "CLYDE_VIEW_SOURCE_SHOW_TOOLTIP": "View Sources",
     "CONSOLE_PLAYSTATION_STAGING_JOIN_VOICE": "Join on PlayStation (sp-int)",
@@ -93289,7 +92775,6 @@
         ],
         "! It has been automatically applied to your account."
     ],
-    "RAPIDASH_ONBOARDING_ACTION_ITEM": "Adopt the tag",
     "REPORTS_USER_MENU_OPTION_MOBILE": "Report User Profile",
     "ROLE_CREATE_ADD_MEMBERS_SUBTITLE": "Assign this role to your members. Members can have more than one role.",
     "ROLE_PERMISSIONS_CONNECT_DESCRIPTION_THREADS": "Allows members to talk in voice and hear others in this channel's threads.",
