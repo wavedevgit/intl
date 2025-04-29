@@ -86479,6 +86479,30 @@
     "USER_ACTIVITY_RECENTLY_WATCHED": "Recently Watched",
     "USER_ACTIVITY_RESPOND_NOPE": "Nope",
     "USER_ACTIVITY_RESPOND_YEAH": "Yeah",
+    "wv8Q7u": [
+        [
+            6,
+            "activitiesCount",
+            {
+                "=1": [
+                    "+ ",
+                    [
+                        7
+                    ],
+                    " activity"
+                ],
+                "other": [
+                    "+ ",
+                    [
+                        7
+                    ],
+                    " activities"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "USER_ACTIVITY_STAGE_STATE_SIZE": [
         [
             2,
