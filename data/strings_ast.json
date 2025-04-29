@@ -68632,10 +68632,6 @@
     "PS5": "PS5",
     "PS_LINK_SUCCESS_BODY": "Head over to a voice channel to try it out! Chat with Discord voice chat on your PS5. Show which games you're playing with rich presence, and more.",
     "PS_LINK_SUCCESS_TITLE": "That's it!",
-    "PS_LINK_UPSELL_CONTENT": "Hang out with Discord friends while playing games in voice chat.",
-    "PS_LINK_UPSELL_CONTENT_RECONNECT": "Now you can chat in Discord Voice Channels and Voice Calls while gaming on your PS5!",
-    "PS_LINK_UPSELL_HEADER": "Connect PlayStation Network",
-    "PS_LINK_UPSELL_HEADER_RECONNECT": "Send Discord audio to your PS5!",
     "PS_PRECONNECT_BODY": "We'll use this to display your PlayStation Online ID and what games you're playing.",
     "PS_PRECONNECT_BODY_WAITING": "Sign in to PlayStation Network in your browser and return here when you're done",
     "PS_PRECONNECT_TITLE": "First let's sign in",
@@ -92348,6 +92344,7 @@
             ]
         ]
     ],
+    "29mxFh": "Explore",
     "ICYMI_FEATURED_SERVERS_SUBTITLE": "The more servers you join, the more interesting content you’ll find.",
     "ICYMI_FEATURED_SERVERS_TITLE": "Featured servers you might like",
     "ICYMI_FEEDBACK_IRRELEVANT_CONTENT": "Content was irrelevant",
