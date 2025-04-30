@@ -11387,6 +11387,48 @@
     "COLLECTIBLES_BANNER_DESCRIPTION_2024": "Check out the latest Avatar Decorations and Profile Effects and collect your favorite styles.",
     "COLLECTIBLES_BANNER_TITLE_2024": "Give your profile a fresh look",
     "COLLECTIBLES_BUNDLE_BUY_BUNDLE": "Buy Bundle",
+    "Ntv9Ji": [
+        [
+            1,
+            "itemName"
+        ],
+        " Decoration"
+    ],
+    "IQQYeX": [
+        "Avatar Decoration: ",
+        [
+            1,
+            "itemName"
+        ]
+    ],
+    "2keXk5": [
+        [
+            1,
+            "itemName"
+        ],
+        " Nameplate"
+    ],
+    "ZI2zgY": [
+        "Nameplate: ",
+        [
+            1,
+            "itemName"
+        ]
+    ],
+    "3Y8q7e": [
+        [
+            1,
+            "itemName"
+        ],
+        " Profile Effect"
+    ],
+    "x/MGW1": [
+        "Profile Effect: ",
+        [
+            1,
+            "itemName"
+        ]
+    ],
     "y1VWkZ": "You already have items from this bundle.",
     "COLLECTIBLES_BUNDLE_PURCHASE_BUNDLE_AT_PRICE": [
         "Buy Bundle for ",
