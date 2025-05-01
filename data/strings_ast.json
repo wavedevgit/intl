@@ -4410,6 +4410,18 @@
         ]
     ],
     "APP_DIRECTORY_SPOTIFY_TITLE": "Spotify",
+    "eGZFws": "Notifications are disabled for this DM.",
+    "7Sbhqa": [
+        "Notifications are disabled until ",
+        [
+            1,
+            "endDate"
+        ],
+        "."
+    ],
+    "VeIJWl": "Notifications are enabled for this DM.",
+    "GFEn8/": "Turn off",
+    "JFu44e": "Turn on",
     "APP_ICON_ANGRY": "Fuming",
     "APP_ICON_BEANIE": "Sherbet Dreamsicle",
     "APP_ICON_BLUSH": "uwu~",
