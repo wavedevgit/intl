@@ -88653,6 +88653,7 @@
         ", finish signing up so you can choose your own."
     ],
     "UU_REGISTER_USERNAME_HINT": "Only use letters, numbers, underscores, and periods.",
+    "w/XiOz": "You can change this at anytime.",
     "VAD_PERMISSION_BODY": "This channel requires Push to Talk to voice chat. You will only be able to listen until you switch modes\nto Push to Talk from Voice Activity Detection.",
     "VAD_PERMISSION_ENABLE_PTT": "Switch to Push to Talk",
     "VAD_PERMISSION_OKAY": "Don’t switch",
