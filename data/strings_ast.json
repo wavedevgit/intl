@@ -11374,6 +11374,14 @@
             "date"
         ]
     ],
+    "req+eX": [
+        "Acquired ",
+        [
+            1,
+            "dateAcquired"
+        ],
+        " by signing up for Nitro."
+    ],
     "COLLECTIBLES_ADD_TO_YOUR_COLLECTION": "Add to your collection",
     "6cfuDg": "Acquired",
     "COLLECTIBLES_ALREADY_OWNED": "Already owned",
@@ -11384,6 +11392,8 @@
             "avatarDecoration"
         ]
     ],
+    "FyBDiY": "Join Nitro to unlock access to this avatar decoration!",
+    "e1UiOT": "Upgrade to unlock access to this avatar decoration!",
     "COLLECTIBLES_AVATAR_DECO_UPDATED_NOTIFICATION": "Your Avatar Decoration is updated!",
     "COLLECTIBLES_BANNER_DESCRIPTION_2024": "Check out the latest Avatar Decorations and Profile Effects and collect your favorite styles.",
     "COLLECTIBLES_BANNER_TITLE_2024": "Give your profile a fresh look",
