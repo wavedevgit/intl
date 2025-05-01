@@ -6380,6 +6380,7 @@
     "BILLING_ERROR_INVALID_CAPTCHA_RESPONSE": "Invalid captcha response. Please try again.",
     "BILLING_ERROR_INVALID_PLAN_FOR_PAYMENT_SOURCE": "This plan is not available for this payment source. Please select a different plan or try a different payment source.",
     "BILLING_ERROR_NEGATIVE_INVOICE_AMOUNT": "This purchase results in a negative balance and unfortunately cannot be completed. We know this is frustrating and are currently working on improving this system. Check back soon!",
+    "uhPY5u": "The purchase could not be validated. Please update your client.",
     "BILLING_ERROR_PENDING_PAYMENT": "Unable to process change due to pending payment.",
     "BILLING_ERROR_PURCHASE": "An issue has occurred with your purchase. Please wait and try again.",
     "BILLING_ERROR_PURCHASE_DETAILS_NOT_FOUND": "Purchase details not found. Please wait and try again.",
