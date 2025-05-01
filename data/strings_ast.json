@@ -89731,6 +89731,14 @@
     "VOICE_MESSAGES_LIMIT_CANCEL": "Limit reached! Release to Cancel",
     "VOICE_MESSAGES_LIMIT_SEND": "Limit reached! Release to Send",
     "VOICE_MESSAGES_LOCK": "Release to Lock",
+    "LgCPMj": [
+        "Change playback speed. Current speed is ",
+        [
+            1,
+            "playbackRate"
+        ],
+        "x"
+    ],
     "VOICE_MESSAGES_PLAYING_A11Y_STATUS": [
         "Voice Message; Current position: ",
         [
