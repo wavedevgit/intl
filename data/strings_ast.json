@@ -47400,7 +47400,133 @@
             "cardinal"
         ]
     ],
+    "XE8axM": [
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " asked to join your ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "appName"
+                ]
+            ]
+        ],
+        " party"
+    ],
+    "hgcjOj": [
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        " is asking to join your ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "appName"
+                ]
+            ]
+        ],
+        " party"
+    ],
     "INVITE_EMBED_WATCH_HAS_ENDED": "The watching party is over!",
+    "IA6uDQ": [
+        "You are asking to join a ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "appName"
+                ]
+            ]
+        ],
+        " party"
+    ],
+    "gYVkSU": [
+        "You are asking to join ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        "'s ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "appName"
+                ]
+            ]
+        ],
+        " party"
+    ],
+    "2N1kNT": [
+        "You asked to join a ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "appName"
+                ]
+            ]
+        ],
+        " party"
+    ],
+    "JddpNz": [
+        "You asked to join ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "username"
+                ]
+            ]
+        ],
+        "'s ",
+        [
+            8,
+            "$b",
+            [
+                [
+                    1,
+                    "appName"
+                ]
+            ]
+        ],
+        " party"
+    ],
     "INVITE_EMPTY_BODY": "Share this link with friends and they'll automatically join your server.",
     "INVITE_EMPTY_TITLE": "Invite a friend to your server!",
     "INVITE_EXPIRED_SUBTEXT_MOBILE": [
