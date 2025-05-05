@@ -48223,6 +48223,22 @@
     "JOIN_SERVER_TITLE": "Join a Server",
     "JOIN_SERVER_TITLE_MOBILE_REFRESH": "Join a server",
     "JOIN_STREAM": "Join Stream",
+    "0P8VTE": [
+        "Start watching ",
+        [
+            1,
+            "username"
+        ],
+        "'s stream?"
+    ],
+    "dFPOQ0": "This will leave your current voice channel.",
+    "RNAFd3": [
+        "Joining ",
+        [
+            1,
+            "username"
+        ]
+    ],
     "JOIN_STUDENT_HUB": "Join a Student Hub",
     "JOIN_THREAD": "Join Thread",
     "JOIN_VIDEO_CALL": "Join Video Call",
