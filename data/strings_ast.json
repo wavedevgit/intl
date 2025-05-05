@@ -81044,6 +81044,7 @@
         " in their user settings."
     ],
     "SYNC_THIS_ACCOUNT": "Sync this account",
+    "DFPXIC": "Bypass System Audio Input Processing",
     "aJYgRk": [
         "Looking for more camera options? ",
         [
@@ -87986,6 +87987,7 @@
     ],
     "USER_SETTINGS_BLOCKED_USERS_UNBLOCKBUTTON": "Unblock",
     "PFOUKS": "Blocked accounts",
+    "UyRX+P": "System audio processing may interfere with Discord's audio processing",
     "USER_SETTINGS_CACHES_CLEARED": "Caches Cleared!",
     "USER_SETTINGS_CACHES_WRITTEN": "Caches Written!",
     "USER_SETTINGS_CHANGE_AVATAR": "Change Avatar",
