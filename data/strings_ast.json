@@ -48252,6 +48252,15 @@
     "JPY_NAME": "Japanese Yen",
     "JUMP": "Jump",
     "JUMP_BAR_VIEWING_REPLY": "You are viewing a reply.",
+    "zKNgPD": [
+        "You cannot jump to ",
+        [
+            1,
+            "name"
+        ],
+        "'s message."
+    ],
+    "6vJKFh": "This person is likely a spammer",
     "JUMP_TO_BOTTOM": "Jump to Bottom",
     "JUMP_TO_CHANNEL": "Jump to Channel",
     "JUMP_TO_LAST_UNREAD_MESSAGE": "Jump to last unread message",
@@ -85917,14 +85926,14 @@
         " unblocked"
     ],
     "UNBLOCK_TO_JUMP_BODY": [
-        "First unblock '",
+        "You'll need to unblock ",
         [
             1,
             "name"
         ],
-        "' and then you can jump to their message."
+        " before you can jump to their message."
     ],
-    "UNBLOCK_TO_JUMP_TITLE": "Soo... You Blocked This Person",
+    "UNBLOCK_TO_JUMP_TITLE": "Soo... you blocked this person",
     "UNCATEGORIZED": "Uncategorized",
     "UNCLAIMED_ACCOUNT_BODY_2": "Please add an email and password to claim your account before it's lost.",
     "UNCLAIMED_ACCOUNT_TITLE": "Unclaimed Account",
@@ -85984,14 +85993,14 @@
         " unignored"
     ],
     "8t8doK": [
-        "First unignore '",
+        "You'll need to unignore ",
         [
             1,
             "name"
         ],
-        "' and then you can jump to their message."
+        " before you can jump to their message."
     ],
-    "XyWoKS": "Soo... You Ignored This Person",
+    "XyWoKS": "Soo... you ignored this person",
     "PrtAq6": [
         [
             8,
