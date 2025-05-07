@@ -94115,6 +94115,13 @@
     ],
     "NITRO_HOME_REQUIRES_SUBSCRIPTION": "REQUIRES SUBSCRIPTION",
     "NOTIFICATION_CENTER_HIGHLIGHT_SETTINGS": "Highlight Notification Settings",
+    "SRy0Cg": [
+        [
+            1,
+            "username"
+        ],
+        " started playing a game"
+    ],
     "NOTIFICATION_REPORT_IRRELEVANT_CHANNEL": "I don't care about this channel",
     "NOTIFICATION_REPORT_IRRELEVANT_TOPIC": "Topic isn't relevant to me",
     "NOTIFICATION_REPORT_IRRELEVANT_USER": "I don't know these people",
