@@ -11872,12 +11872,12 @@
             8,
             "$b",
             [
-                "Buying an item from the Shop means you’re buying a limited license to use this item on Discord. Learn more in the “Virtual Goods” section ",
+                "Buying an item from the Shop means you’re buying a limited license to use this item on Discord. Learn more in the ",
                 [
                     8,
                     "$link",
                     [
-                        "here"
+                        "“Virtual Goods” section"
                     ],
                     [
                         [
@@ -11926,6 +11926,7 @@
         ]
     ],
     "COLLECTIBLES_SHOP": "Shop",
+    "5upuq6": "Discord Shop",
     "yzW/fX": "Admins",
     "COLLECTIBLES_SHOP_ALL": "Shop All",
     "COLLECTIBLES_SHOP_AUTUMN_EQUINOX_COLLECTION": "Shop the Autumn Equinox Collection",
