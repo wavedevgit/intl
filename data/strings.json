@@ -398,6 +398,7 @@
     "8c4CMT": "Overlay is disabled because your client does not support the new overlay.",
     "8j3qaG": "If you join a voice channel they're active in, we'll let you know",
     "8kiRMT": "You've got friends in the game.\n\nNow it's your turn.\n\n",
+    "8l9H0t": "Your Orbs Balance is Now $[balance]({{balanceHook}})",
     "8mfCqa": "The server has limited who can see this profile.",
     "8msQQE": "Something off?",
     "8mtcq6": "{n, plural, one {Someone you ignored is} other {People you ignored are} } here.",

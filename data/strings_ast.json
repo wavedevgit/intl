@@ -89384,6 +89384,16 @@
             "balance"
         ]
     ],
+    "8l9H0t": [
+        "Your Orbs Balance is Now ",
+        [
+            8,
+            "balanceHook",
+            [
+                "balance"
+            ]
+        ]
+    ],
     "rtV7xM": [
         "Your Orb balance is now ",
         [
