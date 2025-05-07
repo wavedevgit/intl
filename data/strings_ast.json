@@ -89377,6 +89377,16 @@
     "J+vlIS": "Open the Shop",
     "5qZv9P": "Need help?",
     "XRdyj4": "Learn more.",
+    "8Op4c3": [
+        [
+            8,
+            "balanceHook",
+            [
+                "balance"
+            ]
+        ],
+        " Discord Orbs"
+    ],
     "EDUOIC": "Great work, let’s get spending.",
     "Kr9pYW": [
         "Your Orbs balance is now ",
@@ -89401,6 +89411,17 @@
             1,
             "balance"
         ]
+    ],
+    "ro1szc": [
+        "Claim ",
+        [
+            8,
+            "balanceHook",
+            [
+                "balance"
+            ]
+        ],
+        " Discord Orbs"
     ],
     "vt7mWl": [
         "Complete the Intro Quest to earn ",
