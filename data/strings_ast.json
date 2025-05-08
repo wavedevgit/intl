@@ -7543,6 +7543,8 @@
     "BILLING_STEP_ADDRESS": "Address",
     "BILLING_STEP_AWAITING_AUTHENTICATION": "Awaiting Authentication",
     "BILLING_STEP_CREDIT_CARD_INFORMATION": "Payment Information",
+    "ovf4EB": "Nitro Basic Plan & Payment",
+    "H6nk1t": "Nitro Plan & Payment",
     "BILLING_STEP_PAYMENT": "Payment",
     "BILLING_STEP_PAYMENT_INFO": "Payment Information",
     "BILLING_STEP_PAYMENT_METHOD": "Payment Method",
