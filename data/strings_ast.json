@@ -8824,7 +8824,7 @@
     ],
     "BUG_REPORT_CLIENT_BUILD_NUMBER": "Client Build Number",
     "BUG_REPORT_CLIENT_VERSION": "Client Version",
-    "BUG_REPORT_DESCRIPTION": "Detailed description (optional)",
+    "BUG_REPORT_DESCRIPTION": "Detailed description",
     "BUG_REPORT_DEVICE": "Device",
     "BUG_REPORT_ERROR_NAME_REQUIRED": "Issue name required",
     "BUG_REPORT_ERROR_PRIORITY_REQUIRED": "Priority required",
