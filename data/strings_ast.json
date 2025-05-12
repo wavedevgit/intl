@@ -94484,14 +94484,6 @@
             ]
         ]
     ],
-    "SERVER_USAGE_SURVEY_BODY": [
-        "Help us make Discord better by answering a few questions about ",
-        [
-            1,
-            "guildName"
-        ]
-    ],
-    "SERVER_USAGE_SURVEY_CTA": "Take Survey",
     "SHARED_CANVAS_DRAW_MODE_EMOJI_HOSE": "Emoji Hose",
     "SHARED_CANVAS_DRAW_MODE_LINE": "Draw",
     "SHARED_CANVAS_HIDE_OVERLAY_DRAWINGS": "Hide Drawings in Overlay",

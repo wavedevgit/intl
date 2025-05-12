@@ -17155,8 +17155,6 @@
     "SERVER_SUBSCRIPTION_OWNERSHIP_TRANSFER_FAILURE_MODAL_BODY": "It looks like the new owner is ineligible for Server Monetization. Head to our [Support Article](Support Article) to learn more about why.",
     "SERVER_UNDEAFEN": "Server Undeafen",
     "SERVER_UNMUTE": "Server Unmute",
-    "SERVER_USAGE_SURVEY_BODY": "Help us make Discord better by answering a few questions about !!{guildName}!!",
-    "SERVER_USAGE_SURVEY_CTA": "Take Survey",
     "SERVER_VOICE_MUTE": "Server Mute",
     "SERVER_VOICE_UNMUTE": "Server Unmute",
     "SERVICE_CONNECTIONS_DISCONNECT": "Disconnect",
