@@ -8842,6 +8842,14 @@
     "BUG_REPORT_OVERRIDE_PLATFORM_INFORMATION": "Override Platform Information",
     "cTVCIC": "Your client is out of date",
     "x18RUl": "Your issue might already be fixed. Please refresh your client to get the latest update and confirm before submitting a report.",
+    "ql2Q/f": [
+        "Your client is ",
+        [
+            1,
+            "hours"
+        ],
+        " hours out of date"
+    ],
     "BUG_REPORT_PRIORITY": "Priority",
     "BUG_REPORT_PRIORITY_CRITICAL_DESCRIPTION": [
         [
