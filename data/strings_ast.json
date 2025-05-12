@@ -27885,6 +27885,22 @@
     "GO_LIVE_MODAL_SYSTEM_PICKER_COACHMARK_CONTENT": "New for Mac: We've updated the screen sharing experience!",
     "GO_LIVE_MODAL_TITLE": "Screen Share",
     "ZVevCg": "Stream in HD resolution with Nitro",
+    "sLJ3ER": [
+        "Stream in HD resolution with ",
+        [
+            8,
+            "$link",
+            [
+                "Nitro"
+            ],
+            [
+                [
+                    1,
+                    "onNitroClick"
+                ]
+            ]
+        ]
+    ],
     "GO_LIVE_MODAL_WINDOW": "Single Window",
     "GO_LIVE_MODAL_WINDOW_CTA": "Share a window",
     "GO_LIVE_SCREENSHARE_NO_SOUND": "Sound may not be available when sharing a screen on your device.",
@@ -92727,7 +92743,7 @@
     "wjI18f": "Boost this server with additional perks",
     "aJv4PD": "Your server will automatically “level up” once it has enough available Boosts.",
     "TXY/b2": "Levels",
-    "NHjM1t": "Individual perks that can be unlocked using available Boosts.",
+    "STx9ho": "Individual perks that can be unlocked using available Boosts. No level required.",
     "TV3Vm5": "Additional Perks",
     "l9n4QU": "Your server has the perks of every level. Additional perks still need to be purchased with boosts.",
     "eTHkQU": "anyone down for aram",
@@ -93110,6 +93126,7 @@
             ]
         ]
     ],
+    "/ssDMT": "Frame Rate",
     "H3Qjqa": "Hide stream preview",
     "eYyK1t": "Advanced",
     "FZ9Fl5": "Recent Channels",
@@ -93121,6 +93138,7 @@
         ],
         "fps"
     ],
+    "+f+cqq": "Get Nitro",
     "YSdHV1": "Audio Device",
     "P2pjm5": "Stream Mode",
     "G+k1q6": "Gaming",
@@ -93164,8 +93182,9 @@
     "5AyH/v": "Stream",
     "SiHtX1": "Notify my friends in the server",
     "7eHfrq": "Preset",
+    "PYBXFR": "Resolution",
     "FzMGWV": "Stream Muted",
-    "b0+Ira": "Mute Stream Audio",
+    "b0+Ira": "Mute stream audio",
     "AI_TAG": "AI",
     "APPLICATION_AUTOMOD_BADGE": "Uses AutoMod",
     "APP_ICON_MUSHROOM": "One Up",
