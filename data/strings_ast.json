@@ -15094,6 +15094,31 @@
         ],
         " more"
     ],
+    "rVkMY2": [
+        [
+            6,
+            "count",
+            {
+                "=0": [
+                    "No Servers"
+                ],
+                "=1": [
+                    [
+                        7
+                    ],
+                    " Server"
+                ],
+                "other": [
+                    [
+                        7
+                    ],
+                    " Servers"
+                ]
+            },
+            0,
+            "cardinal"
+        ]
+    ],
     "COZY_MODE": "Cozy: Modern, beautiful, and easy on your eyes.",
     "CRASH_APP_VERSION": [
         "App Version: ",
@@ -27753,6 +27778,7 @@
             "username"
         ]
     ],
+    "fwPura": "Go Online",
     "GO_TO_CHANNEL": "Go To Channel",
     "1CdL8f": "Go to Quest Home",
     "GPLAY_BILLING_ALERT_BODY": "An issue has occurred with your purchase. Please wait and try again.",
@@ -76810,6 +76836,7 @@
     "SERVER_NAME_REQUIRED": "Server name is required.",
     "SERVER_NICKNAME": "Server Nickname",
     "SERVER_OPTIONS": "Server Options",
+    "STMPJy": "Server Order",
     "SERVER_OVERVIEW": "Server Overview",
     "SERVER_SETTINGS": "Server Settings",
     "SERVER_SETTINGS_UPDATED": "Server settings have been updated.",
@@ -85104,6 +85131,8 @@
     "TOAST_USERNAME_SAVED": "Username Copied",
     "gI8ISU": "Code sent!",
     "TOAST_VIDEO_SAVED": "Video Saved",
+    "zh6UEh": "Toggle All Off",
+    "7lxcLC": "Toggle All On",
     "TOGGLE_CAMERA": "Toggle camera",
     "TOGGLE_DEAFEN": "Toggle deafen",
     "TOGGLE_DRAWER": "Toggle drawer",
