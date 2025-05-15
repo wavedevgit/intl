@@ -16379,6 +16379,13 @@
     "CUSTOMIZE_TAB_SUBTITLE": "Answer questions to get access to more channels and roles.",
     "CUSTOMIZE_TAB_TITLE": "Customization Questions",
     "CUSTOM_COLOR": "Custom Color",
+    "7BFCRU": [
+        "Custom color, ",
+        [
+            1,
+            "color"
+        ]
+    ],
     "CUSTOM_IMAGE_SELECTOR_DELETE_CUSTOM_IMAGE_ARIA_LABEL": [
         "Delete custom image: ",
         [
@@ -76326,6 +76333,7 @@
     "SEE_THREAD": "See Thread ›",
     "SEK_NAME": "Swedish Krona",
     "SELECT": "Select",
+    "ozfa/v": "Selected color",
     "SELECT_ACCESSIBILITY_DESC": [
         "Select component ",
         [
