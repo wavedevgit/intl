@@ -1549,6 +1549,22 @@
             ]
         ]
     ],
+    "6ENSU1": [
+        "To keep our users safe, we must confirm your age. ",
+        [
+            8,
+            "$link",
+            [
+                "Learn more"
+            ],
+            [
+                [
+                    1,
+                    "helpURL"
+                ]
+            ]
+        ]
+    ],
     "AGE_GATE_CONFIRM_BUTTON": "Confirm age",
     "AGE_GATE_CONFIRM_GO_BACK": "Go back",
     "AGE_GATE_CONFIRM_HEADER": [
@@ -1573,7 +1589,7 @@
         ],
         ". Is that correct?"
     ],
-    "AGE_GATE_DATE_OF_BIRTH": "Date of birth",
+    "AGE_GATE_DATE_OF_BIRTH": "Date of Birth",
     "AGE_GATE_DATE_OF_BIRTH_A11Y_HINT": "Tap to open date picker",
     "AGE_GATE_DEEP_LINK_BODY": [
         "We need to verify your age. ",
@@ -1660,6 +1676,13 @@
         " to learn more."
     ],
     "AGE_GATE_UNDERAGE_BODY_DEFAULT_REG_MESSAGE": "You must be at least 13 years old to use Discord.",
+    "KQgoxM": [
+        [
+            1,
+            "underageMessage"
+        ],
+        " View our help article to learn more."
+    ],
     "AGE_GATE_UNDERAGE_BODY_POST_REGISTER_MESSAGE": "Based on the information you provided, we can’t create an account for you right now.",
     "AGE_GATE_UNDERAGE_EXISTING_BODY_DELETION": [
         "You have ",
