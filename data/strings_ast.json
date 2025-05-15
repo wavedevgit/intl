@@ -91883,17 +91883,11 @@
     "+zqXZm": [
         [
             8,
-            "$link",
+            "onUserClick",
             [
                 [
                     1,
                     "username"
-                ]
-            ],
-            [
-                [
-                    1,
-                    "onClick"
                 ]
             ]
         ],

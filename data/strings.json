@@ -31,7 +31,7 @@
     "+lKndX": "!!{username}!! changed the DM wallpaper to **!!{wallpaper_name}!!**.",
     "+o/sOj": "24-hour",
     "+tEu6+": "This server is marked as age-restricted because it contains adult content. Do you want to verify your age group to access this server?",
-    "+zqXZm": "[!!{username}!!](!!{username}!!) flagged",
+    "+zqXZm": "$[!!{username}!!]({{onUserClick}}) flagged",
     "//vhWl": "Hide user avatars",
     "/0Yndn": "Bundle includes !!{num}!! items",
     "/2ed39": "Allow direct messages",
